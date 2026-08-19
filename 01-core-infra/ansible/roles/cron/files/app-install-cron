@@ -9,13 +9,16 @@ TARGET_CRON="/etc/cron.d/01-core-infra"
 
 HOME_DIR="/home/aldo"
 USER="aldo"
-CORE_INFRA="__CORE_INFRA__"
+CORE_INFRA="/home/aldo/dev/01-core-infra"
 
-# Replace placeholders
+# Resolve template path first
+RESOLVED_TEMPLATE="${CRON_TEMPLATE/__CORE_INFRA__/$CORE_INFRA}"
+
+# Replace placeholders in content
 sed -e "s|__HOME__|$HOME_DIR|g" \
     -e "s|__USER__|$USER|g" \
     -e "s|__CORE_INFRA__|$CORE_INFRA|g" \
-    "$CRON_TEMPLATE" > "$TARGET_CRON"
+    "$RESOLVED_TEMPLATE" > "$TARGET_CRON"
 
 chmod 644 "$TARGET_CRON"
 

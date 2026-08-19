@@ -7,5 +7,8 @@ HOME=__HOME__
 # Healthcheck elke 15 minuten
 */15 * * * * __USER__ __CORE_INFRA__/healthcheck.sh >> __CORE_INFRA__/logs/health-cron.log 2>&1
 
+# Sensor daily summary om 00:05
+5 0 * * * __USER__ __CORE_INFRA__/sensors-daily-summary.sh
+
 # Backup dagelijks om 03:00
 0 3 * * * __USER__ __CORE_INFRA__/backup.sh >> __CORE_INFRA__/logs/backup-cron.log 2>&1

@@ -96,3 +96,24 @@
     name: toot
     state: present
   when: "'toot' in tools_sentries"
+
+- name: Install and configure lm-sensors
+  block:
+    - name: Install lm-sensors
+      apt:
+        name: lm-sensors
+        state: present
+      become: true
+
+    - name: Run sensors-detect non-interactively
+      shell: sensors-detect --auto
+      args:
+        creates: /etc/sensors.d/.sensors-detected
+      become: true
+
+    - name: Mark sensors as detected
+      file:
+        path: /etc/sensors.d/.sensors-detected
+        state: touch
+      become: true
+  when: "'lm_sensors' in tools_sentries"

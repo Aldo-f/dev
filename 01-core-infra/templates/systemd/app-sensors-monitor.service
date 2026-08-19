@@ -1,0 +1,23 @@
+[Unit]
+Description=Continuous Sensor Monitor (1-second interval)
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+User=aldo
+Group=aldo
+WorkingDirectory=/home/aldo/dev/01-core-infra
+ExecStart=/home/aldo/dev/01-core-infra/sensors-monitor.sh
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=sensors-monitor
+
+# Resource limits
+MemoryMax=50M
+CPUQuota=10%
+
+[Install]
+WantedBy=multi-user.target

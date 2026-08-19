@@ -4,6 +4,7 @@ systemd_services:
   - app-hermes-web
   - app-opencode-web
   - app-llama-server
+  - app-sensors-monitor
 
 sudoers_file: "/etc/sudoers.d/01-core-infra-deploy"
 

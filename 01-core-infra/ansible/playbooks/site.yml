@@ -39,6 +39,7 @@
       - freellmapi
       - script_google
       - tailscale
+      - lm_sensors
   pre_tasks:
     - name: Ensure bun binary is in system PATH
       file:
@@ -74,3 +75,5 @@
       tags: [containers, infra]
     - role: "nextcloud-sync"
       tags: [nextcloud-sync, never]
+    - role: "05-media-storage-cleanup"
+      tags: [storage-cleanup, never]
