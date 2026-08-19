@@ -65,6 +65,10 @@ docs/theme/
 # Planning session files
 .omo/run-continuation/
 
+# Hermes runtime / session artifacts (created on the host — never commit)
+.hermes/
+plans/
+
 # Backup files
 *.bak
 

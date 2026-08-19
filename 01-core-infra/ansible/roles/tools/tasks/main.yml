@@ -20,19 +20,6 @@
   become_user: aldo
   when: "'nvm' in tools_sentries"
 
-- name: Install LM Studio
-  shell: curl -fsSL https://lmstudio.ai/install.sh | bash
-  args:
-    creates: /home/aldo/.lmstudio/bin/lms
-  when: "'lmstudio' in tools_sentries"
-
-- name: Enable and start LM Studio daemon
-  command: "/home/aldo/.lmstudio/bin/lms {{ item }}"
-  become: true
-  become_user: aldo
-  loop: [link enable, daemon up]
-  when: "'lmstudio' in tools_sentries and not container_test"
-
 - name: Install nodejs
   shell: curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - && sudo apt-get install -y nodejs
   args:

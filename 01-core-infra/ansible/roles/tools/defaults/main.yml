@@ -18,8 +18,6 @@ tools_sentries:
     command: llama-server --version
   locate:
     command: locate --version
-  lmstudio:
-    command: lms -v
   fish:
     command: fish -v
   hermes:

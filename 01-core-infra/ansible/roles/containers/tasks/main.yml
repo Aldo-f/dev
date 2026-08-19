@@ -17,6 +17,15 @@
   ignore_errors: true
   changed_when: false
 
+- name: Compute the list of services to deploy
+  set_fact:
+    _target_services: >-
+      {{ container_services
+         | selectattr('name', 'in', limit_services)
+         | list
+         if (limit_services | length > 0)
+         else container_services }}
+
 - name: Ensure runtime directories exist for container services
   file:
     path: "{{ item.runtime_dir }}"
@@ -24,7 +33,9 @@
     owner: aldo
     group: aldo
     mode: '0755'
-  loop: "{{ container_services }}"
+  loop: "{{ _target_services }}"
+  loop_control:
+    label: "{{ item.name }}"
 
 - name: Copy docker-compose template to runtime target
   copy:
@@ -33,7 +44,9 @@
     owner: aldo
     group: aldo
     mode: '0644'
-  loop: "{{ container_services }}"
+  loop: "{{ _target_services }}"
+  loop_control:
+    label: "{{ item.name }}"
 
 - name: Generate .env for nextcloud from vault credentials
   template:
@@ -42,7 +55,9 @@
     owner: aldo
     group: aldo
     mode: '0600'
-  when: nextcloud_runtime_dir is defined
+  when:
+    - nextcloud_runtime_dir is defined
+    - limit_services | length == 0 or '05-media-nextcloud' in limit_services
   no_log: true
 
 - name: Pull images and start services via Docker Compose v2
@@ -51,7 +66,9 @@
     chdir: "{{ item.runtime_dir }}"
   become_user: aldo
   become: true
-  loop: "{{ container_services }}"
+  loop: "{{ _target_services }}"
+  loop_control:
+    label: "{{ item.name }}"
 
 # ---- Traefik route sync ----
 - name: Sync Traefik config files to runtime

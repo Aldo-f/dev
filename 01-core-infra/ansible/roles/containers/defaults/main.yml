@@ -5,6 +5,13 @@ traefik_runtime_dir: "/home/aldo/dev/04-network-traefik"
 # Per-component runtime dirs that need generated .env files
 nextcloud_runtime_dir: "/home/aldo/dev/01-core-infra/nextcloud"
 
+# Restrict the role to a single service when iterating.
+# Default: empty list = deploy every service (full behavior).
+# Override on the command line, e.g.:
+#   ansible-playbook ... -e "limit_services=[05-media-jellyfin]"
+#   ansible-playbook ... -e 'limit_services=["05-media-jellyfin","04-network-traefik"]'
+limit_services: []
+
 container_services:
   # 01-core-* -> in-repo runtime dirs
   - name: 01-core-portainer

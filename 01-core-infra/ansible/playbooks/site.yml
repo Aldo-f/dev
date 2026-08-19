@@ -16,6 +16,9 @@
     dev_home: "/home/aldo/dev"
     infra_dir: "/home/aldo/dev/01-core-infra"
     ansible_user: aldo
+    # When non-empty, restricts the containers role to the listed service names.
+    # Usage: ./install.sh -e 'limit_services=["05-media-jellyfin"]'
+    limit_services: []
     tools_sentries:
       - docker
       - nvm
@@ -28,7 +31,6 @@
       - ollama
       - llama-server
       - locate
-      - lmstudio
       - fish
       - hermes
       - opencode
@@ -46,16 +48,29 @@
         force: yes
       become: true
   roles:
-    - "base"
-    - "tools"
-    - "templates"
-    - "systemd"
-    - "llamacpp"
-    - "neo-brutalist-home"
-    - "manifest-repos"
-    - "cron"
-    - "hermes-skills"
-    - "freellmapi"
-    - "mesh_sync"
-    - "containers"
-    - "nextcloud-sync"
+    - role: "base"
+      tags: [base, never]
+    - role: "tools"
+      tags: [tools, never]
+    - role: "templates"
+      tags: [templates, never]
+    - role: "systemd"
+      tags: [systemd, never]
+    - role: "llamacpp"
+      tags: [llamacpp, never]
+    - role: "neo-brutalist-home"
+      tags: [neo-brutalist-home, never]
+    - role: "manifest-repos"
+      tags: [manifest-repos, never]
+    - role: "cron"
+      tags: [cron, never]
+    - role: "hermes-skills"
+      tags: [hermes-skills, never]
+    - role: "freellmapi"
+      tags: [freellmapi, never]
+    - role: "mesh_sync"
+      tags: [mesh_sync, never]
+    - role: "containers"
+      tags: [containers, infra]
+    - role: "nextcloud-sync"
+      tags: [nextcloud-sync, never]

@@ -15,7 +15,7 @@
 - name: Ensure bash config has PATH for curl-installed tools
   lineinfile:
     path: /home/{{ ansible_user }}/.bashrc
-    line: 'export PATH="$HOME/.bun/bin:$HOME/fvm/bin:$HOME/.lmstudio/bin:$HOME/.local/bin:$HOME/.opencode/bin:$PATH"'
+    line: 'export PATH="$HOME/.bun/bin:$HOME/fvm/bin:$HOME/.local/bin:$HOME/.opencode/bin:$PATH"'
     create: yes
     insertafter: EOF
 
@@ -23,7 +23,7 @@
 - name: Ensure fish config has PATH for curl-installed tools
   lineinfile:
     path: /home/{{ ansible_user }}/.config/fish/config.fish
-    line: 'set -Ux PATH $HOME/.bun/bin $HOME/fvm/bin $HOME/.lmstudio/bin $HOME/.local/bin $HOME/.opencode/bin $PATH'
+    line: 'set -Ux PATH $HOME/.bun/bin $HOME/fvm/bin $HOME/.local/bin $HOME/.opencode/bin $PATH'
     create: yes
     insertafter: EOF
 
