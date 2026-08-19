@@ -1,0 +1,60 @@
+tools_sentries:
+
+  node:
+    command: node -v
+  nvm:
+    command: nvm --version
+  npm:
+    command: npm -v
+  pnpm:
+    command: pnpm -v
+  bun:
+    command: bun -v
+  fvm:
+    command: fvm -v
+  ollama:
+    command: ollama -v
+  llama-server:
+    command: llama-server --version
+  locate:
+    command: locate --version
+  lmstudio:
+    command: lms -v
+  fish:
+    command: fish -v
+  hermes:
+    command: hermes -v
+  opencode:
+    command: opencode -v
+  omo:
+    command: omo --version
+  tree:
+    command: tree -v
+  tailscale:
+    command: tailscale -v
+  spec_kit:
+    command: '/home/aldo/.local/spec-kit-venv/bin/specify --version'
+  github:
+    command: "gh --version"
+  docker:
+    command: "docker -v"
+  ansible:
+    command: "ansible --version"
+  traefik:
+    command: "traefik version"
+  sqlite3:
+    command: "sqlite3 --version"
+  terraform:
+    command: "terraform -version"
+  kubectl:
+    command: "kubectl version --client"
+  gcloud:
+    command: "gcloud --version"
+  script_google:
+    command: "npm view @google/clasp version"
+  freellmapi:
+    command: "docker ps --format '{{.Names}}' | grep -q freellmapi && echo 'running' || echo 'not running'"
+  mem0:
+    command: "python3 -c 'import mem0; print(mem0.__version__)' 2>/dev/null || echo 'not installed'"
+  toot:
+    command: "toot --version"
