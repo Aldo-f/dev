@@ -16,6 +16,12 @@ services:
       - /mnt/HDD1/media/tv:/tv
     networks:
       - traefik_net
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS -m 5 http://127.0.0.1:32400/web/index.html >/dev/null || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 120s
 
 networks:
   traefik_net:

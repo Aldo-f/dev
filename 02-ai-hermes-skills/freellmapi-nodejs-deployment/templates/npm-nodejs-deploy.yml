@@ -1,0 +1,44 @@
+# Node.js Deployment Ansible Task Template
+
+- name: Ensure correct ownership of Node.js project directory
+  file:
+    path: "{{ nodejs_project_dir }}"
+    owner: "{{ deploy_user }}"
+    group: "{{ deploy_group }}"
+    recurse: yes
+  become: true
+
+- name: Install Node.js dependencies
+  become: false
+  become_user: "{{ deploy_user }}"
+  shell: |
+    export NVM_DIR="{{ nvm_dir }}"
+    source "$NVM_DIR/nvm.sh"
+    cd "{{ nodejs_project_dir }}"
+    npm config set unsafe-perm true
+    npm ci --legacy-peer-deps
+  args:
+    executable: /bin/bash
+  environment:
+    NVM_DIR: "{{ nvm_dir }}"
+    PATH: "{{ nvm_dir }}/versions/node/{{ node_version }}/bin:{{ nvm_dir }}:$PATH"
+
+- name: Build Node.js application
+  become: false
+  become_user: "{{ deploy_user }}"
+  shell: |
+    export NVM_DIR="{{ nvm_dir }}"
+    source "$NVM_DIR/nvm.sh"
+    cd "{{ nodejs_project_dir }}"
+    npm run build
+  args:
+    executable: /bin/bash
+  environment:
+    NVM_DIR: "{{ nvm_dir }}"
+    PATH: "{{ nvm_dir }}/versions/node/{{ node_version }}/bin:{{ nvm_dir }}:$PATH"
+  # Optional: only run if build artifacts don't exist or source changed
+  # creates: "{{ nodejs_project_dir }}/dist"
+
+- name: Start Node.js application via PM2 or systemd
+  become: true
+  # Add your service start/restart logic here

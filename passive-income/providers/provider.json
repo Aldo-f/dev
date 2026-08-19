@@ -1,0 +1,46 @@
+{
+  "providers": {
+    "honeygain": {
+      "enabled": false,
+      "image": "honeygain/honeygain:latest",
+      "config_schema": {
+        "API_KEY": "string",
+        "MAX_BANDWIDTH_MBPS": "integer"
+      },
+      "default_config": {
+        "API_KEY": "YOUR_API_KEY",
+        "MAX_BANDWIDTH_MBPS": 5
+      }
+    },
+    "earnapp": {
+      "enabled": false,
+      "image": "earnapp/earnapp:latest",
+      "config_schema": {
+        "DEVICE_ID": "string",
+        "ENABLED_DAYS": "integer"
+      },
+      "default_config": {
+        "DEVICE_ID": "YOUR_DEVICE_ID",
+        "ENABLED_DAYS": 30
+      }
+    },
+    "iproyalpawns": {
+      "enabled": false,
+      "image": "iproyal/iproyalpawns:latest",
+      "config_schema": {
+        "API_KEY": "string"
+      },
+      "default_config": {
+        "API_KEY": "YOUR_API_KEY"
+      }
+    },
+    "packetstream": {
+      "enabled": false,
+      "image": "packetstream/packetstream:latest"
+    },
+    "peer2profit": {
+      "enabled": false,
+      "image": "peer2profit/peer2profit:latest"
+    }
+  }
+}

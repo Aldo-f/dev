@@ -1,0 +1,57 @@
+# Homepage Bookmarks Configuration
+# Quick access links for aldof.duckdns.org
+
+- Development:
+    - GitHub:
+        href: https://github.com/Aldo-f
+        icon: si-github
+    - Docker Hub:
+        href: https://hub.docker.com/u/aldof
+        icon: si-docker
+    - Homepage Docs:
+        href: https://gethomepage.dev
+        icon: si-homeassistant
+
+- Monitoring:
+    - Uptime Kuma:
+        href: https://uptime.aldof.duckdns.org
+        icon: si-uptimekuma
+    - Grafana:
+        href: https://grafana.aldof.duckdns.org
+        icon: si-grafana
+    - Prometheus:
+        href: https://prometheus.aldof.duckdns.org
+        icon: si-prometheus
+
+- Documentation:
+    - Ansible Docs:
+        href: https://docs.ansible.com
+        icon: si-ansible
+    - Traefik Docs:
+        href: https://doc.traefik.io/traefik/
+        icon: si-traefik
+    - Docker Compose:
+        href: https://docs.docker.com/compose/
+        icon: si-docker
+
+- Utilities:
+    - Have I Been Pwned:
+        href: https://haveibeenpwned.com
+        icon: si-haveibeenpwned
+    - SSL Labs Test:
+        href: https://www.ssllabs.com/ssltest/
+        icon: si-security
+    - DNS Checker:
+        href: https://dnschecker.org
+        icon: si-cloudflare
+
+- AI Tools:
+    - Ollama:
+        href: https://ollama.ai
+        icon: si-ollama
+    - Hugging Face:
+        href: https://huggingface.co
+        icon: si-huggingface
+    - LM Studio:
+        href: https://lmstudio.ai
+        icon: si-lmstudio

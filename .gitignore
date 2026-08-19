@@ -14,10 +14,6 @@ __CORE_INFRA__/
 # ============================================
 # Sibling git repositories (separate projects)
 # ============================================
-02-*/
-04-*/
-06-*/
-llama.cpp/
 
 # ============================================
 # Environment & secrets
@@ -79,3 +75,10 @@ Thumbs.db
 # Git subdirectory .git files (prevent confusion)
 # ============================================
 **/.git/
+
+# Runtime & Sensitive
+**/db/
+**/letsencrypt/
+acme.json
+llama.cpp/build/
+**/redis/

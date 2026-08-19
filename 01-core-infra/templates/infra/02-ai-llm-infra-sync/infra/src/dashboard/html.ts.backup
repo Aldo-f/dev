@@ -1,0 +1,267 @@
+export interface DashboardContext {
+  providers: Record<string, any[]>;
+  sync_metadata: {
+    total_keys: number;
+    providers_active: string[];
+    sources_synced: Array<{ file: string; fmt: string; exists: boolean; last_ok: string | null }>;
+  };
+  last_sync: string;
+  last_sync_duration_ms: number;
+  last_sync_result: string;
+  cron: {
+    enabled: boolean;
+    schedule: string;
+    last_run: string | null;
+    next_run: string | null;
+  };
+  history: Array<{
+    timestamp: string;
+    duration_ms: number;
+    providers: number;
+    keys: number;
+    result: string;
+    sources_ok: number;
+    sources_total: number;
+  }>;
+  version: string;
+}
+
+function fmtTime(iso: string | null | undefined): string {
+  if (!iso) return '—';
+  const d = new Date(iso);
+  const ago = Math.floor((Date.now() - d.getTime()) / 1000);
+  if (ago < 60) return `${ago}s ago`;
+  if (ago < 3600) return `${Math.floor(ago / 60)}m ago`;
+  if (ago < 86400) return `${Math.floor(ago / 3600)}h ago`;
+  return d.toLocaleDateString();
+}
+
+function fmtDuration(ms: number): string {
+  if (ms < 1000) return `${ms}ms`;
+  return `${(ms / 1000).toFixed(2)}s`;
+}
+
+function escapeHtml(s: string): string {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+export function renderDashboard(ctx: DashboardContext): string {
+  const provRows = Object.entries(ctx.providers)
+    .sort(([a], [b]) => a.localeCompare(b))
+    .map(([name, keys]) => {
+      const active = keys.length > 0;
+      const dot = active ? '🟢' : '⚪';
+      const sources = keys.map((k: any) => k.source || '?').filter((s: string, i: number, a: string[]) => a.indexOf(s) === i);
+      return `<tr>
+        <td class="prov-name">${dot} ${escapeHtml(name)}</td>
+        <td class="prov-keys">${keys.length}</td>
+        <td class="prov-src">${sources.map((s: string) => escapeHtml(s)).join(', ')}</td>
+        <td class="prov-actions">
+          <button class="btn-sm btn-key-add" data-prov="${escapeHtml(name)}">+</button>
+          <button class="btn-sm btn-key-rm" data-prov="${escapeHtml(name)}">−</button>
+        </td>
+      </tr>`;
+    }).join('\n');
+
+  const srcRows = (ctx.sync_metadata.sources_synced || []).map((s) => {
+    const dot = s.exists ? '✅' : '❌';
+    const file = s.file.replace(process.env.HOME || '', '~');
+    return `<tr><td>${dot} ${escapeHtml(file)}</td><td>${s.fmt}</td><td>${s.exists ? 'present' : 'missing'}</td><td>${fmtTime(s.last_ok)}</td></tr>`;
+  }).join('\n');
+
+  const histRows = ctx.history.slice(0, 15).map((h) => {
+    const icon = h.result === 'ok' ? '✅' : '❌';
+    return `<tr>
+      <td>${fmtTime(h.timestamp)}</td>
+      <td>${icon}</td>
+      <td>${h.providers}</td>
+      <td>${h.keys}</td>
+      <td>${fmtDuration(h.duration_ms)}</td>
+    </tr>`;
+  }).join('\n');
+
+  const totalSources = ctx.sync_metadata.sources_synced.length;
+  const healthySources = ctx.sync_metadata.sources_synced.filter((s) => s.exists).length;
+  const syncIcon = ctx.last_sync_result === 'ok' ? '✅' : '❌';
+  const cronChecked = ctx.cron?.enabled ? 'checked' : '';
+  const lastCron = ctx.cron?.last_run ? fmtTime(ctx.cron.last_run) : '—';
+  const nextCron = ctx.cron?.enabled && ctx.cron?.next_run ? fmtTime(ctx.cron.next_run) : '—';
+  const totalKeys = ctx.providers ? Object.values(ctx.providers).flat().length : 0;
+  const totalProvs = Object.keys(ctx.providers || {}).length;
+  const activeProvs = Object.values(ctx.providers || {}).filter((k: any[]) => k.length > 0).length;
+
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LLM Infra Sync Dashboard</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0d1117; color: #c9d1d9; padding: 1.5rem; }
+    h1 { font-size: 1.6rem; margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem; }
+    h2 { font-size: 1.1rem; margin-bottom: 0.5rem; color: #58a6ff; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin-bottom: 1.5rem; }
+    .card { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 1rem; }
+    .card h3 { font-size: 0.85rem; color: #8b949e; text-transform: uppercase; letter-spacing: 0.05em; }
+    .card .value { font-size: 2rem; font-weight: 700; margin-top: 0.3rem; }
+    .card .sub { font-size: 0.85rem; color: #8b949e; margin-top: 0.2rem; }
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 1.5rem; }
+    @media (max-width: 800px) { .grid-2 { grid-template-columns: 1fr; } }
+    table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+    th, td { padding: 0.5rem 0.6rem; text-align: left; border-bottom: 1px solid #21262d; }
+    th { color: #8b949e; font-weight: 600; font-size: 0.8rem; text-transform: uppercase; }
+    .section { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 1rem; margin-bottom: 1.5rem; }
+    .section-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem; }
+    .btn { background: #238636; color: #fff; border: none; border-radius: 6px; padding: 0.5rem 1.2rem; cursor: pointer; font-size: 0.9rem; }
+    .btn:hover { background: #2ea043; }
+    .btn-sm { background: transparent; border: 1px solid #30363d; border-radius: 4px; color: #c9d1d9; cursor: pointer; padding: 0.2rem 0.5rem; font-size: 0.85rem; }
+    .btn-sm:hover { background: #21262d; }
+    .btn-danger { background: #da3633; }
+    .btn-danger:hover { background: #f85149; }
+    .btn-outline { background: transparent; border: 1px solid #30363d; color: #c9d1d9; }
+    .btn-outline:hover { background: #21262d; }
+    .success { color: #3fb950; }
+    .warning { color: #d29922; }
+    .error { color: #f85149; }
+    .prov-name { font-weight: 600; }
+    .prov-keys { text-align: center; }
+    .prov-actions { white-space: nowrap; text-align: right; }
+    .toggle-label { display: flex; align-items: center; gap: 0.5rem; cursor: pointer; }
+    .toggle { position: relative; width: 44px; height: 24px; background: #21262d; border-radius: 12px; transition: 0.2s; }
+    .toggle.on { background: #238636; }
+    .toggle::after { content: ''; position: absolute; top: 3px; left: 3px; width: 18px; height: 18px; background: #fff; border-radius: 50%; transition: 0.2s; }
+    .toggle.on::after { left: 23px; }
+    .toast { position: fixed; bottom: 1.5rem; right: 1.5rem; background: #238636; color: #fff; padding: 0.75rem 1.2rem; border-radius: 8px; font-size: 0.9rem; opacity: 0; transition: opacity 0.3s; pointer-events: none; z-index: 100; }
+    .toast.show { opacity: 1; }
+    .toast.error { background: #da3633; }
+    .modal-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.6); z-index: 200; justify-content: center; align-items: center; }
+    .modal-overlay.open { display: flex; }
+    .modal { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 1.5rem; min-width: 360px; max-width: 90vw; }
+    .modal h3 { margin-bottom: 1rem; }
+    .modal label { display: block; margin-bottom: 0.3rem; color: #8b949e; font-size: 0.85rem; }
+    .modal input, .modal select, .modal textarea { width: 100%; margin-bottom: 0.75rem; padding: 0.5rem; background: #0d1117; border: 1px solid #30363d; border-radius: 4px; color: #c9d1d9; font-size: 0.9rem; }
+    .modal textarea { font-family: monospace; }
+    .modal-actions { display: flex; gap: 0.5rem; justify-content: flex-end; }
+    .badge { display: inline-block; padding: 0.15rem 0.45rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; }
+    .badge-ok { background: #1b3a1d; color: #3fb950; }
+    .badge-err { background: #3a1b1b; color: #f85149; }
+    .badge-warn { background: #3a2f1b; color: #d29922; }
+    .empty { color: #484f58; text-align: center; padding: 2rem; }
+    .flex { display: flex; gap: 0.5rem; align-items: center; }
+    .mb-1 { margin-bottom: 1rem; }
+    .mt-1 { margin-top: 1rem; }
+    .text-right { text-align: right; }
+    .schedule-select { background: #0d1117; border: 1px solid #30363d; border-radius: 4px; color: #c9d1d9; padding: 0.35rem; font-size: 0.85rem; }
+  </style>
+</head>
+<body>
+  <h1>🔐 LLM‑Infra‑Sync Dashboard <span style="font-size:0.8rem;color:#8b949e;font-weight:400;">v${escapeHtml(ctx.version)}</span></h1>
+
+  <!-- Cards -->
+  <div class="cards">
+    <div class="card"><h3>Total Keys</h3><div class="value">${totalKeys}</div></div>
+    <div class="card"><h3>Active Providers</h3><div class="value">${activeProvs}<span style="font-size:1rem;color:#8b949e;">/${totalProvs}</span></div></div>
+    <div class="card"><h3>Sources</h3><div class="value">${healthySources}<span style="font-size:1rem;color:#8b949e;">/${totalSources}</span></div><div class="sub">healthy</div></div>
+    <div class="card">
+      <h3>Last Sync</h3>
+      <div class="value" style="font-size:1.2rem;">${syncIcon} ${fmtTime(ctx.last_sync)}</div>
+      <div class="sub">${fmtDuration(ctx.last_sync_duration_ms)}</div>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <!-- Source Health -->
+    <div class="section">
+      <div class="section-header"><h2>📡 Source Health</h2></div>
+      <table>
+        <thead><tr><th>Source</th><th>Format</th><th>Status</th><th>Last OK</th></tr></thead>
+        <tbody>${srcRows || '<tr><td colspan="4" class="empty">No sources configured</td></tr>'}</tbody>
+      </table>
+    </div>
+
+    <!-- Sync Controls & Cron -->
+    <div class="section">
+      <div class="section-header"><h2>⚙️ Sync Controls</h2></div>
+      <div class="mb-1"><button class="btn" id="btn-sync-now">⟳ Sync Now</button></div>
+      <div id="sync-status" style="margin-bottom:0.75rem;"></div>
+
+      <div style="margin-bottom:0.75rem;">
+        <label class="toggle-label" style="justify-content:space-between;">
+          <span>Cron Sync</span>
+          <div class="toggle ${cronChecked ? 'on' : ''}" id="cron-toggle" data-enabled="${cronChecked ? 'true' : 'false'}"></div>
+        </label>
+      </div>
+      <div class="flex mb-1">
+        <span style="font-size:0.85rem;color:#8b949e;">Schedule:</span>
+        <select class="schedule-select" id="cron-schedule">
+          <option value="*/15 * * * *" ${ctx.cron?.schedule === '*/15 * * * *' ? 'selected' : ''}>Every 15 min</option>
+          <option value="*/30 * * * *" ${ctx.cron?.schedule === '*/30 * * * *' ? 'selected' : ''}>Every 30 min</option>
+          <option value="0 * * * *" ${ctx.cron?.schedule === '0 * * * *' ? 'selected' : ''}>Every hour</option>
+          <option value="0 */6 * * *" ${ctx.cron?.schedule === '0 */6 * * *' ? 'selected' : ''}>Every 6 hours</option>
+          <option value="0 0 * * *" ${ctx.cron?.schedule === '0 0 * * *' ? 'selected' : ''}>Daily</option>
+        </select>
+        <button class="btn-sm" id="btn-save-cron">Save</button>
+      </div>
+      <div style="font-size:0.85rem;color:#8b949e;">
+        Last cron: <span id="cron-last">${lastCron}</span> &middot;
+        Next: <span id="cron-next">${nextCron}</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Provider Table -->
+  <div class="section">
+    <div class="section-header">
+      <h2>📋 Providers</h2>
+      <button class="btn-sm" id="btn-add-key-global">+ Add Key</button>
+    </div>
+    <table>
+      <thead><tr><th>Provider</th><th>Keys</th><th>Sources</th><th></th></tr></thead>
+      <tbody id="provider-table-body">
+        ${provRows || '<tr><td colspan="4" class="empty">No providers yet</td></tr>'}
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Sync History -->
+  <div class="section">
+    <div class="section-header"><h2>📜 Sync History</h2></div>
+    <table>
+      <thead><tr><th>Time</th><th>Result</th><th>Providers</th><th>Keys</th><th>Duration</th></tr></thead>
+      <tbody id="history-body">
+        ${histRows || '<tr><td colspan="5" class="empty">No history yet</td></tr>'}
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Toast -->
+  <div class="toast" id="toast"></div>
+
+  <!-- Modal -->
+  <div class="modal-overlay" id="modal">
+    <div class="modal">
+      <h3 id="modal-title">Add API Key</h3>
+      <form id="modal-form">
+        <label for="modal-provider">Provider</label>
+        <input list="providers-list" id="modal-provider" placeholder="e.g. openrouter" required />
+        <datalist id="providers-list">
+          ${Object.keys(ctx.providers || {}).map((p) => `<option value="${escapeHtml(p)}">`).join('')}
+          <option value="openrouter"><option value="gemini"><option value="xai"><option value="anthropic">
+        </datalist>
+        <label for="modal-label">Label</label>
+        <input id="modal-label" placeholder="e.g. my-work-key" required />
+        <label for="modal-key">API Key</label>
+        <textarea id="modal-key" rows="3" placeholder="sk-..." required></textarea>
+        <div class="modal-actions">
+          <button type="button" class="btn-sm" id="modal-cancel">Cancel</button>
+          <button type="submit" class="btn" id="modal-confirm">Add Key</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script src="/static/dashboard.js"></script>
+</body>
+</html>`;
+}

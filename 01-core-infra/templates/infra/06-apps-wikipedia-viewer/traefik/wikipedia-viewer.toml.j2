@@ -1,0 +1,23 @@
+http:
+  routers:
+    wikipedia-viewer-http:
+      rule: "Host(`wiki.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+      service: wikipedia-viewer
+
+    wikipedia-viewer:
+      rule: "Host(`wiki.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: wikipedia-viewer
+      tls:
+        certResolver: myresolver
+
+  services:
+    wikipedia-viewer:
+      loadBalancer:
+        servers:
+          - url: "http://127.0.0.1:8082"

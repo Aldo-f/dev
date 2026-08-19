@@ -1,0 +1,36 @@
+# Working Freellmapi Traefik Routes Configuration
+# This is the exact configuration that successfully exposed freellm.aldof.duckdns.org
+# on 2026-08-01 after debugging Docker DNS and YAML structure issues.
+
+http:
+  routers:
+    freellm-http:
+      rule: "Host(`freellm.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      service: freellmapi
+
+    freellm:
+      rule: "Host(`freellm.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: freellmapi
+      tls:
+        certResolver: myresolver
+
+  services:
+    freellmapi:
+      loadBalancer:
+        servers:
+          # Using host IP instead of container name due to Docker DNS resolution
+          # failures with Traefik file provider. Container name 'freellmapi' on
+          # shared network '02-ai-freellm' did not resolve from Traefik container.
+          - url: "http://192.168.0.5:3001"
+
+  middlewares:
+    https-redirect:
+      redirectScheme:
+        scheme: https
+        permanent: true
+      # NOTE: Do NOT put 'rule' key here - it belongs in router definitions only.
+      # Putting rule in middleware causes: "field not found, node: rule"

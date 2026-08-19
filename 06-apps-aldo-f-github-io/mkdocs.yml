@@ -1,0 +1,55 @@
+site_name: Aldo Fieuw Documentation
+site_url: https://aldo-f.github.io
+repo_url: https://github.com/Aldo-f/Aldo-f.github.io
+repo_name: Aldo-f/Aldo-f.github.io
+docs_dir: docs
+site_dir: site
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.highlight
+    - search.share
+    - navigation.indexes
+    - toc.integrate
+    - navigation.top
+    - navigation.sections
+    - toc.follow
+    - toc.integrate
+plugins:
+  - search
+  - multirepo:
+      nav_repos:
+        - name: thuis
+          import_url: https://github.com/Aldo-f/thuis?branch=main
+          imports:
+            - docs
+        - name: thuis-v3
+          import_url: https://github.com/Aldo-f/thuis?branch=v3.0.0
+          imports:
+            - docs
+nav:
+  - Home: index.md
+  - Thuis:
+      - Thuis: thuis/docs/index.md
+      - 'Thuis v3.0.0': thuis-v3/docs/index.md
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Aldo-f
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/aldo-fieuw
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@AldoF
+markdown_extensions:
+  - toc:
+      permalink: true

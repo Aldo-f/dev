@@ -1,0 +1,642 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: homepage-config
+  namespace: homepage
+  labels:
+    app.kubernetes.io/name: homepage
+    app.kubernetes.io/component: config
+    app.kubernetes.io/part-of: homelab
+    app.kubernetes.io/managed-by: kustomize
+data:
+  settings.yaml: |
+    # Homepage configuration
+    title: "HomeLab Dashboard"
+    description: "Centralized access to all services"
+    theme: "dark"
+    layout:
+      "Home":
+        style: "row"
+        columns: 3
+      "Media":
+        style: "row"
+        columns: 3
+      "Infrastructure":
+        style: "row"
+        columns: 3
+    header: true
+    footer: '<p>HomeLab Dashboard | <a href="https://github.com/gethomepage/homepage" target="_blank">Homepage</a></p>'
+    color: "slate"
+    providers:
+      openweathermap: "your-api-key-here"
+    # Custom CSS for Neo-Brutalist theme
+    customCss: "/app/config/custom.css"
+  
+  services.yaml: |
+    # Services configuration - auto-discovered from Kubernetes
+    - name: "Media"
+      items:
+        - name: "Plex"
+          icon: "plex.png"
+          href: "https://plex.aldof.duckdns.org"
+          description: "Media Server"
+          group: "Media"
+        - name: "qBittorrent"
+          icon: "qbittorrent.png"
+          href: "https://qbittorrent.aldof.duckdns.org"
+          description: "Torrent Client"
+          group: "Media"
+    
+    - name: "Infrastructure"
+      items:
+        - name: "Traefik Dashboard"
+          icon: "traefik.png"
+          href: "https://traefik.aldof.duckdns.org"
+          description: "Reverse Proxy"
+          group: "Infrastructure"
+        - name: "Portainer"
+          icon: "portainer.png"
+          href: "https://portainer.aldof.duckdns.org"
+          description: "Container Management"
+          group: "Infrastructure"
+        - name: "Nextcloud"
+          icon: "nextcloud.png"
+          href: "https://cloud.aldof.duckdns.org"
+          description: "File Storage"
+          group: "Infrastructure"
+    
+    - name: "AI Services"
+      items:
+        - name: "FreeLLM API"
+          icon: "openai.png"
+          href: "https://freellm.aldof.duckdns.org"
+          description: "LLM Router"
+          group: "AI"
+  
+  kubernetes.yaml: |
+    # Kubernetes integration mode: cluster
+    mode: cluster
+    # Namespace to discover resources from (empty = all namespaces)
+    namespace: ""
+    # Label selector for services to include
+    labelSelector: "homepage.enable=true"
+    # Annotation to override display name
+    nameAnnotation: "homepage.name"
+    # Annotation to override description
+    descriptionAnnotation: "homepage.description"
+    # Annotation for icon
+    iconAnnotation: "homepage.icon"
+    # Annotation for group
+    groupAnnotation: "homepage.group"
+    # Ingress class to filter
+    ingressClass: "traefik"
+    # Skip TLS verification for internal endpoints
+    skipTLSVerify: true
+  
+  custom.css: |
+    /* ==========================================================================
+       Neo-Brutalist Custom CSS for Homepage
+       ========================================================================== */
+    
+    /* CSS Custom Properties - Design Tokens */
+    :root {
+      /* Core Colors */
+      --nb-bg: #f5f5f0;
+      --nb-bg-card: #ffffff;
+      --nb-fg: #000000;
+      --nb-fg-muted: #555555;
+      --nb-border: #000000;
+      --nb-border-thick: 4px;
+      --nb-border-med: 3px;
+      --nb-border-thin: 2px;
+      
+      /* Accent Colors */
+      --nb-accent: #000000;
+      --nb-accent-hover: #ffffff;
+      --nb-accent-bg: #000000;
+      --nb-accent-fg: #ffffff;
+      
+      /* Warning/Critical Colors */
+      --nb-warning: #cc6600;
+      --nb-warning-bg: #fff3e0;
+      --nb-critical: #cc0000;
+      --nb-critical-bg: #ffe0e0;
+      
+      /* Typography */
+      --nb-font-family: 'Courier New', Courier, monospace;
+      --nb-font-size-xs: 0.75rem;
+      --nb-font-size-sm: 0.875rem;
+      --nb-font-size-base: 1rem;
+      --nb-font-size-lg: 1.125rem;
+      --nb-font-size-xl: 1.5rem;
+      --nb-font-size-2xl: 2rem;
+      --nb-font-size-3xl: 3rem;
+      
+      /* Spacing */
+      --nb-space-xs: 0.25rem;
+      --nb-space-sm: 0.5rem;
+      --nb-space-md: 1rem;
+      --nb-space-lg: 1.5rem;
+      --nb-space-xl: 2rem;
+      
+      /* Layout */
+      --nb-radius: 0;
+      --nb-shadow: 4px 4px 0 0 var(--nb-border);
+      --nb-shadow-sm: 2px 2px 0 0 var(--nb-border);
+      
+      /* Transitions */
+      --nb-transition: all 0.1s ease;
+    }
+    
+    /* Dark Mode Override */
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --nb-bg: #1a1a1a;
+        --nb-bg-card: #242424;
+        --nb-fg: #ffffff;
+        --nb-fg-muted: #aaaaaa;
+        --nb-border: #ffffff;
+        --nb-accent: #ffffff;
+        --nb-accent-hover: #000000;
+        --nb-accent-bg: #ffffff;
+        --nb-accent-fg: #000000;
+        --nb-warning: #ff9900;
+        --nb-warning-bg: #332200;
+        --nb-critical: #ff4444;
+        --nb-critical-bg: #330000;
+      }
+    }
+    
+    /* ==========================================================================
+       Base Styles
+       ========================================================================== */
+    
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    
+    html {
+      font-size: 16px;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    
+    body {
+      font-family: var(--nb-font-family);
+      background-color: var(--nb-bg);
+      color: var(--nb-fg);
+      line-height: 1.6;
+      min-height: 100vh;
+      padding: var(--nb-space-lg);
+    }
+    
+    /* ==========================================================================
+       Typography
+       ========================================================================== */
+    
+    h1, h2, h3, h4, h5, h6 {
+      font-family: var(--nb-font-family);
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--nb-fg);
+    }
+    
+    h1 {
+      font-size: var(--nb-font-size-2xl);
+      border-bottom: var(--nb-border-thick) solid var(--nb-border);
+      padding-bottom: var(--nb-space-sm);
+      margin-bottom: var(--nb-space-lg);
+    }
+    
+    h2 {
+      font-size: var(--nb-font-size-xl);
+      border: var(--nb-border-med) solid var(--nb-border);
+      padding: var(--nb-space-sm) var(--nb-space-md);
+      margin: var(--nb-space-xl) 0 var(--nb-space-md) 0;
+      background: var(--nb-bg-card);
+    }
+    
+    h3 {
+      font-size: var(--nb-font-size-lg);
+      margin: var(--nb-space-lg) 0 var(--nb-space-sm) 0;
+    }
+    
+    /* ==========================================================================
+       Layout Components
+       ========================================================================== */
+    
+    header {
+      border: var(--nb-border-med) solid var(--nb-border);
+      padding: var(--nb-space-lg);
+      margin-bottom: var(--nb-space-xl);
+      background: var(--nb-bg-card);
+      box-shadow: var(--nb-shadow);
+    }
+    
+    header h1 {
+      border: none;
+      padding: 0;
+      margin: 0;
+    }
+    
+    header p {
+      margin-top: var(--nb-space-sm);
+      font-size: var(--nb-font-size-sm);
+      color: var(--nb-fg-muted);
+    }
+    
+    main {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: var(--nb-space-lg);
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    @media (max-width: 768px) {
+      main {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    section {
+      border: var(--nb-border-med) solid var(--nb-border);
+      padding: var(--nb-space-lg);
+      background: var(--nb-bg-card);
+      box-shadow: var(--nb-shadow);
+      transition: var(--nb-transition);
+    }
+    
+    section:hover {
+      transform: translate(-2px, -2px);
+      box-shadow: 6px 6px 0 0 var(--nb-border);
+    }
+    
+    footer {
+      border: var(--nb-border-med) solid var(--nb-border);
+      padding: var(--nb-space-lg);
+      margin-top: var(--nb-space-xl);
+      background: var(--nb-bg-card);
+      text-align: center;
+      font-size: var(--nb-font-size-sm);
+    }
+    
+    /* ==========================================================================
+       Metrics Grid
+       ========================================================================== */
+    
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: var(--nb-space-md);
+    }
+    
+    .metric-card {
+      border: var(--nb-border-med) solid var(--nb-border);
+      padding: var(--nb-space-md);
+      background: var(--nb-bg);
+      box-shadow: var(--nb-shadow-sm);
+      transition: var(--nb-transition);
+    }
+    
+    .metric-card:hover {
+      transform: translate(-2px, -2px);
+      box-shadow: var(--nb-shadow);
+    }
+    
+    .metric-card .label {
+      font-size: var(--nb-font-size-xs);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--nb-fg-muted);
+      margin-bottom: var(--nb-space-xs);
+    }
+    
+    .metric-card .value {
+      font-size: var(--nb-font-size-xl);
+      font-weight: bold;
+      margin: var(--nb-space-xs) 0;
+      color: var(--nb-fg);
+    }
+    
+    .metric-card .sub {
+      font-size: var(--nb-font-size-sm);
+      color: var(--nb-fg-muted);
+    }
+    
+    .progress-bar {
+      border: var(--nb-border-thin) solid var(--nb-border);
+      height: 1rem;
+      background: var(--nb-bg-card);
+      margin-top: var(--nb-space-xs);
+      overflow: hidden;
+    }
+    
+    .progress-fill {
+      height: 100%;
+      background: var(--nb-accent);
+      transition: width 0.3s ease;
+    }
+    
+    .progress-fill.warning {
+      background: var(--nb-warning);
+    }
+    
+    .progress-fill.critical {
+      background: var(--nb-critical);
+    }
+    
+    /* ==========================================================================
+       Subsite List
+       ========================================================================== */
+    
+    .subsite-list {
+      list-style: none;
+    }
+    
+    .subsite-list li {
+      border-bottom: var(--nb-border-thin) solid var(--nb-border);
+      padding: var(--nb-space-md) 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      transition: var(--nb-transition);
+    }
+    
+    .subsite-list li:last-child {
+      border-bottom: none;
+    }
+    
+    .subsite-list li:hover {
+      background: var(--nb-bg);
+    }
+    
+    .subsite-list a {
+      color: var(--nb-fg);
+      text-decoration: underline;
+      font-weight: bold;
+      font-size: var(--nb-font-size-lg);
+      transition: var(--nb-transition);
+    }
+    
+    .subsite-list a:hover {
+      background: var(--nb-accent);
+      color: var(--nb-accent-fg);
+      text-decoration: none;
+    }
+    
+    /* ==========================================================================
+       Project Count
+       ========================================================================== */
+    
+    .project-count {
+      font-size: var(--nb-font-size-3xl);
+      font-weight: bold;
+      text-align: center;
+      border: var(--nb-border-thick) solid var(--nb-border);
+      padding: var(--nb-space-lg);
+      background: var(--nb-bg-card);
+      box-shadow: var(--nb-shadow);
+    }
+    
+    /* ==========================================================================
+       Service Cards (Homepage Specific)
+       ========================================================================== */
+    
+    .services-section {
+      margin-bottom: var(--nb-space-xl);
+    }
+    
+    .services-section h2 {
+      display: flex;
+      align-items: center;
+      gap: var(--nb-space-md);
+    }
+    
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: var(--nb-space-md);
+      margin-top: var(--nb-space-md);
+    }
+    
+    .service-card {
+      border: var(--nb-border-med) solid var(--nb-border);
+      padding: var(--nb-space-md);
+      background: var(--nb-bg-card);
+      box-shadow: var(--nb-shadow-sm);
+      text-decoration: none;
+      color: var(--nb-fg);
+      transition: var(--nb-transition);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    
+    .service-card:hover {
+      transform: translate(-3px, -3px);
+      box-shadow: 6px 6px 0 0 var(--nb-border);
+      background: var(--nb-accent);
+      color: var(--nb-accent-fg);
+    }
+    
+    .service-card .icon {
+      width: 64px;
+      height: 64px;
+      margin-bottom: var(--nb-space-sm);
+      image-rendering: pixelated;
+    }
+    
+    .service-card .name {
+      font-size: var(--nb-font-size-lg);
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: var(--nb-space-xs);
+    }
+    
+    .service-card .description {
+      font-size: var(--nb-font-size-sm);
+      color: var(--nb-fg-muted);
+    }
+    
+    .service-card:hover .description {
+      color: var(--nb-accent-fg);
+    }
+    
+    /* ==========================================================================
+       Buttons & Links
+       ========================================================================== */
+    
+    a {
+      color: var(--nb-fg);
+      text-decoration: underline;
+      transition: var(--nb-transition);
+    }
+    
+    a:hover {
+      background: var(--nb-accent);
+      color: var(--nb-accent-fg);
+      text-decoration: none;
+    }
+    
+    button {
+      font-family: var(--nb-font-family);
+      font-size: var(--nb-font-size-base);
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: var(--nb-space-sm) var(--nb-space-md);
+      border: var(--nb-border-med) solid var(--nb-border);
+      background: var(--nb-bg-card);
+      color: var(--nb-fg);
+      cursor: pointer;
+      transition: var(--nb-transition);
+      box-shadow: var(--nb-shadow-sm);
+    }
+    
+    button:hover {
+      transform: translate(-2px, -2px);
+      box-shadow: var(--nb-shadow);
+      background: var(--nb-accent);
+      color: var(--nb-accent-fg);
+    }
+    
+    button:active {
+      transform: translate(1px, 1px);
+      box-shadow: none;
+    }
+    
+    /* ==========================================================================
+       Utility Classes
+       ========================================================================== */
+    
+    .na {
+      color: var(--nb-fg-muted);
+      font-style: italic;
+    }
+    
+    .timestamp {
+      font-size: var(--nb-font-size-xs);
+      color: var(--nb-fg-muted);
+    }
+    
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+    
+    /* ==========================================================================
+       Print Styles
+       ========================================================================== */
+    
+    @media print {
+      body {
+        background: white;
+        padding: 0;
+      }
+      
+      section, header, footer, .service-card, .metric-card {
+        border: 1px solid #000;
+        box-shadow: none;
+        break-inside: avoid;
+      }
+      
+      .service-card:hover,
+      .metric-card:hover {
+        transform: none;
+        box-shadow: none;
+      }
+      
+      a {
+        text-decoration: none;
+        color: #000;
+      }
+      
+      a[href^="http"]::after {
+        content: " (" attr(href) ")";
+        font-size: 0.75em;
+        color: #666;
+      }
+    }
+    
+    /* ==========================================================================
+       Reduced Motion
+       ========================================================================== */
+    
+    @media (prefers-reduced-motion: reduce) {
+      *,
+      *::before,
+      *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+      }
+    }
+    
+    /* ==========================================================================
+       High Contrast Mode
+       ========================================================================== */
+    
+    @media (prefers-contrast: high) {
+      :root {
+        --nb-border-thick: 5px;
+        --nb-border-med: 4px;
+        --nb-border-thin: 3px;
+      }
+      
+      .service-card:hover,
+      .metric-card:hover {
+        outline: 3px solid var(--nb-border);
+        outline-offset: 2px;
+      }
+    }
+    
+    /* ==========================================================================
+       Focus Visible
+       ========================================================================== */
+    
+    :focus-visible {
+      outline: 3px solid var(--nb-border);
+      outline-offset: 2px;
+    }
+    
+    /* ==========================================================================
+       Scrollbar Styling
+       ========================================================================== */
+    
+    ::-webkit-scrollbar {
+      width: 12px;
+      height: 12px;
+    }
+    
+    ::-webkit-scrollbar-track {
+      background: var(--nb-bg);
+      border: var(--nb-border-thin) solid var(--nb-border);
+    }
+    
+    ::-webkit-scrollbar-thumb {
+      background: var(--nb-border);
+      border: var(--nb-border-thin) solid var(--nb-bg);
+    }
+    
+    ::-webkit-scrollbar-thumb:hover {
+      background: var(--nb-fg);
+    }
+    
+    ::-webkit-scrollbar-corner {
+      background: var(--nb-bg);
+      border: var(--nb-border-thin) solid var(--nb-border);
+    }

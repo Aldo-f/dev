@@ -16,6 +16,16 @@ services:
       - freellmapi-data:/app/server/data
       - ./.env.template:/app/server/.env:ro
     restart: unless-stopped
+    healthcheck:
+      test:
+        - CMD
+        - node
+        - -e
+        - "fetch('http://127.0.0.1:3001/api/ping').then((res) => { if (!res.ok) process.exit(1); }).catch(() => process.exit(1));"
+      interval: 30s
+      timeout: 5s
+      start_period: 30s
+      retries: 3
     networks:
       - traefik_net
 

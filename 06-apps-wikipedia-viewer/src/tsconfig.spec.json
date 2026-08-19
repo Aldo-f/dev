@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./out-tsc/spec",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "target": "es5",
+    "types": [
+      "jasmine",
+      "node"
+    ],
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "experimentalDecorators": true
+  },
+  "include": [
+    "test.ts",
+    "**/*.spec.ts"
+  ]
+}

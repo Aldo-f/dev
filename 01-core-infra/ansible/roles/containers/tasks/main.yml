@@ -35,6 +35,16 @@
     mode: '0644'
   loop: "{{ container_services }}"
 
+- name: Generate .env for nextcloud from vault credentials
+  template:
+    src: "nextcloud.env.j2"
+    dest: "{{ nextcloud_runtime_dir }}/.env"
+    owner: aldo
+    group: aldo
+    mode: '0600'
+  when: nextcloud_runtime_dir is defined
+  no_log: true
+
 - name: Pull images and start services via Docker Compose v2
   command: docker compose up -d --remove-orphans
   args:
@@ -44,11 +54,14 @@
   loop: "{{ container_services }}"
 
 # ---- Traefik route sync ----
-- name: Sync Traefik routes.yml template to runtime
+- name: Sync Traefik config files to runtime
   copy:
-    src: "{{ template_dir }}/infra/04-network-traefik/routes.yml"
-    dest: "{{ traefik_runtime_dir }}/routes.yml"
+    src: "{{ template_dir }}/infra/04-network-traefik/{{ item }}"
+    dest: "{{ traefik_runtime_dir }}/{{ item }}"
     owner: aldo
     group: aldo
     mode: '0644'
+  loop:
+    - routes.yml
+    - traefik.yml
   notify: reload traefik

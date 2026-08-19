@@ -1,0 +1,53 @@
+name: CI/CD
+
+on:
+  push:
+    branches: [main, v4/main]
+  pull_request:
+    branches: [main, v4/main]
+  release:
+    types: [published]
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "pnpm"
+      - run: pnpm install
+      - run: pnpm --filter @thuis/core lint
+      - run: pnpm --filter @thuis/core test --coverage --passWithNoTests
+      - run: pnpm --filter @thuis/core build
+      - run: pnpm --filter @thuis/web-app exec tsc -b --noEmit
+      - run: pnpm --filter @thuis/web-app exec vite build
+
+  build-electron:
+    needs: quality
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/v4/main'
+    strategy:
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "pnpm"
+      - run: pnpm install
+      - run: pnpm --filter @thuis/core build
+      - name: Package Electron
+        run: pnpm --filter @thuis/electron-app build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: electron-installer-${{ matrix.os }}
+          path: packages/electron-app/dist/

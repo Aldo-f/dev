@@ -1,5 +1,6 @@
 http:
   routers:
+    # Public services (no IP allowlist)
     freellm-http:
       rule: "Host(`freellm.aldof.duckdns.org`)"
       entryPoints:
@@ -7,20 +8,11 @@ http:
       middlewares:
         - https-redirect
       service: freellmapi
-
     freellm:
       rule: "Host(`freellm.aldof.duckdns.org`)"
       entryPoints:
         - websecure
       service: freellmapi
-      tls:
-        certResolver: myresolver
-
-    nextcloud:
-      rule: "Host(`cloud.aldof.duckdns.org`)"
-      entryPoints:
-        - websecure
-      service: nextcloud
       tls:
         certResolver: myresolver
 
@@ -31,15 +23,69 @@ http:
       middlewares:
         - https-redirect
       service: nextcloud
+    nextcloud:
+      rule: "Host(`cloud.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: nextcloud
+      tls:
+        certResolver: myresolver
 
+    vault-http:
+      rule: "Host(`vault.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+      service: vaultwarden
+    vault:
+      rule: "Host(`vault.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: vaultwarden
+      tls:
+        certResolver: myresolver
+
+    homepage-http:
+      rule: "Host(`aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+      service: homepage
+    homepage:
+      rule: "Host(`aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: homepage
+      tls:
+        certResolver: myresolver
+
+    # ── Neo‑Brutalist Home (neo‑brutalist‑home.aldof.duckdns.org) ──────────────────────
+    neo-brutalist-home-http:
+      rule: "Host(`neo-brutalist-home.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+      service: homepage
+    neo-brutalist-home:
+      rule: "Host(`neo-brutalist-home.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: homepage
+      tls:
+        certResolver: myresolver
+
+    # dev.* subdomains (with IP allowlist)
     hermes-http:
       rule: "Host(`web.hermes.dev.aldof.duckdns.org`)"
       entryPoints:
         - web
       middlewares:
         - https-redirect
+        - ipAllowList
       service: hermes-webui
-
     hermes:
       rule: "Host(`web.hermes.dev.aldof.duckdns.org`)"
       entryPoints:
@@ -47,13 +93,99 @@ http:
       service: hermes-webui
       tls:
         certResolver: myresolver
+      middlewares:
+        - ipAllowList
+
+    hermes-tq-http:
+      rule: "Host(`tq.hermes.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+        - ipAllowList
+      service: hermes-tq
+    hermes-tq:
+      rule: "Host(`tq.hermes.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: hermes-tq
+      tls:
+        certResolver: myresolver
+      middlewares:
+        - ipAllowList
+
+    # ── Portainer (portainer.dev.aldof.duckdns.org) ────────────────────────
+    portainer-http:
+      rule: "Host(`portainer.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+        - ipAllowList
+      service: portainer
+    portainer:
+      rule: "Host(`portainer.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: portainer
+      tls:
+        certResolver: myresolver
+      middlewares:
+        - ipAllowList
+    cockpit-http:
+      rule: "Host(`cockpit.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+        - ipAllowList
+      service: cockpit
+    cockpit:
+      rule: "Host(`cockpit.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: cockpit
+      tls:
+        certResolver: myresolver
+      middlewares:
+        - ipAllowList
+
+    # Media services (public)
+    qbittorrent-http:
+      rule: "Host(`qbittorrent.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+      service: qbittorrent
+    qbittorrent:
+      rule: "Host(`qbittorrent.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: qbittorrent
+      tls:
+        certResolver: myresolver
+    torrent-http:
+      rule: "Host(`torrent.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+      service: qbittorrent
+    torrent:
+      rule: "Host(`torrent.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: qbittorrent
+      tls:
+        certResolver: myresolver
 
   services:
     freellmapi:
       loadBalancer:
         servers:
-          - url: "http://freellmapi:3001"
-    
+          - url: "http://freellmapi-dev:3001"
+
     nextcloud:
       loadBalancer:
         servers:
@@ -62,10 +194,50 @@ http:
     hermes-webui:
       loadBalancer:
         servers:
-          - url: "http://192.168.0.5:8787"
+          - url: "http://hermes-webui:8787"
+
+    hermes-tq:
+      loadBalancer:
+        servers:
+          - url: "http://hermes-tq:8788"
+
+    homepage:
+      loadBalancer:
+        servers:
+          - url: "http://homepage:3000"
+
+    vaultwarden:
+      loadBalancer:
+        servers:
+          - url: "http://vaultwarden:80"
+
+    qbittorrent:
+      loadBalancer:
+        servers:
+          - url: "http://qbittorrent:8080"
+
+    portainer:
+      loadBalancer:
+        servers:
+          - url: "http://portainer:9000"
+
+    cockpit:
+      loadBalancer:
+        servers:
+          - url: "http://192.168.0.28:9090"
 
   middlewares:
     https-redirect:
       redirectScheme:
         scheme: https
         permanent: true
+    ipAllowList:
+      ipAllowList:
+        sourceRange:
+          - "192.168.0.0/16"
+          - "10.0.0.0/8"
+          - "172.16.0.0/12"
+          - "169.254.0.0/16"
+          - "127.0.0.0/8"
+          - "94.110.157.71/32"
+          - "212.123.0.227/32"  # bib de lrook (library) - no longer needed

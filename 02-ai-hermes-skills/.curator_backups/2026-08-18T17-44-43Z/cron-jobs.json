@@ -1,0 +1,56 @@
+{
+  "jobs": [
+    {
+      "id": "d35365c1e8a7",
+      "name": "download-vrt-shows",
+      "prompt": "Download VRT MAX shows using the URL list configuration. This job runs hourly.\n\n1. First check if the output directory is accessible: /mnt/HDD1/nextcloud/data/aldo/files/Seed/media/tv/\n2. If not accessible, use /workspace/06-apps-thuis-v4/media/ as fallback\n3. Run the download script with URL list support\n4. Skip already downloaded episodes (case-insensitive dedup)\n5. Log all activity\n\nShows to download:\n- FC De Kampioenen (completed - all 267 episodes across 21 seasons)\n- Flikken (weekly new episodes)\n- Flikken Maastricht (weekly new episodes)\n\nUse --profile 1080 for 1080p quality.\nIf a download fails (network error, server restart, etc.), it will be retried on the next hourly run.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": "download-vrt-shows.sh",
+      "no_agent": true,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 * * * *",
+        "display": "0 * * * *"
+      },
+      "schedule_display": "0 * * * *",
+      "repeat": {
+        "times": null,
+        "completed": 168
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-08-11T15:07:32.786203+00:00",
+      "next_run_at": "2026-08-18T20:00:00+02:00",
+      "last_run_at": "2026-08-18T19:00:52.960975+02:00",
+      "last_status": "error",
+      "last_error": "Script exited with code 1\nstderr:\ntee: /home/aldo/logs/download-20260818-190052.log: No such file or directory\nstdout:\nStarting VRT MAX download at Tue 18 Aug 19:00:52 CEST 2026",
+      "last_delivery_error": "unknown platform 'webui'",
+      "deliver": "origin",
+      "origin": {
+        "platform": "webui",
+        "chat_id": "20260810_162414_923661",
+        "chat_name": null,
+        "thread_id": null,
+        "user_id": null
+      },
+      "enabled_toolsets": [
+        "terminal"
+      ],
+      "workdir": "/workspace/06-apps-thuis-v4",
+      "fire_claim": null
+    }
+  ],
+  "updated_at": "2026-08-18T19:00:52.977822+02:00"
+}

@@ -12,9 +12,12 @@ services:
       - letsencrypt:/letsencrypt
     networks:
       - traefik_net
+      - docker-stack_core-network
 
 networks:
   traefik_net:
+    external: true
+  docker-stack_core-network:
     external: true
 
 volumes:

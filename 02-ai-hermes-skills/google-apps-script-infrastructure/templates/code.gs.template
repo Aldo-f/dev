@@ -1,0 +1,707 @@
+# Google Apps Script Script Templates
+
+## Template Files for script.google
+
+This directory contains template files for the Google Apps Script projects in the script.google repository.
+
+## Overview
+
+The script.google repository contains two main Google Apps Script projects:
+
+1. **FollowUpReminder** - Gmail reminder scripts for AWV dossier opvolging
+2. **LabelReminder** - Universal AI reminders via Gmail labels
+
+This directory provides starter templates and configurations for these scripts, following the repository's structure and coding conventions.
+
+## Templates
+
+### 1. Code.gs Template
+
+Base template for Google Apps Script main code files:
+
+```javascript
+/**
+ * Google Apps Script Main Template
+ * Author: [Your Name]
+ * Version: 1.0.0
+ * Date: $(date)
+ */
+
+// Global variables
+const CONFIG = {
+    DEBUG: false,
+    DRY_RUN: true,
+    MAX_THREADS: 50,
+    SEARCH_WINDOW_DAYS: 90,
+    API_KEY: '',
+    // Add other configuration options as needed
+};
+
+/**
+ * Main function - Entry point for trigger execution
+ */
+function main() {
+    try {
+        // Main execution logic here
+        Logger.log('Script started');
+        
+        // Add your main logic here
+        // Example: process reminders, send notifications, etc.
+        
+        Logger.log('Script completed successfully');
+    } catch (error) {
+        Logger.log('ERROR: ' + error.toString());
+        // Handle errors appropriately
+        // Send error notifications if needed
+    }
+}
+
+/**
+ * Utility function to log with timestamp
+ */
+function logWithTimestamp(message) {
+    const timestamp = new Date().toISOString();
+    Logger.log(`[${timestamp}] ${message}`);
+}
+
+/**
+ * Function to check if script is in dry-run mode
+ */
+function isDryRun() {
+    return CONFIG.DRY_RUN;
+}
+
+/**
+ * Function to format date for logging
+ */
+function formatDate(date) {
+    return date.toISOString().replace('T', ' ').substring(0, 19);
+}
+```
+
+### 2. Test.gs Template
+
+Base template for Google Apps Script test functions:
+
+```javascript
+/**
+ * Google Apps Script Test Template
+ * Author: [Your Name]
+ * Version: 1.0.0
+ */
+
+// Test configuration
+const TEST_CONFIG = {
+    TIMEOUT: 30000, // 30 seconds
+    MAX_TESTS: 100,
+    DRY_RUN: true,
+};
+
+/**
+ * Run all tests
+ */
+function testAll() {
+    const results = [];
+    
+    // Add your test functions here
+    results.push(testExampleFunction());
+    results.push(testConfiguration());
+    results.push(testHelperFunctions());
+    
+    // Summary
+    const passed = results.filter(r => r.passed).length;
+    const total = results.length;
+    
+    Logger.log(`Tests completed: ${passed}/${total} passed`);
+    
+    if (passed < total) {
+        Logger.log('Failed tests:');
+        results.forEach((result, index) => {
+            if (!result.passed) {
+                Logger.log(`  Test ${index + 1}: ${result.name} - ${result.error}`);
+            }
+        });
+    }
+    
+    return {
+        passed,
+        total,
+        results,
+        success: passed === total
+    };
+}
+
+/**
+ * Example test function template
+ */
+function testExampleFunction() {
+    try {
+        // Test logic here
+        const result = 'test result';
+        
+        if (result !== 'expected') {
+            throw new Error(`Expected 'expected', got '${result}'`);
+        }
+        
+        return {
+            name: 'Example Function Test',
+            passed: true,
+            error: null
+        };
+    } catch (error) {
+        return {
+            name: 'Example Function Test',
+            passed: false,
+            error: error.toString()
+        };
+    }
+}
+
+/**
+ * Test configuration
+ */
+function testConfiguration() {
+    try {
+        // Test configuration values
+        if (typeof CONFIG === 'undefined') {
+            throw new Error('CONFIG object not defined');
+        }
+        
+        if (CONFIG.DRY_RUN !== true && CONFIG.DRY_RUN !== false) {
+            throw new Error('DRY_RUN must be boolean');
+        }
+        
+        return {
+            name: 'Configuration Test',
+            passed: true,
+            error: null
+        };
+    } catch (error) {
+        return {
+            name: 'Configuration Test',
+            passed: false,
+            error: error.toString()
+        };
+    }
+}
+
+/**
+ * Test helper functions
+ */
+function testHelperFunctions() {
+    const results = [];
+    
+    // Test logWithTimestamp function
+    try {
+        // This would need to be called from the actual script
+        // For template purposes, we'll just test the function exists
+        if (typeof logWithTimestamp === 'function') {
+            results.push({
+                name: 'logWithTimestamp Function Test',
+                passed: true,
+                error: null
+            });
+        } else {
+            results.push({
+                name: 'logWithTimestamp Function Test',
+                passed: false,
+                error: 'Function not found'
+            });
+        }
+    } catch (error) {
+        results.push({
+            name: 'logWithTimestamp Function Test',
+            passed: false,
+            error: error.toString()
+        });
+    }
+    
+    // Test isDryRun function
+    try {
+        if (typeof isDryRun === 'function') {
+            const isDry = isDryRun();
+            if (typeof isDry !== 'boolean') {
+                throw new Error('isDryRun should return boolean');
+            }
+            
+            results.push({
+                name: 'isDryRun Function Test',
+                passed: true,
+                error: null
+            });
+        } else {
+            results.push({
+                name: 'isDryRun Function Test',
+                passed: false,
+                error: 'Function not found'
+            });
+        }
+    } catch (error) {
+        results.push({
+            name: 'isDryRun Function Test',
+            passed: false,
+            error: error.toString()
+        });
+    }
+    
+    return {
+        name: 'Helper Functions Test',
+        passed: results.every(r => r.passed),
+        error: results.some(r => !r.passed) ? 
+            results.filter(r => !r.passed).map(r => r.error).join('; ') : 
+            null,
+        results: results
+    };
+}
+
+/**
+ * Performance test template
+ */
+function testPerformance() {
+    const startTime = new Date().getTime();
+    
+    // Run test logic here
+    // This is a placeholder - implement actual performance test
+    
+    const endTime = new Date().getTime();
+    const duration = endTime - startTime;
+    
+    Logger.log(`Performance test completed in ${duration}ms`);
+    
+    return {
+        name: 'Performance Test',
+        duration,
+        passed: duration < TEST_CONFIG.TIMEOUT,
+        error: duration >= TEST_CONFIG.TIMEOUT ? 
+            `Test took ${duration}ms, exceeding ${TEST_CONFIG.TIMEOUT}ms limit` : 
+            null
+    };
+}
+```
+
+### 3. appsscript.json Template
+
+Basic template for Google Apps Script manifest:
+
+```json
+{
+  "timeZone": "Europe/Amsterdam",
+  "runtimeVersion": "V8",
+  "exceptionHandling": "PROPAGATE",
+  "apis": [
+    {
+      "name": "Script",
+      "version": "v1"
+    },
+    {
+      "name": "Gmail",
+      "version": "v1"
+    },
+    {
+      "name": "UrlFetch",
+      "version": "v1"
+    }
+  ],
+  "functionTriggers": [
+    {
+      "type": "ON_OPEN",
+      "description": "Execute when spreadsheet is opened",
+      "functionName": "onOpen"
+    }
+  ],
+  "timeDrivenTriggers": [],
+  "ssr": {
+    "access": "MY_OWNER"
+  }
+}
+```
+
+### 4. .clasp.json Template
+
+Template for clasp configuration:
+
+```json
+{
+  "projectId": "YOUR_PROJECT_NUMBER",
+  "scriptId": "YOUR_SCRIPT_ID",
+  "rootDir": ".",
+  "tokenPath": ".clasprc.json",
+  "skipConsent": false,
+  "oauth": {
+    "clientId": "YOUR_CLIENT_ID",
+    "clientSecret": "YOUR_CLIENT_SECRET",
+    "authUri": "https://accounts.google.com/o/oauth2/auth",
+    "tokenUri": "https://oauth2.googleapis.com/token",
+    "redirectUris": ["http://localhost"]
+  }
+}
+```
+
+### 5. AIProviders.gs Template
+
+Template for shared AI provider functionality:
+
+```javascript
+/**
+ * AIProviders Module
+ * Shared AI provider functionality for both FollowUpReminder and LabelReminder
+ */
+
+const AI_PROVIDERS = {
+    GEMINI: {
+        NAME: 'gemini',
+        ENDPOINT: 'https://generativelanguage.googleapis.com/v1beta/models',
+        API_KEY_ENV: 'GEMINI_API_KEY',
+        MODELS: {
+            DEFAULT: 'gemini-1.5-pro-latest',
+            FAST: 'gemini-1.5-flash-latest',
+            SMALL: 'gemini-1.5-flash-8b-latest'
+        }
+    },
+    FREELLM: {
+        NAME: 'freellm',
+        ENDPOINT: 'https://api.freellm.ai/v1',
+        API_KEY_ENV: 'FREELLM_API_KEY',
+        MODELS: {
+            DEFAULT: 'gpt-4o-mini',
+            FAST: 'llama3.1-8b-instruct',
+            SMALL: 'qwen2.5-3b-instruct'
+        }
+    }
+};
+
+/**
+ * Get AI provider instance
+ */
+function getAIProvider(providerName = 'GEMINI', modelName = null) {
+    const provider = AI_PROVIDERS[providerName];
+    if (!provider) {
+        throw new Error(`Unknown AI provider: ${providerName}`);
+    }
+    
+    const model = modelName || provider.MODELS.DEFAULT;
+    
+    return {
+        name: provider.NAME,
+        model: model,
+        endpoint: provider.ENDPOINT,
+        apiKey: PropertiesService.getScriptProperties().getProperty(provider.API_KEY_ENV),
+        
+        async generateContent(prompt, options = {}) {
+            const url = `${this.endpoint}:${model}`;
+            const payload = {
+                contents: [{
+                    parts: [{
+                        text: prompt
+                    }]
+                }],
+                generationConfig: {
+                    temperature: options.temperature || 0.7,
+                    maxOutputTokens: options.maxTokens || 1024,
+                    topP: options.topP || 0.9,
+                    topK: options.topK || 40
+                }
+            };
+            
+            const response = UrlFetchApp.fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'X-Goog-Api-Key': this.apiKey
+                },
+                payload: JSON.stringify(payload),
+                muteHttpExceptions: true
+            });
+            
+            if (response.getResponseCode() !== 200) {
+                throw new Error(`API request failed: ${response.getContentText()}`);
+            }
+            
+            const result = JSON.parse(response.getContentText());
+            return result.candidates?.[0]?.content?.parts?.[0]?.text || null;
+        },
+        
+        async streamContent(prompt, options = {}) {
+            // Implementation for streaming responses
+            // This would be used for real-time AI interactions
+            throw new Error('Streaming not implemented yet');
+        }
+    };
+}
+
+/**
+ * Get AI response with fallback providers
+ */
+function getAIResponse(prompt, options = {}) {
+    const preferredProviders = ['GEMINI', 'FREELLM'];
+    let lastError = null;
+    
+    for (const providerName of preferredProviders) {
+        try {
+            const provider = getAIProvider(providerName, options.model);
+            const response = await provider.generateContent(prompt, options);
+            
+            if (response) {
+                return {
+                    response,
+                    provider: providerName,
+                    model: provider.model,
+                    success: true
+                };
+            }
+        } catch (error) {
+            lastError = error;
+            Logger.log(`Provider ${providerName} failed: ${error.toString()}`);
+            continue;
+        }
+    }
+    
+    return {
+        response: null,
+        provider: null,
+        model: null,
+        success: false,
+        error: lastError ? lastError.toString() : 'All providers failed'
+    };
+}
+```
+
+### 6. scripts/validate.js Template
+
+Validation script template for checking script integrity:
+
+```javascript
+/**
+ * Script Validation Utility
+ * Validates Google Apps Script project integrity and syntax
+ */
+
+const VALIDATION_CONFIG = {
+    MAX_FILE_SIZE: 1024 * 1024, // 1MB
+    ALLOWED_EXTENSIONS: ['.gs', '.js', '.json'],
+    REQUIRED_FILES: ['Code.gs', 'Test.gs', 'appsscript.json']
+};
+
+/**
+ * Validate script project structure
+ */
+function validateProjectStructure() {
+    const files = FileList.getFiles();
+    const errors = [];
+    const warnings = [];
+    
+    // Check required files
+    for (const requiredFile of VALIDATION_CONFIG.REQUIRED_FILES) {
+        let found = false;
+        while (files.hasNext()) {
+            const file = files.next();
+            if (file.getName() === requiredFile) {
+                found = true;
+                break;
+            }
+        }
+        if (!found) {
+            errors.push(`Missing required file: ${requiredFile}`);
+        }
+    }
+    
+    // Check for syntax errors in .gs files
+    const gasFiles = FileList.getFilesByType(MimeType.GOOGLE_APPS_SCRIPT);
+    while (gasFiles.hasNext()) {
+        const file = gasFiles.next();
+        const content = file.getContent();
+        
+        if (content.length > VALIDATION_CONFIG.MAX_FILE_SIZE) {
+            warnings.push(`Large file detected: ${file.getName()} (${(content.length / 1024).toFixed(2)} KB)`);
+        }
+        
+        // Basic syntax validation (simplified)
+        if (content.includes('function ') && !content.includes('}') && !content.includes(';')) {
+            warnings.push(`Potential syntax issue in ${file.getName()}`);
+        }
+    }
+    
+    return {
+        valid: errors.length === 0,
+        errors,
+        warnings
+    };
+}
+
+/**
+ * Validate configuration
+ */
+function validateConfiguration() {
+    const properties = PropertiesService.getScriptProperties();
+    const errors = [];
+    
+    // Check for required properties
+    const requiredProps = ['API_KEY', 'DEBUG_MODE'];
+    for (const prop of requiredProps) {
+        if (!properties.getProperty(prop)) {
+            errors.push(`Missing required property: ${prop}`);
+        }
+    }
+    
+    return {
+        valid: errors.length === 0,
+        errors
+    };
+}
+
+/**
+ * Run comprehensive validation
+ */
+function runValidation() {
+    const structureValidation = validateProjectStructure();
+    const configValidation = validateConfiguration();
+    
+    const allErrors = [...structureValidation.errors, ...configValidation.errors];
+    const allWarnings = structureValidation.warnings;
+    
+    // Log results
+    if (allErrors.length > 0) {
+        Logger.log('VALIDATION FAILED:');
+        allErrors.forEach((error, index) => {
+            Logger.log(`${index + 1}. ${error}`);
+        });
+    }
+    
+    if (allWarnings.length > 0) {
+        Logger.log('VALIDATION WARNINGS:');
+        allWarnings.forEach((warning, index) => {
+            Logger.log(`${index + 1}. ${warning}`);
+        });
+    }
+    
+    Logger.log(`Validation completed: ${structureValidation.valid && configValidation.valid ? 'PASSED' : 'FAILED'}`);
+    
+    return {
+        valid: structureValidation.valid && configValidation.valid,
+        errors: allErrors,
+        warnings: allWarnings
+    };
+}
+
+/**
+ * Main validation entry point
+ */
+function validate() {
+    return runValidation();
+}
+
+/**
+ * Quick validation for continuous integration
+ */
+function quickValidate() {
+    const result = validate();
+    
+    if (!result.valid) {
+        throw new Error('Validation failed: ' + result.errors.join(', '));
+    }
+    
+    Logger.log('Quick validation passed');
+    return result;
+}
+```
+
+## Template Usage
+
+### 1. Copy Templates
+
+Copy the relevant templates to your project directory:
+
+```bash
+# Copy all templates to FollowUpReminder
+mkdir -p /home/aldo/dev/02-ai-script-google/apps/FollowUpReminder/scripts
+
+# Copy templates
+cp templates/Code.gs.template /home/aldo/dev/02-ai-script-google/apps/FollowUpReminder/Code.gs
+cp templates/Test.gs.template /home/aldo/dev/02-ai-script-google/apps/FollowUpReminder/Test.gs
+```
+
+### 2. Customize Templates
+
+Edit the copied templates to match your specific requirements:
+
+```bash
+# Edit Code.gs with your specific logic
+nano /home/aldo/dev/02-ai-script-google/apps/FollowUpReminder/Code.gs
+
+# Edit Test.gs with your specific tests
+nano /home/aldo/dev/02-ai-script-google/apps/FollowUpReminder/Test.gs
+```
+
+### 3. Update Configuration
+
+Update configuration files as needed:
+
+```json
+# Update .clasp.json
+cat > /home/aldo/dev/02-ai-script-google/apps/FollowUpReminder/.clasp.json << 'EOF'
+{
+  "projectId": "YOUR_PROJECT_NUMBER",
+  "scriptId": "YOUR_SCRIPT_ID",
+  "rootDir": ".",
+  "tokenPath": ".clasprc.json"
+}
+EOF
+```
+
+### 4. Run Validation
+
+Test your script setup:
+
+```bash
+# Run validation
+npx @google/clasp run validate
+
+# Run quick validation
+npx @google/clasp run quickValidate
+
+# Run all tests
+npx @google/clasp run testAll
+```
+
+## Template Maintenance
+
+### 1. Update Templates
+
+Keep templates up to date by:
+
+1. Reviewing the base templates for improvements
+2. Updating based on common issues encountered
+3. Adding new template files as needed
+
+### 2. Documentation
+
+Each template includes:
+- Clear documentation of purpose
+- Usage instructions
+- Configuration options
+- Example implementations
+
+### 3. Testing Templates
+
+Test templates with:
+
+```bash
+# Validate template syntax
+node scripts/validate-template.js
+
+# Check template formatting
+npm run lint-templates
+```
+
+## Template Index
+
+| Template Name | Purpose | Location |
+|---------------|---------|----------|
+| `Code.gs` | Main script logic | `apps/*/Code.gs` |
+| `Test.gs` | Test functions | `apps/*/Test.gs` |
+| `appsscript.json` | Google Apps Script manifest | `apps/*/appsscript.json` |
+| `.clasp.json` | Clasp configuration | `apps/*/ .clasp.json` |
+| `AIProviders.gs` | Shared AI functionality | `apps/*/shared/AIProviders.gs` |
+| `scripts/validate.js` | Validation script | `scripts/validate.js` |
+
+These templates provide a solid foundation for building Google Apps Script projects while maintaining consistency across the script.google repository.

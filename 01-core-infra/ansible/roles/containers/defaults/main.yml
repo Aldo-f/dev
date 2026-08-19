@@ -2,6 +2,8 @@
 # Default variables for the containers role (deploy compose services + Traefik routes)
 traefik_network: "traefik_net"
 traefik_runtime_dir: "/home/aldo/dev/04-network-traefik"
+# Per-component runtime dirs that need generated .env files
+nextcloud_runtime_dir: "/home/aldo/dev/01-core-infra/nextcloud"
 
 container_services:
   # 01-core-* -> in-repo runtime dirs
@@ -9,9 +11,12 @@ container_services:
     runtime_dir: "/home/aldo/dev/01-core-infra/portainer"
   - name: 01-core-cockpit
     runtime_dir: "/home/aldo/dev/01-core-infra/cockpit"
+  # 04-network-* -> sibling dev repo dir
+  - name: 04-network-traefik
+    runtime_dir: "/home/aldo/dev/04-network-traefik"
   # 05-media-* -> in-repo runtime dirs
-  - name: 05-media-plex
-    runtime_dir: "/home/aldo/dev/01-core-infra/plex"
+  - name: 05-media-jellyfin
+    runtime_dir: "/home/aldo/dev/01-core-infra/jellyfin"
   - name: 05-media-qbittorrent
     runtime_dir: "/home/aldo/dev/01-core-infra/qbittorrent"
   - name: 05-media-nextcloud
