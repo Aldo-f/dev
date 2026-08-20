@@ -1,1 +1,0 @@
-export function initializeProviders(): Promise<import("./providers/ProviderRegistry.js").ProviderRegistry>;

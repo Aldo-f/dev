@@ -1,8 +1,0 @@
-node_modules/
-bun.lock
-*.log
-logs/
-.env
-*.env
-secrets.json
-dist/
