@@ -1,0 +1,15 @@
+[submodule "02-ai-freellmapi"]
+	path = 02-ai-freellmapi
+	url = git@github.com:Aldo-f/freellmapi.git
+[submodule "02-ai-llm-infra-sync"]
+	path = 02-ai-llm-infra-sync
+	url = git@github.com:Aldo-f/02-ai-llm-infra-sync.git
+[submodule "02-ai-hermes-webui"]
+	path = 02-ai-hermes-webui
+	url = git@github.com:Aldo-f/02-ai-hermes-webui.git
+[submodule "06-apps-thuis-v4"]
+	path = 06-apps-thuis-v4
+	url = git@github.com:Aldo-f/thuis.git
+[submodule "06-apps-thuis-v5"]
+	path = 06-apps-thuis-v5
+	url = git@github.com:Aldo-f/thuis.git
