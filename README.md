@@ -11,18 +11,18 @@ single git root at `~/dev/.git`, while maintaining modularity via git submodules
 
 ## What's in here
 
-|| Directory | Purpose | Stack |
-||-----------|---------|-------|
-|| `01-core-infra/` | **Editable infra templates + Ansible playbook** that bootstraps the whole lab. Run `./install.sh` once per host. | Ansible, Bash |
-|| `02-ai-hermes-webui/` | Hermes WebUI — Python server + vanilla JS UI, no build step. Port 8787. | Python, JS |
-|| `02-ai-llm-infra-sync/` | Sync scripts that mirror AI provider credentials across clients. | Bun / TypeScript |
-|| `06-apps-thuis-v4/` | Standalone app (thuis v4) — managed as a GitHub submodule. | varies |
-|| `06-apps-thuis-v5/` | Standalone app (thuis v5) — managed as a GitHub submodule. | varies |
-|| `04-network-traefik/` | Traefik reverse-proxy runtime. **Not edited** — only Ansible touches it. | Docker Compose v2 |
-|| `07-security-vaultwarden/` | Vaultwarden runtime (pinned image, DuckDNS domain). | Docker |
-|| `llama.cpp/` | Local GGUF inference server (mounted into `llamacpp` role). | C++ |
-|| `local-mcp/` | Local Ollama-backed MCP server (`gemma4:e4b`) used to offload file work. | Python |
-|| `media/`, `logs/`, `.omo/`, `.codegraph/` | Host-local state — **gitignored**. | — |
+| Directory | Purpose | Stack |
+|-----------|---------|-------|
+| `01-core-infra/` | **Editable infra templates + Ansible playbook** that bootstraps the whole lab. Run `./install.sh` once per host. | Ansible, Bash |
+| `02-ai-hermes-webui/` | Hermes WebUI — Python server + vanilla JS UI, no build step. Port 8787. | Python, JS |
+| `02-ai-llm-infra-sync/` | Sync scripts that mirror AI provider credentials across clients. | Bun / TypeScript |
+| `06-apps-thuis-v4/` | Standalone app (thuis v4) — managed as a GitHub submodule. | varies |
+| `06-apps-thuis-v5/` | Standalone app (thuis v5) — managed as a GitHub submodule. | varies |
+| `04-network-traefik/` | Traefik reverse-proxy runtime. **Not edited** — only Ansible touches it. | Docker Compose v2 |
+| `07-security-vaultwarden/` | Vaultwarden runtime (pinned image, DuckDNS domain). | Docker |
+| `llama.cpp/` | Local GGUF inference server (mounted into `llamacpp` role). | C++ |
+| `local-mcp/` | Local Ollama-backed MCP server (`gemma4:e4b`) used to offload file work. | Python |
+| `media/`, `logs/`, `.omo/`, `.codegraph/` | Host-local state — **gitignored**. | — |
 
 > **Submodules** provide modularity while keeping a single git root. Each submodule has its own lifecycle but integrates seamlessly with the Ansible-managed infrastructure.
 
@@ -71,12 +71,12 @@ After step 1, services are reachable at their DuckDNS subdomains on TLS — e.g.
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-|- **Templates** are the only thing humans (or AI agents) edit. Ansible copies them into
+- **Templates** are the only thing humans (or AI agents) edit. Ansible copies them into
   runtime directories (`01-core-infra/jellyfin/`, `04-network-traefik/`, …) and runs
   `docker compose up -d`.
-|- **Runtime directories are not committed** — see `.gitignore`. They are regenerated every
+- **Runtime directories are not committed** — see `.gitignore`. They are regenerated every
   run, so any manual edit is wiped on the next `./install.sh`.
-|- **Submodules** maintain their own commit history and can be developed independently while
+- **Submodules** maintain their own commit history and can be developed independently while
   integrating with the shared monorepo infrastructure.
 
 ---
