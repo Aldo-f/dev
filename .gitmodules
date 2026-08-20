@@ -13,3 +13,9 @@
 [submodule "06-apps-thuis-v5"]
 	path = 06-apps-thuis-v5
 	url = git@github.com:Aldo-f/thuis.git
+[submodule "06-apps-pino-node"]
+	path = 06-apps-pino-node
+	url = git@github.com:Aldo-f/pino-node.git
+[submodule "06-apps-radio-community"]
+	path = 06-apps-radio-community
+	url = git@github.com:Aldo-f/radio-community.git
