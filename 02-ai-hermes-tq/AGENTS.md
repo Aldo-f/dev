@@ -23,10 +23,24 @@ persisted under `tasks/` (not a SQLite DB).
 
 ## Commands
 ```bash
-docker compose up -d --build          # build + deploy (via 04-network-traefik, internal 8788)
-docker compose logs -f                # view logs
-python -m pytest tests/               # run tests (locally)
+# Deploy via Traefik compose (recommended)
+cd ~/dev/04-network-traefik
+docker compose up -d --build
+
+# View logs
+docker compose logs -f hermes-tq
+
+# Run tests locally
+python -m pytest tests/
 ```
+
+## Deployment
+- Service name in compose: `hermes-tq`
+- Internal port: `8788`
+- Traefik route: `tq.hermes.dev.aldof.duckdns.org` (with `ipAllowList` middleware)
+- Networks: `traefik_net` + `docker-stack_core-network`
+- Volume: `taskqueue-data` (persistent at `/app/tasks`)
+- Healthcheck: `curl -f http://localhost:8788/api/stats`
 
 ## Conventions
 - Do **not** run the FastAPI server as root inside Docker.

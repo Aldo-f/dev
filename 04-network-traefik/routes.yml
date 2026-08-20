@@ -37,6 +37,7 @@ http:
         - web
       middlewares:
         - https-redirect
+        - ipAllowList
       service: vaultwarden
     vault:
       rule: "Host(`vault.aldof.duckdns.org`)"
@@ -45,6 +46,8 @@ http:
       service: vaultwarden
       tls:
         certResolver: myresolver
+      middlewares:
+        - ipAllowList
 
     homepage-http:
       rule: "Host(`aldof.duckdns.org`)"
@@ -114,6 +117,25 @@ http:
       middlewares:
         - ipAllowList
 
+    # ── Hermes Hub (hermes.dev.aldof.duckdns.org → dashboard) ────────────────
+    hermes-hub-http:
+      rule: "Host(`hermes.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+        - ipAllowList
+      service: hermes-hub
+    hermes-hub:
+      rule: "Host(`hermes.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: hermes-hub
+      tls:
+        certResolver: myresolver
+      middlewares:
+        - ipAllowList
+
     # ── Portainer (portainer.dev.aldof.duckdns.org) ────────────────────────
     portainer-http:
       rule: "Host(`portainer.dev.aldof.duckdns.org`)"
@@ -150,6 +172,25 @@ http:
       middlewares:
         - ipAllowList
 
+    # Metrics for Hermes (metrics.hermes.dev.aldof.duckdns.org)
+    metrics-hermes-http:
+      rule: "Host(`metrics.hermes.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+        - ipAllowList
+      service: metrics-hermes
+    metrics-hermes:
+      rule: "Host(`metrics.hermes.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: metrics-hermes
+      tls:
+        certResolver: myresolver
+      middlewares:
+        - ipAllowList
+
     # Media services (public)
     qbittorrent-http:
       rule: "Host(`qbittorrent.aldof.duckdns.org`)"
@@ -163,6 +204,20 @@ http:
       entryPoints:
         - websecure
       service: qbittorrent
+      tls:
+        certResolver: myresolver
+    jellyfin-http:
+      rule: "Host(`jellyfin.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+      service: jellyfin
+    jellyfin:
+      rule: "Host(`jellyfin.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: jellyfin
       tls:
         certResolver: myresolver
     torrent-http:
@@ -201,6 +256,11 @@ http:
         servers:
           - url: "http://hermes-tq:8788"
 
+    hermes-hub:
+      loadBalancer:
+        servers:
+          - url: "http://hermes-hub:8789"
+
     homepage:
       loadBalancer:
         servers:
@@ -216,6 +276,11 @@ http:
         servers:
           - url: "http://qbittorrent:8080"
 
+    jellyfin:
+      loadBalancer:
+        servers:
+          - url: "http://jellyfin:8096"
+
     portainer:
       loadBalancer:
         servers:
@@ -225,6 +290,11 @@ http:
       loadBalancer:
         servers:
           - url: "http://192.168.0.28:9090"
+
+    metrics-hermes:
+      loadBalancer:
+        servers:
+          - url: "http://192.168.0.5:9119"
 
   middlewares:
     https-redirect:

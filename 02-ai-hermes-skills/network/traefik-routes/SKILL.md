@@ -78,6 +78,8 @@ hermes-https-91:
 - **Entrypoint mismatch**: Using `websecure` for the HTTP redirect router breaks the redirect chain
 - **Missing certResolver**: HTTPS routers without `certResolver` fail TLS handshake
 - **Partial file updates**: Editing only one section of `routes.yml` causes Traefik to reject the entire file
+- **Patch whitespace sensitivity**: YAML patches fail if indentation doesn't match exactly (4 spaces in template). Use `write_file` for full file replacement after reading exact structure, or ensure patches include correct indentation.
+- **traefik_net already exists**: Ansible Docker network task fails non-fatally if network pre-exists; playbook continues with `ignored: true` but logs the error.
 
 ## Verification
 After deploying, confirm the new route is active:

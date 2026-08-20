@@ -22,15 +22,17 @@ Designed to run on Raspberry Pi with **Neo-Brutalist** UX and robust status trac
 
 ## 📦 Quick Start (Docker)
 
-The task queue is integrated into the core infra.
+The task queue is integrated into the core infra via `04-network-traefik`.
 
 ```bash
 # Start/Update the service
 cd ~/dev/04-network-traefik
-docker-compose up -d --build
+docker compose up -d --build
 ```
 
-Access the UI at: **[https://taskqueue.aldof.duckdns.org](https://taskqueue.aldof.duckdns.org)**
+Access the UI at: **[https://tq.hermes.dev.aldof.duckdns.org](https://tq.hermes.dev.aldof.duckdns.org)**
+
+*Note: Uses `dev.*` subdomain with IP allowlist (home IP whitelisted).*
 
 ## 📝 Task Format
 

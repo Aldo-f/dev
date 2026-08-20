@@ -12,7 +12,7 @@ def run_hermes(task_id: str) -> dict:
     # Timestamped log filename (UTC)
     ts = datetime.datetime.utcnow().strftime('%Y%m%dT%H%M%SZ')
     log_path = os.path.join('tasks', task_id, f'run-{ts}.log')
-    cmd = f"hermes -z {shlex.quote(prompt)} --title \"TQ: {task_id[:8]}\""
+    cmd = f"hermes -z {shlex.quote(prompt)}"
     start_ts = time.time()
     proc = subprocess.run(cmd, shell=True, capture_output=True, text=True, timeout=900)
     end_ts = time.time()

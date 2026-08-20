@@ -153,6 +153,25 @@ http:
       middlewares:
         - ipAllowList
 
+    # Metrics for Hermes (metrics.hermes.dev.aldof.duckdns.org)
+    metrics-hermes-http:
+      rule: "Host(`metrics.hermes.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+        - ipAllowList
+      service: metrics-hermes
+    metrics-hermes:
+      rule: "Host(`metrics.hermes.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: metrics-hermes
+      tls:
+        certResolver: myresolver
+      middlewares:
+        - ipAllowList
+
     # Media services (public)
     qbittorrent-http:
       rule: "Host(`qbittorrent.aldof.duckdns.org`)"
@@ -247,6 +266,11 @@ http:
       loadBalancer:
         servers:
           - url: "http://192.168.0.28:9090"
+
+    metrics-hermes:
+      loadBalancer:
+        servers:
+          - url: "http://192.168.0.5:9119"
 
   middlewares:
     https-redirect:

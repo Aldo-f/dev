@@ -15,10 +15,86 @@ app = FastAPI()
 static_dir = Path(__file__).parent / 'static'
 app.mount('/static', StaticFiles(directory=static_dir), name='static')
 
+# serve hub dashboard (auto-discovered subsystems)
+app.mount('/hub/static', StaticFiles(directory=static_dir), name='hub-static')
+
+@app.get('/hub')
+@app.head('/hub')
+async def hub_root():
+    return FileResponse(static_dir / 'dashboard.html')
+
+@app.get('/api/subsystems')
+async def get_subsystems():
+    """Auto-discover Hermes subdomains (*.hermes.dev.aldof.duckdns.org) via Docker + Traefik labels."""
+    import subprocess
+    import re
+
+    HERMES_SUFFIX = 'hermes.dev.aldof.duckdns.org'
+    host_re = re.compile(r'Host\(`([^`]+)`\)')
+
+    # Display info keyed by subdomain label (the part before .hermes.dev...)
+    sub_meta = {
+        'hermes':     {'name': 'Hermes Hub',     'desc': 'This dashboard',  'icon': '🏛️'},
+        'web':        {'name': 'Hermes WebUI',   'desc': 'Chat & agent UI', 'icon': '🤖'},
+        'tq':         {'name': 'Hermes Task Q',  'desc': 'Background jobs', 'icon': '⚙️'},
+    }
+
+    subsystems = []
+    try:
+        result = subprocess.run(
+            ['docker', 'ps', '--format', '{{.Names}}\\t{{.Status}}\\t{{.Labels}}'],
+            capture_output=True, text=True, timeout=5
+        )
+        for line in result.stdout.strip().split('\n'):
+            if not line:
+                continue
+            parts = line.split('\t')
+            if len(parts) < 2:
+                continue
+            name = parts[0]
+            status = parts[1]
+            labels = parts[2] if len(parts) > 2 else ''
+
+            # Pull every Host() rule from Traefik labels
+            hosts = host_re.findall(labels)
+            # Keep only hermes.dev.aldof.duckdns.org subdomains (incl. apex)
+            hermes_hosts = [h for h in hosts if h == HERMES_SUFFIX or h.endswith('.' + HERMES_SUFFIX)]
+            if not hermes_hosts:
+                continue
+
+            # Prefer the most-specific (longest) subdomain
+            primary = max(hermes_hosts, key=len)
+            sub_label = primary[:-len('.' + HERMES_SUFFIX)] if primary != HERMES_SUFFIX else 'hermes'
+
+            meta = sub_meta.get(sub_label, {
+                'name': sub_label.replace('-', ' ').title() or 'Hermes',
+                'desc': 'Service',
+                'icon': '📦',
+            })
+
+            healthy = 'healthy' in status.lower()
+            running = 'up' in status.lower()
+
+            subsystems.append({
+                'name': meta['name'],
+                'desc': meta['desc'],
+                'icon': meta['icon'],
+                'subdomain': sub_label,
+                'container': name,
+                'status': 'healthy' if healthy else ('running' if running else 'down'),
+                'public_url': f'https://{primary}',
+                'all_hosts': [f'https://{h}' for h in hermes_hosts],
+            })
+
+        subsystems.sort(key=lambda x: (0 if x['subdomain'] == 'hermes' else 1, x['name'].lower()))
+        return {'subsystems': subsystems, 'domain': HERMES_SUFFIX}
+    except Exception as e:
+        return {'error': str(e), 'subsystems': [], 'domain': HERMES_SUFFIX}
+
 @app.get('/')
 @app.head('/')
 async def root():
-    # serve index.html from static
+    # serve index.html from static (existing TQ UI)
     return FileResponse(static_dir / 'index.html')
 
 @app.get('/api/tasks')

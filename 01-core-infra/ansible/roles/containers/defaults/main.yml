@@ -3,7 +3,7 @@
 traefik_network: "traefik_net"
 traefik_runtime_dir: "/home/aldo/dev/04-network-traefik"
 # Per-component runtime dirs that need generated .env files
-nextcloud_runtime_dir: "/home/aldo/dev/01-core-infra/nextcloud"
+nextcloud_runtime_dir: "/home/aldo/dev/05-media-nextcloud"
 
 # Restrict the role to a single service when iterating.
 # Default: empty list = deploy every service (full behavior).
@@ -18,16 +18,19 @@ container_services:
     runtime_dir: "/home/aldo/dev/01-core-infra/portainer"
   - name: 01-core-cockpit
     runtime_dir: "/home/aldo/dev/01-core-infra/cockpit"
+  # 02-ai-* -> sibling dev repo dirs
+  - name: 02-ai-freellmapi
+    runtime_dir: "/home/aldo/dev/02-ai-freellmapi"
   # 04-network-* -> sibling dev repo dir
   - name: 04-network-traefik
     runtime_dir: "/home/aldo/dev/04-network-traefik"
-  # 05-media-* -> in-repo runtime dirs
+  # 05-media-* -> sibling dev repo dirs
   - name: 05-media-jellyfin
-    runtime_dir: "/home/aldo/dev/01-core-infra/jellyfin"
+    runtime_dir: "/home/aldo/dev/05-media-jellyfin"
   - name: 05-media-qbittorrent
-    runtime_dir: "/home/aldo/dev/01-core-infra/qbittorrent"
+    runtime_dir: "/home/aldo/dev/05-media-qbittorrent"
   - name: 05-media-nextcloud
-    runtime_dir: "/home/aldo/dev/01-core-infra/nextcloud"
+    runtime_dir: "/home/aldo/dev/05-media-nextcloud"
   # 06-apps-* -> own git repos (via manifest, only infra/ overwritten)
   - name: 06-apps-scripts-google
     runtime_dir: "/home/aldo/dev/06-apps-scripts-google"

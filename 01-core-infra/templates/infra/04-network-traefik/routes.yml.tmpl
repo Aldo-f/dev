@@ -42,6 +42,20 @@ http:
       service: hermes-webui
       tls:
         certResolver: myresolver
+    metrics-hermes-http:
+      rule: "Host(`metrics.hermes.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+      service: metrics-hermes
+    metrics-hermes:
+      rule: "Host(`metrics.hermes.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: metrics-hermes
+      tls:
+        certResolver: myresolver
     homepage-http:
       rule: "Host(`aldof.duckdns.org`)"
       entryPoints:
@@ -84,6 +98,10 @@ http:
       loadBalancer:
         servers:
           - url: "http://hermes-webui:8787"
+    metrics-hermes:
+      loadBalancer:
+        servers:
+          - url: "http://192.168.0.5:9119"
     taskqueue:
       loadBalancer:
         servers:

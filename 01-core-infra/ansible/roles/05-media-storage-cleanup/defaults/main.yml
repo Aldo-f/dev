@@ -1,0 +1,16 @@
+---
+# Defaults for 05-media-storage-cleanup role
+hdd_mount_path: "/mnt/HDD"                # Mount point AFTER fstab fix (Phase 5)
+legacy_hdd_shadow_path: "/mnt/HDD1"       # Current shadow path on the SSD root (pre-fstab-fix)
+ssd_backup_path: "/mnt/HDD1_backup"       # Source of the SSD backup data merge
+
+nextcloud_ssd_runtime_dir: "/home/aldo/dev/05-media-nextcloud"
+qbittorrent_ssd_runtime_dir: "/home/aldo/dev/05-media-qbittorrent"
+jellyfin_ssd_runtime_dir: "/home/aldo/dev/05-media-jellyfin"
+
+backup_dir: "/home/aldo/dev/01-core-infra/backups"
+shared_group: "media-share"
+shared_group_gid: 1001
+container_user_puid: 1000
+www_data_uid: 33
+www_data_gid: 33
