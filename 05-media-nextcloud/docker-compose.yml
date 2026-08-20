@@ -1,0 +1,26 @@
+---
+# Nextcloud stack
+#
+services:
+  db:
+    image: mariadb:10.11.6
+    container_name: nextcloud-db
+    volumes:
+      - ./db:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mariadb-admin", "ping", "-h", "127.0.0.1", "-uroot", "-p${MYSQL_ROOT_PASSWORD}"]
+  redis:
+    image: redis:7-alpine
+    container_name: nextcloud-redis
+    command: ["redis-server", "--requirepass", "${REDIS_PASSWORD}"]
+    volumes:
+      - ./redis:/data
+  app:
+    image: nextcloud:34-apache
+    container_name: nextcloud
+    volumes:
+      - ./app:/var/www/html
+      - /mnt/HDD1/nextcloud/data:/var/www/html/data
+      - ./apache/mpm_prefork.conf:/etc/apache2/mods-available/mpm_prefork.conf:ro
+      - ./apache/php-tuning.ini:/usr/local/etc/php/conf.d/99-tuning.ini:ro
+    entrypoint: ["sh", "-c", "cp /tmp/mpm_prefork.conf /etc/apache2/mods-available/mpm_prefork.conf && cp /tmp/php-tuning.ini /usr/local/etc/php/conf.d/99-tuning.ini && /usr/sbin/apache2ctl -DFOREGROUND"]
