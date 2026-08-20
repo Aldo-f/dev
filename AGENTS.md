@@ -14,14 +14,13 @@ yield to the rules below** on conflicts.
 ~/dev/                 ← single git root (.git lives here, nowhere else)
 ├── AGENTS.md          ← this file
 ├── README.md          ← entry-point for humans
+├── install.sh         ← wrapper to call 01-core-infra/install.sh
 ├── 01-core-infra/     ← Ansible playbook + editable infra templates
-├── 02-ai-freellmapi/  ← FreeLLM router (Node/TS, port 3001)
-├── 02-ai-hermes-webui/← Python server + vanilla JS UI (port 8787)
-├── 02-ai-hermes-skills/  Hermes skill library (bundled)
-├── 02-ai-hermes-tq/   ← Task queue (FastAPI + worker)
-├── 02-ai-llm-infra-sync/ ← Credential sync CLI (Bun/TS)
+├── 02-ai-hermes-webui/ (submodule) ← Python server + vanilla JS UI (port 8787)
+├── 02-ai-llm-infra-sync/ (submodule) ← Credential sync CLI (Bun/TS)
+├── 06-apps-thuis-v4/ (submodule) ← Standalone app (thuis v4)
+├── 06-apps-thuis-v5/ (submodule) ← Standalone app (thuis v5)
 ├── 04-network-traefik/   ← Traefik reverse-proxy (managed, not edited)
-├── 06-apps-*/         ← Standalone apps (toerekening, thuis-v4/v5, script-google, …)
 ├── 07-security-vaultwarden/ ← Vaultwarden runtime
 ├── llama.cpp/         ← GGUF inference server
 └── local-mcp/         ← Ollama-backed MCP server (`gemma4:e4b`)

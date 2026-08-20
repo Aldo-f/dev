@@ -1,8 +1,8 @@
-# ~/dev — Home Lab Monorepo
+# ~/dev — Home Lab Monorepo (Submodule-based)
 
 This repository is the **single source of truth** for the home lab running on a Raspberry Pi 5.
 Everything that used to live in nested git repositories has been **consolidated** into this
-monorepo (`~/dev/.git`).
+single git root at `~/dev/.git`, while maintaining modularity via git submodules.
 
 > **Read first:** [`AGENTS.md`](./AGENTS.md) — operating rules for humans *and* AI coding
 > agents, including how to run the playbook, how services are exposed, and what *not* to edit.
@@ -11,23 +11,20 @@ monorepo (`~/dev/.git`).
 
 ## What's in here
 
-| Directory | Purpose | Stack |
-|-----------|---------|-------|
-| `01-core-infra/` | **Editable infra templates + Ansible playbook** that bootstraps the whole lab. Run `./install.sh` once per host. | Ansible, Bash |
-| `02-ai-freellmapi/` | FreeLLM router — multi-provider LLM gateway on port 3001, fronted by Traefik. | Node.js / TypeScript |
-| `02-ai-hermes-webui/` | Hermes WebUI — Python server + vanilla JS UI, no build step. Port 8787. | Python, JS |
-| `02-ai-hermes-skills/` | Hermes skill library (bundled, not authored here). | Markdown |
-| `02-ai-hermes-tq/` | Hermes task queue (FastAPI + worker + Traefik). | Python, Docker |
-| `02-ai-llm-infra-sync/` | Sync scripts that mirror AI provider credentials across clients. | Bun / TypeScript |
-| `04-network-traefik/` | Traefik reverse-proxy runtime. **Not edited** — only Ansible touches it. | Docker Compose v2 |
-| `06-apps-*/` | Standalone apps (toerekening, thuis-v4/v5, script-google, …). | varies |
-| `07-security-vaultwarden/` | Vaultwarden runtime (pinned image, DuckDNS domain). | Docker |
-| `llama.cpp/` | Local GGUF inference server (mounted into `llamacpp` role). | C++ |
-| `local-mcp/` | Local Ollama-backed MCP server (`gemma4:e4b`) used to offload file work. | Python |
-| `media/`, `logs/`, `.omo/`, `.codegraph/` | Host-local state — **gitignored**. | — |
+|| Directory | Purpose | Stack |
+||-----------|---------|-------|
+|| `01-core-infra/` | **Editable infra templates + Ansible playbook** that bootstraps the whole lab. Run `./install.sh` once per host. | Ansible, Bash |
+|| `02-ai-hermes-webui/` | Hermes WebUI — Python server + vanilla JS UI, no build step. Port 8787. | Python, JS |
+|| `02-ai-llm-infra-sync/` | Sync scripts that mirror AI provider credentials across clients. | Bun / TypeScript |
+|| `06-apps-thuis-v4/` | Standalone app (thuis v4) — managed as a GitHub submodule. | varies |
+|| `06-apps-thuis-v5/` | Standalone app (thuis v5) — managed as a GitHub submodule. | varies |
+|| `04-network-traefik/` | Traefik reverse-proxy runtime. **Not edited** — only Ansible touches it. | Docker Compose v2 |
+|| `07-security-vaultwarden/` | Vaultwarden runtime (pinned image, DuckDNS domain). | Docker |
+|| `llama.cpp/` | Local GGUF inference server (mounted into `llamacpp` role). | C++ |
+|| `local-mcp/` | Local Ollama-backed MCP server (`gemma4:e4b`) used to offload file work. | Python |
+|| `media/`, `logs/`, `.omo/`, `.codegraph/` | Host-local state — **gitignored**. | — |
 
-> Subprojects still keep their **own** `AGENTS.md` and `CONTRIBUTING.md` for domain-specific
-> guidance. The top-level rules in `~/dev/AGENTS.md` always win on conflicts.
+> **Submodules** provide modularity while keeping a single git root. Each submodule has its own lifecycle but integrates seamlessly with the Ansible-managed infrastructure.
 
 ---
 
@@ -74,11 +71,13 @@ After step 1, services are reachable at their DuckDNS subdomains on TLS — e.g.
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-- **Templates** are the only thing humans (or AI agents) edit. Ansible copies them into
+|- **Templates** are the only thing humans (or AI agents) edit. Ansible copies them into
   runtime directories (`01-core-infra/jellyfin/`, `04-network-traefik/`, …) and runs
   `docker compose up -d`.
-- **Runtime directories are not committed** — see `.gitignore`. They are regenerated every
+|- **Runtime directories are not committed** — see `.gitignore`. They are regenerated every
   run, so any manual edit is wiped on the next `./install.sh`.
+|- **Submodules** maintain their own commit history and can be developed independently while
+  integrating with the shared monorepo infrastructure.
 
 ---
 
@@ -86,7 +85,7 @@ After step 1, services are reachable at their DuckDNS subdomains on TLS — e.g.
 
 - **Single git root** at `~/dev/.git`. Nested `.git/` directories are an *anti-pattern* —
   do not `git init` inside a project folder. If you need a submodule, add it with
-  `git submodule add …`.
+  `git submodule add …` from `~/dev/`.
 - **Path templates** use the `__HOME__` macro or env vars, never `/home/aldo` literals.
   The Ansible playbook already does this; if you write a script, copy the convention.
 - **Docker images are pinned** by tag (e.g. `jellyfin/jellyfin:10.11.11`). Floating
