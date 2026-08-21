@@ -220,7 +220,7 @@ http:
     freellmapi:
       loadBalancer:
         servers:
-          - url: "http://freellmapi-dev:3001"
+          - url: "http://02-ai-freellmapi-freellmapi-1:3001"
 
     nextcloud:
       loadBalancer:
@@ -270,7 +270,7 @@ http:
     metrics-hermes:
       loadBalancer:
         servers:
-          - url: "http://hermes-webui:8787"
+          - url: "http://192.168.0.5:9119"
 
   middlewares:
     https-redirect:

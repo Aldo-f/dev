@@ -32,8 +32,8 @@ container_services:
   - name: 05-media-nextcloud
     runtime_dir: "/home/aldo/dev/05-media-nextcloud"
   # 06-apps-* -> own git repos (via manifest, only infra/ overwritten)
-  - name: 06-apps-scripts-google
-    runtime_dir: "/home/aldo/dev/06-apps-scripts-google"
+  # - name: 06-apps-scripts-google
+  #   runtime_dir: "/home/aldo/dev/06-apps-scripts-google"
   # 07-security-* -> sibling dev repo dir
   - name: 07-security-vaultwarden
     runtime_dir: "/home/aldo/dev/07-security-vaultwarden"

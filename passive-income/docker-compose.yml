@@ -1,0 +1,28 @@
+version: "3.8"
+
+services:
+  dashboard:
+    image: traefik/whoami:latest
+    container_name: passive-income-dashboard
+    ports:
+      - "0.0.0.0:4747:80"
+    restart: unless-stopped
+    user: "1000:1000"
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.dashboard.rule=Host(`pi3.local`)"
+      - "traefik.http.routers.dashboard.entrypoints=web"
+
+  pino-orchestrator:
+    build: .
+    container_name: pino_orchestrator
+    restart: always
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ./credentials.jsonc:/app/credentials.jsonc
+      - ./orchestrator.py:/app/orchestrator.py
+    environment:
+      - NODE_ENV=production
+
+volumes:
+  portainer_data:
