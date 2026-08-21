@@ -58,3 +58,7 @@ tools_sentries:
     command: "toot --version"
   lm_sensors:
     command: "sensors -v"
+  git_filter_repo:
+    command: "git filter-repo --version"
+  git-lfs:
+    command: "git lfs version"

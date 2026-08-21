@@ -41,6 +41,20 @@
   become: true
   when: "'locate' in tools_sentries and ansible_facts.packages['locate'] is not defined"
 
+- name: Install git-lfs
+  apt:
+    name: git-lfs
+    state: present
+  become: true
+  when: "'git-lfs' in tools_sentries"
+
+- name: Install git-filter-repo
+  apt:
+    name: git-filter-repo
+    state: present
+  become: true
+  when: "'git_filter_repo' in tools_sentries"
+
 - name: Install spec-kit
   shell: |
     git clone https://github.com/github/spec-kit.git /home/{{ ansible_user }}/.local/spec-kit

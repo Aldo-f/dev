@@ -40,6 +40,8 @@
       - script_google
       - tailscale
       - lm_sensors
+      - git_filter_repo
+      - git-lfs
   pre_tasks:
     - name: Ensure bun binary is in system PATH
       file:
