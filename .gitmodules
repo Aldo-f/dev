@@ -1,0 +1,4 @@
+[submodule "04-network-traefik"]
+	path = 04-network-traefik
+	url = /home/aldo/dev/01-core-infra/templates/infra/04-network-traefik
+[submodule] 02-ai-hermes-tq https://github.com/Aldo-f/02-ai-hermes-tq.git

@@ -1,25 +1,20 @@
-# Dockerfile – minimal image for the Hermes Task Queue FastAPI server
+# Dockerfile 
 FROM python:3.13-slim
 
-# Install any needed OS packages (curl for debugging)
-RUN apt-get update && apt-get install -y --no-install-recommends curl python3-venv && rm -rf /var/lib/apt/lists/*
+# Install dependencies
+RUN apt-get update && apt-get install -y python3-venv && rm -rf /var/lib/apt/lists/*
+
+# Copy application code
+COPY . /app
 
 # Set working directory
 WORKDIR /app
 
-# Copy the entire project (excluding .git via .dockerignore if present)
-COPY . /app
+# Install requirements
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Install hermes agent properly
-RUN pip install --break-system-packages hermes-agent
-
-# Install app dependencies
-RUN pip install --break-system-packages -r requirements.txt
-
-# Expose the API port
+# Expose port
 EXPOSE 8788
 
-# Run entrypoint script (starts both worker and server)
-COPY entrypoint.sh /entrypoint.sh
-RUN chmod +x /entrypoint.sh
-CMD ["/entrypoint.sh"]
+# Entry point
+CMD ["uvicorn", "server:app", "--host", "0.0.0.0", "--port", "8788"]

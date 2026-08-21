@@ -1,67 +1,61 @@
 import json, os, time, uuid
 
+TASKS_ROOT = os.path.join(os.getcwd(), 'tasks')
+os.makedirs(TASKS_ROOT, exist_ok=True)
+
 def _meta_path(task_id: str) -> str:
-    return os.path.join('tasks', task_id, 'meta.json')
+    return os.path.join(TASKS_ROOT, task_id, 'meta.json')
 
 def make_task(md: str, start_at: str | None = None, priority: int = 0) -> str:
-    """Create a new task directory with given markdown content.
-    Returns the generated task_id (UUID)."""
-    task_id = uuid.uuid4().hex
-    task_dir = os.path.join('tasks', task_id)
+    task_id = uuid.uuid4().hex[:12]
+    task_dir = os.path.join(TASKS_ROOT, task_id)
     os.makedirs(task_dir, exist_ok=True)
-    # write markdown
     with open(os.path.join(task_dir, 'task.md'), 'w') as f:
         f.write(md)
     meta = {
         'id': task_id,
         'status': 'queued',
         'created_at': time.time(),
-        'priority': priority,
-        'retries': 0,
-        'max_retries': 2,
         'start_at': start_at,
+        'priority': priority,
+        'start_ts': None,
+        'end_ts': None,
+        'exit_code': None,
+        'log_path': None,
     }
     with open(_meta_path(task_id), 'w') as f:
         json.dump(meta, f)
     return task_id
 
-def load_meta(task_id: str) -> dict:
-    path = _meta_path(task_id)
-    with open(path) as f:
-        return json.load(f)
-
-def save_meta(task_id: str, **updates) -> None:
-    meta = load_meta(task_id)
-    meta.update(updates)
-    with open(_meta_path(task_id), 'w') as f:
-        json.dump(meta, f)
-
 def list_tasks() -> list[dict]:
-    base = 'tasks'
-    if not os.path.isdir(base):
-        return []
     tasks = []
-    for task_id in os.listdir(base):
+    for task_id in os.listdir(TASKS_ROOT):
         try:
             meta = load_meta(task_id)
             tasks.append(meta)
         except Exception:
-            continue
+            pass
     return tasks
+
+def load_meta(task_id: str) -> dict:
+    with open(_meta_path(task_id)) as f:
+        return json.load(f)
+
+def save_meta(task_id: str, **updates) -> dict:
+    meta = load_meta(task_id)
+    meta.update(updates)
+    with open(_meta_path(task_id), 'w') as f:
+        json.dump(meta, f)
+    return meta
 
 def is_ripe(task_id: str) -> bool:
     meta = load_meta(task_id)
-    if meta.get('status') != 'queued':
+    if meta['status'] != 'queued':
         return False
-    start = meta.get('start_at')
-    if not start:
-        return True
-    # ISO timestamp or epoch string; try float first
-    try:
-        ts = float(start)
-    except ValueError:
+    if meta.get('start_at'):
         try:
-            ts = time.mktime(time.strptime(start, "%Y-%m-%dT%H:%M:%S"))
+            if time.time() < float(meta['start_at']):
+                return False
         except Exception:
-            return False
-    return time.time() >= ts
+            pass
+    return True
