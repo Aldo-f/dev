@@ -26,7 +26,7 @@ services:
       - traefik_net
       - docker-stack_core-network
     environment:
-      - HERMES_MODEL_BASE_URL=http://freellmapi-dev:3001/v1
+      - HERMES_MODEL_BASE_URL=http://02-ai-freellmapi-freellmapi-1:3001/v1
       - HERMES_MODEL_PROVIDER=custom
     volumes:
       - taskqueue-data:/app/tasks
