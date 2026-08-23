@@ -98,22 +98,6 @@ http:
       middlewares:
         - ipAllowList
 
-    # ── Neo‑Brutalist Home (neo‑brutalist‑home.aldof.duckdns.org) ──────────────────────
-    neo-brutalist-home-http:
-      rule: "Host(`neo-brutalist-home.aldof.duckdns.org`)"
-      entryPoints:
-        - web
-      middlewares:
-        - https-redirect
-      service: homepage
-    neo-brutalist-home:
-      rule: "Host(`neo-brutalist-home.aldof.duckdns.org`)"
-      entryPoints:
-        - websecure
-      service: homepage
-      tls:
-        certResolver: myresolver
-
     # dev.* subdomains (with IP allowlist)
     hermes-http:
       rule: "Host(`web.hermes.dev.aldof.duckdns.org`)"
