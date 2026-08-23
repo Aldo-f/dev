@@ -1,0 +1,116 @@
+/* ==========================================================================
+   Neobrutalist theme — aldof.duckdns.org (gethomepage custom.css)
+   Tokens follow the neobrutalism-ui skill (HyperUI): 2px solid borders,
+   hard offset shadows (no blur/radius), yellow-200 accent, uppercase heads.
+   Selectors come from specs/001-neobrutalist-theme/selectors.md
+   (harvested from v1.13.2 shipped chunks — do not invent classes).
+   ========================================================================== */
+
+:root {
+  --nb-line: #000000;        /* border + shadow color */
+  --nb-surface: #ffffff;     /* card background */
+  --nb-page: #f5f5f0;        /* page background */
+  --nb-accent: #fef08a;      /* yellow-200 highlight */
+  --nb-shadow: 4px 4px 0 0 var(--nb-line);
+  --nb-shadow-sm: 2px 2px 0 0 var(--nb-line);
+}
+
+/* Page canvas */
+body {
+  background: var(--nb-page) !important; /* overrides bg-theme-* on <body> wrappers */
+}
+
+/* ---- Service cards ------------------------------------------------------
+   v1.13.2 renders each card as <li class="service"><div class="transition-all
+   mb-2 p-1 rounded-md …"> — style the li, square off the inner div. */
+li.service {
+  background: var(--nb-surface) !important;      /* replaces bg-theme-* */
+  border: 2px solid var(--nb-line) !important;
+  border-radius: 0 !important;                   /* kills rounded-md family */
+  box-shadow: var(--nb-shadow) !important;       /* replaces soft shadow-md */
+  transition: translate 80ms ease-in-out, box-shadow 80ms ease-in-out;
+}
+li.service:hover {
+  translate: 2px 2px;
+  box-shadow: none !important;
+}
+li.service > div,
+.service-title,
+.service-title-text,
+.service-name {
+  border-radius: 0 !important;
+}
+
+/* ---- Group headings ------------------------------------------------------ */
+.service-group-name,
+.bookmark-group-name {
+  display: inline-block;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 800;
+  background: var(--nb-accent);
+  border: 2px solid var(--nb-line);
+  box-shadow: var(--nb-shadow-sm);
+  padding: 0.15rem 0.6rem;
+  margin-bottom: 0.4rem;
+}
+.service-group-icon {
+  filter: drop-shadow(1px 1px 0 var(--nb-line));
+}
+
+/* ---- Info widgets (top bar) --------------------------------------------- */
+.information-widget-resource {
+  background: var(--nb-surface) !important;
+  border: 2px solid var(--nb-line);
+  border-radius: 0 !important;
+  box-shadow: var(--nb-shadow-sm);
+  padding-left: 0.6rem !important;
+  padding-right: 0.6rem !important;
+}
+.information-widget-label {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+}
+
+/* ---- Bookmarks (v1.13.2: <li class="bookmark"> + icon div + text div) ---- */
+li.bookmark {
+  background: var(--nb-surface) !important;
+  border: 2px solid var(--nb-line) !important;
+  border-radius: 0 !important;
+  box-shadow: var(--nb-shadow-sm) !important;
+  transition: translate 80ms ease-in-out, box-shadow 80ms ease-in-out;
+}
+li.bookmark:hover,
+li.bookmark:focus-within {
+  translate: 2px 2px;
+  box-shadow: none !important;
+}
+li.bookmark > div:first-child {
+  background: var(--nb-accent);
+  border-right: 2px solid var(--nb-line);
+}
+li.bookmark a,
+.bookmark-name {
+  border-radius: 0 !important;
+}
+
+/* ---- Keyboard focus (never invisible) ------------------------------------ */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+[role="button"]:focus-visible {
+  outline: 3px solid var(--nb-line);
+  outline-offset: 2px;
+  border-radius: 0;
+}
+
+/* ---- Dark-mode twin (best effort; flips line/surface colors) ------------- */
+.dark :root,
+.dark body,
+[data-theme="dark"] {
+  --nb-line: #ffffff;
+  --nb-surface: #111827;
+  --nb-page: #0b0f19;
+  --nb-accent: #facc15;
+}
