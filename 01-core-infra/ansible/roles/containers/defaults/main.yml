@@ -61,7 +61,6 @@ traefik_ip_allowlist:
   - "169.254.0.0/16"
   - "127.0.0.0/8"
   - "94.110.157.71/32"
-  - "212.123.0.227/32"  # bib de Krook (library)
 
 # Backend servers (container names resolve on traefik_net; LAN IPs also fine).
 traefik_backends:
@@ -85,6 +84,7 @@ traefik_routes:
   - { name: nextcloud, host: cloud.aldof.duckdns.org, service: nextcloud }
   - { name: stantonius, host: stantonius.aldof.duckdns.org, service: stantonius }
   - { name: homepage, host: aldof.duckdns.org, service: homepage }
+  - { name: neo-brutalist-home, host: neo-brutalist-home.aldof.duckdns.org, service: homepage }
   - { name: qbittorrent, host: qbittorrent.aldof.duckdns.org, service: qbittorrent }
   - { name: torrent, host: torrent.aldof.duckdns.org, service: qbittorrent }
   - { name: jellyfin, host: jellyfin.aldof.duckdns.org, service: jellyfin }
