@@ -11,12 +11,13 @@
       - /
       - /mnt/HDD1
 
-- glances:
-    label: pi3
-    url: http://192.168.0.3:61208
-    version: 4
-    cpu: true
-    mem: true
-    cputemp: true
-    uptime: true
-    disk: /
+# Re-enable once glances-web runs on the Pi3 (see plan Task 3):
+# - glances:
+#     label: pi3
+#     url: http://192.168.0.3:61208
+#     version: 4
+#     cpu: true
+#     mem: true
+#     cputemp: true
+#     uptime: true
+#     disk: /

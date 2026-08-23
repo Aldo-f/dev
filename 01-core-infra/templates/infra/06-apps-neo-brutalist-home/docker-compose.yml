@@ -7,10 +7,9 @@ services:
     environment:
       HOMEPAGE_ALLOWED_HOSTS: aldof.duckdns.org
       PUID: 1000
-      PGID: 1000
-    # app drops to PUID 1000; host docker.sock is root:docker(105) rw for group
-    group_add:
-      - "105"
+      # app drops to user `node`; host docker.sock is root:docker(105).
+      # PGID must be 105 so the dropped process keeps socket rw access.
+      PGID: 105
     ports:
       - "3000:3000"
     volumes:
