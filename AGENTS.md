@@ -16,18 +16,26 @@ yield to the rules below** on conflicts.
 ├── README.md          ← entry-point for humans
 ├── install.sh         ← wrapper to call 01-core-infra/install.sh
 ├── 01-core-infra/     ← Ansible playbook + editable infra templates
+├── 02-ai-hermes-tq/ (submodule) ← Hermes TQ kanban service
 ├── 02-ai-hermes-webui/ (submodule) ← Python server + vanilla JS UI (port 8787)
 ├── 02-ai-llm-infra-sync/ (submodule) ← Credential sync CLI (Bun/TS)
+├── 04-network-traefik/ (submodule) ← Traefik reverse-proxy (managed, not edited)
+├── 05-media-*/        ← runtime media stacks (host state, not project code)
+├── 06-apps-aldo-f-github-io/ (submodule) ← MkDocs hub → aldo-f.github.io
+├── 06-apps-clock/ (submodule) ← Clock app
+├── 06-apps-passive-income/ (submodule) ← PINO orchestrator (spec-driven,
+│                                         runtime-verified 2026-08-22)
 ├── 06-apps-thuis-v4/ (submodule) ← Standalone app (thuis v4)
 ├── 06-apps-thuis-v5/ (submodule) ← Standalone app (thuis v5)
-├── 04-network-traefik/   ← Traefik reverse-proxy (managed, not edited)
+├── 06-apps-wordpress-stantonius/ (submodule) ← Bedrock WordPress site
 ├── 07-security-vaultwarden/ ← Vaultwarden runtime
 ├── llama.cpp/         ← GGUF inference server
 └── local-mcp/         ← Ollama-backed MCP server (`gemma4:e4b`)
 ```
 
 State dirs that are host-local and **gitignored**: `media/`, `logs/`, `.omo/`,
-`.codegraph/`, `.ansible/`.
+`.codegraph/`, `.ansible/`, `passive-income/` (legacy leftovers superseded by
+`06-apps-passive-income`).
 
 ---
 
