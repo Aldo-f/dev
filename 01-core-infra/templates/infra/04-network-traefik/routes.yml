@@ -31,6 +31,21 @@ http:
       tls:
         certResolver: myresolver
 
+    stantonius-http:
+      rule: "Host(`stantonius.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+      service: stantonius
+    stantonius:
+      rule: "Host(`stantonius.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: stantonius
+      tls:
+        certResolver: myresolver
+
     vault-http:
       rule: "Host(`vault.aldof.duckdns.org`)"
       entryPoints:
@@ -241,6 +256,11 @@ http:
       loadBalancer:
         servers:
           - url: "http://homepage:3000"
+
+    stantonius:
+      loadBalancer:
+        servers:
+          - url: "http://stantonius-web:80"
 
     vaultwarden:
       loadBalancer:
