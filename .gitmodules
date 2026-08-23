@@ -30,3 +30,6 @@
 [submodule "06-apps-wordpress-stantonius"]
 	path = 06-apps-wordpress-stantonius
 	url = git@github.com:Aldo-f/06-apps-wordpress-stantonius.git
+[submodule "06-apps-radio-community"]
+	path = 06-apps-radio-community
+	url = git@github.com:Aldo-f/radio-community.git

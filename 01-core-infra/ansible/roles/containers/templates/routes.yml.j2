@@ -23,8 +23,8 @@ http:
         servers:
           - url: "{{ b.url }}"
 {% if b.tls_skip_verify | default(false) %}
-        serversTransports:
-          - no-verify-tls
+        # singular key, loadBalancer level -> references http.serversTransports
+        serversTransport: no-verify-tls
 {% endif %}
 {% endfor %}
 
