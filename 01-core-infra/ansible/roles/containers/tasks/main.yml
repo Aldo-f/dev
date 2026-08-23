@@ -74,7 +74,7 @@
     label: "{{ item.name }}"
 
 # ---- Traefik route sync ----
-- name: Sync Traefik config files to runtime
+- name: Sync Traefik static config to runtime
   copy:
     src: "{{ template_dir }}/infra/04-network-traefik/{{ item }}"
     dest: "{{ traefik_runtime_dir }}/{{ item }}"
@@ -82,6 +82,14 @@
     group: aldo
     mode: '0644'
   loop:
-    - routes.yml
     - traefik.yml
+  notify: reload traefik
+
+- name: Render Traefik dynamic routes from role vars
+  template:
+    src: routes.yml.j2
+    dest: "{{ traefik_runtime_dir }}/routes.yml"
+    owner: aldo
+    group: aldo
+    mode: '0644'
   notify: reload traefik

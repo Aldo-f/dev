@@ -1,0 +1,33 @@
+http:
+  routers:
+{% for r in traefik_routes %}
+    {{ r.name }}:
+      rule: "Host(`{{ r.host }}`)"
+      entryPoints:
+        - websecure
+      service: {{ r.service }}
+      tls:
+        certResolver: {{ traefik_tls_certresolver }}
+{% if r.middlewares | default([]) %}
+      middlewares:
+{% for mw in r.middlewares %}
+        - {{ mw }}
+{% endfor %}
+{% endif %}
+{% endfor %}
+
+  services:
+{% for name, b in traefik_backends | dictsort %}
+    {{ name }}:
+      loadBalancer:
+        servers:
+          - url: "{{ b.url }}"
+{% endfor %}
+
+  middlewares:
+    ipAllowList:
+      ipAllowList:
+        sourceRange:
+{% for cidr in traefik_ip_allowlist %}
+          - "{{ cidr }}"
+{% endfor %}

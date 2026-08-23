@@ -134,25 +134,49 @@ check_image_pinning() {
 }
 run_check "docker images pinned (no :latest)" check_image_pinning
 
-# ── 7. Traefik routes.yml sanity ─────────────────────────────
+# ── 7. Traefik routes sanity (renders routes.yml.j2 from role vars) ──
 check_routes() {
-    local f="templates/infra/04-network-traefik/routes.yml"
-    [[ -f $f ]] || { echo "    routes.yml template missing"; return 1; }
-    python3 - "$f" <<'PYEOF'
-import sys, yaml, re
-d = yaml.safe_load(open(sys.argv[1]))
+    local tpl="ansible/roles/containers/templates/routes.yml.j2"
+    local defs="ansible/roles/containers/defaults/main.yml"
+    [[ -f $tpl && -f $defs ]] || { echo "    routes template/vars missing"; return 1; }
+    python3 - "$tpl" "$defs" <<'PYEOF'
+import sys, yaml, re, jinja2
+tpl_path, defs_path = sys.argv[1], sys.argv[2]
+defs = yaml.safe_load(open(defs_path))
+try:
+    vars_ = {k: defs[k] for k in ("traefik_routes", "traefik_backends",
+                                  "traefik_ip_allowlist",
+                                  "traefik_tls_certresolver")}
+except KeyError as e:
+    raise SystemExit(f"    missing role var: {e}")
+env = jinja2.Environment(trim_blocks=True, undefined=jinja2.StrictUndefined)
+out = env.from_string(open(tpl_path).read()).render(**vars_)
+d = yaml.safe_load(out)
 routers = d.get("http", {}).get("routers", {})
 services = d.get("http", {}).get("services", {})
+middlewares = d.get("http", {}).get("middlewares", {})
 assert routers, "no routers"
+hosts = set()
 for name, r in routers.items():
     assert "rule" in r and "Host(" in r["rule"], f"{name}: missing Host() rule"
-    rule = r["rule"]
-    for m in re.findall(r'Host\(`([^`]+)`\)', rule):
-        pass
     assert "service" in r, f"{name}: no service ref"
-    svc = r["service"]
-    assert svc in services, f"{name}: references undefined service '{svc}'"
-print(f"    validated {len(routers)} routers / {len(services)} services")
+    assert r["service"] in services, \
+        f"{name}: references undefined service '{r['service']}'"
+    hs = re.findall(r'Host\(`([^`]+)`\)', r["rule"])
+    assert hs, f"{name}: no hostname in rule"
+    for h in hs:
+        assert h not in hosts, f"{name}: duplicate host {h}"
+        hosts.add(h)
+used_svcs = {r["service"] for r in routers.values()}
+used_mws = set().union(*(r.get("middlewares", []) for r in routers.values()))
+orphans = set(services) - used_svcs
+assert not orphans, f"backends never routed: {sorted(orphans)}"
+unknown = used_mws - set(middlewares)
+assert not unknown, f"undefined middlewares referenced: {sorted(unknown)}"
+assert middlewares.get("ipAllowList", {}).get("ipAllowList", {})\
+    .get("sourceRange"), "ipAllowList middleware missing/empty"
+print(f"    validated {len(routers)} routers / {len(services)} services "
+      f"(rendered from routes.yml.j2)")
 PYEOF
 }
 run_check "traefik routes.yml router/service integrity" check_routes

@@ -37,3 +37,61 @@ container_services:
   # 07-security-* -> sibling dev repo dir
   - name: 07-security-vaultwarden
     runtime_dir: "/home/aldo/dev/07-security-vaultwarden"
+
+# ---------------------------------------------------------------------------
+# Traefik dynamic config — rendered into routes.yml via routes.yml.j2.
+#
+# Adding an exposed service = ONE line in traefik_routes (+ ONE backend entry).
+# HTTPS redirect and TLS certs come from the entrypoints (see
+# templates/infra/04-network-traefik/traefik.yml), so routers stay minimal.
+#
+#   name:        router key (Traefik dashboard label)
+#   host:        FQDN routed to the service
+#   service:     key in traefik_backends (must exist — CI gate enforces)
+#   middlewares: optional extra chain; add [ipAllowList] for private hosts
+# ---------------------------------------------------------------------------
+
+traefik_tls_certresolver: myresolver
+
+# IP ranges allowed through the ipAllowList middleware (private nets + home IP).
+traefik_ip_allowlist:
+  - "192.168.0.0/16"
+  - "10.0.0.0/8"
+  - "172.16.0.0/12"
+  - "169.254.0.0/16"
+  - "127.0.0.0/8"
+  - "94.110.157.71/32"
+
+# Backend servers (container names resolve on traefik_net; LAN IPs also fine).
+traefik_backends:
+  freellmapi: { url: "http://freellmapi:3001" }
+  nextcloud: { url: "http://nextcloud:80" }
+  hermes-webui: { url: "http://hermes-webui:8787" }
+  hermes-tq: { url: "http://hermes-tq:8788" }
+  homepage: { url: "http://homepage:3000" }
+  stantonius: { url: "http://stantonius-web:80" }
+  vaultwarden: { url: "http://vaultwarden:80" }
+  qbittorrent: { url: "http://qbittorrent:8080" }
+  jellyfin: { url: "http://jellyfin:8096" }
+  portainer: { url: "http://portainer:9000" }
+  cockpit: { url: "http://192.168.0.28:9090" }
+  metrics-hermes: { url: "http://192.168.0.5:9119" }
+
+# One line per exposed hostname.
+traefik_routes:
+  # ── Public services (no allowlist) ──
+  - { name: freellm, host: freellm.aldof.duckdns.org, service: freellmapi }
+  - { name: nextcloud, host: cloud.aldof.duckdns.org, service: nextcloud }
+  - { name: stantonius, host: stantonius.aldof.duckdns.org, service: stantonius }
+  - { name: homepage, host: aldof.duckdns.org, service: homepage }
+  - { name: neo-brutalist-home, host: neo-brutalist-home.aldof.duckdns.org, service: homepage }
+  - { name: qbittorrent, host: qbittorrent.aldof.duckdns.org, service: qbittorrent }
+  - { name: torrent, host: torrent.aldof.duckdns.org, service: qbittorrent }
+  - { name: jellyfin, host: jellyfin.aldof.duckdns.org, service: jellyfin }
+  # ── Private (IP allowlisted) ──
+  - { name: vault, host: vault.aldof.duckdns.org, service: vaultwarden, middlewares: [ipAllowList] }
+  - { name: hermes, host: web.hermes.dev.aldof.duckdns.org, service: hermes-webui, middlewares: [ipAllowList] }
+  - { name: hermes-tq, host: tq.hermes.dev.aldof.duckdns.org, service: hermes-tq, middlewares: [ipAllowList] }
+  - { name: portainer, host: portainer.dev.aldof.duckdns.org, service: portainer, middlewares: [ipAllowList] }
+  - { name: cockpit, host: cockpit.dev.aldof.duckdns.org, service: cockpit, middlewares: [ipAllowList] }
+  - { name: metrics-hermes, host: metrics.hermes.dev.aldof.duckdns.org, service: metrics-hermes, middlewares: [ipAllowList] }

@@ -1,6 +1,6 @@
 # tasks/main.yml
 - name: Deploy cron helper script
-  copy:
+  ansible.builtin.copy:
     src: app-install-cron
     dest: "{{ cron_helper_path }}"
     owner: root
@@ -8,19 +8,25 @@
     mode: 0755
 
 - name: Copy backup.sh to bin
-  copy:
+  ansible.builtin.copy:
     src: "{{ infra_dir }}/backup.sh"
     dest: "/usr/local/bin/backup.sh"
     mode: '0755'
 
 - name: Copy healthcheck.sh to bin
-  copy:
+  ansible.builtin.copy:
     src: "{{ infra_dir }}/healthcheck.sh"
     dest: "/usr/local/bin/healthcheck.sh"
     mode: '0755'
 
+- name: Copy nextcloud-db-backup.sh to bin
+  ansible.builtin.copy:
+    src: "{{ infra_dir }}/nextcloud-db-backup.sh"
+    dest: "/usr/local/bin/nextcloud-db-backup.sh"
+    mode: '0755'
+
 - name: Install cron jobs
-  shell: "{{ cron_helper_path }}"
+  ansible.builtin.shell: "{{ cron_helper_path }}"
   register: _cron_install
   changed_when: "_cron_install.stdout is search('installed|updated|added')"
   become: true

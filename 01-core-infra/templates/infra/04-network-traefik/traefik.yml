@@ -1,8 +1,22 @@
 entrypoints:
   web:
     address: ":80"
+    # Global HTTPS redirect — replaces per-router https-redirect middleware.
+    # ACME HTTP-01 still works: Let's Encrypt follows the redirect and Traefik
+    # answers the challenge before it applies.
+    http:
+      redirections:
+        entryPoint:
+          to: websecure
+          scheme: https
+          permanent: true
   websecure:
     address: ":443"
+    # Default TLS for every router on this entrypoint — routers no longer need
+    # their own tls.certResolver block.
+    http:
+      tls:
+        certResolver: myresolver
 
 providers:
   file:

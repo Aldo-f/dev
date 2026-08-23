@@ -10,5 +10,8 @@ HOME=__HOME__
 # Sensor daily summary om 00:05
 5 0 * * * __USER__ __CORE_INFRA__/sensors-daily-summary.sh
 
+# Nextcloud DB dump om 01:30 (vóór de 03:00 backup, na de dagelijkse piek)
+30 1 * * * root /usr/local/bin/nextcloud-db-backup.sh __CORE_INFRA__ >> __CORE_INFRA__/logs/nextcloud-db-backup-cron.log 2>&1
+
 # Backup dagelijks om 03:00
 0 3 * * * __USER__ __CORE_INFRA__/backup.sh >> __CORE_INFRA__/logs/backup-cron.log 2>&1

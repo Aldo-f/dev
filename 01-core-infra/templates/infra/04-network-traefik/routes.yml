@@ -79,6 +79,25 @@ http:
       tls:
         certResolver: myresolver
 
+    # ── Clocky clock studio (clock.dev.aldof.duckdns.org) ────────────────────
+    clock-http:
+      rule: "Host(`clock.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+        - ipAllowList
+      service: clocky
+    clock:
+      rule: "Host(`clock.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: clocky
+      tls:
+        certResolver: myresolver
+      middlewares:
+        - ipAllowList
+
     # ── Neo‑Brutalist Home (neo‑brutalist‑home.aldof.duckdns.org) ──────────────────────
     neo-brutalist-home-http:
       rule: "Host(`neo-brutalist-home.aldof.duckdns.org`)"
@@ -256,6 +275,11 @@ http:
       loadBalancer:
         servers:
           - url: "http://homepage:3000"
+
+    clocky:
+      loadBalancer:
+        servers:
+          - url: "http://clocky:3000"
 
     stantonius:
       loadBalancer:
