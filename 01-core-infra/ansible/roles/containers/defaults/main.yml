@@ -24,16 +24,17 @@ container_services:
   # 04-network-* -> sibling dev repo dir
   - name: 04-network-traefik
     runtime_dir: "/home/aldo/dev/04-network-traefik"
-  # 05-media-* -> sibling dev repo dirs
+  # 05-media-* -> sibling dev dirs
   - name: 05-media-jellyfin
     runtime_dir: "/home/aldo/dev/05-media-jellyfin"
   - name: 05-media-qbittorrent
     runtime_dir: "/home/aldo/dev/05-media-qbittorrent"
   - name: 05-media-nextcloud
     runtime_dir: "/home/aldo/dev/05-media-nextcloud"
-  # 06-apps-* -> own git repos (via manifest, only infra/ overwritten)
-  # - name: 06-apps-scripts-google
-  #   runtime_dir: "/home/aldo/dev/06-apps-scripts-google"
+  # NOTE: 06-apps services (stantonius, clock/clocky, …) keep their
+  # docker-compose.yml inside their own repos and are deployed directly
+  # with `docker compose up -d --build`; this role manages only their
+  # Traefik routes (see traefik_backends / traefik_routes below).
   # 07-security-* -> sibling dev repo dir
   - name: 07-security-vaultwarden
     runtime_dir: "/home/aldo/dev/07-security-vaultwarden"
@@ -61,6 +62,7 @@ traefik_ip_allowlist:
   - "169.254.0.0/16"
   - "127.0.0.0/8"
   - "94.110.157.71/32"
+  - "212.123.0.227/32"  # bib de Krook (library)
 
 # Backend servers (container names resolve on traefik_net; LAN IPs also fine).
 traefik_backends:
@@ -69,6 +71,7 @@ traefik_backends:
   hermes-webui: { url: "http://hermes-webui:8787" }
   hermes-tq: { url: "http://hermes-tq:8788" }
   homepage: { url: "http://homepage:3000" }
+  clocky: { url: "http://clocky:3000" }
   stantonius: { url: "http://stantonius-web:80" }
   vaultwarden: { url: "http://vaultwarden:80" }
   qbittorrent: { url: "http://qbittorrent:8080" }
@@ -84,7 +87,6 @@ traefik_routes:
   - { name: nextcloud, host: cloud.aldof.duckdns.org, service: nextcloud }
   - { name: stantonius, host: stantonius.aldof.duckdns.org, service: stantonius }
   - { name: homepage, host: aldof.duckdns.org, service: homepage }
-  - { name: neo-brutalist-home, host: neo-brutalist-home.aldof.duckdns.org, service: homepage }
   - { name: qbittorrent, host: qbittorrent.aldof.duckdns.org, service: qbittorrent }
   - { name: torrent, host: torrent.aldof.duckdns.org, service: qbittorrent }
   - { name: jellyfin, host: jellyfin.aldof.duckdns.org, service: jellyfin }
@@ -93,5 +95,6 @@ traefik_routes:
   - { name: hermes, host: web.hermes.dev.aldof.duckdns.org, service: hermes-webui, middlewares: [ipAllowList] }
   - { name: hermes-tq, host: tq.hermes.dev.aldof.duckdns.org, service: hermes-tq, middlewares: [ipAllowList] }
   - { name: portainer, host: portainer.dev.aldof.duckdns.org, service: portainer, middlewares: [ipAllowList] }
+  - { name: clock, host: clock.dev.aldof.duckdns.org, service: clocky, middlewares: [ipAllowList] }
   - { name: cockpit, host: cockpit.dev.aldof.duckdns.org, service: cockpit, middlewares: [ipAllowList] }
   - { name: metrics-hermes, host: metrics.hermes.dev.aldof.duckdns.org, service: metrics-hermes, middlewares: [ipAllowList] }
