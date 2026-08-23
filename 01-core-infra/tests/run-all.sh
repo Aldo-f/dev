@@ -173,6 +173,12 @@ orphans = set(services) - used_svcs
 assert not orphans, f"backends never routed: {sorted(orphans)}"
 unknown = used_mws - set(middlewares)
 assert not unknown, f"undefined middlewares referenced: {sorted(unknown)}"
+# Policy: every *.dev.* host MUST sit behind the ipAllowList middleware.
+for name, r in routers.items():
+    for h in re.findall(r'Host\(`([^`]+)`\)', r["rule"]):
+        if ".dev." in h:
+            assert "ipAllowList" in r.get("middlewares", []), \
+                f"{name}: *.dev host '{h}' must use ipAllowList middleware"
 assert middlewares.get("ipAllowList", {}).get("ipAllowList", {})\
     .get("sourceRange"), "ipAllowList middleware missing/empty"
 print(f"    validated {len(routers)} routers / {len(services)} services "
