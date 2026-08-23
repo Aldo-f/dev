@@ -58,7 +58,8 @@ li.service > div,
   filter: drop-shadow(1px 1px 0 var(--nb-line));
 }
 
-/* ---- Info widgets (top bar) --------------------------------------------- */
+/* ---- Info widgets (top bar) ---------------------------------------------
+   link removed via custom.js (LAN-only glances URL must not be clickable) */
 .information-widget-resource {
   background: var(--nb-surface) !important;
   border: 2px solid var(--nb-line);
@@ -66,6 +67,7 @@ li.service > div,
   box-shadow: var(--nb-shadow-sm);
   padding-left: 0.6rem !important;
   padding-right: 0.6rem !important;
+  cursor: default;
 }
 .information-widget-label {
   text-transform: uppercase;
