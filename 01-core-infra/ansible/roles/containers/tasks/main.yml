@@ -73,6 +73,27 @@
   loop_control:
     label: "{{ item.name }}"
 
+# ---- Nextcloud webroot ownership remediation ----
+# The ./app bind mount (= /var/www/html) must be writable by www-data (uid 33)
+# inside the container. Restores/tarball extractions reset it to aldo (1000),
+# which breaks Nextcloud with "Cannot write into config directory". Enforce
+# 33:33 after every deploy; only rewrite when ownership actually drifted.
+- name: Check current owner of Nextcloud webroot in container
+  command: docker exec nextcloud stat -c '%u:%g' /var/www/html
+  register: _nc_owner
+  changed_when: false
+  failed_when: false
+  when:
+    - limit_services | length == 0 or '05-media-nextcloud' in limit_services
+
+- name: Fix Nextcloud webroot ownership (www-data 33:33)
+  command: docker exec -u root nextcloud chown -R 33:33 /var/www/html
+  register: _nc_chown
+  changed_when: true
+  when:
+    - limit_services | length == 0 or '05-media-nextcloud' in limit_services
+    - _nc_owner.stdout | default('') != '33:33'
+
 # ---- Traefik route sync ----
 - name: Sync Traefik static config to runtime
   copy:
