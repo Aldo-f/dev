@@ -1,0 +1,18 @@
+# Glances web server for homepage dashboard metrics
+# Uses distro-packaged glances (v4 API, matches homepage widget version: 4).
+[Unit]
+Description=Glances Web Server (homepage metrics)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=aldo
+ExecStart=/usr/bin/glances -w -p 61208 --disable-plugin docker
+Restart=on-failure
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

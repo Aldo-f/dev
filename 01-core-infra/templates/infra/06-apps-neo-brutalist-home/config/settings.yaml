@@ -1,69 +1,7 @@
-# Homepage Settings Configuration
-# Neo-Brutalist theme for aldof.duckdns.org
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/settings/
 
-title: "aldof.duckdns.org"
-description: "Neo-Brutalist Infrastructure Dashboard"
-
-theme: "dark"
-color: "slate"
-
-layout:
-  # Neo-brutalist: 3 columns, compact
-  columns: 3
-  compact: true
-
-headerStyle: "clean"
-
-# Background - subtle grid pattern
-background:
-  image: "linear-gradient(45deg, #1a1a2e 25%, transparent 25%), linear-gradient(-45deg, #1a1a2e 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #1a1a2e 75%), linear-gradient(-45deg, transparent 75%, #1a1a2e 75%)"
-  size: "cover"
-  position: "center"
-  opacity: 0.95
-
-# Language & Locale
-language: "en"
-dateFormat: "YYYY-MM-DD"
-timeFormat: "HH:mm:ss"
-
-# Providers
 providers:
-  openweathermap: ""
-  openuv: ""
-
-# Kubernetes (not used)
-kubernetesMode: "cluster"
-inCluster: false
-
-# Docker socket for container discovery
-docker:
-  host: "unix:///var/run/docker.sock"
-
-# Custom CSS & JS
-customCss: "/app/config/custom.css"
-customJs: ""
-
-# Homepage Version & Update Checking
-hideVersion: true
-disableUpdateCheck: true
-
-# Quick Launch (keyboard shortcuts)
-quicklaunch:
-  - name: "Terminal"
-    href: "https://cockpit.aldof.duckdns.org"
-    description: "System terminal"
-    icon: "si-terminal"
-  - name: "Docker"
-    href: "https://portainer.aldof.duckdns.org"
-    description: "Container management"
-    icon: "si-portainer"
-  - name: "Files"
-    href: "https://cloud.aldof.duckdns.org"
-    description: "File storage"
-    icon: "si-nextcloud"
-
-# Footer
-footer:
-  - "Neo-Brutalist Dashboard"
-  - "Deployed via Ansible from 01-core-infra"
-  - "github.com/Aldo-f/01-core-infra"
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey

@@ -1,18 +1,144 @@
----
-# For configuration options and examples, please see:
 # https://gethomepage.dev/configs/services/
 
-- My First Group:
-    - My First Service:
-        href: http://localhost/
-        description: Homepage is awesome
+- Proxy & Network:
+    - Traefik:
+        icon: traefik-proxy.png
+        description: Reverse proxy (:80/:443)
+        server: pi5
+        container: traefik
+    - Portainer:
+        icon: portainer.png
+        href: https://portainer.dev.aldof.duckdns.org
+        description: Container management
+        server: pi5
+        container: portainer
+    - Cockpit:
+        icon: cockpit-project.png
+        href: https://cockpit.dev.aldof.duckdns.org
+        description: Host management
+        server: pi5
+        container: cockpit
 
-- My Second Group:
-    - My Second Service:
-        href: http://localhost/
-        description: Homepage is the best
+- Media:
+    - Jellyfin:
+        icon: jellyfin.png
+        href: https://jellyfin.aldof.duckdns.org
+        description: Media server
+        server: pi5
+        container: jellyfin
+    - qBittorrent:
+        icon: qbittorrent.png
+        href: https://qbittorrent.aldof.duckdns.org
+        description: Downloads
+        server: pi5
+        container: qbittorrent
 
-- My Third Group:
-    - My Third Service:
-        href: http://localhost/
-        description: Homepage is 😎
+- AI:
+    - FreeLLM API:
+        icon: mdi-brain
+        href: https://freellm.aldof.duckdns.org
+        description: LLM API gateway
+        server: pi5
+        container: 02-ai-freellmapi-freellmapi-1
+    - Hermes WebUI:
+        icon: mdi-robot-outline
+        href: https://web.hermes.dev.aldof.duckdns.org
+        description: Hermes agent chat
+        server: pi5
+        container: hermes-webui
+    - Hermes TQ:
+        icon: mdi-checkbox-marked-circle-outline
+        href: https://tq.hermes.dev.aldof.duckdns.org
+        description: Kanban board
+        server: pi5
+        container: hermes-tq
+
+- Files & Vault:
+    - Nextcloud:
+        icon: nextcloud.png
+        href: https://cloud.aldof.duckdns.org
+        description: Files & sync
+        server: pi5
+        container: nextcloud
+    - MariaDB NC:
+        icon: mariadb.png
+        description: Nextcloud database
+        server: pi5
+        container: nextcloud-db
+    - Redis NC:
+        icon: redis.png
+        description: Nextcloud cache & locking
+        server: pi5
+        container: nextcloud-redis
+    - Vaultwarden:
+        icon: vaultwarden.png
+        href: https://vault.aldof.duckdns.org
+        description: Password vault
+        server: pi5
+        container: vaultwarden
+
+- Apps:
+    - Stantonius:
+        icon: church.png
+        href: https://stantonius.aldof.duckdns.org
+        description: WordPress site
+        server: pi5
+        container: stantonius-web
+    - MariaDB Stant:
+        icon: mariadb.png
+        description: WordPress database
+        server: pi5
+        container: stantonius-db
+    - Toerekening:
+        icon: mdi-calculator-variant-outline
+        href: http://192.168.0.5:3002
+        description: Rekenapp
+        server: pi5
+        container: 06-apps-toerekening-toerekening-1
+    - PINO:
+        icon: mdi-cash-multiple
+        href: http://192.168.0.5:4747
+        description: Passive income orchestrator
+        server: pi5
+        container: pino_server
+    - Clocky:
+        icon: mdi-clock-digital
+        href: https://clock.dev.aldof.duckdns.org
+        description: Clock app
+        server: pi5
+        container: clocky
+
+- Radio:
+    - Radio Community:
+        icon: mdi-radio-tower
+        href: https://radio.dev.aldof.duckdns.org
+        description: Community radio platform
+        server: pi5
+        container: radio-community
+    - Playlist Watcher:
+        icon: mdi-playlist-music
+        description: Playlist monitor
+        server: pi5
+        container: playlist-watcher
+    - Radio Postgres:
+        icon: postgres.png
+        description: Radio database
+        server: pi5
+        container: radio-postgres
+    - Honeygain:
+        icon: honeygain.png
+        description: Passive income node
+        server: pi5
+        container: honeygain_node
+
+- Dashboard:
+    - Homepage:
+        icon: homepage.png
+        href: https://aldof.duckdns.org
+        description: This dashboard
+        server: pi5
+        container: homepage
+    - Portfolio:
+        icon: sh-github
+        href: https://aldo-f.github.io/
+        description: aldo-f.github.io

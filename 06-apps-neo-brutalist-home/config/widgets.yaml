@@ -1,12 +1,22 @@
----
-# For configuration options and examples, please see:
-# https://gethomepage.dev/configs/info-widgets/
-
-- resources:
+# https://gethomepage.dev/widgets/
+- glances:
+    label: pi5
+    url: http://192.168.0.5:61208
+    version: 4
     cpu: true
-    memory: true
-    disk: /
+    mem: true
+    cputemp: true
+    uptime: true
+    disk:
+      - /
+      - /mnt/HDD1
 
-- search:
-    provider: duckduckgo
-    target: _blank
+- glances:
+    label: pi3
+    url: http://192.168.0.3:61208
+    version: 4
+    cpu: true
+    mem: true
+    cputemp: true
+    uptime: true
+    disk: /

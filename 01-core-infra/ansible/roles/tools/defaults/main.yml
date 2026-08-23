@@ -1,5 +1,8 @@
 tools_sentries:
 
+  glances:
+    command: glances --version
+
   node:
     command: node -v
   nvm:

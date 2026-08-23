@@ -1,44 +1,22 @@
-# Homepage Widgets Configuration
-# System metrics and service health widgets for neo-brutalist dashboard
-
-# System Resources (CPU, Memory, Disk)
-- resources:
+# https://gethomepage.dev/widgets/
+- glances:
+    label: pi5
+    url: http://192.168.0.5:61208
+    version: 4
     cpu: true
-    memory: true
-    disk: /
-    expanded: true
-
-# Docker Containers Status (auto-discovers containers with label homepage.enable=true)
-- docker:
-    label: "homepage.enable=true"
-    showStats: true
-    showLogs: false
-
-# Uptime / System Info (built-in, no external dependency)
-- system:
-    hostname: true
+    mem: true
+    cputemp: true
     uptime: true
-    cpu: true
-    memory: true
-    disk: true
-    network: true
-    docker: true
+    disk:
+      - /
+      - /mnt/HDD1
 
-# Note: The following widgets require API keys configured in services.yaml
-# Uncomment and add keys to vault/secrets when ready:
-#
-# - nextcloud:
-#     url: "https://cloud.aldof.duckdns.org"
-#     key: "NEXTCLOUD_API_KEY"
-#
-# - pihole:
-#     url: "https://pihole.aldof.duckdns.org"
-#     key: "PIHOLE_API_KEY"
-#
-# - plex:
-#     url: "https://plex.aldof.duckdns.org"
-#     key: "PLEX_API_KEY"
-#
-# - portainer:
-#     url: "https://portainer.aldof.duckdns.org"
-#     key: "PORTAINER_API_KEY"
+- glances:
+    label: pi3
+    url: http://192.168.0.3:61208
+    version: 4
+    cpu: true
+    mem: true
+    cputemp: true
+    uptime: true
+    disk: /
