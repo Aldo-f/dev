@@ -27,7 +27,10 @@ log() { echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*"; }
 # Sync a checkout to origin/<branch> WITHOUT destroying local work.
 safe_sync() {
     local dir="$1" branch="${2:-main}"
-    git -C "$dir" fetch origin "$branch" --depth=1
+    # NOTE: no --depth here. A shallow fetch grafts origin/<branch> to a single
+    # commit, which breaks merge-base ancestry checks below and makes every
+    # "behind" state look like "unpushed commits".
+    git -C "$dir" fetch origin "$branch"
 
     # Only update when local is behind or equal (no unpushed commits).
     if ! git -C "$dir" merge-base --is-ancestor HEAD "origin/$branch"; then
