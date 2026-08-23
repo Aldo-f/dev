@@ -72,6 +72,7 @@ traefik_backends:
   hermes-tq: { url: "http://hermes-tq:8788" }
   homepage: { url: "http://homepage:3000" }
   clocky: { url: "http://clocky:3000" }
+  radio-community: { url: "http://radio-community:3000" }
   stantonius: { url: "http://stantonius-web:80" }
   vaultwarden: { url: "http://vaultwarden:80" }
   qbittorrent: { url: "http://qbittorrent:8080" }
@@ -96,5 +97,6 @@ traefik_routes:
   - { name: hermes-tq, host: tq.hermes.dev.aldof.duckdns.org, service: hermes-tq, middlewares: [ipAllowList] }
   - { name: portainer, host: portainer.dev.aldof.duckdns.org, service: portainer, middlewares: [ipAllowList] }
   - { name: clock, host: clock.dev.aldof.duckdns.org, service: clocky, middlewares: [ipAllowList] }
+  - { name: radio, host: radio.dev.aldof.duckdns.org, service: radio-community, middlewares: [ipAllowList] }
   - { name: cockpit, host: cockpit.dev.aldof.duckdns.org, service: cockpit, middlewares: [ipAllowList] }
   - { name: metrics-hermes, host: metrics.hermes.dev.aldof.duckdns.org, service: metrics-hermes, middlewares: [ipAllowList] }
