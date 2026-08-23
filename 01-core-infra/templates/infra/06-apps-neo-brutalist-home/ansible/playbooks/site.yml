@@ -1,0 +1,172 @@
+---
+# Neo-Brutalist Homepage Deployment Playbook
+# Deployed from: 01-core-infra/templates/infra/06-apps-neo-brutalist-home/
+# Target: aldof.duckdns.org via Traefik reverse proxy
+
+- name: Deploy Neo-Brutalist Homepage
+  hosts: localhost
+  become: true
+  vars:
+    __CORE_INFRA__: "{{ lookup('env', 'HOME') }}/dev/01-core-infra"
+    site_name: "06-apps-neo-brutalist-home"
+    site_domain: "aldof.duckdns.org"
+    site_root: "/var/www/{{ site_name }}"
+    metrics_script: "/opt/{{ site_name }}/collect-metrics.sh"
+    log_dir: "/var/log/{{ site_name }}"
+    traefik_config_dir: "/etc/traefik/dynamic"
+
+  tasks:
+    # ── Prerequisites ──────────────────────────────────────────
+    - name: Ensure Nginx is installed
+      package:
+        name: nginx
+        state: present
+
+    - name: Ensure Nginx is enabled and running
+      systemd:
+        name: nginx
+        enabled: true
+        state: started
+
+    # ── Directory Structure ────────────────────────────────────
+    - name: Create site root directory
+      file:
+        path: "{{ site_root }}"
+        state: directory
+        owner: www-data
+        group: www-data
+        mode: '0755'
+
+    - name: Create metrics script directory
+      file:
+        path: "/opt/{{ site_name }}"
+        state: directory
+        owner: root
+        group: root
+        mode: '0755'
+
+    - name: Create log directory
+      file:
+        path: "{{ log_dir }}"
+        state: directory
+        owner: root
+        group: root
+        mode: '0755'
+
+    - name: Create Traefik dynamic config directory
+      file:
+        path: "{{ traefik_config_dir }}"
+        state: directory
+        owner: root
+        group: root
+        mode: '0755'
+
+    # ── Deploy Static Files ────────────────────────────────────
+    - name: Deploy index.html
+      copy:
+        src: "{{ __CORE_INFRA__ }}/templates/infra/06-apps-neo-brutalist-home/html/index.html"
+        dest: "{{ site_root }}/index.html"
+        owner: www-data
+        group: www-data
+        mode: '0644'
+
+    - name: Deploy style.css
+      copy:
+        src: "{{ __CORE_INFRA__ }}/templates/infra/06-apps-neo-brutalist-home/html/style.css"
+        dest: "{{ site_root }}/style.css"
+        owner: www-data
+        group: www-data
+        mode: '0644'
+
+    - name: Deploy metrics.json (initial)
+      copy:
+        content: '{"uptime": "N/A", "ram_used": "N/A", "ram_total": "N/A", "ram_percent": 0, "hdd1_used": "N/A", "hdd1_total": "N/A", "hdd1_percent": 0, "ssd_used": "N/A", "ssd_total": "N/A", "ssd_percent": 0, "cpu_load_1m": 0, "cpu_load_5m": 0, "cpu_load_15m": 0, "cpu_temp": "N/A", "project_count": 0, "last_updated": "N/A"}'
+        dest: "{{ site_root }}/metrics.json"
+        owner: www-data
+        group: www-data
+        mode: '0644'
+
+    # ── Deploy Metrics Collection Script ───────────────────────
+    - name: Deploy metrics collection script
+      template:
+        src: "{{ __CORE_INFRA__ }}/templates/infra/06-apps-neo-brutalist-home/systemd/collect-metrics.sh.j2"
+        dest: "{{ metrics_script }}"
+        owner: root
+        group: root
+        mode: '0755'
+
+    # ── Deploy Systemd Units ───────────────────────────────────
+    - name: Deploy metrics collection service
+      template:
+        src: "{{ __CORE_INFRA__ }}/templates/infra/06-apps-neo-brutalist-home/systemd/neo-brutalist-home-metrics.service.j2"
+        dest: "/etc/systemd/system/neo-brutalist-home-metrics.service"
+        owner: root
+        group: root
+        mode: '0644'
+
+    - name: Deploy metrics collection timer
+      template:
+        src: "{{ __CORE_INFRA__ }}/templates/infra/06-apps-neo-brutalist-home/systemd/neo-brutalist-home-metrics.timer.j2"
+        dest: "/etc/systemd/system/neo-brutalist-home-metrics.timer"
+        owner: root
+        group: root
+        mode: '0644'
+
+    - name: Reload systemd daemon
+      systemd:
+        daemon_reload: true
+
+    - name: Enable and start metrics timer
+      systemd:
+        name: neo-brutalist-home-metrics.timer
+        enabled: true
+        state: started
+
+    # ── Deploy Nginx Configuration ─────────────────────────────
+    - name: Deploy Nginx site configuration
+      template:
+        src: "{{ __CORE_INFRA__ }}/templates/infra/06-apps-neo-brutalist-home/nginx/neo-brutalist-home.conf.j2"
+        dest: "/etc/nginx/sites-available/{{ site_name }}"
+        owner: root
+        group: root
+        mode: '0644'
+      notify: reload nginx
+
+    - name: Enable Nginx site
+      file:
+        src: "/etc/nginx/sites-available/{{ site_name }}"
+        dest: "/etc/nginx/sites-enabled/{{ site_name }}"
+        state: link
+
+    - name: Remove default Nginx site
+      file:
+        path: "/etc/nginx/sites-enabled/default"
+        state: absent
+      notify: reload nginx
+
+    # ── Deploy Traefik Dynamic Configuration ───────────────────
+    - name: Deploy Traefik router configuration
+      template:
+        src: "{{ __CORE_INFRA__ }}/templates/infra/06-apps-neo-brutalist-home/traefik/neo-brutalist-home.toml.j2"
+        dest: "{{ traefik_config_dir }}/neo-brutalist-home.toml"
+        owner: root
+        group: root
+        mode: '0644'
+      notify: reload traefik
+
+    # ── Handlers ───────────────────────────────────────────────
+  handlers:
+    - name: reload nginx
+      systemd:
+        name: nginx
+        state: reloaded
+
+    - name: reload traefik
+      systemd:
+        name: traefik
+        state: reloaded
+
+    - name: restart metrics timer
+      systemd:
+        name: neo-brutalist-home-metrics.timer
+        state: restarted

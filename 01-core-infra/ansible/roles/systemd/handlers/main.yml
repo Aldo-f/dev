@@ -1,0 +1,15 @@
+- name: Reload systemd
+  ansible.builtin.command: systemctl daemon-reload
+  changed_when: true
+  become: true
+  async: 30
+  poll: 0
+
+- name: Reload sudoers
+  ansible.builtin.command: "sudo chmod 0440 {{ sudoers_file }}"
+  changed_when: true
+  args:
+    chdir: /
+  become: true
+  async: 30
+  poll: 0

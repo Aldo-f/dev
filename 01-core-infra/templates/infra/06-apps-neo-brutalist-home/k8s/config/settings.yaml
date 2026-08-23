@@ -1,0 +1,19 @@
+# Homepage configuration
+title: "HomeLab Dashboard"
+description: "Centralized access to all services"
+theme: "dark"
+layout:
+  "Home":
+    style: "row"
+    columns: 3
+  "Media":
+    style: "row"
+    columns: 3
+  "Infrastructure":
+    style: "row"
+    columns: 3
+header: true
+footer: '<p>HomeLab Dashboard | <a href="https://github.com/gethomepage/homepage" target="_blank">Homepage</a></p>'
+color: "slate"
+providers:
+  openweathermap: "your-api-key-here"

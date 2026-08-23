@@ -1,0 +1,154 @@
+- name: Check aldo's current login shell
+  command: getent passwd aldo
+  register: aldo_passwd
+  changed_when: false
+  when: "'fish' in tools_sentries"
+
+- name: Make fish the default login shell
+  shell: |
+    fish_path=$(command -v fish)
+    grep -qxF "$fish_path" /etc/shells || echo "$fish_path" | sudo tee -a /etc/shells
+    sudo chsh -s "$fish_path" "aldo"
+  changed_when: true
+  when: "'fish' in tools_sentries and 'fish' not in aldo_passwd.stdout"
+
+- name: Install NVM and Node.js LTS
+  shell: |
+    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.6/install.sh | bash
+    export NVM_DIR="/home/aldo/.nvm"
+    [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+    [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+    nvm install --lts
+    nvm use --lts
+    node -v
+    npm -v
+  args:
+    creates: /home/aldo/.nvm/versions/node/v*/bin/node
+  become: true
+  become_user: aldo
+  when: "'nvm' in tools_sentries"
+
+- name: Install nodejs
+  shell: curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - && sudo apt-get install -y nodejs
+  args:
+    creates: /usr/bin/node
+  become: true
+  when: "'node' in tools_sentries"
+
+- name: Install pnpm
+  shell: sudo npm install -g pnpm
+  args:
+    creates: /usr/bin/pnpm  # nodesource puts global bins in /usr/bin
+  become: true
+  when: "'pnpm' in tools_sentries"
+
+- name: Install locate (plocate)
+  apt:
+    name: locate
+    state: present
+  become: true
+  when: "'locate' in tools_sentries and ansible_facts.packages['locate'] is not defined"
+
+- name: Install git-lfs
+  apt:
+    name: git-lfs
+    state: present
+  become: true
+  when: "'git-lfs' in tools_sentries"
+
+- name: Install git-filter-repo
+  apt:
+    name: git-filter-repo
+    state: present
+  become: true
+  when: "'git_filter_repo' in tools_sentries"
+
+- name: Install spec-kit
+  shell: |
+    git clone https://github.com/github/spec-kit.git /home/{{ ansible_user }}/.local/spec-kit
+    cd /home/{{ ansible_user }}/.local/spec-kit && pip install -e .
+    echo 'export PATH="$HOME/.local/bin:$PATH"' >> /home/{{ ansible_user }}/.bashrc
+    echo 'export PATH="$HOME/.local/spec-kit-venv/bin:$PATH"' >> /home/{{ ansible_user }}/.bashrc
+  args:
+    creates: /home/{{ ansible_user }}/.local/spec-kit/.git
+  when: "'spec_kit' in tools_sentries"
+
+- name: Install fvm
+  shell: curl -fsSL https://fvm.app/install.sh | bash
+  args:
+    creates: /home/aldo/fvm/bin/fvm
+  become: false  # user-local install; play-level become put it in /root/fvm
+  when: "'fvm' in tools_sentries"
+
+- name: Install ollama
+  shell: curl -fsSL https://ollama.com/install.sh | sh
+  args:
+    creates: /usr/local/bin/ollama  # /usr/bin/ollama is a symlink to this
+  become: true
+  when: "'ollama' in tools_sentries"
+
+- name: Install hermes
+  shell: curl -fsSL https://hermes-agent.nousresearch.com/install.sh | bash -s -- --skip-setup --skip-browser
+  args:
+    creates: /home/aldo/.local/bin/hermes  # real binary location
+  become: false  # user-local install; play-level become targeted /root
+  when: "'hermes' in tools_sentries"
+
+- name: Install opencode
+  shell: curl -fsSL https://opencode.ai/install | bash
+  args:
+    creates: /usr/local/bin/opencode  # real location, not ~/.opencode/bin
+  when: "'opencode' in tools_sentries"
+
+- name: Install fx coding agent CLI
+  shell: curl -fsSL https://fx.sh/setup.sh | bash
+  args:
+    creates: "/home/{{ ansible_user }}/.local/bin/fx"
+  become: false  # user-local install; play-level become would target /root
+  when: "'fx' in tools_sentries"
+
+- name: Install OMO
+  shell: |
+    bunx oh-my-openagent install --no-tui --claude no --openai no --gemini no --copilot no --platform opencode
+    mkdir -p ~/.config/opencode && touch ~/.config/opencode/.omo-installed-by-01-core-infra
+  args:
+    creates: ~/.config/opencode/.omo-installed-by-01-core-infra
+  when: "'opencode' in tools_sentries and 'bun' in tools_sentries"
+
+- name: Install tailscale
+  shell: curl -fsSL https://tailscale.com/install.sh | sh
+  args:
+    creates: /usr/bin/tailscale
+  become: true
+  when: "'tailscale' in tools_sentries"
+
+- name: Install toot (Mastodon CLI)
+  ansible.builtin.pip:
+    name: toot
+    state: present
+  when: "'toot' in tools_sentries"
+
+- name: Install and configure lm-sensors
+  block:
+    - name: Install lm-sensors
+      ansible.builtin.apt:
+        name: lm-sensors
+        state: present
+      become: true
+
+    - name: Run sensors-detect non-interactively
+      ansible.builtin.shell: sensors-detect --auto
+      args:
+        creates: /etc/sensors.d/.sensors-detected
+      become: true
+      changed_when: false
+
+    - name: Mark sensors as detected
+      ansible.builtin.file:
+        path: /etc/sensors.d/.sensors-detected
+        state: touch
+        mode: "0644"
+        modification_time: preserve
+        access_time: preserve
+      become: true
+  when: "'lm_sensors' in tools_sentries"

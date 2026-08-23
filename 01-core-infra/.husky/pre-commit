@@ -1,0 +1,56 @@
+#!/bin/bash
+# .husky/pre-commit — gate commits on the 01-core-infra validation suite.
+# Only valid, working code gets committed.
+set -uo pipefail
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+INFRA="$(git rev-parse --show-toplevel)/01-core-infra"
+cd "$INFRA" 2>/dev/null || exit 0
+
+STAGED_FILES=$(git diff --cached --name-only --diff-filter=ACMR | sed 's|^01-core-infra/||')
+
+# Fast path: skip the heavy suite when nothing testable changed.
+TESTABLE_RE='01-core-infra/ansible/|01-core-infra/templates/|01-core-infra/tests/|01-core-infra/scripts/|^ansible/|^templates/|^tests/|^scripts/|01-core-infra/install\.sh$|01-core-infra/backup\.sh$|01-core-infra/healthcheck\.sh$|package\.json$'
+if ! grep -qE "$TESTABLE_RE" <<<"$STAGED_FILES"; then
+    echo "✅ No infra-relevant files staged — skipping validation suite"
+    exit 0
+fi
+
+echo "=== Pre-commit: running validation suite ==="
+
+# The full suite (yamllint, ansible syntax+lint, bash -n, compose config,
+# traefik routes integrity, placeholders, vault safety, role structure).
+if ! bash tests/run-all.sh; then
+    echo ""
+    echo "❌ COMMIT BLOCKED — validation suite failed."
+    echo "   Fix the issues above, then commit again."
+    echo "   (Emergency bypass: git commit --no-verify — use sparingly!)"
+    exit 1
+fi
+
+# Staged-file-only placeholder guard: block hardcoded /home paths in what you commit
+PLACEHOLDER_FAIL=0
+while IFS= read -r f; do
+    case "$f" in
+        templates/cron/*|templates/systemd/*)
+            if grep -nE '/home/[a-z]+/' "$f" >/dev/null 2>&1; then
+                echo "❌ Hardcoded /home path in staged template: $f"
+                grep -nE '/home/[a-z]+/' "$f" | sed 's/^/     /'
+                PLACEHOLDER_FAIL=1
+            fi
+            ;;
+        # never let vault secrets slip through
+        *master.key*)
+            echo "❌ Attempting to commit vault master key: $f"
+            PLACEHOLDER_FAIL=1
+            ;;
+    esac
+done <<<"$STAGED_FILES"
+
+if (( PLACEHOLDER_FAIL )); then
+    echo "❌ COMMIT BLOCKED — placeholder/secret violations in staged files."
+    exit 1
+fi
+
+echo "✅ Pre-commit checks passed"
+exit 0

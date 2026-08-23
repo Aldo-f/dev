@@ -1,0 +1,15 @@
+services:
+  cockpit:
+    image: quay.io/cockpit/ws@sha256:c7d71650e63cc6023f1e80b62f7612bfa08bad8acaaf0b7b5dc4dee2b12cb3ff
+    container_name: cockpit
+    restart: unless-stopped
+    network_mode: host
+    volumes:
+      - /run:/run
+    healthcheck:
+      # cockpit/ws ships python3 but not curl/wget — check via urllib.
+      test: ["CMD", "python3", "-c", "import urllib.request, ssl; urllib.request.urlopen('https://127.0.0.1:9090/', context=ssl._create_unverified_context(), timeout=5)"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s

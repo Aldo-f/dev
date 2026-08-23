@@ -1,0 +1,356 @@
+---
+# 05-media-storage-cleanup role
+# Reorganizes storage: config -> SSD (/home/aldo/dev/05-media-*), data -> HDD (/mnt/HDD).
+# Fixes /etc/fstab to correctly mount the HDD by PARTUUID.
+# All phases are idempotent and tagged [storage-cleanup, never].
+
+- name: Phase 1 — Verify environment and generate unique timestamp
+  block:
+    - name: Ensure backup directory exists
+      file:
+        path: "{{ backup_dir }}"
+        state: directory
+        owner: aldo
+        group: aldo
+        mode: '0755'
+
+    - name: Generate unique archive timestamp
+      set_fact:
+        archive_ts: "{{ ansible_date_time.year }}{{ ansible_date_time.month }}{{ ansible_date_time.day }}-{{ ansible_date_time.hour }}{{ ansible_date_time.minute }}{{ ansible_date_time.second }}"
+
+    - name: Define full backup target directory
+      set_fact:
+        archive_dir: "{{ backup_dir }}/05-media-cleanup-{{ archive_ts }}"
+
+    - name: Ensure archive target directory exists
+      file:
+        path: "{{ archive_dir }}"
+        state: directory
+        owner: aldo
+        group: aldo
+        mode: '0755'
+
+- name: Phase 2 — Stop running media/nextcloud containers safely
+  block:
+    - name: Stop containers (ignore failures if not running)
+      community.docker.docker_container:
+        name: "{{ item }}"
+        state: absent
+      loop:
+        - nextcloud
+        - nextcloud-db
+        - nextcloud-redis
+        - jellyfin
+        - qbittorrent
+      ignore_errors: true  # noqa: ignore-errors — best-effort cleanup by design
+
+- name: Phase 3 — Archive legacy config/app directories non-destructively
+  block:
+    - name: Archive legacy nextcloud app dir (if exists)
+      archive:
+        path: /home/aldo/nextcloud/html
+        dest: "{{ archive_dir }}/nextcloud-html.tgz"
+        format: gz
+        mode: "0644"
+        owner: aldo
+        group: aldo
+      ignore_errors: true  # noqa: ignore-errors — best-effort cleanup by design
+
+    - name: Archive legacy 06-apps-nextcloud dir (if exists)
+      archive:
+        path: /home/aldo/dev/06-apps-nextcloud
+        dest: "{{ archive_dir }}/06-apps-nextcloud.tgz"
+        format: gz
+        mode: "0644"
+        owner: aldo
+        group: aldo
+      ignore_errors: true  # noqa: ignore-errors — best-effort cleanup by design
+
+    - name: Archive legacy ssd backup nextcloud code (excluding data) (if exists)
+      archive:
+        path: "{{ ssd_backup_path }}/nextcloud"
+        dest: "{{ archive_dir }}/ssd-nextcloud-code.tgz"
+        format: gz
+        mode: "0644"
+        exclude_path:
+          - "{{ ssd_backup_path }}/nextcloud/data"
+        owner: aldo
+        group: aldo
+      ignore_errors: true  # noqa: ignore-errors — best-effort cleanup by design
+
+    - name: Archive legacy shadow qbittorrent config (if exists)
+      archive:
+        path: "{{ legacy_hdd_shadow_path }}/qbittorrent/config"
+        dest: "{{ archive_dir }}/qbittorrent-config.tgz"
+        format: gz
+        mode: "0644"
+        owner: aldo
+        group: aldo
+      ignore_errors: true  # noqa: ignore-errors — best-effort cleanup by design
+
+    - name: Archive legacy shadow jellyfin config and cache (if exists)
+      archive:
+        path:
+          - "{{ legacy_hdd_shadow_path }}/jellyfin/config"
+          - "{{ legacy_hdd_shadow_path }}/jellyfin/cache"
+        dest: "{{ archive_dir }}/jellyfin-config.tgz"
+        format: gz
+        mode: "0644"
+        owner: aldo
+        group: aldo
+      ignore_errors: true  # noqa: ignore-errors — best-effort cleanup by design
+
+    - name: Generate sha256 checksums for all archives
+      shell: "sha256sum {{ archive_dir }}/*.tgz > {{ archive_dir }}/SHA256SUMS"
+      args:
+        creates: "{{ archive_dir }}/SHA256SUMS"
+
+- name: Phase 4 — Migrate to canonical SSD runtime directories
+  block:
+    - name: Ensure SSD runtime directories exist
+      file:
+        path: "{{ item }}"
+        state: directory
+        owner: aldo
+        group: aldo
+        mode: '0755'
+      loop:
+        - "{{ nextcloud_ssd_runtime_dir }}/app"
+        - "{{ nextcloud_ssd_runtime_dir }}/db"
+        - "{{ nextcloud_ssd_runtime_dir }}/redis"
+        - "{{ qbittorrent_ssd_runtime_dir }}/config"
+        - "{{ jellyfin_ssd_runtime_dir }}/config"
+        - "{{ jellyfin_ssd_runtime_dir }}/cache"
+
+    - name: Rsync legacy nextcloud html to new SSD app dir (if exists)
+      synchronize:
+        src: /home/aldo/nextcloud/html/
+        dest: "{{ nextcloud_ssd_runtime_dir }}/app/"
+        delete: no
+        recursive: yes
+      ignore_errors: true  # noqa: ignore-errors — best-effort cleanup by design
+
+    - name: Rsync legacy 06-apps-nextcloud to new SSD dirs (if exists)
+      synchronize:
+        src: "{{ item.src }}"
+        dest: "{{ item.dest }}"
+        delete: no
+        recursive: yes
+      loop:
+        - { src: "/home/aldo/dev/06-apps-nextcloud/nextcloud/", dest: "{{ nextcloud_ssd_runtime_dir }}/app/" }
+        - { src: "/home/aldo/dev/06-apps-nextcloud/db/",        dest: "{{ nextcloud_ssd_runtime_dir }}/db/" }
+        - { src: "/home/aldo/dev/06-apps-nextcloud/redis/",     dest: "{{ nextcloud_ssd_runtime_dir }}/redis/" }
+      ignore_errors: true  # noqa: ignore-errors — best-effort cleanup by design
+
+    - name: Rsync legacy shadow qbittorrent config to new SSD config dir (if exists)
+      synchronize:
+        src: "{{ legacy_hdd_shadow_path }}/qbittorrent/config/"
+        dest: "{{ qbittorrent_ssd_runtime_dir }}/config/"
+        delete: no
+        recursive: yes
+      ignore_errors: true  # noqa: ignore-errors — best-effort cleanup by design
+
+    - name: Rsync legacy shadow jellyfin config to new SSD config dir (if exists)
+      synchronize:
+        src: "{{ legacy_hdd_shadow_path }}/jellyfin/config/"
+        dest: "{{ jellyfin_ssd_runtime_dir }}/config/"
+        delete: no
+        recursive: yes
+      ignore_errors: true  # noqa: ignore-errors — best-effort cleanup by design
+
+    - name: Rsync legacy shadow jellyfin cache to new SSD cache dir (if exists)
+      synchronize:
+        src: "{{ legacy_hdd_shadow_path }}/jellyfin/cache/"
+        dest: "{{ jellyfin_ssd_runtime_dir }}/cache/"
+        delete: no
+        recursive: yes
+      ignore_errors: true  # noqa: ignore-errors — best-effort cleanup by design
+
+    - name: Fix ownership for SSD nextcloud app dir
+      file:
+        path: "{{ nextcloud_ssd_runtime_dir }}/app"
+        owner: "{{ www_data_uid }}"
+        group: "{{ www_data_gid }}"
+        recurse: yes
+
+    - name: Fix ownership for SSD nextcloud redis dir
+      file:
+        path: "{{ nextcloud_ssd_runtime_dir }}/redis"
+        owner: "{{ container_user_puid }}"
+        group: "{{ container_user_puid }}"
+        recurse: yes
+
+    - name: Fix ownership for SSD qbittorrent config dir
+      file:
+        path: "{{ qbittorrent_ssd_runtime_dir }}/config"
+        owner: "{{ container_user_puid }}"
+        group: "{{ container_user_puid }}"
+        recurse: yes
+
+    - name: Fix ownership for SSD jellyfin config and cache dirs
+      file:
+        path: "{{ item }}"
+        owner: "{{ container_user_puid }}"
+        group: "{{ container_user_puid }}"
+        recurse: yes
+      loop:
+        - "{{ jellyfin_ssd_runtime_dir }}/config"
+        - "{{ jellyfin_ssd_runtime_dir }}/cache"
+
+- name: Phase 5 — Fix /etc/fstab to mount HDD by PARTUUID
+  block:
+    - name: Get PARTUUID of /dev/sda1
+      shell: "blkid -s PARTUUID -o value /dev/sda1"
+      register: sda1_partuuid
+      changed_when: false
+      check_mode: no
+
+    - name: Backup current /etc/fstab
+      copy:
+        src: /etc/fstab
+        dest: "/etc/fstab.bak.{{ archive_ts }}"
+        remote_src: yes
+        owner: root
+        group: root
+        mode: '0644'
+
+    - name: Rewrite /etc/fstab with correct HDD mount
+      copy:
+        dest: /etc/fstab
+        owner: root
+        group: root
+        mode: '0644'
+        content: |
+          proc            /proc           proc    defaults          0       0
+          PARTUUID=2b6cf01c-01  /boot/firmware  vfat    defaults          0       2
+          PARTUUID=2b6cf01c-02  /               ext4    defaults,noatime  0       1
+          PARTUUID={{ sda1_partuuid.stdout }}  {{ hdd_mount_path }}  ext4  defaults,noatime,nofail  0  2
+
+    - name: Reload systemd daemon to apply fstab
+      systemd:
+        daemon_reload: yes
+
+- name: Phase 6 — Synchronize SSD backup data as safety and archive shadows
+  block:
+    - name: Ensure HDD structure exists
+      file:
+        path: "{{ item }}"
+        state: directory
+        owner: aldo
+        group: aldo
+        mode: '0755'
+      loop:
+        - "{{ hdd_mount_path }}/nextcloud/data"
+        - "{{ hdd_mount_path }}/media"
+        - "{{ hdd_mount_path }}/downloads"
+
+    - name: Ensure SSD backup data dir exists
+      stat:
+        path: "{{ ssd_backup_path }}/nextcloud/data"
+      register: ssd_backup_data
+
+    - name: Rsync SSD backup nextcloud data into HDD as safety (dry-run)
+      shell: "rsync -aHAXn --update {{ ssd_backup_path }}/nextcloud/data/ {{ hdd_mount_path }}/nextcloud/data/"
+      register: rsync_preview
+      when: ssd_backup_data.stat.exists
+      changed_when: false
+
+    - name: Print rsync safety-merge summary
+      debug:
+        msg: "{{ rsync_preview.stdout_lines }}"
+      when: ssd_backup_data.stat.exists
+
+    - name: Rsync SSD backup nextcloud data into HDD (real safety merge)
+      shell: "rsync -aHAX --update {{ ssd_backup_path }}/nextcloud/data/ {{ hdd_mount_path }}/nextcloud/data/"
+      register: rsync_merge
+      when: ssd_backup_data.stat.exists
+      changed_when: "rsync_merge.stdout is search('building file list')"
+
+    - name: Archive obsolete shadow directories
+      archive:
+        path:
+          - "{{ legacy_hdd_shadow_path }}"
+          - "{{ ssd_backup_path }}"
+        dest: "{{ archive_dir }}/obsolete-shadows.tgz"
+        format: gz
+        mode: "0644"
+        owner: aldo
+        group: aldo
+      ignore_errors: true  # noqa: ignore-errors — best-effort cleanup by design
+
+- name: Phase 7 — Configure shared group media-share and apply ACLs to HDD
+  block:
+    - name: Ensure group media-share exists (use command to ensure immediate DB propagation)
+      command: "getent group {{ shared_group }} || groupadd -g {{ shared_group_gid }} {{ shared_group }}"
+      register: group_check
+      changed_when: "'not found' in group_check.stderr or group_check.rc == 0"
+
+    - name: Add users to media-share group (using command for immediate effect)
+      command: "usermod -aG {{ shared_group }} {{ item }}"
+      loop:
+        - aldo
+        - www-data
+      ignore_errors: true  # noqa: ignore-errors — best-effort cleanup by design
+      changed_when: true
+
+    - name: Apply rwX ACLs for media-share on HDD dirs
+      acl:
+        path: "{{ item }}"
+        entity: "{{ shared_group }}"
+        etype: group
+        permissions: rwX
+        recursive: yes
+        state: present
+      loop:
+        - "{{ hdd_mount_path }}/nextcloud/data/aldo/files"
+        - "{{ hdd_mount_path }}/media"
+        - "{{ hdd_mount_path }}/downloads"
+
+    - name: Apply default rwX ACLs for media-share on HDD dirs
+      acl:
+        path: "{{ item }}"
+        entity: "{{ shared_group }}"
+        etype: group
+        permissions: rwX
+        recursive: yes
+        default: yes
+        state: present
+      loop:
+        - "{{ hdd_mount_path }}/nextcloud/data/aldo/files"
+        - "{{ hdd_mount_path }}/media"
+        - "{{ hdd_mount_path }}/downloads"
+
+    - name: Capture getfacl snapshot into report
+      shell: "getfacl -p {{ hdd_mount_path }}/nextcloud/data/aldo/files > {{ archive_dir }}/acl-snapshot.txt"
+      args:
+        creates: "{{ archive_dir }}/acl-snapshot.txt"
+
+- name: Phase 8 — Deploy new compose files via containers role
+  include_role:
+    name: containers
+  vars:
+    limit_services:
+      - "05-media-nextcloud"
+      - "05-media-jellyfin"
+      - "05-media-qbittorrent"
+
+- name: Phase 9 — Run Nextcloud files:scan
+  block:
+    - name: Wait for Nextcloud container to be healthy
+      community.docker.docker_container_info:
+        name: nextcloud
+      register: nc_info
+      until: nc_info.exists and nc_info.container.State.Health.Status == "healthy"
+      retries: 30
+      delay: 10
+
+    - name: Run occ files:scan --all
+      community.docker.docker_container_exec:
+        container: nextcloud
+        command: "php occ files:scan --all"
+        user: "www-data"
+      register: nc_scan
+
+    - name: Print files:scan output
+      debug:
+        msg: "{{ nc_scan.stdout_lines }}"

@@ -1,0 +1,29 @@
+# .ansible-lint — 01-core-infra
+# Strict on correctness rules (syntax, structure, risky patterns);
+# style-only rules relaxed to keep the signal high on a legacy playbook.
+# Tighten over time: remove entries from skip_list as the codebase is modernized.
+
+skip_list:
+  # Style: FQCN migration is mechanical but touches 200+ lines; do it in a dedicated pass.
+  - fqcn[action-core]
+  - fqcn[action]
+  - fqcn[canonical]
+  # Style: yaml truthy (yes/no vs true/false) is consistent across this repo.
+  - yaml[truthy]
+  - yaml[octal-values]
+  - yaml[line-length]
+  - yaml[commas]
+  # Naming: role vars intentionally shared across roles via site.yml group_vars.
+  - var-naming[no-role-prefix]
+  # Cosmetic:
+  - name[casing]
+  - name[template]
+  - key-order[task]
+
+warn_list:
+  # These indicate real risk; keep them visible but don't fail CI yet.
+  - command-instead-of-shell   # install scripts genuinely need shell (curl | sh)
+  - command-instead-of-module  # same for curl pipes
+  - risky-shell-pipe           # installer pipes
+  - partial-become            # become hygiene, fix incrementally
+  - latest[git]               # pinned git module usage

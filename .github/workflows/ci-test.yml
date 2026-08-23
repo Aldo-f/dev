@@ -1,0 +1,57 @@
+name: CI Validation
+
+# Runs the same validation suite as the local pre-commit hook
+# (tests/run-all.sh) so CI failures can always be reproduced locally.
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    branches: [main]
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Validate (yamllint · ansible · bash · compose · routes)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Ansible + linters (pip, consistent versions)
+        working-directory: 01-core-infra/ansible
+        run: |
+          python -m pip install --upgrade pip
+          pip install "ansible-core>=2.17,<2.18" ansible-lint yamllint
+          ansible-galaxy collection install -r requirements.yml
+
+      - name: Run validation suite (tests/run-all.sh)
+        working-directory: 01-core-infra
+        env:
+          ANSIBLE_FORCE_COLOR: "1"
+        run: |
+          bash tests/run-all.sh
+
+      - name: ShellCheck top-level scripts (advisory)
+        if: hashFiles('01-core-infra/*.sh') != ''
+        working-directory: 01-core-infra
+        run: |
+          sudo apt-get install -y -qq shellcheck >/dev/null 2>&1 || true
+          shellcheck -S warning install.sh backup.sh healthcheck.sh 2>&1 | head -40 || \
+            echo "::warning::shellcheck findings above (advisory)"
+          exit 0
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "### CI Validation result" >> $GITHUB_STEP_SUMMARY
+          echo "- Suite: \`01-core-infra/tests/run-all.sh\`" >> $GITHUB_STEP_SUMMARY
+          echo "- Reproduce locally: \`cd 01-core-infra && bash tests/run-all.sh\`" >> $GITHUB_STEP_SUMMARY

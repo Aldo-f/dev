@@ -1,0 +1,69 @@
+# Homepage Services Configuration
+# Neo-Brutalist Homepage for aldof.duckdns.org
+# Services grouped by category with icons and descriptions
+
+- AI & LLM:
+    - FreeLLM API:
+        href: https://freellm.aldof.duckdns.org
+        description: "OpenAI-compatible LLM router"
+        icon: si-ai
+
+- Productivity:
+    - Nextcloud:
+        href: https://cloud.aldof.duckdns.org
+        description: "Personal cloud storage & collaboration"
+        icon: si-nextcloud
+
+    - Hermes WebUI:
+        href: https://web.hermes.dev.aldof.duckdns.org
+        description: "AI agent interface & chat"
+        icon: si-hermes
+
+- Infrastructure:
+    - Portainer:
+        href: https://portainer.aldof.duckdns.org
+        description: "Docker container management"
+        icon: si-portainer
+
+    - Cockpit:
+        href: https://cockpit.aldof.duckdns.org
+        description: "System administration & monitoring"
+        icon: si-cockpit
+
+    - Vaultwarden:
+        href: https://vault.aldof.duckdns.org
+        description: "Bitwarden-compatible password manager"
+        icon: si-bitwarden
+
+- Media:
+    - Plex:
+        href: https://plex.aldof.duckdns.org
+        description: "Media server & streaming"
+        icon: si-plex
+
+    - qBittorrent:
+        href: https://qbittorrent.aldof.duckdns.org
+        description: "Torrent client"
+        icon: si-qbittorrent
+
+- Network:
+    - Pi-hole:
+        href: https://pihole.aldof.duckdns.org
+        description: "Network-wide ad blocking"
+        icon: si-pihole
+
+    - WireGuard:
+        href: https://wireguard.aldof.duckdns.org
+        description: "VPN management"
+        icon: si-wireguard
+
+- Development:
+    - Wikipedia Viewer:
+        href: https://wiki.aldof.duckdns.org
+        description: "Offline Wikipedia viewer"
+        icon: si-wikipedia
+
+    - Toerekening:
+        href: https://toerekening.aldof.duckdns.org
+        description: "Expense tracking app"
+        icon: si-calculator

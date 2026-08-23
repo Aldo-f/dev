@@ -1,0 +1,31 @@
+services:
+  hermes-webui:
+    image: ghcr.io/nesquena/hermes-webui:0.52.220
+    container_name: hermes-webui
+    restart: unless-stopped
+    expose:
+      - "8787"
+    networks:
+      - traefik_net
+    volumes:
+      - /home/aldo/.hermes:/home/hermeswebui/.hermes
+      - /home/aldo/dev:/workspace
+      - /var/run/docker.sock:/var/run/docker.sock:rw
+      - /usr/bin/docker:/usr/bin/docker:ro
+      - /usr/local/bin:/usr/local/bin:ro
+    environment:
+      - HERMES_WEBUI_HOST=0.0.0.0
+      - HERMES_WEBUI_PORT=8787
+      - HERMES_WEBUI_STATE_DIR=/home/hermeswebui/.hermes/webui
+      - HERMES_WEBUI_PASSWORD=${HERMES_WEBUI_PASSWORD}
+      - HERMES_WEBUI_DEFAULT_WORKSPACE=/workspace
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8787/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+networks:
+  traefik_net:
+    external: true

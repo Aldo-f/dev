@@ -1,0 +1,64 @@
+name: Deploy Docusaurus to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: false
+          fetch-depth: 0
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20.x
+          cache: 'npm'
+          cache-dependency-path: 01-core-infra/docs/package-lock.json
+
+      - name: Install and build theme
+        run: |
+          cd 01-core-infra/docs-theme
+          npm ci
+          npm run build
+          mkdir -p ../docs/node_modules/@allo-f/docusaurus-theme
+          cp -r dist/* ../docs/node_modules/@allo-f/docusaurus-theme/
+
+      - name: Install dependencies
+        run: |
+          cd 01-core-infra/docs
+          npm ci
+
+      - name: Build Docusaurus site
+        run: |
+          cd 01-core-infra/docs
+          npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 01-core-infra/docs/build
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

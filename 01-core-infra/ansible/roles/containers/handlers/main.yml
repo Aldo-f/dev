@@ -1,0 +1,5 @@
+---
+- name: reload traefik
+  command: docker restart traefik
+  changed_when: true
+  become: true

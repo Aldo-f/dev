@@ -1,0 +1,105 @@
+---
+# Wikipedia Viewer Deployment Playbook
+# Deployed from: 01-core-infra/templates/infra/06-apps-wikipedia-viewer/
+# Target: wiki.aldof.duckdns.org via Traefik reverse proxy
+
+- name: Deploy Wikipedia Viewer
+  hosts: localhost
+  become: true
+  vars:
+    __CORE_INFRA__: "{{ lookup('env', 'HOME') }}/dev/01-core-infra"
+    site_name: "06-apps-wikipedia-viewer"
+    site_domain: "wiki.aldof.duckdns.org"
+    site_root: "/var/www/{{ site_name }}"
+    log_dir: "/var/log/{{ site_name }}"
+    traefik_config_dir: "/etc/traefik/dynamic"
+
+  tasks:
+    # ── Prerequisites ──────────────────────────────────────────
+    - name: Ensure Nginx is installed
+      package:
+        name: nginx
+        state: present
+
+    - name: Ensure Nginx is enabled and running
+      systemd:
+        name: nginx
+        enabled: true
+        state: started
+
+    # ── Directory Structure ────────────────────────────────────
+    - name: Create site root directory
+      file:
+        path: "{{ site_root }}"
+        state: directory
+        owner: www-data
+        group: www-data
+        mode: '0755'
+
+    - name: Create log directory
+      file:
+        path: "{{ log_dir }}"
+        state: directory
+        owner: root
+        group: root
+        mode: '0755'
+
+    - name: Create Traefik dynamic config directory
+      file:
+        path: "{{ traefik_config_dir }}"
+        state: directory
+        owner: root
+        group: root
+        mode: '0755'
+
+    # ── Deploy Static Files ────────────────────────────────────
+    - name: Deploy built Angular files
+      copy:
+        src: "{{ __CORE_INFRA__ }}/templates/infra/06-apps-wikipedia-viewer/html/"
+        dest: "{{ site_root }}/"
+        owner: www-data
+        group: www-data
+        mode: '0644'
+
+    # ── Deploy Nginx Configuration ─────────────────────────────
+    - name: Deploy Nginx site configuration
+      template:
+        src: "{{ __CORE_INFRA__ }}/templates/infra/06-apps-wikipedia-viewer/nginx/wikipedia-viewer.conf.j2"
+        dest: "/etc/nginx/sites-available/{{ site_name }}"
+        owner: root
+        group: root
+        mode: '0644'
+      notify: reload nginx
+
+    - name: Enable Nginx site
+      file:
+        src: "/etc/nginx/sites-available/{{ site_name }}"
+        dest: "/etc/nginx/sites-enabled/{{ site_name }}"
+        state: link
+
+    - name: Remove default Nginx site
+      file:
+        path: "/etc/nginx/sites-enabled/default"
+        state: absent
+      notify: reload nginx
+
+    # ── Deploy Traefik Dynamic Configuration ───────────────────
+    - name: Deploy Traefik router configuration
+      template:
+        src: "{{ __CORE_INFRA__ }}/templates/infra/06-apps-wikipedia-viewer/traefik/wikipedia-viewer.toml.j2"
+        dest: "{{ traefik_config_dir }}/wikipedia-viewer.toml"
+        owner: root
+        group: root
+        mode: '0644'
+      notify: reload traefik
+
+  handlers:
+    - name: reload nginx
+      systemd:
+        name: nginx
+        state: reloaded
+
+    - name: reload traefik
+      systemd:
+        name: traefik
+        state: reloaded

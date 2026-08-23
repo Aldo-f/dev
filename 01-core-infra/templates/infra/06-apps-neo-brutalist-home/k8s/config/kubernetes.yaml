@@ -1,0 +1,18 @@
+# Kubernetes integration mode: cluster
+mode: cluster
+# Namespace to discover resources from (empty = all namespaces)
+namespace: ""
+# Label selector for services to include
+labelSelector: "homepage.enable=true"
+# Annotation to override display name
+nameAnnotation: "homepage.name"
+# Annotation to override description
+descriptionAnnotation: "homepage.description"
+# Annotation for icon
+iconAnnotation: "homepage.icon"
+# Annotation for group
+groupAnnotation: "homepage.group"
+# Ingress class to filter
+ingressClass: "traefik"
+# Skip TLS verification for internal endpoints
+skipTLSVerify: true

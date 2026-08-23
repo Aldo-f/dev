@@ -1,0 +1,24 @@
+services:
+  portainer:
+    image: portainer/portainer-ce:2.39.5
+    container_name: portainer
+    restart: unless-stopped
+    ports:
+      - "9000:9000"
+    expose:
+      - "9000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer_data:/data
+    networks:
+      - traefik_net
+    # NOTE: no container-side healthcheck — portainer-ce 2.x is a distroless
+    # image (no curl/wget/sh/python inside). Host-side healthcheck.sh monitors
+    # the HTTP endpoint instead; liveness is covered by the restart policy.
+
+networks:
+  traefik_net:
+    external: true
+
+volumes:
+  portainer_data:

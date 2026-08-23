@@ -1,0 +1,7 @@
+---
+# Ansible collection requirements — install with:
+#   ansible-galaxy collection install -r requirements.yml
+collections:
+  - name: community.general   # git_config module (hermes-skills, mesh_sync roles)
+  - name: community.docker    # docker_container / docker_compose modules
+  - name: ansible.posix       # synchronize module (05-media-storage-cleanup)

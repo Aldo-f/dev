@@ -1,0 +1,3 @@
+services:
+  wireguard:
+    image: lscr.io/linuxserver/wireguard@sha256:3abfd4b82212106e357989750b9c0c9859aa511f5305a9a55c18c8de7198b655

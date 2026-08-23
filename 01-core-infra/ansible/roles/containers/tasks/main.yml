@@ -1,0 +1,87 @@
+---
+# Deploy containerized infrastructure components from templates/infra/<component>/
+# to their runtime targets and ensure Traefik routes are in sync.
+#
+# Runtime targets follow the group taxonomy:
+#   01-core-*      -> ~/dev/01-core-infra/<name>/
+#   07-security-*  -> ~/dev/07-security-<name>/
+
+- name: Load nextcloud vault credentials
+  include_vars:
+    file: "{{ lookup('env', 'HOME') }}/dev/01-core-infra/vaults/nextcloud-credentials.yml"
+  no_log: true
+
+- name: Ensure traefik_net Docker network exists
+  command: docker network create {{ traefik_network }}
+  register: _net_create
+  failed_when: "_net_create.rc != 0 and 'already exists' not in _net_create.stderr"
+  changed_when: "_net_create.rc == 0"
+  become: true
+
+- name: Compute the list of services to deploy
+  set_fact:
+    _target_services: >-
+      {{ container_services
+         | selectattr('name', 'in', limit_services)
+         | list
+         if (limit_services | length > 0)
+         else container_services }}
+
+- name: Ensure runtime directories exist for container services
+  file:
+    path: "{{ item.runtime_dir }}"
+    state: directory
+    owner: aldo
+    group: aldo
+    mode: '0755'
+  loop: "{{ _target_services }}"
+  loop_control:
+    label: "{{ item.name }}"
+
+- name: Copy docker-compose template to runtime target
+  copy:
+    src: "{{ template_dir }}/infra/{{ item.name }}/docker-compose.yml"
+    dest: "{{ item.runtime_dir }}/docker-compose.yml"
+    owner: aldo
+    group: aldo
+    mode: '0644'
+  loop: "{{ _target_services }}"
+  loop_control:
+    label: "{{ item.name }}"
+
+- name: Generate .env for nextcloud from vault credentials
+  template:
+    src: "nextcloud.env.j2"
+    dest: "{{ nextcloud_runtime_dir }}/.env"
+    owner: aldo
+    group: aldo
+    mode: '0600'
+  when:
+    - nextcloud_runtime_dir is defined
+    - limit_services | length == 0 or '05-media-nextcloud' in limit_services
+  no_log: true
+
+- name: Pull images and start services via Docker Compose v2
+  command: docker compose up -d --remove-orphans
+  args:
+    chdir: "{{ item.runtime_dir }}"
+  register: _compose_up
+  changed_when: "'Started' in _compose_up.stdout or 'Recreated' in _compose_up.stdout or 'Created' in _compose_up.stdout"
+  become_user: aldo
+  become: true
+  loop: "{{ _target_services }}"
+  loop_control:
+    label: "{{ item.name }}"
+
+# ---- Traefik route sync ----
+- name: Sync Traefik config files to runtime
+  copy:
+    src: "{{ template_dir }}/infra/04-network-traefik/{{ item }}"
+    dest: "{{ traefik_runtime_dir }}/{{ item }}"
+    owner: aldo
+    group: aldo
+    mode: '0644'
+  loop:
+    - routes.yml
+    - traefik.yml
+  notify: reload traefik
