@@ -86,3 +86,7 @@ llama.cpp/build/
 06-apps-aldo-f-github-io/
 06-apps-passive-income-legacy/
 backups/nextcloud-db/
+# Secret-bearing vault files & credential pools: stay on disk, never commit
+01-core-infra/vaults/*.yml
+!01-core-infra/vaults/README.master-key.md
+01-core-infra/templates/infra/02-ai-llm-infra-sync/infra/credential-pool.json
