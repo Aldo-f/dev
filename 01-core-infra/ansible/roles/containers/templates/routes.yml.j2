@@ -22,7 +22,16 @@ http:
       loadBalancer:
         servers:
           - url: "{{ b.url }}"
+{% if b.tls_skip_verify | default(false) %}
+        serversTransports:
+          - no-verify-tls
+{% endif %}
 {% endfor %}
+
+  # For backends serving HTTPS with self-signed certs (e.g. cockpit-ws).
+  serversTransports:
+    no-verify-tls:
+      insecureSkipVerify: true
 
   middlewares:
     ipAllowList:
