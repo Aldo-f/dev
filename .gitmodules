@@ -9,7 +9,7 @@
 	url = git@github.com:Aldo-f/02-ai-llm-infra-sync.git
 [submodule "04-network-traefik"]
 	path = 04-network-traefik
-	url = /home/aldo/dev/01-core-infra/templates/infra/04-network-traefik
+	url = git@github.com:Aldo-f/network-traefik.git
 [submodule "06-apps-aldo-f-github-io"]
 	path = 06-apps-aldo-f-github-io
 	url = git@github.com:Aldo-f/Aldo-f.github.io.git
