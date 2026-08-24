@@ -43,6 +43,7 @@
       - lm_sensors
       - git_filter_repo
       - git-lfs
+      - glab
   pre_tasks:
     - name: Ensure bun binary is in system PATH
       file:

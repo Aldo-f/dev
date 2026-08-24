@@ -67,3 +67,6 @@ tools_sentries:
     command: "git lfs version"
   fx:
     command: "fx --version"
+
+  glab:
+    command: "glab --version"
