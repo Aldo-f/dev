@@ -28,9 +28,15 @@ services:
     environment:
       - HERMES_MODEL_BASE_URL=http://freellmapi:3001/v1
       - HERMES_MODEL_PROVIDER=custom
+      # --- TQ job guardrails ---
+      # Restricted toolsets for spawned hermes agents (no terminal/delegation)
+      - TQ_TOOLSETS=web,file,code_exec
+      # Wall-clock cap per job (seconds); timed-out jobs are marked failed
+      - TQ_JOB_TIMEOUT=900
+      # Max bytes of output captured per run (2 MiB) so logs can't fill the volume
+      - TQ_MAX_LOG_BYTES=2097152
     volumes:
       - taskqueue-data:/app/tasks
-      - /home/aldo/.hermes:/root/.hermes
       - /home/aldo/dev/02-ai-hermes-skills:/home/aldo/dev/02-ai-hermes-skills:ro
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8788/api/stats"]
