@@ -314,4 +314,4 @@ http:
           - "169.254.0.0/16"
           - "127.0.0.0/8"
           - "94.110.157.71/32"
-          - "212.123.0.227/32"  # bib de lrook (library) - no longer needed
+          - "212.123.0.227/32"  # bib de Krook (library) - intentional, do not remove
