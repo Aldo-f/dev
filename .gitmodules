@@ -33,3 +33,6 @@
 [submodule "06-apps-radio-community"]
 	path = 06-apps-radio-community
 	url = git@github.com:Aldo-f/radio-community.git
+[submodule "02-ai-freellmapi"]
+	path = 02-ai-freellmapi
+	url = git@github.com:Aldo-f/freellmapi.git
