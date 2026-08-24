@@ -36,3 +36,6 @@
 [submodule "02-ai-freellmapi"]
 	path = 02-ai-freellmapi
 	url = git@github.com:Aldo-f/freellmapi.git
+[submodule "blanky"]
+	path = blanky
+	url = https://gitlab.com/Aldo-f/blanky.git
