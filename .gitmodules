@@ -39,3 +39,6 @@
 [submodule "blanky"]
 	path = blanky
 	url = https://gitlab.com/Aldo-f/blanky.git
+[submodule "06-apps-letspeppol"]
+	path = 06-apps-letspeppol
+	url = https://github.com/letspeppol/letspeppol.git
