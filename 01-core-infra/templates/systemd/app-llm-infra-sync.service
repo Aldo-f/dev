@@ -8,7 +8,7 @@ Wants=network-online.target
 Type=simple
 User=aldo
 WorkingDirectory=__HOME__/dev/02-ai-llm-infra-sync
-ExecStart=__HOME__/.bun/bin/bun run src/server.ts
+ExecStart=/usr/local/bin/bun run src/server.ts
 Restart=always
 RestartSec=10
 Environment=NODE_ENV=production
@@ -20,7 +20,7 @@ StandardError=journal
 NoNewPrivileges=true
 PrivateTmp=true
 ProtectSystem=full
-# NOTE: ProtectHome must NOT be enabled — ExecStart binary lives under __HOME__/.bun
+# NOTE: ProtectHome must NOT be enabled — server reads credential files under __HOME__
 
 # Resource limits
 LimitNOFILE=65536
