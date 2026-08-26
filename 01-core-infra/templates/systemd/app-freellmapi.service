@@ -6,8 +6,9 @@ Requires=docker.service
 [Service]
 Type=oneshot
 RemainAfterExit=yes
-ExecStart=/usr/libexec/docker/cli-plugins/docker-compose -f __HOME__/dev/02-ai-freellmapi/docker-compose.yml up freellmapi -d
-ExecStop=/usr/libexec/docker/cli-plugins/docker-compose -f __HOME__/dev/02-ai-freellmapi/docker-compose.yml down
+Environment=HOME=/home/aldo
+ExecStart=/usr/libexec/docker/cli-plugins/docker-compose -f $HOME/dev/02-ai-freellmapi/docker-compose.yml up freellmapi -d
+ExecStop=/usr/libexec/docker/cli-plugins/docker-compose -f $HOME/dev/02-ai-freellmapi/docker-compose.yml down
 User=aldo
 Group=aldo
 
