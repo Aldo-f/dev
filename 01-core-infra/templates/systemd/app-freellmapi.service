@@ -4,7 +4,8 @@ After=docker.service
 Requires=docker.service
 
 [Service]
-Restart=unless-stopped
+Type=oneshot
+RemainAfterExit=yes
 ExecStart=/usr/libexec/docker/cli-plugins/docker-compose -f __HOME__/dev/02-ai-freellmapi/docker-compose.yml up freellmapi -d
 ExecStop=/usr/libexec/docker/cli-plugins/docker-compose -f __HOME__/dev/02-ai-freellmapi/docker-compose.yml down
 User=aldo
