@@ -45,3 +45,6 @@
 [submodule "06-apps-interest-calculator"]
 	path = 06-apps-interest-calculator
 	url = https://github.com/Aldo-f/interest-calculator.git
+[submodule "urbanfix"]
+	path = urbanfix
+	url = git@github.com:aldo-f/urbanfix.git
