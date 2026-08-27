@@ -48,3 +48,6 @@
 [submodule "urbanfix"]
 	path = urbanfix
 	url = git@github.com:aldo-f/urbanfix.git
+[submodule "06-apps-urbanfix"]
+	path = 06-apps-urbanfix
+	url = git@github.com:aldo-f/urbanfix.git
