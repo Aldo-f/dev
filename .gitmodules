@@ -42,3 +42,6 @@
 [submodule "06-apps-letspeppol"]
 	path = 06-apps-letspeppol
 	url = https://github.com/letspeppol/letspeppol.git
+[submodule "06-apps-interest-calculator"]
+	path = 06-apps-interest-calculator
+	url = https://github.com/Aldo-f/interest-calculator.git
