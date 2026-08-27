@@ -21,6 +21,9 @@ container_services:
   # 02-ai-* -> sibling dev repo dirs
   - name: 02-ai-freellmapi
     runtime_dir: "/home/aldo/dev/02-ai-freellmapi"
+  # 02-ai-mem0 -> Mem0 OSS with Qdrant vector store
+  - name: 02-ai-mem0
+    runtime_dir: "/home/aldo/dev/02-ai-mem0"
   # 04-network-* -> sibling dev repo dir
   - name: 04-network-traefik
     runtime_dir: "/home/aldo/dev/04-network-traefik"
