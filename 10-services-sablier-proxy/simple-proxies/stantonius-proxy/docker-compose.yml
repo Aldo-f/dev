@@ -1,0 +1,15 @@
+networks:
+  traefik_net:
+    external: true
+services:
+  stantonius:
+    environment:
+    - LISTEN="0.0.0.0:8082"
+    - UPSTREAM="stantonius-web:80"
+    - SABLIER_API="http://sablier:10000"
+    - GROUP="stantonius"
+    - SESSION_DURATION="30m"
+    image: ghcr.io/vbrandl/sablier-proxy:latest
+    networks:
+    - traefik_net
+    restart: unless-stopped

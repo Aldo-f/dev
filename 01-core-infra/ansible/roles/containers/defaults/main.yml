@@ -24,6 +24,12 @@ container_services:
   # 02-ai-mem0 -> Mem0 OSS with Qdrant vector store
   - name: 02-ai-mem0
     runtime_dir: "/home/aldo/dev/02-ai-mem0"
+  # 02-ai-hermes-tq -> Hermes TaskQueue kanban service
+  - name: 02-ai-hermes-tq
+    runtime_dir: "/home/aldo/dev/02-ai-hermes-tq"
+  # 09-services-sablier -> Sablier API for wake-on-access
+  - name: 09-services-sablier
+    runtime_dir: "/home/aldo/dev/09-services-sablier"
   # 04-network-* -> sibling dev repo dir
   - name: 04-network-traefik
     runtime_dir: "/home/aldo/dev/04-network-traefik"
@@ -41,6 +47,40 @@ container_services:
   # 07-security-* -> sibling dev repo dir
   - name: 07-security-vaultwarden
     runtime_dir: "/home/aldo/dev/07-security-vaultwarden"
+  # Sablier proxy services for wake-on-access
+  # All proxies consolidated under 10-services-sablier-proxy/simple-proxies/
+  - name: freellmapi
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/freellmapi-proxy"
+  - name: nextcloud
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/nextcloud-proxy"
+  - name: stantonius
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/stantonius-proxy"
+  - name: homepage
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/homepage-proxy"
+  - name: qbittorrent
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/qbittorrent-proxy"
+  - name: torrent
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/torrent-proxy"
+  - name: jellyfin
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/jellyfin-proxy"
+  - name: vaultwarden
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/vaultwarden-proxy"
+  - name: hermes-webui
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/hermes-webui-proxy"
+  - name: portainer
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/portainer-proxy"
+  - name: clocky
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/clocky-proxy"
+  - name: letspeppol
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/letspeppol-proxy"
+  - name: radio
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/radio-proxy"
+  - name: cockpit
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/cockpit-proxy"
+  - name: metrics-hermes
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/metrics-hermes-proxy"
+  - name: hermes-tq
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/hermes-tq-proxy"
 
 # ---------------------------------------------------------------------------
 # Traefik dynamic config — rendered into routes.yml via routes.yml.j2.
@@ -65,7 +105,6 @@ traefik_ip_allowlist:
   - "169.254.0.0/16"
   - "127.0.0.0/8"
   - "94.110.157.71/32"
-  - "212.123.0.227/32"  # bib de Krook (library)
 
 # Backend servers (container names resolve on traefik_net; LAN IPs also fine).
 traefik_backends:
@@ -84,6 +123,7 @@ traefik_backends:
   portainer: { url: "http://portainer:9000" }
   cockpit: { url: "https://192.168.0.5:9090", tls_skip_verify: true }
   metrics-hermes: { url: "http://192.168.0.5:9119" }
+  urbanfix: { url: "http://urbanfix:3000" }
 
 # One line per exposed hostname.
 traefik_routes:
@@ -96,7 +136,7 @@ traefik_routes:
   - { name: torrent, host: torrent.aldof.duckdns.org, service: qbittorrent }
   - { name: jellyfin, host: jellyfin.aldof.duckdns.org, service: jellyfin }
   # ── Private (IP allowlisted) ──
-  - { name: vault, host: vault.aldof.duckdns.org, service: vaultwarden, middlewares: [ipAllowList] }
+  - { name: vault, host: vault.aldof.duckdns.org, service: vaultwarden }
   - { name: hermes, host: web.hermes.dev.aldof.duckdns.org, service: hermes-webui, middlewares: [ipAllowList] }
   - { name: hermes-tq, host: tq.hermes.dev.aldof.duckdns.org, service: hermes-tq, middlewares: [ipAllowList] }
   - { name: portainer, host: portainer.dev.aldof.duckdns.org, service: portainer, middlewares: [ipAllowList] }
@@ -105,3 +145,4 @@ traefik_routes:
   - { name: radio, host: radio.dev.aldof.duckdns.org, service: radio-community, middlewares: [ipAllowList] }
   - { name: cockpit, host: cockpit.dev.aldof.duckdns.org, service: cockpit, middlewares: [ipAllowList] }
   - { name: metrics-hermes, host: metrics.hermes.dev.aldof.duckdns.org, service: metrics-hermes, middlewares: [ipAllowList] }
+  - { name: urbanfix, host: urbanfix.dev.aldof.duckdns.org, service: urbanfix, middlewares: [ipAllowList] }

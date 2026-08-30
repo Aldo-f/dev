@@ -1,0 +1,15 @@
+networks:
+  traefik_net:
+    external: true
+services:
+  hermes-webui:
+    environment:
+    - LISTEN="0.0.0.0:8085"
+    - UPSTREAM="hermes-webui:8787"
+    - SABLIER_API="http://sablier:10000"
+    - GROUP="hermes-webui"
+    - SESSION_DURATION="30m"
+    image: ghcr.io/vbrandl/sablier-proxy:latest
+    networks:
+    - traefik_net
+    restart: unless-stopped

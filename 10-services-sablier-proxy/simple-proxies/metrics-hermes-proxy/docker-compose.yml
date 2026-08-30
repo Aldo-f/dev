@@ -1,0 +1,15 @@
+networks:
+  traefik_net:
+    external: true
+services:
+  metrics-hermes:
+    environment:
+    - LISTEN="0.0.0.0:8090"
+    - UPSTREAM="192.168.0.5:9119"
+    - SABLIER_API="http://sablier:10000"
+    - GROUP="metrics-hermes"
+    - SESSION_DURATION="30m"
+    image: ghcr.io/vbrandl/sablier-proxy:latest
+    networks:
+    - traefik_net
+    restart: unless-stopped
