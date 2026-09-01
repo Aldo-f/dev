@@ -103,6 +103,7 @@ button[aria-expanded] {
 
 button[aria-expanded] > h2 {
   margin: 0 !important;
+  color: var(--nb-paper-dark) !important;
 }
 
 button[aria-expanded] svg {
