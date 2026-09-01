@@ -249,6 +249,15 @@ button[aria-expanded].bookmark-group-button > h2,
   min-width: 120px !important;
 }
 
+/* Remove bottom margin on bookmark links */
+.bookmark-group a[href*="linkedin"],
+.bookmark-group a[href*="github"],
+.bookmark-group a[href*="gitlab"],
+.bookmark-group a[href*="codepen"],
+.bookmark-group a[href*="t.me"] {
+  margin-bottom: 0 !important;
+}
+
 button[aria-expanded].bookmark-group-button svg,
 .bookmark-group button[aria-expanded] svg {
   transition: transform 0.2s ease !important;
