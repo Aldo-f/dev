@@ -55,7 +55,7 @@
 [data-theme="dark"] .service-group-name {
   background: var(--nb-lime-dark) !important;
 -    color: var(--nb-ink-dark) !important;
-+    color: var(--nb-ink) !important;
++    color: var(--nb-paper-dark) !important;
   border-color: var(--nb-border-dark) !important;
   box-shadow: 4px 4px 0 var(--nb-neon-dark) !important;
 }
