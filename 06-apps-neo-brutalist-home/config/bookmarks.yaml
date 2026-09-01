@@ -2,17 +2,19 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/bookmarks
 
-- Developer:
-    - Github:
+- Connect With Me:
+    - LinkedIn:
+        - abbr: IN
+          href: https://www.linkedin.com/in/aldo-fieuw-236b153a9/
+    - GitHub:
         - abbr: GH
-          href: https://github.com/
-
-- Social:
-    - Reddit:
-        - abbr: RE
-          href: https://reddit.com/
-
-- Entertainment:
-    - YouTube:
-        - abbr: YT
-          href: https://youtube.com/
+          href: https://github.com/aldo-f
+    - GitLab:
+        - abbr: GL
+          href: https://gitlab.com/Aldo-f
+    - CodePen:
+        - abbr: CP
+          href: https://codepen.io/aldof
+    - Telegram:
+        - abbr: TG
+          href: https://t.me/aldofieuw

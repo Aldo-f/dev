@@ -1,118 +1,407 @@
 /* ==========================================================================
    Neobrutalist theme — aldof.duckdns.org (gethomepage custom.css)
-   Tokens follow the neobrutalism-ui skill (HyperUI): 2px solid borders,
-   hard offset shadows (no blur/radius), yellow-200 accent, uppercase heads.
-   Selectors come from specs/001-neobrutalist-theme/selectors.md
-   (harvested from v1.13.2 shipped chunks — do not invent classes).
+   Based on PINO reference implementation (http://192.168.0.3:4747/)
    ========================================================================== */
 
+/* Design Tokens - PINO inspired colors */
 :root {
-  --nb-line: #000000;        /* border + shadow color */
-  --nb-surface: #ffffff;     /* card background */
-  --nb-page: #f5f5f0;        /* page background */
-  --nb-accent: #fef08a;      /* yellow-200 highlight */
-  --nb-shadow: 4px 4px 0 0 var(--nb-line);
-  --nb-shadow-sm: 2px 2px 0 0 var(--nb-line);
+  --nb-ink: #0a0a0a;
+  --nb-paper: #fffdf5;
+  --nb-neon: #ff2a00;
+  --nb-lime: #ccff00;
+  --nb-blue: #0033ff;
+  --nb-purple: #8a2be2;
+  --nb-border: 4px solid var(--nb-ink);
+  --nb-shadow: 6px 6px 0 var(--nb-blue);
+  --nb-shadow-hover: 10px 10px 0 var(--nb-purple);
+  --nb-transition: transform .15s ease;
 }
 
-/* Page canvas */
+/* Dark mode */
+.dark :root,
+.dark body,
+[data-theme="dark"] {
+  --nb-ink: #ffffff;
+  --nb-paper: #1a1a2e;
+  --nb-neon: #ff4d00;
+  --nb-lime: #a8ff00;
+  --nb-blue: #4d7fff;
+  --nb-purple: #b366ff;
+}
+
+/* ===== PAGE BACKGROUND ===== */
 body {
-  background: var(--nb-page) !important; /* overrides bg-theme-* on <body> wrappers */
+  background: var(--nb-paper) !important;
 }
 
-/* ---- Service cards ------------------------------------------------------
-   v1.13.2 renders each card as <li class="service"><div class="transition-all
-   mb-2 p-1 rounded-md …"> — style the li, square off the inner div. */
+/* ===== SERVICE GROUP HEADINGS ===== */
+.service-group-name {
+  display: inline-block !important;
+  text-transform: uppercase !important;
+  font-weight: 900 !important;
+  font-size: 1.25rem !important;
+  letter-spacing: 0.02em !important;
+  background: var(--nb-lime) !important;
+  border: var(--nb-border) !important;
+  box-shadow: 4px 4px 0 var(--nb-neon) !important;
+  padding: 0.5rem 1rem !important;
+  margin: 1.5rem 0 0.75rem 0 !important;
+  border-radius: 0 !important;
+}
+
+/* ===== SERVICE GROUP BUTTONS (Collapsible headers) ===== */
+button[aria-expanded] {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+button[aria-expanded] > h2 {
+  margin: 0 !important;
+}
+
+button[aria-expanded] svg {
+  transition: transform 0.2s ease !important;
+}
+
+button[aria-expanded="true"] svg {
+  transform: rotate(180deg) !important;
+}
+
+/* ===== SERVICE CARDS (Main fix - single border, no double) ===== */
 li.service {
-  background: var(--nb-surface) !important;      /* replaces bg-theme-* */
-  border: 2px solid var(--nb-line) !important;
-  border-radius: 0 !important;                   /* kills rounded-md family */
-  box-shadow: var(--nb-shadow) !important;       /* replaces soft shadow-md */
-  transition: translate 80ms ease-in-out, box-shadow 80ms ease-in-out;
+  background: white !important;
+  border: var(--nb-border) !important;
+  border-radius: 0 !important;
+  box-shadow: var(--nb-shadow) !important;
+  transition: var(--nb-transition) !important;
+  margin-bottom: 1rem !important;
+  padding: 1rem !important;
+  position: relative !important;
+  overflow: visible !important;
 }
+
 li.service:hover {
-  translate: 2px 2px;
+  transform: translate(-3px, -3px) !important;
+  box-shadow: var(--nb-shadow-hover) !important;
+}
+
+/* Remove inner card styling - use just the li */
+li.service > div {
+  background: transparent !important;
+  border: none !important;
   box-shadow: none !important;
+  padding: 0 !important;
+  overflow: visible !important;
 }
-li.service > div,
-.service-title,
-.service-title-text,
-.service-name {
+
+/* Service icons */
+li.service .service-icon {
+  width: 48px !important;
+  height: 48px !important;
+  min-width: 48px !important;
+  min-height: 48px !important;
+  background: var(--nb-paper) !important;
+  border: var(--nb-border) !important;
   border-radius: 0 !important;
+  box-shadow: 3px 3px 0 var(--nb-blue) !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
 }
 
-/* ---- Group headings ------------------------------------------------------ */
-.service-group-name,
-.bookmark-group-name {
-  display: inline-block;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  font-weight: 800;
-  background: var(--nb-accent);
-  border: 2px solid var(--nb-line);
-  box-shadow: var(--nb-shadow-sm);
-  padding: 0.15rem 0.6rem;
-  margin-bottom: 0.4rem;
-}
-.service-group-icon {
-  filter: drop-shadow(1px 1px 0 var(--nb-line));
+li.service .service-icon img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain !important;
 }
 
-/* ---- Info widgets (top bar) ---------------------------------------------
-   link removed via custom.js (LAN-only glances URL must not be clickable) */
+/* Service name */
+li.service .service-name,
+li.service .service-name * {
+  font-weight: 900 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.02em !important;
+  color: var(--nb-ink) !important;
+  font-size: 1rem !important;
+}
+
+/* Service description */
+li.service .service-description,
+li.service .service-description * {
+  font-weight: 600 !important;
+  color: #4b5563 !important;
+  font-size: 0.875rem !important;
+  margin-top: 0.25rem !important;
+}
+
+/* Status badges */
+li.service .docker-status {
+  background: var(--nb-ink) !important;
+  color: white !important;
+  border: 2px solid var(--nb-ink) !important;
+  border-radius: 0 !important;
+  font-weight: 900 !important;
+  text-transform: uppercase !important;
+  font-size: 0.65rem !important;
+  letter-spacing: 0.05em !important;
+  padding: 0.25rem 0.5rem !important;
+}
+
+li.service .docker-status-unknown {
+  background: #6b7280 !important;
+}
+
+li.service .docker-status-running,
+li.service .docker-status-healthy {
+  background: var(--nb-lime) !important;
+  color: var(--nb-ink) !important;
+}
+
+li.service .docker-status-stopped {
+  background: var(--nb-neon) !important;
+}
+
+/* ===== INFORMATION WIDGETS ===== */
 .information-widget-resource {
-  background: var(--nb-surface) !important;
-  border: 2px solid var(--nb-line);
+  background: white !important;
+  border: var(--nb-border) !important;
   border-radius: 0 !important;
-  box-shadow: var(--nb-shadow-sm);
-  padding-left: 0.6rem !important;
-  padding-right: 0.6rem !important;
-  cursor: default;
-}
-.information-widget-label {
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  font-weight: 700;
+  box-shadow: 4px 4px 0 var(--nb-lime) !important;
+  transition: var(--nb-transition) !important;
+  margin: 0.25rem !important;
+  padding: 0.5rem !important;
 }
 
-/* ---- Bookmarks (v1.13.2: <li class="bookmark"> + icon div + text div) ---- */
-li.bookmark {
-  background: var(--nb-surface) !important;
-  border: 2px solid var(--nb-line) !important;
+.information-widget-resource:hover {
+  transform: translate(-2px, -2px) !important;
+  box-shadow: 6px 6px 0 var(--nb-neon) !important;
+}
+
+.information-widget-label {
+  text-transform: uppercase !important;
+  font-weight: 900 !important;
+  font-size: 0.7rem !important;
+  letter-spacing: 0.05em !important;
+  color: var(--nb-ink) !important;
+  margin-bottom: 0.25rem !important;
+}
+
+.information-widget-resource .pr-1,
+.information-widget-resource [class*="pr-1"] {
+  font-weight: 900 !important;
+  font-size: 0.875rem !important;
+  color: var(--nb-ink) !important;
+}
+
+/* ===== METRICS WIDGET STYLING (TDD APPROACH) ===== */
+/* Track - the background of the progress bar */
+.information-widget-resource .resource-usage,
+.information-widget-glances .resource-usage {
+  height: 0.5rem !important;
+  background: #e5e7eb !important; /* Light gray track */
+  border: 2px solid var(--nb-ink) !important;
   border-radius: 0 !important;
-  box-shadow: var(--nb-shadow-sm) !important;
-  transition: translate 80ms ease-in-out, box-shadow 80ms ease-in-out;
+  overflow: hidden !important;
+  margin-top: 0.5rem !important;
 }
-li.bookmark:hover,
-li.bookmark:focus-within {
-  translate: 2px 2px;
+
+/* Fill - the colored part that shows progress */
+.information-widget-resource .resource-usage > div,
+.information-widget-glances .resource-usage > div {
+  height: 100% !important;
+  background: var(--nb-lime) !important; /* Lime fill - using our accent color */
+  transition: width 0.3s ease !important;
+}
+
+/* ===== BOOKMARKS ===== */
+/* Bookmark group button (accordion header) */
+button[aria-expanded].bookmark-group-button,
+.bookmark-group button[aria-expanded] {
+  background: transparent !important;
+  border: none !important;
   box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
+
+button[aria-expanded].bookmark-group-button > h2,
+.bookmark-group button[aria-expanded] > h2 {
+  margin: 0 !important;
+}
+
+button[aria-expanded].bookmark-group-button svg,
+.bookmark-group button[aria-expanded] svg {
+  transition: transform 0.2s ease !important;
+}
+
+button[aria-expanded="true"].bookmark-group-button svg,
+.bookmark-group button[aria-expanded="true"] svg {
+  transform: rotate(180deg) !important;
+}
+
+/* Bookmark list - mobile-first responsive grid */
+.bookmark-list {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 0.5rem !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+li.bookmark {
+  background: white !important;
+  border: var(--nb-border) !important;
+  border-radius: 0 !important;
+  box-shadow: 4px 4px 0 var(--nb-blue) !important;
+  transition: var(--nb-transition) !important;
+  margin: 0 !important;
+  flex: 1 1 100% !important; /* Mobile-first: full width */
+  min-width: 0 !important;
+  display: flex !important;
+}
+
+/* Tablet: 2 columns */
+@media (min-width: 640px) {
+  li.bookmark {
+    flex: 1 1 calc(50% - 0.5rem) !important;
+  }
+}
+
+/* Desktop: 3 columns */
+@media (min-width: 1024px) {
+  li.bookmark {
+    flex: 1 1 calc(33.333% - 0.5rem) !important;
+  }
+}
+
+li.bookmark:hover {
+  transform: translate(-2px, -2px) !important;
+  box-shadow: 6px 6px 0 var(--nb-neon) !important;
+}
+
 li.bookmark > div:first-child {
-  background: var(--nb-accent);
-  border-right: 2px solid var(--nb-line);
+  background: var(--nb-lime) !important;
+  border-right: var(--nb-border) !important;
+  flex-shrink: 0 !important;
 }
+
 li.bookmark a,
 .bookmark-name {
-  border-radius: 0 !important;
+  color: var(--nb-ink) !important;
+  text-decoration: none !important;
+  font-weight: 900 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.02em !important;
+  /* Remove unwanted styles: shadow-md shadow-theme-900/10 dark:shadow-theme-900/20 bg-theme-100/20 hover:bg-theme-300/20 dark:bg-white/5 dark:hover:bg-white/10 */
 }
 
-/* ---- Keyboard focus (never invisible) ------------------------------------ */
+.bookmark-description {
+  font-size: 0.75rem !important;
+  font-weight: 600 !important;
+  color: #6b7280 !important;
+}
+
+/* Responsive breakpoints */
+@media (max-width: 768px) {
+  li.bookmark {
+    flex: 1 1 calc(50% - 0.5rem) !important;
+  }
+}
+
+@media (max-width: 480px) {
+  li.bookmark {
+    flex: 1 1 100% !important;
+  }
+}
+
+/* ===== FOCUS STATES ===== */
 a:focus-visible,
 button:focus-visible,
 input:focus-visible,
 [role="button"]:focus-visible {
-  outline: 3px solid var(--nb-line);
-  outline-offset: 2px;
-  border-radius: 0;
+  outline: 3px solid var(--nb-neon) !important;
+  outline-offset: 2px !important;
 }
 
-/* ---- Dark-mode twin (best effort; flips line/surface colors) ------------- */
-.dark :root,
-.dark body,
-[data-theme="dark"] {
-  --nb-line: #ffffff;
-  --nb-surface: #111827;
-  --nb-page: #0b0f19;
-  --nb-accent: #facc15;
+/* Footer styling – neon‑brutalist */
+#footer {
+  background: var(--nb-paper) !important;
+  border-top: var(--nb-border) !important;
+  box-shadow: 4px 4px 0 var(--nb-neon) !important;
+  padding: 1rem !important;
+  text-align: center !important;
+  color: var(--nb-ink) !important;
+}
+
+#footer a {
+  color: var(--nb-ink) !important;
+  text-decoration: underline;
+}
+
+/* Dark mode footer */
+.dark #footer {
+  background: var(--nb-paper) !important;
+  color: var(--nb-ink) !important;
+}
+
+/* ===== SEARCH DIALOG ===== */
+dialog input[type="text"] {
+  border: var(--nb-border) !important;
+  border-radius: 0 !important;
+  background: white !important;
+  color: var(--nb-ink) !important;
+  font-weight: 600 !important;
+}
+
+dialog input[type="text"]:focus {
+  outline: 3px solid var(--nb-lime) !important;
+}
+
+[role="dialog"] {
+  background: rgba(0, 0, 0, 0.7) !important;
+}
+
+[role="dialog"] > div {
+  background: var(--nb-paper) !important;
+  border: var(--nb-border) !important;
+  border-radius: 0 !important;
+  box-shadow: 8px 8px 0 var(--nb-neon) !important;
+}
+
+/* Hide information widget label */
+.information-widget-label {
+  display: none !important;
+}
+
+/* Progress bar color for glances widget */
+.resource-usage > div,
+.resource-usage > div.bg-theme-800\/70,
+.resource-usage > div.bg-theme-200\/50,
+.dark .resource-usage > div.bg-theme-200\/50 {
+  height: 100% !important;
+  background: var(--nb-lime) !important;
+  transition: width 0.3s ease !important;
+}
+
+/* Conditional coloring based on status */
+.resource-usage > div.low-disk {
+  background: #ef4444 !important; /* Red for low disk space */
+}
+
+.resource-usage > div.high-temp {
+  background: #ef4444 !important; /* Red for high temperature */
+}
+
+.resource-usage > div.warning {
+  background: #f59e0b !important; /* Yellow/orange for warning */
+}
+
+/* Dark mode support for conditional colors */
+.dark .resource-usage > div.low-disk,
+.dark .resource-usage > div.high-temp,
+.dark .resource-usage > div.warning {
+  background: #ef4444 !important;
 }
