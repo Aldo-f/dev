@@ -217,7 +217,7 @@ li.service .docker-status-stopped {
 }
 
 /* ===== BOOKMARKS ===== */
-/* Bookmark group button (accordion header) */
+/* Bookmark group header button */
 button[aria-expanded].bookmark-group-button,
 .bookmark-group button[aria-expanded] {
   background: transparent !important;
@@ -225,11 +225,28 @@ button[aria-expanded].bookmark-group-button,
   box-shadow: none !important;
   padding: 0 !important;
   margin: 0 !important;
+  width: 100% !important;
+  text-align: left !important;
 }
 
 button[aria-expanded].bookmark-group-button > h2,
 .bookmark-group button[aria-expanded] > h2 {
   margin: 0 !important;
+  display: inline-block !important;
+}
+
+/* Bookmark list inside group - horizontal responsive grid */
+.bookmark-group .bookmark-list {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 0.5rem !important;
+  padding: 0.5rem !important;
+}
+
+.bookmark-group li.bookmark {
+  display: flex !important;
+  flex: 1 1 calc(50% - 0.5rem) !important; /* Side by side: 2 per row */
+  min-width: 120px !important;
 }
 
 button[aria-expanded].bookmark-group-button svg,
