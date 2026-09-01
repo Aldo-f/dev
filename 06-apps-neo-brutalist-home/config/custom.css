@@ -27,6 +27,48 @@
   --nb-lime: #a8ff00;
   --nb-blue: #4d7fff;
   --nb-purple: #b366ff;
+  /* Refined background and surface tokens */
+  --nb-paper-dark: #16161d;
+  --nb-ink-dark: #e1e1e8;
+  --nb-border-dark: #3a3a45;
+  --nb-shadow-dark: 6px 6px 0 #1a1a30;
+  /* Enhanced accent variants */
+  --nb-lime-dark: #b3ff33;
+  --nb-neon-dark: #ff6633;
+  --nb-blue-dark: #6699ff;
+  --nb-purple-dark: #b366ff;
+  /* Status colors for dark mode */
+  --status-success: #22c55e;
+  --status-warning: #fbbf24;
+  --status-error: #ef4444;
+  --status-info: #3b82f6;
+}
+
+/* Dark theme base component overrides */
+.dark body,
+[data-theme="dark"] body {
+  background: var(--nb-paper-dark) !important;
+  color: var(--nb-ink-dark) !important;
+}
+
+.dark .service-group-name,
+[data-theme="dark"] .service-group-name {
+  background: var(--nb-lime-dark) !important;
+  color: var(--nb-ink-dark) !important;
+  border-color: var(--nb-border-dark) !important;
+  box-shadow: 4px 4px 0 var(--nb-neon-dark) !important;
+}
+
+.dark li.service,
+[data-theme="dark"] li.service {
+  background: var(--nb-paper-dark) !important;
+  border-color: var(--nb-border-dark) !important;
+  box-shadow: var(--nb-shadow-dark) !important;
+}
+
+.dark li.service:hover,
+[data-theme="dark"] li.service:hover {
+  box-shadow: 10px 10px 0 var(--nb-purple-dark) !important;
 }
 
 /* ===== PAGE BACKGROUND ===== */
@@ -164,6 +206,32 @@ li.service .docker-status-stopped {
   background: var(--nb-neon) !important;
 }
 
+/* Information widgets dark mode */
+.dark .information-widget-resource,
+[data-theme="dark"] .information-widget-resource {
+  background: var(--nb-paper-dark) !important;
+  border-color: var(--nb-border-dark) !important;
+  box-shadow: 4px 4px 0 var(--nb-lime-dark) !important;
+  color: var(--nb-ink-dark) !important;
+}
+
+.dark .information-widget-label,
+[data-theme="dark"] .information-widget-label {
+  color: var(--nb-ink-dark) !important;
+  opacity: 0.8 !important;
+}
+
+.dark .resource-usage,
+[data-theme="dark"] .resource-usage {
+  background: #2a2a40 !important;      /* Darker track */
+  border-color: var(--nb-border-dark) !important;
+}
+
+.dark .resource-usage > div,
+[data-theme="dark"] .resource-usage > div {
+  background: var(--nb-lime-dark) !important;
+}
+
 /* ===== INFORMATION WIDGETS ===== */
 .information-widget-resource {
   background: white !important;
@@ -217,6 +285,33 @@ li.service .docker-status-stopped {
 }
 
 /* ===== BOOKMARKS ===== */
+
+/* Bookmarks dark mode */
+.dark .bookmark,
+[data-theme="dark"] .bookmark {
+  background: var(--nb-paper-dark) !important;
+  border-color: var(--nb-border-dark) !important;
+  box-shadow: 4px 4px 0 var(--nb-blue-dark) !important;
+}
+
+.dark .bookmark > div:first-child,
+[data-theme="dark"] .bookmark > div:first-child {
+  background: var(--nb-lime-dark) !important;
+  border-right-color: var(--nb-border-dark) !important;
+  color: var(--nb-ink-dark) !important;
+}
+
+.dark .bookmark a,
+.dark .bookmark-name,
+[data-theme="dark"] .bookmark a,
+[data-theme="dark"] .bookmark-name {
+  color: var(--nb-ink-dark) !important;
+}
+
+.dark .bookmark-description,
+[data-theme="dark"] .bookmark-description {
+  color: #a0a0b0 !important;
+}
 /* Bookmark group header button */
 button[aria-expanded].bookmark-group-button,
 .bookmark-group button[aria-expanded] {
@@ -351,26 +446,93 @@ input:focus-visible,
   outline: 3px solid var(--nb-neon) !important;
   outline-offset: 2px !important;
 }
+ 
+/* Enhanced focus states for dark mode */
+.dark a:focus-visible,
+.dark button:focus-visible,
+.dark input:focus-visible,
+[data-theme="dark"] a:focus-visible,
+[data-theme="dark"] button:focus-visible,
+[data-theme="dark"] input:focus-visible {
+  outline: 3px solid var(--nb-lime-dark) !important;
+  outline-offset: 2px !important;
+  box-shadow: 0 0 8px var(--nb-lime-dark) !important;
+}
+
+/* High contrast status badges in dark mode */
+.dark .docker-status,
+[data-theme="dark"] .docker-status {
+  background: var(--nb-ink-dark) !important;
+  color: var(--nb-paper-dark) !important;
+  border-color: var(--nb-ink-dark) !important;
+}
+
+.dark .docker-status-running,
+.dark .docker-status-healthy,
+[data-theme="dark"] .docker-status-running,
+[data-theme="dark"] .docker-status-healthy {
+  background: var(--status-success) !important;
+  color: var(--nb-paper-dark) !important;
+  box-shadow: 0 0 6px var(--status-success) !important;
+}
+
+.dark .docker-status-stopped,
+[data-theme="dark"] .docker-status-stopped {
+  background: var(--status-error) !important;
+  color: var(--nb-paper-dark) !important;
+  box-shadow: 0 0 6px var(--status-error) !important;
+}
+
+.dark .docker-status-unknown,
+[data-theme="dark"] .docker-status-unknown {
+  background: #52525b !important;
+  color: var(--nb-paper-dark) !important;
+}
 
 /* Footer styling – neon‑brutalist */
 #footer {
-  background: var(--nb-paper) !important;
-  border-top: var(--nb-border) !important;
-  box-shadow: 4px 4px 0 var(--nb-neon) !important;
-  padding: 1rem !important;
+  background: var(--nb-paper-dark) !important;
+  border-top: var(--nb-border-dark) !important;
+  box-shadow: 4px 4px 0 var(--nb-neon-dark) !important;
+  padding: 1.5rem !important;        /* More breathing room */
   text-align: center !important;
-  color: var(--nb-ink) !important;
+  color: var(--nb-ink-dark) !important;
+  position: relative !important;
+  border-bottom: var(--nb-border-dark) !important;
+}
+
+#footer::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--nb-lime-dark), transparent);
+  opacity: 0.6;
 }
 
 #footer a {
-  color: var(--nb-ink) !important;
-  text-decoration: underline;
+  color: var(--nb-ink-dark) !important;
+  text-decoration: none !important;
+  font-weight: 700 !important;
+  padding: 0.25rem 0.5rem !important;
+  border-radius: 0 !important;
+  display: inline-block !important;
+  transition: all 0.15s ease !important;
+}
+
+#footer a:hover {
+  background: var(--nb-lime-dark) !important;
+  color: var(--nb-paper-dark) !important;
+  box-shadow: 2px 2px 0 var(--nb-neon-dark) !important;
+  transform: translate(-1px, -1px) !important;
 }
 
 /* Dark mode footer */
 .dark #footer {
-  background: var(--nb-paper) !important;
-  color: var(--nb-ink) !important;
+  background: var(--nb-paper-dark) !important;
+  color: var(--nb-ink-dark) !important;
 }
 
 /* ===== SEARCH DIALOG ===== */
@@ -400,6 +562,43 @@ dialog input[type="text"]:focus {
 /* Hide information widget label */
 .information-widget-label {
   display: none !important;
+}
+
+/* Theme switcher button (light/dark toggle) */
+#theme-switcher {
+  position: fixed !important;
+  top: 1rem !important;
+  right: 1rem !important;
+  z-index: 1000 !important;
+  background: var(--nb-paper-dark) !important;
+  border: var(--nb-border-dark) !important;
+  border-radius: 0 !important;
+  box-shadow: 4px 4px 0 var(--nb-neon-dark) !important;
+  padding: 0.75rem !important;
+  cursor: pointer !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 48px !important;
+  height: 48px !important;
+  transition: all 0.15s ease !important;
+}
+
+#theme-switcher:hover {
+  transform: translate(-2px, -2px) !important;
+  box-shadow: 6px 6px 0 var(--nb-purple-dark) !important;
+  background: var(--nb-lime-dark) !important;
+}
+
+#theme-switcher svg {
+  width: 24px !important;
+  height: 24px !important;
+  fill: var(--nb-ink-dark) !important;
+}
+
+/* Hide in dark mode when already dark */
+.dark #theme-switcher {
+  opacity: 0.7 !important;
 }
 
 /* Progress bar color for glances widget */
