@@ -15,6 +15,3 @@ HOME=__HOME__
 
 # Backup dagelijks om 03:00
 0 3 * * * __USER__ __CORE_INFRA__/backup.sh >> __CORE_INFRA__/logs/backup-cron.log 2>&1
-
-# Thuis v4 watchlist — elk uur (run-serial voorkomt overlap)
-0 * * * * __USER__ /usr/local/bin/run-serial.sh thuis-watchlist --max-wait=7200 -- /home/aldo/dev/06-apps-thuis-v4/scripts/watchlist-runner.sh >> /home/aldo/dev/06-apps-thuis-v4/logs/watchlist.log 2>&1
