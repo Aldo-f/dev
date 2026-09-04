@@ -1,0 +1,7110 @@
+1
+00:00:42,250 --> 00:00:49,208
+AVYS DETEKTYVĖS
+
+2
+00:00:49,375 --> 00:00:50,958
+<i>Brangi Rebeka</i>
+
+3
+00:00:52,250 --> 00:00:54,916
+<i>žinau, kad tau kyla daug klausimų.</i>
+
+4
+00:00:56,083 --> 00:00:57,291
+<i>Man taip pat.</i>
+
+5
+00:00:57,458 --> 00:01:00,583
+<i>Juk gyvenimas – paslaptis.</i>
+
+6
+00:01:01,166 --> 00:01:04,208
+<i>Bet jei būtų vienas atsakymas
+į didžiąsias visatos mįsles,</i>
+
+7
+00:01:04,375 --> 00:01:06,041
+<i>viena laimės paslaptis,</i>
+
+8
+00:01:06,208 --> 00:01:08,625
+<i>ji būtų štai tokia:</i>
+
+9
+00:01:10,666 --> 00:01:11,750
+<i>Avys.</i>
+
+10
+00:01:15,083 --> 00:01:16,375
+<i>Ne, rimtai.</i>
+
+11
+00:01:16,708 --> 00:01:18,208
+<i>Iš tiesų – avys.</i>
+
+12
+00:01:20,416 --> 00:01:22,208
+Gerai, ateinu.
+
+13
+00:01:35,250 --> 00:01:38,708
+<i>Praeitam laiške klausei,
+ar kuri iš mano avių yra ypatinga.</i>
+
+14
+00:01:38,875 --> 00:01:43,416
+<i>Na, jos visos ypatingos.
+Todėl kiekvienai daviau vardą.</i>
+
+15
+00:01:43,583 --> 00:01:44,666
+<i>Pavyzdžiui:</i>
+
+16
+00:01:45,625 --> 00:01:49,500
+<i>nutrūktgalviai dvyniai avinai –
+Ronis ir Redžis.</i>
+
+17
+00:01:50,000 --> 00:01:53,333
+<i>Ir labai išdidus orusis seras Ričfildas.</i>
+
+18
+00:01:54,125 --> 00:01:55,875
+<i>Debesėlė – pūkuočiausia.</i>
+
+19
+00:01:56,041 --> 00:01:57,833
+<i>Šiek tiek primadona.</i>
+
+20
+00:01:58,708 --> 00:02:01,000
+<i>Zora – smalsiausia.</i>
+
+21
+00:02:01,791 --> 00:02:04,166
+<i>Moplis – kantriausias.</i>
+
+22
+00:02:04,916 --> 00:02:06,458
+<i>Ir Vilnaakis…</i>
+
+23
+00:02:07,166 --> 00:02:09,791
+<i>Na, nes nesugalvojau geresnio vardo.</i>
+
+24
+00:02:10,083 --> 00:02:13,041
+{\an8}<i>Žinau, sakiau, kad jos visos ypatingos,</i>
+
+25
+00:02:13,208 --> 00:02:17,875
+<i>bet turiu pripažinti –
+dvi mano avys yra pačios ypatingiausios.</i>
+
+26
+00:02:18,583 --> 00:02:19,666
+<i>Sebastianas.</i>
+
+27
+00:02:19,833 --> 00:02:21,250
+<i>Mano didžiausias avinas,</i>
+
+28
+00:02:21,416 --> 00:02:23,875
+<i>kaip ir aš, truputį vienišius.</i>
+
+29
+00:02:24,458 --> 00:02:27,083
+<i>Anksčiau ar vėliau jis nuklysta.</i>
+
+30
+00:02:27,416 --> 00:02:30,500
+<i>Ir anksčiau ar vėliau sugrįžta.</i>
+
+31
+00:02:34,041 --> 00:02:36,708
+<i>Ir galiausiai – Lilė.</i>
+
+32
+00:02:37,166 --> 00:02:38,708
+<i>Protingiausia mano avis.</i>
+
+33
+00:02:38,875 --> 00:02:42,041
+<i>Ta, kuri, rodos, visada žino, ką galvoju</i>
+
+34
+00:02:42,208 --> 00:02:44,416
+<i>ir ką jaučiu širdyje.</i>
+
+35
+00:02:44,583 --> 00:02:49,916
+<i>Labiau nei bet kuri kita ji suteikia
+man ramybę, kurią pažįsta tik piemenys.</i>
+
+36
+00:02:50,083 --> 00:02:51,541
+<i>Ramybę, kuri</i>
+
+37
+00:02:51,708 --> 00:02:56,166
+<i>ateina rūpinantis
+pačiais geriausiais padarais žemėje.</i>
+
+38
+00:03:01,458 --> 00:03:03,833
+<i>Dieną pradedu rūpindamasis jų gerove.</i>
+
+39
+00:03:04,000 --> 00:03:05,500
+AVIŲ PAŠARAS
+
+40
+00:03:05,958 --> 00:03:07,708
+<i>Rūpinuos, kad jos būtų sočios…</i>
+
+41
+00:03:08,458 --> 00:03:09,583
+<i>prižiūrėtos.</i>
+
+42
+00:03:11,583 --> 00:03:14,333
+<i>Stengiuosi, kad joms nebūtų nuobodu.</i>
+
+43
+00:03:14,500 --> 00:03:17,500
+<i>When I wake up
+Well, I know I'm gonna be</i>
+
+44
+00:03:17,666 --> 00:03:20,333
+<i>I'm gonna be the man
+who wakes up next to you</i>
+
+45
+00:03:22,041 --> 00:03:26,125
+<i>Ir pasirūpinu, kad jos išgertų vaistus –
+manau, sakytų, kad patinka,</i>
+
+46
+00:03:26,291 --> 00:03:27,791
+<i>jeigu galėtų kalbėti.</i>
+
+47
+00:03:27,958 --> 00:03:30,750
+Laikas vaistams, bičiuli.
+Va taip.
+
+48
+00:03:31,083 --> 00:03:35,250
+<i>O kai baigiu darbus ir ima leistis saulė,</i>
+
+49
+00:03:35,416 --> 00:03:37,583
+<i>išsirenku knygą ir garsiai skaitau.</i>
+
+50
+00:03:37,750 --> 00:03:42,041
+<i>Detektyvai, paslaptys, mįslės –
+mano mėgstamiausi.</i>
+
+51
+00:03:42,208 --> 00:03:44,958
+„Žinau, kada buvo nužudytas
+Rodnis Holingshedas,
+
+52
+00:03:45,125 --> 00:03:48,416
+ir žinau, kas buvo tikrasis žudikas.“
+
+53
+00:03:48,666 --> 00:03:51,625
+<i>Mėgstu apsimesti,
+kad jos supranta siužetą.</i>
+
+54
+00:03:52,291 --> 00:03:56,708
+<i>Bet širdyje žinau,
+jog kad ir kokios jos ypatingos, jos…</i>
+
+55
+00:03:57,208 --> 00:03:58,458
+<i>avys.</i>
+
+56
+00:03:59,541 --> 00:04:00,833
+Ne, ne, gana.
+
+57
+00:04:01,416 --> 00:04:02,833
+Na, eikit jau.
+
+58
+00:04:03,000 --> 00:04:05,125
+Pabaigą perskaitysiu rytoj.
+
+59
+00:04:11,833 --> 00:04:13,500
+Kodėl sustojo būtent čia?!
+
+60
+00:04:13,666 --> 00:04:15,875
+Jau beveik atskleidė, kas žudikas!
+
+61
+00:04:16,041 --> 00:04:18,083
+Neištversiu! Tarnaitė, tiesa?
+
+62
+00:04:18,250 --> 00:04:19,791
+Žinoma, kad tarnaitė.
+
+63
+00:04:19,958 --> 00:04:22,750
+<i>Ne, ne, sodininkas.</i>
+
+64
+00:04:22,916 --> 00:04:25,625
+Visad pjauna žolę,
+bet pats jos niekad nevalgo?
+
+65
+00:04:25,791 --> 00:04:27,125
+Taip. Įtartina.
+
+66
+00:04:27,291 --> 00:04:28,708
+Išprotėjot? Daktaras nužudė.
+
+67
+00:04:28,875 --> 00:04:30,666
+Ne jis, o ta šiurpi teta.
+
+68
+00:04:30,833 --> 00:04:33,750
+Šiurpi teta buvo užpraeitoj knygoj, genijau.
+
+69
+00:04:33,916 --> 00:04:35,666
+Tu tikrai mano brolis?!
+
+70
+00:04:35,833 --> 00:04:37,333
+Oi, prasideda.
+
+71
+00:04:37,500 --> 00:04:38,541
+Gerai.
+
+72
+00:04:39,291 --> 00:04:40,875
+Ir vėl pradeda.
+
+73
+00:04:41,041 --> 00:04:43,625
+Jūs visi klystat.
+
+74
+00:04:43,791 --> 00:04:46,375
+Aš išsiaiškinau jau prieš du skyrius.
+
+75
+00:04:46,916 --> 00:04:47,958
+Tarnaitė, ane?
+
+76
+00:04:48,125 --> 00:04:49,291
+Ne tarnaitė.
+
+77
+00:04:49,458 --> 00:04:52,500
+Sūnėnas – Bertis Holingshedas.
+
+78
+00:04:52,666 --> 00:04:56,833
+Bet, Lile, ar detektyvas neįrodė,
+kad visi įkalčiai prieš Bertį
+
+79
+00:04:57,000 --> 00:04:59,291
+buvo suklastoti tikrojo žudiko?
+
+80
+00:04:59,458 --> 00:05:00,666
+Būtent.
+
+81
+00:05:00,833 --> 00:05:02,250
+Nesuprantat?
+
+82
+00:05:02,416 --> 00:05:06,291
+Kad išvengtų bausmės,
+jis pats suklastojo įkalčius.
+
+83
+00:05:08,833 --> 00:05:11,625
+Bertis Holingshedas buvo tikrasis žudikas.
+
+84
+00:05:12,916 --> 00:05:14,375
+Ką aš tau padariau?
+
+85
+00:05:16,375 --> 00:05:19,791
+Mums rytoj perskaitys pabaigą.
+Pamatysit.
+
+86
+00:05:23,208 --> 00:05:25,000
+Vis tiek manau, kad tarnaitė.
+
+87
+00:05:25,333 --> 00:05:27,666
+<i>„Bertis žinojo įstatymą,</i>
+
+88
+00:05:28,041 --> 00:05:32,000
+kad už tą patį nusikaltimą
+žmogus negali būti teisiamas du kartus.
+
+89
+00:05:32,166 --> 00:05:36,833
+Ir todėl, kad išvengtų bausmės,
+jis pats suklastojo įkalčius.
+
+90
+00:05:37,458 --> 00:05:41,916
+Bertis Holingshedas
+buvo tikrasis žudikas.“
+
+91
+00:05:47,375 --> 00:05:50,958
+<i>Dauguma mano avių
+dieną praleidžia arba ėsdamos,</i>
+
+92
+00:05:51,125 --> 00:05:52,958
+<i>arba galvodamos apie ėdimą.</i>
+
+93
+00:05:53,500 --> 00:05:57,375
+<i>Bet turiu tris padūkusius ėriukus
+su neišsenkančia energija.</i>
+
+94
+00:05:57,916 --> 00:06:02,125
+<i>Laimingi, nerūpestingi padarėliai,
+gimę pavasarį.</i>
+
+95
+00:06:02,500 --> 00:06:06,250
+<i>Tiesą sakant, beveik visi ėriukai
+gimsta pavasarį.</i>
+
+96
+00:06:06,833 --> 00:06:11,041
+<i>O štai vienas mano ėriukas gimė žiemą.</i>
+
+97
+00:06:12,458 --> 00:06:14,375
+O. Labas.
+
+98
+00:06:16,833 --> 00:06:18,000
+– Aš – Deizė.
+– Aš – Oliveris.
+
+99
+00:06:18,166 --> 00:06:20,125
+– Aš – Pikls.
+– Koks tavo vardas?
+
+100
+00:06:20,708 --> 00:06:22,375
+Aš neturiu vardo.
+
+101
+00:06:22,541 --> 00:06:24,208
+Nori su mumis pažaisti?
+
+102
+00:06:24,625 --> 00:06:26,291
+Ne! Štiš!
+
+103
+00:06:27,000 --> 00:06:29,791
+Nežaiskit su tuo žiemos ėriuku.
+
+104
+00:06:29,958 --> 00:06:32,583
+Jis nepriklauso mūsų bandai.
+
+105
+00:06:33,375 --> 00:06:36,125
+<i>Dėl priežasčių, kurias supranta tik avys,</i>
+
+106
+00:06:36,291 --> 00:06:39,625
+<i>banda dažnai atstumia žiemą gimusį ėriuką.</i>
+
+107
+00:06:39,791 --> 00:06:40,625
+Viskas gerai.
+
+108
+00:06:40,791 --> 00:06:44,375
+<i>Vien todėl, kad žiemos ėriukas yra kitoks.</i>
+
+109
+00:06:44,541 --> 00:06:47,125
+Viskas gerai.
+
+110
+00:06:55,791 --> 00:06:57,083
+Noriu paklausti.
+
+111
+00:06:57,250 --> 00:06:59,708
+Kodėl Džordžas visada toks geras
+tam ėriukui?
+
+112
+00:06:59,875 --> 00:07:01,583
+Džordžas – ne avis.
+
+113
+00:07:01,750 --> 00:07:04,708
+Jo niekas nemokė apie žiemos ėriukus.
+
+114
+00:07:16,708 --> 00:07:19,208
+<i>Dar kai kas.
+Jei priimsi mano kvietimą,</i>
+
+115
+00:07:19,375 --> 00:07:22,291
+<i>turi žinoti, kad gyvenu
+netoli Denbruko miestelio.</i>
+
+116
+00:07:22,625 --> 00:07:24,791
+{\an8}<i>Čia gyvena savotiški žmonės.</i>
+
+117
+00:07:24,958 --> 00:07:26,041
+{\an8}<i>Pavyzdžiui…</i>
+
+118
+00:07:26,208 --> 00:07:27,208
+Labas, Keilebai.
+
+119
+00:07:27,333 --> 00:07:28,500
+<i>Keilebas</i> – <i>irgi piemuo.</i>
+
+120
+00:07:28,625 --> 00:07:29,416
+Labas rytas.
+
+121
+00:07:29,541 --> 00:07:30,375
+<i>Man nepatinka.</i>
+
+122
+00:07:30,708 --> 00:07:32,166
+<i>Hemas</i> – <i>mėsininkas.</i>
+
+123
+00:07:32,333 --> 00:07:34,208
+<i>Jo labai nemėgstu.</i>
+
+124
+00:07:34,375 --> 00:07:35,791
+<i>Betė</i> – <i>viešbučio šeimininkė.</i>
+
+125
+00:07:35,958 --> 00:07:37,083
+<i>Nemėgsta manęs.</i>
+
+126
+00:07:37,250 --> 00:07:38,750
+Užmušt maža.
+
+127
+00:07:38,916 --> 00:07:40,625
+{\an8}<i>Timas</i> – <i>policininkas.</i>
+
+128
+00:07:40,791 --> 00:07:41,833
+{\an8}ŠOKAS
+
+129
+00:07:42,000 --> 00:07:43,083
+<i>Idiotas.</i>
+
+130
+00:07:43,250 --> 00:07:47,041
+<i>Ir kunigas Hilkautas,
+laikantis save žmonių piemeniu.</i>
+
+131
+00:07:47,208 --> 00:07:50,291
+<i>Mūsų santykiai sudėtingi.</i>
+
+132
+00:07:50,458 --> 00:07:54,541
+O šiandienos skaitinys –
+„Paklydusi avelė“.
+
+133
+00:08:05,250 --> 00:08:06,958
+Džordžai, prisijunk.
+
+134
+00:08:07,750 --> 00:08:10,333
+Viešpaties namuose laukiami visi.
+
+135
+00:08:11,250 --> 00:08:12,541
+Net mėsininkai?
+
+136
+00:08:19,000 --> 00:08:20,916
+Ne į mišias atėjau.
+
+137
+00:08:21,916 --> 00:08:23,541
+Atėjau skolą atiduot.
+
+138
+00:08:30,208 --> 00:08:31,750
+Oi, tas Džordžas.
+
+139
+00:08:34,041 --> 00:08:35,416
+Oi, tas Džordžas.
+
+140
+00:08:35,750 --> 00:08:37,625
+<i>Bet gana apie žmones.</i>
+
+141
+00:08:38,041 --> 00:08:40,208
+<i>Noriu, kad susipažintum su banda.</i>
+
+142
+00:08:40,375 --> 00:08:42,541
+<i>Jie labai nori tave pamatyti.</i>
+
+143
+00:08:43,583 --> 00:08:45,250
+<i>Aš taip pat.</i>
+
+144
+00:08:45,958 --> 00:08:47,625
+<i>Greičiau atvažiuok.</i>
+
+145
+00:08:50,708 --> 00:08:52,375
+<i>Su meile, Džordžas.</i>
+
+146
+00:08:59,583 --> 00:09:00,666
+Debesėle.
+
+147
+00:09:01,083 --> 00:09:02,291
+Noriu paklausti.
+
+148
+00:09:02,458 --> 00:09:05,125
+Nuo pienių blakstienos
+bus tokios gražios kaip tavo?
+
+149
+00:09:05,291 --> 00:09:07,833
+Ne, blakstienoms jos nepadės.
+
+150
+00:09:08,000 --> 00:09:10,041
+Bet vilnai – tikras stebuklas.
+
+151
+00:09:10,208 --> 00:09:11,500
+Pažiūrėk į Vilnaakį.
+
+152
+00:09:11,666 --> 00:09:13,250
+Jis ėda vien kiaulpienes.
+
+153
+00:09:13,416 --> 00:09:16,083
+O, tai čia kiaulpienės? Žinosiu.
+
+154
+00:09:16,250 --> 00:09:20,166
+Turėtume palikti ir Sebastianui.
+Jis jau kelias dienas dingęs.
+
+155
+00:09:20,333 --> 00:09:23,958
+Kam rūpi? Nuo tada,
+kai Džordžas jį parvedė iš nežinia kur,
+
+156
+00:09:24,125 --> 00:09:26,125
+jis vis nuklysta į miestelį.
+
+157
+00:09:26,291 --> 00:09:27,541
+Tegu sau badauja.
+
+158
+00:09:27,708 --> 00:09:31,541
+Tai, kad jam nerūpim,
+nereiškia, kad neturime rūpintis juo.
+
+159
+00:09:31,708 --> 00:09:33,958
+Sebastianas – mūsų bandos dalis.
+
+160
+00:09:34,208 --> 00:09:36,708
+O, žiūrėkit! Keilebas!
+
+161
+00:09:39,583 --> 00:09:40,916
+Šuniukai!
+
+162
+00:09:41,083 --> 00:09:45,041
+Šuniukai, šuniukai!
+
+163
+00:09:46,791 --> 00:09:48,833
+Keilebai! Čia!
+
+164
+00:09:49,000 --> 00:09:52,041
+O, jis visada taip gerai kvepia.
+
+165
+00:09:52,208 --> 00:09:53,750
+Tai jo vilnoniai megztiniai.
+
+166
+00:09:54,208 --> 00:09:55,875
+Taip gražiai nudažyti.
+
+167
+00:09:57,125 --> 00:09:58,458
+– Galiu užeit?
+– Eik lauk.
+
+168
+00:09:58,583 --> 00:09:59,750
+Ateinu.
+
+169
+00:10:00,250 --> 00:10:04,333
+Ale koks naujas ir kaip gražiai blizga.
+
+170
+00:10:04,750 --> 00:10:06,833
+Galvoji tą patį, ką ir aš?
+
+171
+00:10:07,166 --> 00:10:09,583
+– Noriu sudaužyt!
+– Labai noriu sudaužyt!
+
+172
+00:10:10,458 --> 00:10:11,708
+Redži! Roni!
+
+173
+00:10:13,000 --> 00:10:16,708
+Mes apie tai kalbėjom.
+Nieko nedaužom, nebent?...
+
+174
+00:10:16,875 --> 00:10:20,000
+Nebent yra rimta priežastis daužyti.
+
+175
+00:10:20,166 --> 00:10:21,166
+Šaunuoliai.
+
+176
+00:10:21,333 --> 00:10:23,791
+Keilebas čia lankosi jau trečią kartą.
+
+177
+00:10:23,958 --> 00:10:26,541
+Ten jie gali kalbėti tik apie viena.
+
+178
+00:10:27,083 --> 00:10:28,250
+Bandų sujungimą.
+
+179
+00:10:28,416 --> 00:10:30,333
+– Bandų sujungimą!
+– Naujos avys!
+
+180
+00:10:30,500 --> 00:10:32,250
+– Naujos ganyklos!
+– Šuniukai?
+
+181
+00:10:32,416 --> 00:10:33,750
+Aš dar galvoju!
+
+182
+00:10:33,916 --> 00:10:36,500
+Daviau tau progą, o tu melavai, Keilebai!
+
+183
+00:10:36,666 --> 00:10:37,833
+Nebegrįžk.
+
+184
+00:10:45,500 --> 00:10:48,208
+Kažkaip man atrodo, kad bandų nesujungs.
+
+185
+00:10:49,875 --> 00:10:51,166
+Buvau tokia laiminga.
+
+186
+00:10:51,333 --> 00:10:52,958
+O dabar – liūdna ir pikta.
+
+187
+00:10:53,125 --> 00:10:54,708
+Noriu pamiršt, kad tai įvyko!
+
+188
+00:10:54,875 --> 00:10:56,875
+Teisingai. Per daug skaudu.
+
+189
+00:10:57,041 --> 00:10:58,291
+Gerai, visi.
+
+190
+00:10:58,458 --> 00:11:02,375
+Skaičiuojam iki trijų
+ir pamirštam Keilebo apsilankymą.
+
+191
+00:11:02,541 --> 00:11:04,208
+Viens. Du…
+
+192
+00:11:04,375 --> 00:11:07,333
+O kaip Moplis?
+Jis negali pamiršti.
+
+193
+00:11:07,500 --> 00:11:08,333
+Kodėl?
+
+194
+00:11:08,500 --> 00:11:09,958
+Vargšas Moplis.
+
+195
+00:11:10,125 --> 00:11:12,166
+Jis gimė su baisia negalia.
+
+196
+00:11:12,458 --> 00:11:15,875
+Skirtingai nei mes,
+jis negali nuspręsti pamiršti.
+
+197
+00:11:16,041 --> 00:11:17,125
+A, taip.
+
+198
+00:11:17,291 --> 00:11:21,791
+Mopli, prašau, kai pamiršim,
+neprimink mums, kad tai įvyko.
+
+199
+00:11:21,958 --> 00:11:24,416
+Tikrai to norit?
+Juk nebuvo taip blogai.
+
+200
+00:11:24,583 --> 00:11:27,833
+Ne. Bet ir gerai nebuvo.
+Tai kam vargti?
+
+201
+00:11:28,541 --> 00:11:29,541
+Pasiruošę?
+
+202
+00:11:29,875 --> 00:11:30,875
+Viens.
+
+203
+00:11:31,375 --> 00:11:32,458
+Du.
+
+204
+00:11:32,791 --> 00:11:33,916
+Trys.
+
+205
+00:11:36,583 --> 00:11:37,625
+Debesėle.
+
+206
+00:11:38,250 --> 00:11:39,416
+Noriu paklausti.
+
+207
+00:11:39,583 --> 00:11:42,375
+Nuo pienių blakstienos
+bus tokios gražios kaip tavo?
+
+208
+00:11:42,541 --> 00:11:44,875
+Ne, blakstienoms jos nepadės.
+
+209
+00:11:45,083 --> 00:11:48,250
+– Bet vilnai – tikras stebuklas.
+– Bet vilnai – tikras stebuklas.
+
+210
+00:11:58,291 --> 00:11:59,291
+Viskas gerai.
+
+211
+00:12:12,750 --> 00:12:14,708
+Man viskas bus gerai. Pažadu.
+
+212
+00:12:14,875 --> 00:12:15,916
+Tiesiog…
+
+213
+00:12:17,000 --> 00:12:18,291
+Nežinau.
+
+214
+00:12:21,875 --> 00:12:25,500
+Tiesiog tikėjausi, kad greitai
+viskas bus kitaip.
+
+215
+00:12:26,750 --> 00:12:28,458
+Bet tau nereikia jaudintis.
+
+216
+00:12:29,500 --> 00:12:30,875
+Tau viskas bus gerai.
+
+217
+00:12:32,166 --> 00:12:34,125
+Ir man taip pat.
+
+218
+00:12:57,666 --> 00:12:59,208
+DENBRUKO KULTŪROS FESTIVALIS
+
+219
+00:13:05,416 --> 00:13:06,416
+Sveika.
+
+220
+00:13:06,583 --> 00:13:09,458
+O, labas. Ir ką turim?
+
+221
+00:13:09,625 --> 00:13:13,250
+{\an8}Nedaug pašto kaip pirmadieniui.
+Tik sąskaitos ir reklamos.
+
+222
+00:13:13,416 --> 00:13:14,166
+PONAS DŽORDŽAS HARDIS
+
+223
+00:13:14,333 --> 00:13:16,250
+Džordžas. Kam jis siunčia laiškus?
+
+224
+00:13:16,416 --> 00:13:18,750
+Na, neturėčiau sakyt, bet…
+
+225
+00:13:19,625 --> 00:13:23,041
+Panelei Rebekai Hampsted.
+Į Ameriką.
+
+226
+00:13:23,625 --> 00:13:26,833
+Nežinau, kas ji,
+bet jau kelis mėnesius susirašinėja.
+
+227
+00:13:27,208 --> 00:13:28,333
+Ir…
+
+228
+00:13:28,500 --> 00:13:29,666
+Nagi.
+
+229
+00:13:30,083 --> 00:13:31,166
+Pauostyk.
+
+230
+00:13:31,708 --> 00:13:33,208
+Rožių kvapo popierius.
+
+231
+00:13:33,500 --> 00:13:34,625
+Tai meilės laiškai.
+
+232
+00:13:34,791 --> 00:13:35,875
+Gali patikėti?
+
+233
+00:13:36,041 --> 00:13:40,000
+Surūgėlis Džordžas Hardis –
+senas romantikas.
+
+234
+00:13:40,583 --> 00:13:41,791
+Kas būtų pagalvojęs.
+
+235
+00:13:43,916 --> 00:13:45,500
+Romantikas Džordžas.
+
+236
+00:13:45,708 --> 00:13:46,708
+Jo.
+
+237
+00:13:47,083 --> 00:13:48,458
+– Sėkmės.
+– Ir tau.
+
+238
+00:13:48,583 --> 00:13:49,625
+Iki!
+
+239
+00:13:51,333 --> 00:13:52,625
+– Sveiki!
+– O, sveiki!
+
+240
+00:13:52,791 --> 00:13:55,750
+Aš iš miesto atvykau
+į Denbruko kultūros festivalį.
+
+241
+00:13:55,916 --> 00:13:57,500
+O, nuostabu.
+
+242
+00:13:57,833 --> 00:13:59,250
+Štai ir jis.
+
+243
+00:14:00,083 --> 00:14:01,375
+Paskui mane.
+
+244
+00:14:01,833 --> 00:14:03,708
+Kas „jis“?
+
+245
+00:14:04,125 --> 00:14:07,833
+Sveikas atvykęs
+į Denbruko kultūros festivalį.
+
+246
+00:14:09,958 --> 00:14:11,333
+{\an8}AUTORINIAI BETĖS PENOK DARBAI
+
+247
+00:14:12,041 --> 00:14:13,083
+Juokaujat?
+
+248
+00:14:13,250 --> 00:14:16,000
+Ką? Tai mūsų miestelio paveldas.
+
+249
+00:14:18,583 --> 00:14:21,291
+Kas yra „Sugrįžimas į Ozą“?
+
+250
+00:14:21,625 --> 00:14:23,625
+{\an8}Tai geriausias visų laikų filmas.
+
+251
+00:14:24,041 --> 00:14:26,541
+{\an8}Jis nufilmuotas vos už 65 kilometrų.
+
+252
+00:14:26,916 --> 00:14:29,708
+Daug kas sako, kad geresnis už originalą.
+
+253
+00:14:30,083 --> 00:14:31,083
+Nemačiau.
+
+254
+00:14:31,250 --> 00:14:33,375
+Kas nėra matęs „Sugrįžimo į Ozą“?
+
+255
+00:14:33,541 --> 00:14:37,500
+Atsiprašau. Bet kam daryti
+tokį milžinišką plakatą šitam?
+
+256
+00:14:37,666 --> 00:14:40,541
+Noriu, kad žmonės ateitų.
+Koks festivalis be žmonių?
+
+257
+00:14:41,041 --> 00:14:44,208
+Joks čia ne festivalis.
+
+258
+00:14:44,375 --> 00:14:46,500
+Ne. Čia tik keli stalai.
+
+259
+00:14:47,666 --> 00:14:49,916
+Jūs ką, mokote mane, kaip dirbti?
+
+260
+00:14:50,541 --> 00:14:51,541
+Ne.
+
+261
+00:14:52,541 --> 00:14:54,250
+Atsiprašau.
+
+262
+00:14:55,000 --> 00:14:56,958
+Blogai pradėjom.
+
+263
+00:14:58,458 --> 00:15:01,541
+Aš Elijotas Metjusas.
+Esu reporteris iš „Gazette“.
+
+264
+00:15:03,541 --> 00:15:05,083
+Jaunesnysis reporteris.
+
+265
+00:15:07,958 --> 00:15:10,125
+Na, gerai, dirbu nekrologų skyriuj.
+
+266
+00:15:10,291 --> 00:15:13,333
+Bet jau taip ilgai ieškau
+tikros istorijos,
+
+267
+00:15:13,500 --> 00:15:17,500
+ir mano rubrikų redaktorius skyrė šitą –
+
+268
+00:15:18,250 --> 00:15:20,125
+Denbruko kultūros festivalį.
+
+269
+00:15:20,291 --> 00:15:23,041
+– Ir? Ideali istorija.
+– Kieta, sakyčiau.
+
+270
+00:15:23,208 --> 00:15:27,541
+Bet ar gausiu paaukštinimą
+rašydamas apie tai? Ne.
+
+271
+00:15:27,875 --> 00:15:29,333
+Gaila.
+
+272
+00:15:30,291 --> 00:15:31,750
+Dešimt. Grynais.
+
+273
+00:15:32,125 --> 00:15:33,208
+Už ką?
+
+274
+00:15:33,375 --> 00:15:35,125
+– Įėjimo mokestis.
+– Už įėjimą.
+
+275
+00:15:38,458 --> 00:15:39,541
+Dešimt.
+
+276
+00:15:39,708 --> 00:15:41,041
+Imkit…
+
+277
+00:15:41,708 --> 00:15:42,916
+Imkit viską.
+
+278
+00:15:44,041 --> 00:15:45,291
+Ai…
+
+279
+00:15:46,416 --> 00:15:47,583
+Trenktas.
+
+280
+00:15:48,166 --> 00:15:50,000
+SVEIKI ATVYKĘ Į DENBRUKĄ
+
+281
+00:16:06,666 --> 00:16:09,833
+Kur Džordžas? Kur mūsų vakaro istorija?
+
+282
+00:16:10,000 --> 00:16:11,333
+Kažkodėl nepasirodo.
+
+283
+00:16:13,916 --> 00:16:17,208
+Oi, nereikia to garso bijoti.
+
+284
+00:16:17,375 --> 00:16:18,500
+Sere Ričfildai.
+
+285
+00:16:18,666 --> 00:16:21,708
+Metas jums sužinoti, mažieji ėriukai –
+
+286
+00:16:22,000 --> 00:16:25,291
+tokia gyvenimo tėkmė.
+
+287
+00:16:25,458 --> 00:16:30,166
+Visi tie debesys kadaise buvo avys,
+kaip jūs ir aš.
+
+288
+00:16:30,333 --> 00:16:33,666
+O kai žemė tampa per sausa,
+
+289
+00:16:33,833 --> 00:16:36,083
+jos pradeda šokti.
+
+290
+00:16:36,250 --> 00:16:40,208
+Galingais dundesiais
+išspardo lietų iš dangaus,
+
+291
+00:16:40,375 --> 00:16:43,291
+kad augtų žolė ir dobilai.
+
+292
+00:16:43,458 --> 00:16:45,500
+Visos avys tampa debesimis?
+
+293
+00:16:45,666 --> 00:16:48,208
+Taip, Pikls, visos.
+
+294
+00:16:48,375 --> 00:16:52,625
+Ir aš tapsiu debesimi,
+kaip mano tėvai ir seneliai.
+
+295
+00:16:52,958 --> 00:16:54,333
+Nors…
+
+296
+00:16:55,375 --> 00:16:57,916
+kažkodėl negaliu prisiminti, kaip buvo,
+
+297
+00:16:58,083 --> 00:17:00,458
+kai jie tapo debesimis.
+
+298
+00:17:01,125 --> 00:17:03,333
+Mopli, tu juk viską atsimeni.
+
+299
+00:17:03,708 --> 00:17:06,583
+Ta diena turbūt buvo nuostabi, tiesa?
+
+300
+00:17:12,375 --> 00:17:14,833
+Taip, žinoma.
+
+301
+00:17:15,000 --> 00:17:18,791
+Jie atsisveikino ir,
+džiaugsmingai pakilę į dangų,
+
+302
+00:17:18,958 --> 00:17:21,750
+tapo dviem gražiais, pūkuotais debesimis,
+
+303
+00:17:21,916 --> 00:17:24,541
+žvelgiančiais į mus visus
+
+304
+00:17:24,791 --> 00:17:26,041
+su meile.
+
+305
+00:17:27,291 --> 00:17:28,375
+Amžinai.
+
+306
+00:17:30,083 --> 00:17:31,250
+Ačiū.
+
+307
+00:17:35,333 --> 00:17:36,916
+Prasideda!
+
+308
+00:17:37,291 --> 00:17:39,458
+Taip, kaip ir turi būti.
+
+309
+00:17:41,291 --> 00:17:42,458
+<i>Taip.</i>
+
+310
+00:17:42,791 --> 00:17:45,791
+<i>Viskas taip, kaip ir turi būti.</i>
+
+311
+00:17:55,958 --> 00:17:58,416
+GILJARDO MĖSA
+
+312
+00:18:30,625 --> 00:18:35,500
+Na, bent jau pataikėt atvykt pačiu laiku.
+
+313
+00:18:35,916 --> 00:18:38,708
+Vyksta Denbruko kultūros festivalis!
+
+314
+00:18:39,125 --> 00:18:40,708
+Ne visiems taip nuskyla!
+
+315
+00:18:42,250 --> 00:18:46,291
+Praėjusį savaitgalį buvau su sese,
+ragavome vietinio sūrio.
+
+316
+00:18:46,458 --> 00:18:48,458
+Jis buvo skanesnis nei bet kuris
+
+317
+00:18:48,625 --> 00:18:51,583
+iš tų prabangių sūrio parduotuvių mieste.
+
+318
+00:18:51,750 --> 00:18:53,000
+Sesė sakė, kad aš…
+
+319
+00:18:53,166 --> 00:18:54,500
+Jūs matėt?
+
+320
+00:18:55,250 --> 00:18:56,541
+Ką taip?
+
+321
+00:18:59,666 --> 00:19:01,166
+SVEIKI ATVYKĘ Į DENBRUKĄ
+
+322
+00:19:34,875 --> 00:19:36,416
+Valio! Pabudai!
+
+323
+00:19:36,583 --> 00:19:39,291
+Kiek kartų sakiau taip nedaryti?
+
+324
+00:19:39,708 --> 00:19:40,708
+Pamiršom!
+
+325
+00:19:40,875 --> 00:19:42,541
+Pamiršom.
+
+326
+00:19:42,708 --> 00:19:43,750
+Žinoma, pamiršot.
+
+327
+00:19:43,916 --> 00:19:44,916
+Pažiūrėkit!
+
+328
+00:19:45,083 --> 00:19:46,791
+– Palauk!
+– Palaukit, lėčiau!
+
+329
+00:19:51,000 --> 00:19:52,250
+<i>When I wake up</i>
+
+330
+00:19:54,500 --> 00:19:57,208
+<i>I'm gonna be the man
+who wakes up next…</i>
+
+331
+00:20:00,875 --> 00:20:02,750
+Lile. Ką tu…
+
+332
+00:20:03,291 --> 00:20:05,791
+Man atrodo, tai žaidimas. Nejudėk.
+
+333
+00:20:05,958 --> 00:20:08,708
+Pirmas pajudėjęs pralaimės.
+
+334
+00:20:21,500 --> 00:20:23,458
+Jis nežaidžia, Lile.
+
+335
+00:20:23,625 --> 00:20:26,833
+O tai ką jis daro?
+
+336
+00:20:29,666 --> 00:20:30,833
+Lile.
+
+337
+00:20:31,166 --> 00:20:32,291
+Jis…
+
+338
+00:20:33,125 --> 00:20:34,583
+Jis miręs.
+
+339
+00:20:35,041 --> 00:20:36,916
+Džordžas miręs.
+
+340
+00:20:37,375 --> 00:20:39,833
+Ką? Ką reiškia „miręs“?
+
+341
+00:20:40,875 --> 00:20:42,250
+Taip nebūna.
+
+342
+00:20:42,416 --> 00:20:44,291
+Taip būna tik knygose.
+
+343
+00:20:48,250 --> 00:20:49,708
+Ar ne tiesa?
+
+344
+00:20:53,750 --> 00:20:55,625
+Žmonės miršta?
+
+345
+00:20:57,833 --> 00:21:00,125
+Jis pavirs debesimi?
+
+346
+00:21:01,208 --> 00:21:04,458
+Ne. Taip būna tik avims.
+
+347
+00:21:34,041 --> 00:21:35,458
+– Miręs!
+– Miręs?
+
+348
+00:21:35,625 --> 00:21:36,958
+Taip tikrai būna?
+
+349
+00:21:37,416 --> 00:21:39,000
+Panašu, kad taip.
+
+350
+00:21:39,166 --> 00:21:41,041
+Tai reiškia, kad avys miršta?
+
+351
+00:21:41,208 --> 00:21:44,125
+Ne, Pikls, mes virstame debesimis, bet…
+
+352
+00:21:44,291 --> 00:21:45,583
+Jis negali būt miręs.
+
+353
+00:21:45,750 --> 00:21:48,291
+Man reikia vaistų. Man ektima.
+
+354
+00:21:48,458 --> 00:21:49,458
+Kas tokia?
+
+355
+00:21:49,625 --> 00:21:50,916
+Štai kas, vaike.
+
+356
+00:21:52,666 --> 00:21:53,708
+Šlykštu!
+
+357
+00:21:53,875 --> 00:21:56,791
+Negi nesuprantat, ką sakau?
+
+358
+00:21:57,375 --> 00:21:59,041
+Džordžo nebėra.
+
+359
+00:21:59,208 --> 00:22:01,000
+Jis niekada nebegrįš.
+
+360
+00:22:01,166 --> 00:22:03,875
+Bet Džordžas buvo mūsų piemuo.
+Ką darysim?
+
+361
+00:22:04,041 --> 00:22:07,250
+Tu protingiausia avis pasauly, Lile.
+Pasakyk, ką daryt!
+
+362
+00:22:07,416 --> 00:22:09,708
+Yra tik vienas sprendimas.
+
+363
+00:22:10,833 --> 00:22:12,416
+Turime pamiršti Džordžą.
+
+364
+00:22:12,583 --> 00:22:15,333
+Ką? Lile, tai juk Džordžas.
+Negalim tiesiog pam…
+
+365
+00:22:15,500 --> 00:22:18,833
+Prisiminti jį yra per daug skaudu.
+Aš negaliu.
+
+366
+00:22:19,000 --> 00:22:22,750
+Ji teisi.
+Avys neturėtų jausti tokių dalykų.
+
+367
+00:22:22,916 --> 00:22:25,875
+Mes privalome jį pamiršti.
+
+368
+00:22:27,875 --> 00:22:29,541
+Skaičiuojam iki trijų.
+
+369
+00:22:29,708 --> 00:22:30,833
+Palaukit. Ne…
+
+370
+00:22:31,000 --> 00:22:32,000
+Vienas.
+
+371
+00:22:32,166 --> 00:22:33,541
+Ne, prašau! Tai juk Džordžas!
+
+372
+00:22:33,916 --> 00:22:34,958
+Du.
+
+373
+00:22:35,125 --> 00:22:37,625
+Nieko jūs nepamiršit.
+
+374
+00:22:38,583 --> 00:22:39,583
+Sebastianas.
+
+375
+00:22:39,750 --> 00:22:44,166
+Tikrai manėt, kad leisčiau taip lengvai
+pamiršt savo piemenį?
+
+376
+00:22:44,333 --> 00:22:46,208
+Jis buvo mūsų piemuo, Sebastianai.
+
+377
+00:22:46,375 --> 00:22:47,791
+Visi jį mylėjom.
+
+378
+00:22:48,083 --> 00:22:50,041
+Ir tai per daug skaudu.
+
+379
+00:22:50,583 --> 00:22:52,291
+Todėl mes jį pamiršim.
+
+380
+00:22:52,458 --> 00:22:54,458
+Ne, nė už ką.
+
+381
+00:22:54,625 --> 00:22:57,375
+Prisiminsit, nes taip teisinga.
+
+382
+00:22:57,541 --> 00:22:59,000
+Taip reikia.
+
+383
+00:22:59,333 --> 00:23:00,500
+Kas veikia?
+
+384
+00:23:00,666 --> 00:23:02,875
+Ne, ne veikia…
+Taip teisinga.
+
+385
+00:23:03,791 --> 00:23:04,833
+Kokia dar Inga?
+
+386
+00:23:05,000 --> 00:23:07,375
+Tei-sin-ga. Teisinga.
+
+387
+00:23:07,541 --> 00:23:09,916
+Tai reiškia, kad geri
+neturi kentėti nuo blogų.
+
+388
+00:23:10,083 --> 00:23:12,416
+Silpni neturi kentėti nuo stiprių.
+
+389
+00:23:12,583 --> 00:23:15,458
+Ir draugo nevalia pamiršti.
+
+390
+00:23:15,875 --> 00:23:18,833
+Džordžas kartą man parodė,
+kas yra teisinga.
+
+391
+00:23:19,166 --> 00:23:21,125
+Jis nusipelno to paties.
+
+392
+00:23:21,291 --> 00:23:24,541
+Tiesa. Džordžas visada man buvo
+toks geras.
+
+393
+00:23:24,708 --> 00:23:25,708
+Ir jums visiems.
+
+394
+00:23:25,875 --> 00:23:28,375
+Todėl jus augino tik dėl vilnos.
+
+395
+00:23:28,541 --> 00:23:30,166
+O kam dar auginti avis?
+
+396
+00:23:30,291 --> 00:23:32,541
+Nėra kitų priežasčių.
+Tik vilna. Mūsų vilna.
+
+397
+00:23:32,666 --> 00:23:33,958
+Aš noriu paklausti.
+
+398
+00:23:34,250 --> 00:23:38,041
+Kokia žmogaus gyvenimo prasmė,
+jei jis gali akimirksniu baigtis?
+
+399
+00:23:38,166 --> 00:23:39,666
+Ir išvis – kodėl žmonės egzistuoja?
+
+400
+00:23:39,791 --> 00:23:41,083
+Kas juos sukūrė? Ir mus.
+
+401
+00:23:41,208 --> 00:23:43,291
+Kas medžio viduje ir kur mėnulis dieną?
+
+402
+00:23:43,416 --> 00:23:45,083
+Ir kodėl Džordžą nužudė?
+
+403
+00:23:45,833 --> 00:23:48,291
+„Nužudė?“ Kaip tai „nužudė“?
+
+404
+00:23:48,458 --> 00:23:51,208
+Istorijose mirę žmonės
+visada būna nužudyti.
+
+405
+00:23:51,375 --> 00:23:52,458
+Ne, ne, Zora.
+
+406
+00:23:52,625 --> 00:23:55,000
+Ten viskas išgalvota. O čia – tikra.
+
+407
+00:23:55,166 --> 00:23:56,250
+Ar tiesa, Lile?
+
+408
+00:23:56,416 --> 00:23:59,791
+Taip. Kodėl turėtume manyti,
+kad Džordžas buvo…
+
+409
+00:24:01,458 --> 00:24:02,958
+Kepurė.
+
+410
+00:24:20,416 --> 00:24:23,916
+Atėjau, kad pasirašytų dokumentus,
+ir radau jį tokį.
+
+411
+00:24:25,208 --> 00:24:26,708
+Gal norėtum pasakyti kelis žodžius?
+
+412
+00:24:26,875 --> 00:24:27,708
+Ne.
+
+413
+00:24:30,916 --> 00:24:32,041
+Keilebai.
+
+414
+00:24:34,125 --> 00:24:36,000
+O mėsininkas ką čia veikia?
+
+415
+00:24:38,208 --> 00:24:39,416
+Penkios.
+
+416
+00:24:40,333 --> 00:24:41,375
+Šešios.
+
+417
+00:24:42,750 --> 00:24:44,125
+Jam reikia avių.
+
+418
+00:24:45,916 --> 00:24:47,541
+Penkiolika.
+
+419
+00:24:49,083 --> 00:24:50,625
+Šešiolika.
+
+420
+00:24:51,125 --> 00:24:52,541
+Lile. Ką sugalvojai?
+
+421
+00:24:52,708 --> 00:24:54,416
+Gal nesvarbu, bet…
+
+422
+00:24:54,583 --> 00:24:57,583
+Negaliu nustoti galvoti
+apie Džordžo kepurę ir lietpaltį.
+
+423
+00:24:57,750 --> 00:24:58,916
+Kokią kepurę ir lietpaltį?
+
+424
+00:24:59,083 --> 00:25:02,375
+Būtent. Jis išėjo per audrą.
+Kodėl jų neužsidėjo?
+
+425
+00:25:02,541 --> 00:25:03,833
+Nebent…
+
+426
+00:25:04,541 --> 00:25:05,916
+Pakelk mane.
+
+427
+00:25:09,375 --> 00:25:10,416
+Ką?
+
+428
+00:25:10,791 --> 00:25:12,958
+Sakiau, kad norėčiau šitai pamiršti.
+
+429
+00:25:16,083 --> 00:25:17,833
+Ar matai ką nors?
+
+430
+00:25:19,750 --> 00:25:22,250
+Matau viską.
+
+431
+00:25:37,458 --> 00:25:38,833
+Atsiprašau.
+
+432
+00:25:39,000 --> 00:25:40,041
+Labą rytą.
+
+433
+00:25:40,208 --> 00:25:42,416
+Atsiprašau, ką jūs dar veikiat mieste?
+
+434
+00:25:42,583 --> 00:25:44,416
+Automobilis sugedo. O čia kas?
+
+435
+00:25:44,791 --> 00:25:47,250
+Jo vardas Džordžas Hardis. Piemuo.
+
+436
+00:25:47,583 --> 00:25:48,916
+Kas nutiko?
+
+437
+00:25:49,083 --> 00:25:50,583
+Greičiausiai širdies smūgis.
+
+438
+00:25:50,750 --> 00:25:53,083
+Bijau, kad iš to nieko neišspausit.
+
+439
+00:25:53,458 --> 00:25:56,250
+Nebent yra kas nors neįprasto. Tiesa?
+
+440
+00:25:56,416 --> 00:25:58,208
+Ne. Visur apžiūrėjau.
+
+441
+00:25:58,375 --> 00:26:00,291
+Aplink kemperį.
+
+442
+00:26:01,333 --> 00:26:02,875
+Po kemperiu irgi.
+
+443
+00:26:03,041 --> 00:26:05,000
+O kemperio vidų?
+
+444
+00:26:10,291 --> 00:26:11,791
+Gal ir variantas.
+
+445
+00:26:12,666 --> 00:26:14,625
+Oi, gal nereikėtų…
+
+446
+00:26:15,916 --> 00:26:16,958
+Ko?
+
+447
+00:26:17,125 --> 00:26:18,916
+Dėl pirštų atspaudų.
+
+448
+00:26:20,000 --> 00:26:22,875
+Taip. Atspaudai.
+
+449
+00:26:23,541 --> 00:26:24,583
+Jo.
+
+450
+00:26:33,416 --> 00:26:35,666
+Na, viskas normaliai.
+
+451
+00:26:35,833 --> 00:26:37,333
+Pareigūne, palaukit.
+
+452
+00:26:38,375 --> 00:26:43,166
+Kodėl žmogus, patyręs širdies smūgį,
+staiga atsikeltų ir išeitų į lauką?
+
+453
+00:26:43,500 --> 00:26:45,208
+Gal jis buvo lauke, kai tai įvyko.
+
+454
+00:26:45,375 --> 00:26:47,208
+Ne, ne. Tai įvyko čia.
+
+455
+00:26:47,875 --> 00:26:49,625
+Jis nuvertė kėdę.
+
+456
+00:26:53,458 --> 00:26:54,958
+Jis turėjo svečių.
+
+457
+00:26:55,250 --> 00:26:56,916
+Čia buvo svečių.
+
+458
+00:26:59,041 --> 00:27:00,291
+Neprisigalvokit.
+
+459
+00:27:00,875 --> 00:27:02,333
+Ištiko širdies smūgis.
+
+460
+00:27:02,500 --> 00:27:04,458
+Rodos, sąmoningai ignoruojat faktą,
+
+461
+00:27:04,583 --> 00:27:06,375
+kad yra, kas rodo priešingai.
+
+462
+00:27:06,500 --> 00:27:09,583
+Ką norit pasakyt?
+Kad bijau, jog tai žmogžudystė?
+
+463
+00:27:09,958 --> 00:27:10,791
+O ne?
+
+464
+00:27:11,708 --> 00:27:12,708
+Baikit.
+
+465
+00:27:12,875 --> 00:27:16,500
+Norėčiau žmogžudystės Denbruke.
+Norėčiau po vieną per dieną.
+
+466
+00:27:16,666 --> 00:27:18,250
+Būčiau pats laimingiausias.
+
+467
+00:27:20,166 --> 00:27:24,333
+{\an8}Žinau, kad jums
+reikia istorijos savo didžiajai karjerai.
+
+468
+00:27:24,500 --> 00:27:25,916
+{\an8}Bet deja…
+
+469
+00:27:29,041 --> 00:27:31,750
+{\an8}Džordžas Hardis nebuvo nužudytas.
+
+470
+00:27:32,541 --> 00:27:34,041
+Jis buvo nužudytas.
+
+471
+00:27:35,375 --> 00:27:37,750
+Policininkas sakė, kad žmogžudystė?
+
+472
+00:27:37,916 --> 00:27:41,166
+Ne. Policininkas sakė, kad širdis.
+Bet jis klysta.
+
+473
+00:27:41,333 --> 00:27:44,625
+Vadinasi, nepatvirtino.
+
+474
+00:27:44,791 --> 00:27:48,666
+Tai tiesiog nepagrįstas
+gyvulio spėliojimas.
+
+475
+00:27:50,333 --> 00:27:51,375
+Gerai.
+
+476
+00:27:52,041 --> 00:27:56,125
+Pas Džordžą atėjo žmogus, kurį jis
+pažinojo tiek, kad pasiūlytų išgerti.
+
+477
+00:27:56,291 --> 00:27:57,875
+Po to jam pasidarė bloga.
+
+478
+00:27:58,041 --> 00:28:02,833
+Tai, kad svečias niekam nepranešė,
+rodo jo kaltę,
+
+479
+00:28:03,000 --> 00:28:06,416
+o matomų sužalojimų nebuvimas
+leidžia įtarti nuodus.
+
+480
+00:28:06,750 --> 00:28:10,708
+Žalia dėmė ant jo rankos rodo,
+kad vyko grumtynės.
+
+481
+00:28:10,916 --> 00:28:12,625
+Žudikas pabėgo.
+
+482
+00:28:12,791 --> 00:28:16,083
+O vargšas Džordžas mirė nuo nuodų.
+
+483
+00:28:18,500 --> 00:28:19,666
+Aš niekada nespėlioju.
+
+484
+00:28:20,708 --> 00:28:24,666
+Policininkas visai beviltiškas –
+kaip ir tose istorijose.
+
+485
+00:28:24,833 --> 00:28:28,208
+Todėl kažkas kitas turi
+išspręsti nusikaltimą.
+
+486
+00:28:28,375 --> 00:28:29,458
+Kas?
+
+487
+00:28:29,750 --> 00:28:31,250
+Džordžas mus maitino.
+
+488
+00:28:31,416 --> 00:28:33,541
+Mumis rūpinosi.
+
+489
+00:28:33,708 --> 00:28:35,583
+Mus mylėjo.
+
+490
+00:28:36,041 --> 00:28:37,500
+Mes jam skolingi.
+
+491
+00:28:37,916 --> 00:28:39,541
+Tai sakai?...
+
+492
+00:28:39,708 --> 00:28:42,250
+Mūsų piemuo buvo nužudytas.
+
+493
+00:28:42,416 --> 00:28:45,166
+Ir mes rasime kaltą.
+
+494
+00:28:49,541 --> 00:28:50,541
+Kas juokinga?
+
+495
+00:28:50,708 --> 00:28:52,875
+Oho.
+
+496
+00:28:53,708 --> 00:28:55,083
+Visų pirma…
+
+497
+00:28:55,250 --> 00:28:57,583
+jūs – avys!
+
+498
+00:28:57,916 --> 00:28:59,041
+Čia jis ant tavęs varo.
+
+499
+00:28:59,208 --> 00:29:03,541
+Manot, kad esat pakankamai protingos
+išspręsti nusikaltimą?
+
+500
+00:29:03,708 --> 00:29:08,458
+Žinot, kaip žmonės vadina kvailius,
+negebančius savarankiškai mąstyt?
+
+501
+00:29:08,625 --> 00:29:09,625
+Antim!
+
+502
+00:29:09,791 --> 00:29:10,541
+Avim!
+
+503
+00:29:10,708 --> 00:29:13,583
+Ir tu, „protingiausia avie pasaulyje“.
+
+504
+00:29:13,750 --> 00:29:16,500
+Kur gi tu buvai „pasaulyje“?
+
+505
+00:29:16,791 --> 00:29:19,583
+Štai čia? Ar štai ten?
+
+506
+00:29:19,958 --> 00:29:21,000
+Prašau.
+
+507
+00:29:21,166 --> 00:29:25,250
+Grįžkit prie šieno, pienių ir miego,
+
+508
+00:29:25,416 --> 00:29:28,166
+o žmogžudystes palikite žmonėms.
+
+509
+00:29:29,708 --> 00:29:32,166
+Na. Gal pradedam?
+
+510
+00:29:34,291 --> 00:29:37,958
+Ieškokite užuominų. Nelieskite įkalčių.
+
+511
+00:29:40,125 --> 00:29:43,041
+Ir neėskit nusikaltimo vietos!
+
+512
+00:29:44,291 --> 00:29:45,583
+Ei, kas čia?
+
+513
+00:29:45,750 --> 00:29:48,833
+Ei! Rodos, esu užuominoje!
+
+514
+00:29:50,333 --> 00:29:52,666
+Varge. Alio!
+
+515
+00:29:52,791 --> 00:29:54,791
+Gerai, pamirškim tas užuominas.
+
+516
+00:29:54,958 --> 00:29:58,416
+Ar kas nors ką nors matė
+nusikaltimo naktį?
+
+517
+00:29:58,583 --> 00:30:00,041
+Aš mačiau.
+
+518
+00:30:01,208 --> 00:30:03,250
+Mačiau tave, Sebastianai.
+
+519
+00:30:04,291 --> 00:30:05,500
+Sebastianas nužudė!
+
+520
+00:30:05,666 --> 00:30:07,208
+Žudikas!
+
+521
+00:30:07,750 --> 00:30:09,708
+Taip. Aš nužudžiau.
+
+522
+00:30:09,875 --> 00:30:13,875
+Įėjau pro duris, pro kurias netelpu,
+atsisėdau ant kėdės, kuri manęs neišlaiko,
+
+523
+00:30:14,041 --> 00:30:16,125
+ir be priežasties nužudžiau savo piemenį,
+
+524
+00:30:16,291 --> 00:30:20,208
+atsargiai lašindamas nuodus į jo taurę
+
+525
+00:30:20,458 --> 00:30:22,208
+savo šitom.
+
+526
+00:30:22,375 --> 00:30:24,083
+– Išsisuko.
+– Kas vyksta?
+
+527
+00:30:24,250 --> 00:30:26,583
+Ar kas nors matėt žmonių?
+
+528
+00:30:27,333 --> 00:30:29,416
+Aš mačiau Džordžo vaiduoklį.
+
+529
+00:30:30,333 --> 00:30:32,125
+– Ne, nematei.
+– Mačiau.
+
+530
+00:30:34,208 --> 00:30:36,375
+Tai buvo vaiduoklis.
+
+531
+00:30:36,541 --> 00:30:39,916
+Buvo labai tamsu, aiškiai nemačiau,
+
+532
+00:30:40,083 --> 00:30:42,375
+bet kvepėjo kaip Džordžas…
+
+533
+00:30:42,541 --> 00:30:45,416
+Prašau, žiemos ėriuk, dabar ne laikas.
+
+534
+00:30:45,875 --> 00:30:48,541
+Varpai? Bet varpai skambėjo
+prieš dvi dienas.
+
+535
+00:30:48,875 --> 00:30:51,666
+Jais kviečia į miestelio susirinkimus.
+
+536
+00:30:51,833 --> 00:30:53,083
+Čia dėl Džordžo.
+
+537
+00:30:53,250 --> 00:30:54,291
+Tai žinoma!
+
+538
+00:30:54,458 --> 00:30:58,958
+Knygose visada būna susirinkimas
+paskelbti apie žmogžudystę.
+
+539
+00:30:59,125 --> 00:31:01,041
+Ir žudikas visada būna tarp jų.
+
+540
+00:31:01,208 --> 00:31:02,583
+Mums reikia ten būti.
+
+541
+00:31:03,291 --> 00:31:05,500
+Manot, kad išdrįsit išeit iš namų?
+
+542
+00:31:05,666 --> 00:31:07,500
+Nė vienas nebuvot palikę pievos.
+
+543
+00:31:07,666 --> 00:31:10,125
+Jūsų kanopos iki šiol vaikščiojo tik žole.
+
+544
+00:31:10,291 --> 00:31:12,125
+O kas čia tokio palikti namus?
+
+545
+00:31:12,291 --> 00:31:13,666
+Mes nebijom.
+
+546
+00:31:19,041 --> 00:31:21,041
+– Mopli, kas čia?
+– Manau, tai kelias.
+
+547
+00:31:21,166 --> 00:31:23,583
+– Iš ko jis padarytas?
+– Tikrai kad ne iš žolės.
+
+548
+00:31:23,708 --> 00:31:24,791
+Lile.
+
+549
+00:31:25,333 --> 00:31:26,333
+Taip!
+
+550
+00:31:26,500 --> 00:31:27,958
+Tai ateini?
+
+551
+00:31:28,125 --> 00:31:29,791
+Aš tik…
+
+552
+00:31:30,125 --> 00:31:32,166
+Pirmiau tu eik!
+
+553
+00:31:32,333 --> 00:31:34,500
+Kodėl tu šauki?
+
+554
+00:31:34,666 --> 00:31:36,958
+Aš juk stoviu vos už kelių žingsnių.
+
+555
+00:31:38,708 --> 00:31:40,375
+Bet atrodo taip toli.
+
+556
+00:31:40,541 --> 00:31:44,041
+Jums tereikia pereiti kelią.
+
+557
+00:31:56,708 --> 00:31:59,208
+Ne. Ne. Negaliu.
+
+558
+00:31:59,375 --> 00:32:00,666
+Neįmanoma.
+
+559
+00:32:15,458 --> 00:32:17,125
+Tai ne tavo kaltė.
+
+560
+00:32:17,291 --> 00:32:18,791
+Esam, kas esam.
+
+561
+00:32:21,708 --> 00:32:25,583
+Galbūt pereikim kartu?
+
+562
+00:32:27,458 --> 00:32:28,750
+Dėl Džordžo?
+
+563
+00:32:30,583 --> 00:32:32,166
+Dėl Džordžo.
+
+564
+00:32:33,166 --> 00:32:34,500
+Kartu.
+
+565
+00:32:45,875 --> 00:32:48,250
+– Noriu grįžti.
+– Aš irgi. Bet eikim.
+
+566
+00:32:52,375 --> 00:32:54,583
+Mums pavyko! Palikom namus!
+
+567
+00:32:54,750 --> 00:32:56,916
+Matai? Avys šį tą sugeba.
+
+568
+00:32:57,083 --> 00:32:59,625
+Šiaip jau, galime viską.
+
+569
+00:32:59,791 --> 00:33:01,166
+Ohoho.
+
+570
+00:33:01,333 --> 00:33:03,500
+Liko tik trys kilometrai.
+
+571
+00:33:03,666 --> 00:33:05,333
+Be problemų.
+
+572
+00:33:05,958 --> 00:33:08,041
+O kiek jau nuėjome?
+
+573
+00:33:08,708 --> 00:33:10,375
+Prisipažinsiu, nustebinot.
+
+574
+00:33:10,541 --> 00:33:14,833
+Mįslės neišsiaiškinsit,
+bet pasaulio tikrai pamatysit.
+
+575
+00:33:15,000 --> 00:33:17,041
+Žinoma, kad išsiaiškinsiu.
+
+576
+00:33:17,208 --> 00:33:19,291
+Iki šio vakaro.
+
+577
+00:33:19,708 --> 00:33:22,333
+Džordžas mums skaitė dešimtis
+tokių istorijų.
+
+578
+00:33:22,500 --> 00:33:25,250
+Jos turi labai paprastas taisykles.
+
+579
+00:33:25,416 --> 00:33:26,625
+Mopli.
+
+580
+00:33:27,375 --> 00:33:29,208
+Ką? A. Pirma!
+
+581
+00:33:29,375 --> 00:33:31,541
+Žudikas visada grįžta į nusikaltimo vietą.
+
+582
+00:33:31,708 --> 00:33:32,375
+Antra!
+
+583
+00:33:32,500 --> 00:33:34,666
+Policija visada kaltina kokį nors bastūną.
+
+584
+00:33:34,833 --> 00:33:36,416
+Nuolat apie juos kalba.
+
+585
+00:33:36,541 --> 00:33:37,333
+Trečia.
+
+586
+00:33:37,458 --> 00:33:40,666
+Atvyksta žmogus, kuris viską pakeičia.
+
+587
+00:33:40,833 --> 00:33:41,666
+Ketvirta!
+
+588
+00:33:41,833 --> 00:33:44,666
+Auka – svarbiausia užuomina.
+
+589
+00:33:45,000 --> 00:33:47,291
+Išties paprastos taisyklės.
+
+590
+00:33:47,458 --> 00:33:52,541
+Bet pamatysi, kad tikras pasaulis
+sudėtingesnis nei knygose.
+
+591
+00:33:52,708 --> 00:33:53,875
+O beje…
+
+592
+00:33:54,041 --> 00:33:56,166
+Sveiki atvykę į Denbruką.
+
+593
+00:33:57,000 --> 00:33:58,250
+O kas čia?
+
+594
+00:33:58,416 --> 00:34:01,333
+Čia bažnyčia. Joje gyvena kažkas
+vardu „Dievas“.
+
+595
+00:34:01,500 --> 00:34:02,500
+O kas tas Dievas?
+
+596
+00:34:02,666 --> 00:34:04,000
+Tai gana painu.
+
+597
+00:34:04,166 --> 00:34:05,583
+Dievas yra piemuo.
+
+598
+00:34:05,750 --> 00:34:07,166
+Galėtų būti mūsų piemuo?
+
+599
+00:34:07,333 --> 00:34:09,958
+Ne. Nes jis taip pat ir avinėlis.
+
+600
+00:34:10,083 --> 00:34:10,833
+Ką?
+
+601
+00:34:10,958 --> 00:34:12,708
+Ir dar yra nematomas.
+
+602
+00:34:12,875 --> 00:34:14,125
+Jo kūnas – iš duonos.
+
+603
+00:34:14,291 --> 00:34:15,666
+Ir baudžia potvyniais.
+
+604
+00:34:15,791 --> 00:34:17,750
+Užtvenkia? Kaip bebras?
+
+605
+00:34:17,916 --> 00:34:18,916
+Taip.
+
+606
+00:34:19,083 --> 00:34:22,583
+Tai Dievas – nematomas,
+iš duonos padarytas avinėlis–bebras?
+
+607
+00:34:22,750 --> 00:34:24,708
+Taip. Ir sekmadieniais jį valgo.
+
+608
+00:34:25,666 --> 00:34:26,958
+Vargšelis.
+
+609
+00:34:27,291 --> 00:34:28,625
+Žinau, kad turėjau grįžti,
+
+610
+00:34:28,791 --> 00:34:32,416
+bet, regis, aptikau savo pirmą
+mažo miestelio žmogžudystės bylą.
+
+611
+00:34:32,583 --> 00:34:34,375
+Viskas, turiu bėgti.
+
+612
+00:34:34,541 --> 00:34:36,375
+Eime. Iš čia mūsų nepamatys.
+
+613
+00:34:36,541 --> 00:34:38,916
+Jie jau jus mato, ir niekam nerūpi.
+
+614
+00:34:39,083 --> 00:34:41,500
+Šimtąjį kartą sakau: jūs – avys.
+
+615
+00:34:41,958 --> 00:34:43,916
+Denbruko gyventojai.
+
+616
+00:34:44,333 --> 00:34:48,833
+Žinau, sklinda gandai,
+kad Džordžo Hardžio mirtis yra įtartina.
+
+617
+00:34:49,000 --> 00:34:52,625
+Bet kol tyrimas nebaigtas,
+negaliu komentuoti galimo nunuodijimo…
+
+618
+00:34:52,750 --> 00:34:54,666
+Pala! Jį nužudė?
+
+619
+00:34:55,541 --> 00:34:56,666
+Velnias.
+
+620
+00:34:56,833 --> 00:34:59,083
+Atsiprašau, kokiais nuodais?
+
+621
+00:34:59,250 --> 00:35:00,250
+Klausykit.
+
+622
+00:35:00,791 --> 00:35:03,291
+Džordžas nunuodytas medžiaga,
+vadinama taksinu.
+
+623
+00:35:03,583 --> 00:35:05,208
+Jos yra kukmedžio uogose.
+
+624
+00:35:05,375 --> 00:35:07,708
+O tie medžiai čia auga?
+
+625
+00:35:09,416 --> 00:35:10,250
+Ten auga.
+
+626
+00:35:12,083 --> 00:35:13,666
+Tai jį nužudė vienas iš mūsų.
+
+627
+00:35:13,833 --> 00:35:15,125
+Ne, ne. Ne. Ne.
+
+628
+00:35:15,291 --> 00:35:18,375
+Beveik neabejotinai tai buvo ne vietinis.
+
+629
+00:35:22,875 --> 00:35:24,291
+Kas joms negerai?
+
+630
+00:35:45,000 --> 00:35:46,458
+Pareigūne Deri.
+
+631
+00:35:47,333 --> 00:35:48,625
+Pareigūne Deri.
+
+632
+00:35:49,541 --> 00:35:50,625
+Taip.
+
+633
+00:35:50,958 --> 00:35:53,541
+Ką?.. Taip, aš esu Deris.
+
+634
+00:35:53,708 --> 00:35:56,416
+Lidija Harbotl. „Harbotl kontora.“
+
+635
+00:35:56,666 --> 00:36:00,166
+Kalbėjome anksčiau. Esu velionio advokatė.
+
+636
+00:36:00,333 --> 00:36:02,791
+Taip. O jūs?
+
+637
+00:36:03,000 --> 00:36:04,958
+Aš Rebeka Hampsted.
+
+638
+00:36:05,125 --> 00:36:06,916
+Aš Džordžo dukra.
+
+639
+00:36:07,500 --> 00:36:10,208
+– Sakė, dukra?
+– Džordžas turi dukrą?
+
+640
+00:36:10,708 --> 00:36:15,333
+Kažkas netikėtai atvyksta
+ir viskas pasikeičia.
+
+641
+00:36:16,750 --> 00:36:19,583
+Radau jūsų telefono numerį
+puslapio apačioje.
+
+642
+00:36:19,750 --> 00:36:21,583
+Todėl ir paskambinau jums.
+
+643
+00:36:21,750 --> 00:36:23,333
+Nes visada tyrinėju.
+
+644
+00:36:23,500 --> 00:36:25,166
+Bet jūs juk ne tyrėjas, ar ne?
+
+645
+00:36:25,333 --> 00:36:26,333
+Žinau, bet…
+
+646
+00:36:26,458 --> 00:36:30,375
+Radote šį dokumentą,
+atvirai gulintį ant stalo kemperyje.
+
+647
+00:36:30,500 --> 00:36:31,750
+Tai tik „pastebėjimas“, ar ne?
+
+648
+00:36:31,916 --> 00:36:32,750
+Na…
+
+649
+00:36:32,875 --> 00:36:37,291
+Pastebėjote šį dokumentą
+antrą kartą įėjęs į pono Hardžio kemperį?
+
+650
+00:36:37,458 --> 00:36:38,375
+Jo, teisingai.
+
+651
+00:36:38,541 --> 00:36:41,750
+Turėjau grįžti ir kruopščiai
+viską apžiūrėti.
+
+652
+00:36:42,166 --> 00:36:45,291
+Užkabinau policijos juostą.
+O ji – lipni gyvatė.
+
+653
+00:36:45,416 --> 00:36:47,041
+Niekam tai nerūpi.
+
+654
+00:36:47,166 --> 00:36:49,833
+Ar skaitėte?
+Ar bent jau peržvelgėte?
+
+655
+00:36:50,000 --> 00:36:52,000
+Ne. Ne mano reikalas.
+
+656
+00:36:52,166 --> 00:36:53,750
+O va kaip tik jūsų.
+
+657
+00:36:54,250 --> 00:36:56,208
+Testamentą skaitysiu popiet.
+
+658
+00:36:56,375 --> 00:37:00,166
+Šie asmenys jame paminėti.
+Pasirūpinkite, kad dalyvautų.
+
+659
+00:37:00,333 --> 00:37:04,333
+Kunigas Hilkautas, Keilebas Merou…
+
+660
+00:37:04,500 --> 00:37:05,916
+Ko nerašote?
+
+661
+00:37:06,083 --> 00:37:09,833
+Kunigas Hilkautas, Keilebas Merou,
+Betė Penok,
+
+662
+00:37:10,000 --> 00:37:14,458
+Hemas Giljardas, jūs ir Rebeka Hampsted.
+
+663
+00:37:14,625 --> 00:37:16,750
+Apsistosiu viešbuty „Kurapka“.
+
+664
+00:37:17,333 --> 00:37:19,916
+Skaitysime ten lygiai penktą valandą.
+
+665
+00:37:20,083 --> 00:37:22,166
+Penktą valandą. 17:00.
+
+666
+00:37:22,333 --> 00:37:27,666
+Žinote, Rebeka gyvena Amerikoje,
+bet štai ji Denbruke,
+
+667
+00:37:27,833 --> 00:37:30,875
+tą pačią dieną,
+kai pranešėte apie tėvo mirtį.
+
+668
+00:37:31,041 --> 00:37:33,875
+Vadinasi, ji buvo šalyje tą naktį,
+kai jis mirė.
+
+669
+00:37:34,041 --> 00:37:35,791
+Bet jūs to nesusiejote, tiesa?
+
+670
+00:37:37,041 --> 00:37:38,125
+Taip.
+
+671
+00:37:38,458 --> 00:37:40,958
+Ne. Taip. Tai aišku, susiejau.
+
+672
+00:37:41,375 --> 00:37:43,791
+Tai jūsų pirmoji žmogžudystė, ar ne?
+
+673
+00:37:43,958 --> 00:37:45,000
+Ką?
+
+674
+00:37:46,041 --> 00:37:47,875
+Manote, kad aš jį nužudžiau?
+
+675
+00:37:51,375 --> 00:37:53,333
+Ai.
+
+676
+00:37:54,083 --> 00:37:57,583
+Turite omeny pirmąją
+mano žmogžudystės bylą.
+
+677
+00:37:58,541 --> 00:38:01,875
+Na, dabar viskas jūsų rankose,
+pareigūne Deri.
+
+678
+00:38:02,208 --> 00:38:03,291
+Pasimatysime penktą.
+
+679
+00:38:03,458 --> 00:38:05,125
+Iki, panele Harbotl.
+
+680
+00:38:05,291 --> 00:38:06,583
+Ponia Harbotl.
+
+681
+00:38:08,833 --> 00:38:10,958
+Turime patekti į viešbutį.
+
+682
+00:38:11,541 --> 00:38:13,125
+{\an8}Čia viešbutis „Kurapka“.
+
+683
+00:38:13,291 --> 00:38:15,333
+Kartais užsuku čia parupšnot gėlių.
+
+684
+00:38:15,500 --> 00:38:18,791
+Nors nežinau, kaip tai galėtų mums padėti.
+
+685
+00:38:18,958 --> 00:38:21,333
+Knygose visada būna testamentas,
+
+686
+00:38:21,500 --> 00:38:24,666
+o jame paminėti žmonės – įtariamieji.
+
+687
+00:38:27,166 --> 00:38:28,500
+Turiu pamatyti jų veidus.
+
+688
+00:38:28,666 --> 00:38:29,416
+Kam?
+
+689
+00:38:29,583 --> 00:38:33,166
+Nes žmonės dažnai meluoja,
+o tai matyti jų akyse.
+
+690
+00:38:33,333 --> 00:38:34,583
+Būtent.
+
+691
+00:38:36,208 --> 00:38:39,583
+Mopli, kol prieisime prie lango,
+apsidairyk. Gal yra geresnis.
+
+692
+00:38:39,750 --> 00:38:40,833
+Einu.
+
+693
+00:38:41,500 --> 00:38:42,833
+Pradedam?
+
+694
+00:38:45,208 --> 00:38:47,416
+Ką žinot apie savo tikrąją mamą?
+
+695
+00:38:47,583 --> 00:38:51,250
+Laiškuose jis rašė,
+kad ji mirė mane gimdydama.
+
+696
+00:38:51,375 --> 00:38:54,291
+Kad jis buvo jaunas, išsigandęs,
+neturtingas ir…
+
+697
+00:38:55,750 --> 00:38:57,708
+atidavė mane įvaikinti.
+
+698
+00:38:58,250 --> 00:38:59,500
+Beje, per bažnyčią.
+
+699
+00:39:02,333 --> 00:39:04,250
+Aš irgi turiu klausimą.
+
+700
+00:39:04,416 --> 00:39:05,750
+Atleisk, bičiuli.
+
+701
+00:39:06,750 --> 00:39:08,250
+Malonu jus matyti.
+
+702
+00:39:08,416 --> 00:39:10,166
+Aš ką tik suvokiau,
+
+703
+00:39:10,916 --> 00:39:12,166
+be niekieno pagalbos,
+
+704
+00:39:12,333 --> 00:39:16,166
+kad negalėjot iš Amerikos
+atvykti šiandien.
+
+705
+00:39:16,333 --> 00:39:19,458
+O tai reiškia, kad jau buvote čia vakar,
+
+706
+00:39:19,625 --> 00:39:22,708
+kai Džordžą… nužudė.
+
+707
+00:39:23,166 --> 00:39:26,458
+Tikrai jūsų nekaltinu, bet tai tiesa?
+
+708
+00:39:26,833 --> 00:39:28,750
+Labai sumanu, detektyve.
+
+709
+00:39:28,916 --> 00:39:31,166
+Ne, aš ne detektyvas.
+
+710
+00:39:31,333 --> 00:39:33,083
+Aš tik pareigūnas…
+
+711
+00:39:33,250 --> 00:39:36,083
+kuris nuolatos viską tiria.
+
+712
+00:39:36,583 --> 00:39:39,708
+Na, aš… Aš…
+
+713
+00:39:40,500 --> 00:39:44,041
+buvau šioje šalyje,
+bet iki šiandien nesu buvusi Denbruke.
+
+714
+00:39:44,583 --> 00:39:46,458
+Papildomas klausimas:
+
+715
+00:39:46,625 --> 00:39:48,125
+ar turit
+
+716
+00:39:48,291 --> 00:39:49,541
+vaikiną?
+
+717
+00:39:50,541 --> 00:39:51,833
+Tu rimtai?
+
+718
+00:39:52,000 --> 00:39:53,875
+Ką? Tai įprastas klausimas,
+
+719
+00:39:54,041 --> 00:39:57,791
+kurį bet kuris tyrėjas
+užduotų tokioje situacijoje.
+
+720
+00:39:57,958 --> 00:40:01,041
+Sutapimas, kad klausiat.
+Mes ką tik išsiskyrėm.
+
+721
+00:40:01,541 --> 00:40:02,750
+Šitkaip.
+
+722
+00:40:04,125 --> 00:40:05,541
+Matai tai, ką matau aš?
+
+723
+00:40:05,708 --> 00:40:06,750
+Duktė.
+
+724
+00:40:06,916 --> 00:40:09,083
+Jos veidas švyti…
+
+725
+00:40:09,250 --> 00:40:11,958
+Bet akys – išsigandusios.
+
+726
+00:40:12,125 --> 00:40:14,791
+Taigi, kurią valandą tiksliai
+vakar atvykot?
+
+727
+00:40:14,958 --> 00:40:17,541
+Atvykau apie septintą ir…
+
+728
+00:40:19,375 --> 00:40:20,375
+Atsiprašau.
+
+729
+00:40:22,041 --> 00:40:24,708
+– Viskas gerai.
+– Turėjau šiandien su juo susitikti.
+
+730
+00:40:24,875 --> 00:40:26,291
+Esu visiškai priblokšta.
+
+731
+00:40:28,333 --> 00:40:30,208
+– O, ačiū.
+– Imkit. Imkit.
+
+732
+00:40:30,375 --> 00:40:31,833
+Ačiū.
+
+733
+00:40:32,250 --> 00:40:34,125
+Viskas gerai. Užteks.
+
+734
+00:40:34,583 --> 00:40:38,125
+Langas, langas.
+Jei būčiau langas, kur aš eičiau?
+
+735
+00:40:40,041 --> 00:40:41,208
+Daržovės.
+
+736
+00:40:41,416 --> 00:40:44,416
+Labas. Mažyte… morka!
+
+737
+00:40:45,500 --> 00:40:49,250
+Oi. O, ne.
+
+738
+00:40:49,625 --> 00:40:53,375
+Jis taip pat sakė,
+kad turiu brolį, tiksliau dvynį,
+
+739
+00:40:53,541 --> 00:40:55,458
+kuris buvo išsiųstas į Pietų Afriką.
+
+740
+00:40:55,625 --> 00:40:59,000
+Dvynys Pietų Afrikoj, kurio nesat mačiusi.
+Čia tai istorija.
+
+741
+00:40:59,500 --> 00:41:01,125
+O jūs kas?
+
+742
+00:41:01,875 --> 00:41:04,833
+Aš Elijotas Metjusas.
+Rengiu reportažą apie…
+
+743
+00:41:05,000 --> 00:41:06,416
+Nesvarbu. Lauk.
+
+744
+00:41:07,666 --> 00:41:09,541
+Iš tiesų, kaip žurnalistas turiu…
+
+745
+00:41:09,666 --> 00:41:13,125
+Absoliučiai neturit jokių teisių.
+Eikit lauk.
+
+746
+00:41:13,500 --> 00:41:14,291
+Gerai.
+
+747
+00:41:14,416 --> 00:41:16,166
+Ir nešniukštinėkit.
+
+748
+00:41:16,333 --> 00:41:20,833
+Būsiu prezidentiniame liukse,
+mėgausiuos prabangiais patogumais.
+
+749
+00:41:21,000 --> 00:41:22,166
+Lile!
+
+750
+00:41:22,666 --> 00:41:24,291
+Lile! Sebastianai!
+
+751
+00:41:24,458 --> 00:41:25,791
+Padėkit!
+
+752
+00:41:28,125 --> 00:41:32,541
+Pone Van Viurenai, čia Lidija Harbotl.
+Ar mane girdite?
+
+753
+00:41:32,708 --> 00:41:34,333
+<i>Ja. Ryšys labai geras. Ačiū.</i>
+
+754
+00:41:34,500 --> 00:41:37,208
+Ponas Van Viurenas yra pono Hardžio sūnus,
+
+755
+00:41:37,375 --> 00:41:41,791
+jis gyvena Pietų Afrikoje,
+todėl dalyvauja nuotoliu.
+
+756
+00:41:41,958 --> 00:41:47,208
+Ponas Hardis prieš maždaug du mėnesius
+atsiuntė man savo testamento kopiją.
+
+757
+00:41:48,875 --> 00:41:52,375
+Bet tai ne tas testamentas,
+kurį šiandien skaitysiu.
+
+758
+00:41:52,541 --> 00:41:53,708
+Jis parašė naują.
+
+759
+00:41:54,041 --> 00:41:55,625
+– Jį radau aš.
+– Ša.
+
+760
+00:41:55,791 --> 00:41:58,041
+Parašytas likus trim dienoms iki mirties.
+
+761
+00:41:58,208 --> 00:42:02,250
+Žinoma. Visada atsiranda
+naujas testamentas.
+
+762
+00:42:02,708 --> 00:42:07,000
+„Tai yra paskutinis
+pono Džordžo Hardžio testamentas.
+
+763
+00:42:07,500 --> 00:42:10,000
+Sukviečiau jus visus čia,
+
+764
+00:42:10,166 --> 00:42:14,041
+nes su kiekvienu iš jūsų turiu
+neužbaigtų reikalų.
+
+765
+00:42:14,208 --> 00:42:17,083
+Su kai kuriais blogai pasielgiau aš,
+
+766
+00:42:17,250 --> 00:42:20,375
+o kai kurie iš jūsų nuskriaudė mane.
+
+767
+00:42:20,833 --> 00:42:24,041
+Tarp jūsų, šiame kambaryje,
+
+768
+00:42:24,208 --> 00:42:27,708
+yra kvailys, blogasis piemuo,
+
+769
+00:42:27,875 --> 00:42:31,291
+pavasario avinėlis, žiemos avinėlis,
+
+770
+00:42:31,458 --> 00:42:32,791
+auka
+
+771
+00:42:34,250 --> 00:42:35,583
+ir du žudikai.“
+
+772
+00:42:35,750 --> 00:42:36,958
+Du žudikai?!
+
+773
+00:42:37,125 --> 00:42:38,333
+Čia aš blogas piemuo?
+
+774
+00:42:38,500 --> 00:42:41,208
+– Kaip viską išsiaiškint?
+– Bent žinom, kas kvailys.
+
+775
+00:42:41,375 --> 00:42:43,500
+Aš auginu prancūziškas avis.
+Geriausia veislė.
+
+776
+00:42:43,666 --> 00:42:45,208
+O kas per dar viena auka?
+
+777
+00:42:45,375 --> 00:42:46,708
+Kažkuris bus kitas.
+
+778
+00:42:46,875 --> 00:42:48,416
+Vienas iš mūsų gali būti žudikas.
+
+779
+00:42:48,541 --> 00:42:52,208
+Gal vietoj flirtavimo užduotum klausimus?
+
+780
+00:42:53,250 --> 00:42:54,625
+Du žudikai?
+
+781
+00:42:54,791 --> 00:42:56,666
+Žiemos ėriukas?
+
+782
+00:42:59,750 --> 00:43:01,375
+„Štai ką jums palieku.“
+
+783
+00:43:01,541 --> 00:43:02,666
+Ei! Ei!
+
+784
+00:43:05,166 --> 00:43:07,541
+„Štai ką jums palieku.
+
+785
+00:43:08,291 --> 00:43:11,541
+Žinojimą, kad mačiau
+jūsų tikruosius veidus.
+
+786
+00:43:12,416 --> 00:43:15,708
+Dauguma tik tiek ir gausit."
+
+787
+00:43:16,208 --> 00:43:20,000
+Kaip suprast „tik tiek gausit“?
+Ką aš čia tada veikiu?
+
+788
+00:43:20,166 --> 00:43:21,625
+„Sėsk ir tylėk, Hemai.“
+
+789
+00:43:22,333 --> 00:43:23,375
+Netylėsiu.
+
+790
+00:43:23,541 --> 00:43:27,125
+Čia kita testamento eilutė.
+„Sėsk ir tylėk, Hemai.“
+
+791
+00:43:28,166 --> 00:43:31,666
+Rodos, Džordžas neblogai jus pažinojo.
+
+792
+00:43:32,291 --> 00:43:33,375
+Matė tave kaip nuluptą.
+
+793
+00:43:33,541 --> 00:43:34,833
+– Čiaupk snapą.
+– Pats čiaupk.
+
+794
+00:43:35,000 --> 00:43:37,291
+„Savo sūnui, Piteriui Van Viurenui,
+
+795
+00:43:37,458 --> 00:43:41,708
+palieku 121 hektarą žemės,
+dabar išnuomotos Keilebui Merou.“
+
+796
+00:43:41,875 --> 00:43:43,291
+<i>O, kaip miela.</i>
+
+797
+00:43:43,458 --> 00:43:45,500
+„Savo dukrai, Rebekai Hampsted –
+
+798
+00:43:45,666 --> 00:43:49,458
+greta esančius 121 hektarą,
+kuriuos vadinu namais,
+
+799
+00:43:49,625 --> 00:43:54,916
+įskaitant kemperį, tvartą,
+tai, kas jo viduje, ir savo avis.“
+
+800
+00:43:55,083 --> 00:43:59,000
+Sename testamente ponas Hardis
+likusį turtą
+
+801
+00:43:59,166 --> 00:44:02,041
+norėjo skirti labdarai –
+Gyvūnų apsaugos draugijai.
+
+802
+00:44:02,791 --> 00:44:06,166
+Tačiau naujame testamente parašyta taip:
+
+803
+00:44:06,333 --> 00:44:11,541
+„Likusį turtą palieku savo dukrai,
+Rebekai Hampsted.“
+
+804
+00:44:11,708 --> 00:44:14,166
+Per daug nesidžiauk.
+Jis buvo basas.
+
+805
+00:44:14,333 --> 00:44:19,125
+Šiaip jau yra vienas
+neveikiantis mulčiavimo aparatas,
+
+806
+00:44:19,291 --> 00:44:22,125
+trys seniai pirkti maišai trąšų…
+
+807
+00:44:22,291 --> 00:44:23,708
+Tikrai gali praversti.
+
+808
+00:44:23,875 --> 00:44:28,250
+Ir viena investicinė sąskaita,
+kurioje maždaug…
+
+809
+00:44:28,416 --> 00:44:29,666
+30 milijonų dolerių.
+
+810
+00:44:30,625 --> 00:44:32,083
+<i>Ji sakė 30 milijonų?</i>
+
+811
+00:44:32,250 --> 00:44:35,125
+Taigi, štai ir motyvas.
+
+812
+00:44:35,916 --> 00:44:37,625
+30 milijonų? Iš kur?
+
+813
+00:44:37,791 --> 00:44:40,750
+Prieš dvejus metus Džordžas Hardis
+sukūrė vaistus
+
+814
+00:44:40,916 --> 00:44:44,208
+nuo ektimos. Tokios avių ligos.
+
+815
+00:44:44,375 --> 00:44:46,125
+– Ektimos?
+– Ektimos.
+
+816
+00:44:46,291 --> 00:44:49,083
+Tas mėlynas marmalas,
+kurį jis vis maišė, buvo vaistai?
+
+817
+00:44:49,208 --> 00:44:53,208
+Patentą pardavė milžiniškai
+žemės ūkio bendrovei už…
+
+818
+00:44:53,333 --> 00:44:54,625
+30 milijonų.
+
+819
+00:44:55,750 --> 00:44:56,750
+Už ektimą.
+
+820
+00:45:08,916 --> 00:45:10,541
+– Ten kažkas yra.
+– Timai.
+
+821
+00:45:10,708 --> 00:45:12,916
+Pagauk juos. Bėk! Bėk.
+
+822
+00:45:26,000 --> 00:45:27,916
+Ei! Ei!
+
+823
+00:45:38,250 --> 00:45:40,041
+Viskas gerai. Gerai.
+
+824
+00:45:41,041 --> 00:45:41,875
+O, jis grįžo!
+
+825
+00:45:57,916 --> 00:45:58,750
+PANELEI REBEKAI HAMPSTED
+
+826
+00:46:02,250 --> 00:46:03,708
+Išvaryk!
+
+827
+00:46:03,875 --> 00:46:04,958
+Lauk!
+
+828
+00:46:09,416 --> 00:46:13,000
+Lile, radau langą.
+
+829
+00:46:14,083 --> 00:46:15,875
+Štai taip. Šaunuolis.
+
+830
+00:46:16,041 --> 00:46:17,291
+Va šitaip.
+
+831
+00:46:20,583 --> 00:46:23,875
+Tos avys ir toliau lakstys,
+jei neturės piemens.
+
+832
+00:46:24,125 --> 00:46:25,125
+Ypač tas dičkis.
+
+833
+00:46:26,583 --> 00:46:28,625
+Džordžas jį paėmė iš karnavalo.
+
+834
+00:46:28,958 --> 00:46:30,541
+Jis beveik laukinis.
+
+835
+00:46:35,666 --> 00:46:39,208
+Palaukit, Timai!
+Gal pakomentuotumėt situaciją?
+
+836
+00:46:39,375 --> 00:46:42,000
+Ne, ne, jokių komentarų.
+Ir vadink mane pareigūnu.
+
+837
+00:46:42,166 --> 00:46:44,125
+Ar radot įkalčių? Turit už ko kabintis?
+
+838
+00:46:44,291 --> 00:46:48,291
+Taip. Įkalčių nors vežimu vežk.
+Greitai viską išsiaiškinsiu.
+
+839
+00:46:49,625 --> 00:46:53,750
+Klausykit, man reikia istorijos,
+o jums – žudiko.
+
+840
+00:46:54,541 --> 00:46:57,916
+Juk būtų puiku,
+jei pagaliau žmonės pradėtų jus gerbti.
+
+841
+00:46:58,083 --> 00:47:00,750
+Ei. Žmonės gerbia mane.
+
+842
+00:47:02,458 --> 00:47:05,666
+Jei išspręsit bylą – tapsit didvyriu.
+
+843
+00:47:08,958 --> 00:47:10,708
+Dirbkim kartu.
+
+844
+00:47:12,250 --> 00:47:13,250
+Aš padėsiu.
+
+845
+00:47:13,416 --> 00:47:16,083
+Vakar, kai vilko mašiną,
+
+846
+00:47:16,250 --> 00:47:19,208
+apie devintą prie Džordžo pievos
+mačiau keistą blyksnį.
+
+847
+00:47:20,166 --> 00:47:21,958
+Gerai. Gerai.
+
+848
+00:47:22,500 --> 00:47:23,916
+Atitinka.
+
+849
+00:47:24,208 --> 00:47:27,666
+Koroneris sakė, kad Džordžas mirė
+tarp aštuonių ir vienuolikos.
+
+850
+00:47:30,500 --> 00:47:33,791
+Nufotografavai kūną, ar ne?
+Juk man reikėjo tai padaryt.
+
+851
+00:47:33,958 --> 00:47:38,041
+Padariau labai daug nuotraukų.
+Galiu visas persiųst.
+
+852
+00:47:39,833 --> 00:47:41,041
+Tai ką manot…
+
+853
+00:47:41,625 --> 00:47:43,291
+pareigūne didvyri?
+
+854
+00:47:48,750 --> 00:47:52,375
+Ji sakė: kvailys, auka, du žudikai ir…
+
+855
+00:47:52,541 --> 00:47:53,958
+Vis tiek manau, kad tarnaitė.
+
+856
+00:47:54,125 --> 00:47:55,750
+Nėra jokios tarnaitės!
+
+857
+00:47:55,916 --> 00:48:00,041
+Ten tik knyga. Joje žudikė
+irgi ne tarnaitė! Jokių tarnaičių!
+
+858
+00:48:00,791 --> 00:48:01,958
+Avys.
+
+859
+00:48:02,125 --> 00:48:05,750
+Keilebas bus mūsų naujasis piemuo,
+tiesa, Lile?
+
+860
+00:48:05,916 --> 00:48:09,666
+Žinoma. Tereikia sulaukti,
+kol ši mįslė bus išspręsta.
+
+861
+00:48:09,833 --> 00:48:10,833
+Noriu paklausti.
+
+862
+00:48:11,000 --> 00:48:12,791
+Kodėl dar neišsprendei tos mįslės?
+
+863
+00:48:12,958 --> 00:48:15,333
+Kai skaito istorijas, išsprendi iškart.
+
+864
+00:48:15,500 --> 00:48:19,208
+Žinau, bet tikras gyvenimas sudėtingesnis
+
+865
+00:48:19,375 --> 00:48:21,916
+nei… knygose.
+
+866
+00:48:22,583 --> 00:48:23,958
+Knyga.
+
+867
+00:48:24,625 --> 00:48:26,458
+Galbūt čia slypi atsakymas.
+
+868
+00:48:26,625 --> 00:48:29,125
+Man tik reikia patekti
+į Džordžo kemperį ir…
+
+869
+00:48:29,291 --> 00:48:30,375
+Žiū.
+
+870
+00:48:32,500 --> 00:48:34,250
+Ar ten Rebeka?
+
+871
+00:48:36,041 --> 00:48:37,958
+Ko ji ieško?
+
+872
+00:49:04,541 --> 00:49:06,250
+Kuo tu vardu?
+
+873
+00:49:06,750 --> 00:49:08,666
+Čia Džordžo dukra?
+
+874
+00:49:08,833 --> 00:49:11,875
+Kvepia kaip jis, bet į jį nepanaši.
+
+875
+00:49:12,041 --> 00:49:13,875
+Lažinuos, kad gimė žiemą.
+
+876
+00:49:14,041 --> 00:49:16,208
+Todėl Džordžas ir nenorėjo jos auginti.
+
+877
+00:49:16,375 --> 00:49:19,791
+Žinoma. Žiemos ėriukas. Viskas aišku.
+
+878
+00:49:19,958 --> 00:49:21,041
+Rebekos darbas!
+
+879
+00:49:21,208 --> 00:49:22,333
+Žudikė!
+
+880
+00:49:22,500 --> 00:49:23,791
+Mes nežinom to!
+
+881
+00:49:23,958 --> 00:49:26,000
+– Aš tai žinojau!
+– Tą ir bandžiau pasakyti.
+
+882
+00:49:26,166 --> 00:49:28,208
+Iškart sakiau: „Rebeka.
+Iš jos nieko gero.“
+
+883
+00:49:28,375 --> 00:49:30,000
+Nuo pat pradžių sakiau.
+
+884
+00:49:30,166 --> 00:49:31,500
+Sebastianai.
+
+885
+00:49:33,041 --> 00:49:36,500
+Lile, kažką sakei apie Džordžo kemperį?
+
+886
+00:49:36,666 --> 00:49:38,291
+Ir knygą.
+
+887
+00:49:39,375 --> 00:49:40,375
+{\an8}NUSIKALTIMO VIETA
+
+888
+00:49:40,500 --> 00:49:43,958
+Paskutinėj knygoj rašė,
+kaip sumažint įtariamųjų ratą.
+
+889
+00:49:44,083 --> 00:49:47,000
+Turiu rasti tą knygą
+ir nunešti policininkui.
+
+890
+00:49:47,166 --> 00:49:49,833
+Jei pasiseks – perskaitys
+ir ką nors išmoks.
+
+891
+00:49:50,416 --> 00:49:52,541
+– Leisk man! Leisk man!
+– Ne, ne. Zora!
+
+892
+00:49:52,708 --> 00:49:54,666
+Aš noriu būt detektyve! Leisk man!
+
+893
+00:49:54,833 --> 00:49:56,583
+Na, gerai. Man reikia knygos,
+
+894
+00:49:56,708 --> 00:49:58,500
+kurią Džordžas pradėjo skaityti.
+
+895
+00:49:58,666 --> 00:50:00,916
+Ten yra skyrius apie priemones,
+motyvą ir galimybes.
+
+896
+00:50:01,083 --> 00:50:02,916
+Noriu paklausti. Kas yra skyrius?
+
+897
+00:50:03,083 --> 00:50:05,625
+Nesvarbu. Rask knygą
+su traukiniu ant viršelio.
+
+898
+00:50:05,791 --> 00:50:08,875
+– Klausimas. O traukinys kas?
+– Ilga, siaura kemperių eilė.
+
+899
+00:50:09,041 --> 00:50:09,916
+Noriu paklausti.
+
+900
+00:50:10,041 --> 00:50:11,750
+Pala. Vilnaaki, ką darai?
+
+901
+00:50:11,916 --> 00:50:15,791
+Visi atsitraukit.
+Mano puiki uoslė padės surasti knygą.
+
+902
+00:50:17,791 --> 00:50:20,791
+O, yra pomidorų. Skanaus.
+
+903
+00:50:22,000 --> 00:50:24,250
+Nagi, Vilnaaki. Visi tavim tiki.
+
+904
+00:50:24,416 --> 00:50:25,666
+Nelabai.
+
+905
+00:50:25,833 --> 00:50:28,500
+Tai buvo paskutinė knyga,
+kurią Džordžas lietė.
+
+906
+00:50:28,666 --> 00:50:29,916
+Ar čia?.. Ne, čia morka.
+
+907
+00:50:30,083 --> 00:50:32,416
+– O varge.
+– Prie jos sugrįšiu vėliau.
+
+908
+00:50:34,625 --> 00:50:35,750
+Aha!
+
+909
+00:50:35,916 --> 00:50:36,875
+101 JUOKELIS APIE AVIS
+
+910
+00:50:37,000 --> 00:50:39,083
+Šitos ieškojot?
+
+911
+00:50:39,250 --> 00:50:40,250
+Ne!
+
+912
+00:50:40,416 --> 00:50:41,666
+A. O kaip šita?
+
+913
+00:50:41,791 --> 00:50:42,791
+ŽMOGŽUDYSTĖ PERVAŽOJE
+
+914
+00:50:42,958 --> 00:50:45,541
+Šita! Vilnaaki, radai!
+
+915
+00:50:45,708 --> 00:50:46,958
+Žinoma, radau.
+
+916
+00:50:47,125 --> 00:50:48,708
+Lile, turbūt čia tu kalbi?
+
+917
+00:50:48,875 --> 00:50:51,458
+Juk aš – avinas detektyvas.
+
+918
+00:50:55,375 --> 00:50:56,416
+ĮKALČIŲ NUOTRAUKOS
+
+919
+00:50:56,583 --> 00:50:57,833
+NUO: ELIJOTAS METJUSAS
+
+920
+00:50:58,000 --> 00:51:00,125
+LABAS, TIMAI
+SIUNČIU NUOTRAUKAS.
+
+921
+00:51:09,791 --> 00:51:12,416
+POLICIJOS NUOVADA
+
+922
+00:51:25,833 --> 00:51:27,125
+ŽMOGŽUDYSTĖ PERVAŽOJE
+
+923
+00:51:38,083 --> 00:51:40,125
+Kaip čia gražu.
+
+924
+00:51:40,708 --> 00:51:42,500
+Bet gana vieniša.
+
+925
+00:51:46,000 --> 00:51:50,291
+Knygą atidaviau policininkui,
+kad greičiau išspręstų bylą.
+
+926
+00:51:55,541 --> 00:51:57,166
+Kas yra karnavalas?
+
+927
+00:51:58,083 --> 00:52:00,666
+Nesvarbu. Grįžk į savo bandą.
+
+928
+00:52:01,333 --> 00:52:02,916
+Mūsų bandą.
+
+929
+00:52:08,250 --> 00:52:09,708
+Muzika.
+
+930
+00:52:10,458 --> 00:52:13,000
+Karnavalas yra muzika.
+
+931
+00:52:14,000 --> 00:52:15,208
+Linksmieji kalneliai.
+
+932
+00:52:16,625 --> 00:52:21,375
+Kasdien manęs glostyti
+ir maitinti ateidavo vaikai.
+
+933
+00:52:21,875 --> 00:52:23,791
+Man labai patiko.
+
+934
+00:52:24,041 --> 00:52:26,375
+Bet tapau per didelis.
+
+935
+00:52:27,500 --> 00:52:30,208
+Tada, atėjus nakčiai,
+
+936
+00:52:30,375 --> 00:52:34,083
+ateidavo vyrai iš karnavalo
+ir nuvesdavo mane į ratą.
+
+937
+00:52:35,625 --> 00:52:39,375
+Tame rate buvo šuo.
+
+938
+00:52:41,500 --> 00:52:43,500
+Jie versdavo mane kautis.
+
+939
+00:52:46,083 --> 00:52:48,500
+Kautis iki kraujo.
+
+940
+00:52:50,500 --> 00:52:52,375
+Ir vieną vakarą…
+
+941
+00:52:53,375 --> 00:52:54,791
+<i>jis mane rado.</i>
+
+942
+00:53:07,583 --> 00:53:09,416
+Sumokėjo jiems ir…
+
+943
+00:53:10,250 --> 00:53:11,583
+parsinešė namo.
+
+944
+00:53:14,208 --> 00:53:18,041
+Štai, kas yra karnavalas.
+
+945
+00:53:21,416 --> 00:53:24,750
+Bet kaip išvis atsidūrei
+tokioj baisioj vietoj?
+
+946
+00:53:24,916 --> 00:53:26,791
+Ir kodėl nebuvai su savo banda?
+
+947
+00:53:27,583 --> 00:53:31,750
+Maniau, geriausioji avis–detektyvė Lilė
+jau bus tai išsiaiškinus.
+
+948
+00:53:34,041 --> 00:53:35,625
+Tai tu buvai žiemos?...
+
+949
+00:53:35,750 --> 00:53:40,166
+Anksčiau ar vėliau žiemos ėriukas
+užsimano išeiti.
+
+950
+00:53:57,250 --> 00:53:59,541
+Štai jis! Taip!
+
+951
+00:54:01,458 --> 00:54:03,625
+Tikiuosi, išalkai, Timai.
+
+952
+00:54:03,791 --> 00:54:05,083
+Ne?
+
+953
+00:54:06,916 --> 00:54:08,083
+Alio.
+
+954
+00:54:08,833 --> 00:54:14,125
+Kiekvienąkart, kai kas nors įdomaus
+atsitinka su šia byla,
+
+955
+00:54:15,125 --> 00:54:16,583
+pasirodo jos.
+
+956
+00:54:22,666 --> 00:54:24,208
+Persidirbai.
+
+957
+00:54:24,708 --> 00:54:27,375
+Pervargai ir nieko nepadarei! Timai!
+
+958
+00:54:27,541 --> 00:54:31,208
+Ne visai nieko.
+
+959
+00:54:32,291 --> 00:54:35,708
+„Kas nužudė Džordžą?“
+
+960
+00:54:35,875 --> 00:54:37,750
+{\an8}Penki įtariamieji iš testamento.
+
+961
+00:54:38,000 --> 00:54:41,500
+Džordžo žudikui reikėjo trijų dalykų:
+
+962
+00:54:41,666 --> 00:54:45,708
+priemonių, motyvo ir galimybės.
+
+963
+00:54:45,958 --> 00:54:48,375
+Pavyko! Jis perskaitė knygą!
+
+964
+00:54:48,541 --> 00:54:50,958
+Siūlau pradėti nuo pradžių, gerai?
+
+965
+00:54:51,125 --> 00:54:54,500
+Priemonės: taksinas iš kukmedžio uogų.
+
+966
+00:54:54,666 --> 00:54:57,416
+Prie bažnyčios kiek tik nori kukmedžių.
+
+967
+00:54:57,583 --> 00:54:59,708
+Priemones turėjo visi.
+
+968
+00:54:59,875 --> 00:55:02,416
+{\an8}Motyvas – kam žudyti Džordžą?
+
+969
+00:55:02,583 --> 00:55:04,416
+Rebekos motyvas aiškiausias.
+
+970
+00:55:04,583 --> 00:55:07,583
+Bet ir kiti galėjo turėti savų priežasčių.
+Ką jie slepia?
+
+971
+00:55:08,083 --> 00:55:11,666
+Ar bent vienas iš įtariamųjų turi alibi?
+
+972
+00:55:11,833 --> 00:55:15,000
+Priemonės, motyvas, galimybė.
+
+973
+00:55:15,166 --> 00:55:19,958
+Rasim žmogų, kuris turėjo visus tris –
+rasim Denbruko nuodytoją.
+
+974
+00:55:22,708 --> 00:55:25,791
+Timai. Iš tiesų labai gerai.
+
+975
+00:55:25,958 --> 00:55:28,625
+Taip, na, kažkaip…
+
+976
+00:55:29,916 --> 00:55:31,333
+toptelėjo naktį.
+
+977
+00:55:32,750 --> 00:55:36,250
+Gerai. Pradėkime.
+
+978
+00:55:36,416 --> 00:55:37,750
+Hemas.
+
+979
+00:55:37,916 --> 00:55:40,291
+{\an8}<i>Ir kaipgi Džordžo testamente
+pavadintas tu?</i>
+
+980
+00:55:40,791 --> 00:55:42,500
+Manyčiau, kad žudiku.
+
+981
+00:55:43,583 --> 00:55:46,208
+O ko tikėtis iš vegetaro?
+
+982
+00:55:46,541 --> 00:55:50,125
+Moteriai už tai dar atleisčiau. Bet vyrui?
+
+983
+00:55:50,583 --> 00:55:52,375
+Šlykštu.
+
+984
+00:55:52,541 --> 00:55:53,666
+Betė.
+
+985
+00:55:54,041 --> 00:55:57,208
+Džordžo laiškas Rebekai.
+Kodėl jis pas tave?
+
+986
+00:55:57,500 --> 00:56:01,791
+<i>Gal dėl to, kad siuntų tarnyba
+pirmą kartą istorijoj suklydo.</i>
+
+987
+00:56:01,958 --> 00:56:04,750
+Dieną prieš Džordžo mirtį
+
+988
+00:56:04,916 --> 00:56:07,500
+žmonės girdėjo tave sakant,
+kad jį užmušti maža.
+
+989
+00:56:07,666 --> 00:56:10,541
+Aš ne žudikė. Aš auka.
+Pasakysiu tik tiek.
+
+990
+00:56:10,708 --> 00:56:12,041
+Aš žinau savo teises!
+
+991
+00:56:12,208 --> 00:56:13,375
+Keilebas.
+
+992
+00:56:13,541 --> 00:56:15,166
+Tą rytą, kai radai Džordžą,
+
+993
+00:56:15,291 --> 00:56:17,500
+sakei, kad nešei jam dokumentus.
+
+994
+00:56:17,666 --> 00:56:19,458
+Taip, jis nutraukė nuomos sutartį.
+
+995
+00:56:19,625 --> 00:56:22,458
+Norėjau perkalbėt tą vyrioką.
+
+996
+00:56:22,625 --> 00:56:23,916
+Bet neišėjo.
+
+997
+00:56:25,000 --> 00:56:29,291
+{\an8}Pala. Džordžas nutraukė sutartį.
+Kodėl?
+
+998
+00:56:29,666 --> 00:56:32,916
+{\an8}Girdėjai testamentą?
+Pasirodo, aš – blogas piemuo.
+
+999
+00:56:33,083 --> 00:56:34,500
+Hilkautas.
+
+1000
+00:56:34,666 --> 00:56:36,375
+Džordžas nė kojos nekėlė į bažnyčią.
+
+1001
+00:56:36,541 --> 00:56:39,750
+Ir staiga, nė iš šio nė iš to,
+prieš jam mirštant,
+
+1002
+00:56:39,916 --> 00:56:41,333
+atėjo su didžiule auka.
+
+1003
+00:56:43,833 --> 00:56:44,666
+Kodėl?
+
+1004
+00:56:44,916 --> 00:56:46,916
+Kodėl aš visada apačioj?
+
+1005
+00:56:48,208 --> 00:56:49,833
+Kadaise Džordžas man pasakė,
+
+1006
+00:56:50,000 --> 00:56:53,500
+kad bažnyčia padėjo rasti įtėvius
+jo vaikams.
+
+1007
+00:56:53,666 --> 00:56:57,375
+<i>Bet, vos atsistojęs ant kojų,
+jis ėmė jų ieškoti.</i>
+
+1008
+00:56:57,541 --> 00:56:59,916
+<i>Bažnyčia nesakė jam, kur vaikai.</i>
+
+1009
+00:57:00,083 --> 00:57:02,250
+<i>Neva griežtos taisyklės.</i>
+
+1010
+00:57:02,416 --> 00:57:04,625
+Tad jis paklausė manęs,
+
+1011
+00:57:04,791 --> 00:57:09,416
+už kiek sutikčiau išsiaiškinti
+tą informaciją.
+
+1012
+00:57:09,583 --> 00:57:13,000
+Jei bažnyčia būtų sužinojus,
+būtų nuvilkus mano sutaną.
+
+1013
+00:57:13,166 --> 00:57:15,333
+– Fu.
+– Ta prasme, atleidus.
+
+1014
+00:57:16,583 --> 00:57:18,208
+Bet pinigų sau nepasiėmiau.
+
+1015
+00:57:18,375 --> 00:57:20,916
+Bažnyčiai labai reikėjo remonto.
+
+1016
+00:57:21,791 --> 00:57:25,875
+Džordžas atėjo sunkią minutę,
+o aš pasinaudojau juo.
+
+1017
+00:57:26,500 --> 00:57:28,708
+Ne Keilebas yra blogasis piemuo.
+
+1018
+00:57:31,083 --> 00:57:32,291
+O aš.
+
+1019
+00:57:32,458 --> 00:57:33,791
+Ir Rebeka.
+
+1020
+00:57:34,125 --> 00:57:34,958
+Panele Hampsted.
+
+1021
+00:57:36,666 --> 00:57:39,333
+Mėgaujatės Denbruko festivaliu?
+
+1022
+00:57:41,041 --> 00:57:43,291
+Taip. Tikrai.
+
+1023
+00:57:44,791 --> 00:57:46,208
+Paprastas klausimėlis.
+
+1024
+00:57:46,375 --> 00:57:51,416
+Kur buvote tarp aštuonių
+ir vienuolikos nužudymo vakarą?
+
+1025
+00:57:51,583 --> 00:57:53,750
+Viešbutyje prie oro uosto.
+
+1026
+00:57:53,916 --> 00:57:56,750
+Įsikūriau ir žiūrėjau televizorių.
+
+1027
+00:57:56,916 --> 00:57:59,083
+Negalėjau užmigt dėl laiko juostų.
+
+1028
+00:58:00,041 --> 00:58:02,083
+Ir ką žiūrėjot?
+
+1029
+00:58:03,500 --> 00:58:05,708
+Tiesiog žinių kanalą.
+
+1030
+00:58:06,750 --> 00:58:10,833
+– Tiesiog žinių kanalą.
+– Tiesiog žinių kanalą.
+
+1031
+00:58:11,000 --> 00:58:14,958
+Gerai. Ačiū, to ir užtenka.
+Gražios dienos, panele Hampsted.
+
+1032
+00:58:15,125 --> 00:58:17,416
+Ir jums. Iki.
+
+1033
+00:58:18,333 --> 00:58:20,041
+Ar visgi panele Kramfs?
+
+1034
+00:58:26,041 --> 00:58:30,541
+Čestitė Kramfs.
+Tai jūsų tikras vardas, tiesa?
+
+1035
+00:58:30,708 --> 00:58:32,291
+Ir jums turbūt aišku,
+
+1036
+00:58:32,458 --> 00:58:35,333
+kodėl norėjau pasikeisti savo vardą
+iš Čestitės Kramfs.
+
+1037
+00:58:35,500 --> 00:58:38,458
+Suprantu.
+Bet paskaitinėjau apie jus.
+
+1038
+00:58:38,708 --> 00:58:42,875
+Pasirodo, kad vienu metu
+bendravot su žinomu nusikaltėliu.
+
+1039
+00:58:43,041 --> 00:58:44,500
+Keli kaltinimai dėl sukčiavimo.
+
+1040
+00:58:44,666 --> 00:58:46,208
+Net turėjot bendrą sąskaitą.
+
+1041
+00:58:46,375 --> 00:58:49,125
+Nepažįstu žmogaus,
+kuris nesigailėtų buvusių santykių.
+
+1042
+00:58:49,291 --> 00:58:51,750
+Nė nežinojau.
+Ir tai buvo prieš trejus metus.
+
+1043
+00:58:51,916 --> 00:58:54,375
+Aišku. Vadinas, išsiskyrėt ne ką tik.
+
+1044
+00:58:54,625 --> 00:58:56,458
+– Ir netikras vardas.
+– Matau tendenciją.
+
+1045
+00:58:56,625 --> 00:58:58,083
+Pritariu, matosi tendencija.
+
+1046
+00:58:58,250 --> 00:58:59,958
+Taigi, sakykit.
+
+1047
+00:59:00,333 --> 00:59:02,750
+Ar buvot prie kukmedžių bažnyčios kieme?
+
+1048
+00:59:03,000 --> 00:59:04,791
+Ne. Tikrai nebuvau.
+
+1049
+00:59:04,958 --> 00:59:08,541
+O kaip dėl Džordžo ūkio?
+
+1050
+00:59:09,000 --> 00:59:10,458
+Buvot?
+
+1051
+00:59:11,500 --> 00:59:12,625
+Niekada.
+
+1052
+00:59:13,833 --> 00:59:15,416
+Keilebas turėjo nuomos sutartį…
+
+1053
+00:59:15,583 --> 00:59:17,250
+Ai, bet tada Betė sakė…
+
+1054
+00:59:17,416 --> 00:59:18,833
+Kodėl Rebeka meluoja?
+
+1055
+00:59:19,000 --> 00:59:20,375
+Ir kas yra „vegetaras“?
+
+1056
+00:59:20,541 --> 00:59:21,833
+Kaip visa tai susiję?
+
+1057
+00:59:22,000 --> 00:59:24,708
+Galvok, kvaila avie, galvok!
+
+1058
+00:59:24,875 --> 00:59:27,875
+Nepersistenk galvodama.
+Aišku, kad dukros darbas.
+
+1059
+00:59:28,041 --> 00:59:30,208
+– Aišku, kad Rebeka!
+– Ji teisi.
+
+1060
+00:59:30,375 --> 00:59:32,000
+Ne ji žudikė!
+
+1061
+00:59:32,875 --> 00:59:35,166
+Nepažįstat jos. Ji gera.
+
+1062
+00:59:35,333 --> 00:59:39,250
+Kvepia visai kaip Džordžas,
+o Džordžas mane mylėjo.
+
+1063
+00:59:39,416 --> 00:59:42,041
+Mylėjo? Žiemos ėriukų nieks nemyli.
+
+1064
+00:59:42,208 --> 00:59:46,250
+Toks tokį užtaria. Tokie jau jie.
+
+1065
+00:59:46,416 --> 00:59:47,416
+Pala.
+
+1066
+00:59:47,583 --> 00:59:49,041
+Ką tu sakei?
+
+1067
+00:59:49,208 --> 00:59:51,833
+Sakiau, kad jis mane mylėjo.
+
+1068
+00:59:52,000 --> 00:59:53,916
+Ne. Prieš tai.
+
+1069
+00:59:54,083 --> 00:59:57,625
+Sakei, kad Rebeka kvepia
+visai kaip Džordžas.
+
+1070
+00:59:57,791 --> 01:00:00,041
+Kažkas jau yra taip sakęs.
+
+1071
+01:00:00,208 --> 01:00:01,916
+Ir žinote kas?
+
+1072
+01:00:02,083 --> 01:00:03,250
+Kas?
+
+1073
+01:00:04,916 --> 01:00:06,250
+Tu.
+
+1074
+01:00:06,416 --> 01:00:09,375
+Aš?! Kaip suprast?
+
+1075
+01:00:09,541 --> 01:00:10,583
+Debesėlės darbas!
+
+1076
+01:00:10,750 --> 01:00:12,666
+Žudikė!
+
+1077
+01:00:12,833 --> 01:00:16,041
+Ne. Bet ji mums kažko nepapasakojo.
+
+1078
+01:00:16,208 --> 01:00:17,583
+Argi ne taip?
+
+1079
+01:00:17,750 --> 01:00:20,958
+Vakar sakei, kad Rebeka kvepia
+visai kaip Džordžas.
+
+1080
+01:00:21,125 --> 01:00:25,083
+Bet ji buvo taip toli,
+kad tikrai negalėjai jos užuosti.
+
+1081
+01:00:25,250 --> 01:00:28,333
+Nebent Rebeka jau čia buvo.
+
+1082
+01:00:30,416 --> 01:00:33,166
+Bet jis toks gražus!
+
+1083
+01:00:33,333 --> 01:00:35,250
+Kas gražus?
+
+1084
+01:00:37,583 --> 01:00:39,583
+Begalinis ratas.
+
+1085
+01:00:43,875 --> 01:00:45,166
+Matot?
+
+1086
+01:00:45,333 --> 01:00:48,666
+Toks gražus ir niekaip nesibaigia.
+
+1087
+01:00:48,833 --> 01:00:53,625
+Valandų valandas į jį žiūrėjau,
+sukau ir sukau galvą.
+
+1088
+01:00:53,875 --> 01:00:55,500
+Debesėle!
+
+1089
+01:00:55,666 --> 01:00:57,625
+Iš kur jį gavai?
+
+1090
+01:01:00,166 --> 01:01:02,416
+Tą naktį Rebeka čia buvo.
+
+1091
+01:01:02,708 --> 01:01:04,500
+Naktį, kai mirė Džordžas.
+
+1092
+01:01:06,833 --> 01:01:11,083
+Atsibudau labai alkana,
+tad nuėjau į pievą, ir ji ten buvo.
+
+1093
+01:01:11,250 --> 01:01:12,750
+<i>Pamačius mane, ji pasakė:</i>
+
+1094
+01:01:12,916 --> 01:01:16,250
+„Kokia tu graži.“ Nes tokia ir esu.
+Juk aš pati gražiausia.
+
+1095
+01:01:16,416 --> 01:01:18,166
+Ji mane glostė,
+
+1096
+01:01:18,333 --> 01:01:20,000
+<i>o tas daiktas nuslydo jai nuo rankos,
+tad aš…</i>
+
+1097
+01:01:21,166 --> 01:01:22,916
+Nusprendžiau jį…
+
+1098
+01:01:23,500 --> 01:01:25,541
+pasilikti.
+
+1099
+01:01:25,708 --> 01:01:28,083
+Dabar jau ir daiktų turim.
+
+1100
+01:01:28,250 --> 01:01:30,458
+Avys neturi daiktų!
+
+1101
+01:01:30,625 --> 01:01:32,125
+Žinau, bet…
+
+1102
+01:01:32,583 --> 01:01:34,291
+Jis begalinis.
+
+1103
+01:01:34,916 --> 01:01:36,750
+Išsiaiškinta.
+
+1104
+01:01:36,916 --> 01:01:38,125
+Rebeka – žudikė.
+
+1105
+01:01:38,291 --> 01:01:39,291
+Žudikė!
+
+1106
+01:01:39,458 --> 01:01:42,500
+Tas gabaliukas blizgaus metalo
+nieko nereiškia.
+
+1107
+01:01:42,666 --> 01:01:45,125
+Aišku, reiškia. Tai įrodymas.
+
+1108
+01:01:45,291 --> 01:01:47,958
+Įrodymas? Ir ką įrodo?
+
+1109
+01:01:48,125 --> 01:01:50,541
+Policininkui ji sakė, kad nėra čia buvusi,
+
+1110
+01:01:50,708 --> 01:01:54,291
+bet lankėsi čia ir vakar,
+ir Džordžo nužudymo vakarą.
+
+1111
+01:01:54,625 --> 01:01:57,541
+Ji melagė, apsimetėlė ir dar ji žiem…
+
+1112
+01:01:58,125 --> 01:01:59,875
+Ji kas?
+
+1113
+01:02:00,333 --> 01:02:01,416
+Ištark.
+
+1114
+01:02:02,125 --> 01:02:04,083
+Nekentėt jos nuo pat pradžių.
+
+1115
+01:02:04,250 --> 01:02:05,333
+Jūs visi!
+
+1116
+01:02:05,625 --> 01:02:06,916
+Už ką?
+
+1117
+01:02:07,083 --> 01:02:10,041
+Už tai, kad ji gimė žiemą.
+
+1118
+01:02:11,208 --> 01:02:14,083
+Baisiausias pasaulio nusikaltimas.
+
+1119
+01:02:14,250 --> 01:02:15,625
+Negirdėjai?
+
+1120
+01:02:15,791 --> 01:02:17,291
+Niekam tavęs nereikia.
+
+1121
+01:02:17,458 --> 01:02:19,541
+Nieko nenusipelnei!
+
+1122
+01:02:21,333 --> 01:02:26,041
+Žiemos ėriukai girdi tai nuolatos,
+
+1123
+01:02:26,416 --> 01:02:29,000
+kol galų gale patys tuo ima tikėti.
+
+1124
+01:02:29,166 --> 01:02:29,916
+Sebastianai…
+
+1125
+01:02:30,041 --> 01:02:31,166
+Ji to nepadarė.
+
+1126
+01:02:31,333 --> 01:02:32,500
+Bet iš kur tu žinai?
+
+1127
+01:02:32,666 --> 01:02:34,958
+Nes mačiau jos akis.
+
+1128
+01:02:35,125 --> 01:02:37,250
+Nes ir taip aišku.
+
+1129
+01:02:37,666 --> 01:02:39,333
+Bet tik ne jums.
+
+1130
+01:02:39,583 --> 01:02:40,791
+Ne.
+
+1131
+01:02:40,958 --> 01:02:43,791
+Ne kažkokiai avių bandai.
+
+1132
+01:02:45,250 --> 01:02:47,583
+Bet mes – tavo avių banda.
+
+1133
+01:02:48,750 --> 01:02:50,291
+Juk sakiau.
+
+1134
+01:02:50,458 --> 01:02:52,458
+Aš neturiu bandos.
+
+1135
+01:02:53,916 --> 01:02:55,625
+Ir neturėjau.
+
+1136
+01:02:58,416 --> 01:02:59,500
+Lile.
+
+1137
+01:03:00,208 --> 01:03:03,000
+O kažin, ką daryti su tuo begaliniu ratu?
+
+1138
+01:03:06,500 --> 01:03:07,833
+Žinoma!
+
+1139
+01:03:08,000 --> 01:03:09,333
+Vairuotojas!
+
+1140
+01:03:13,333 --> 01:03:14,458
+Ko?
+
+1141
+01:03:17,000 --> 01:03:18,250
+Ką?
+
+1142
+01:03:20,666 --> 01:03:21,708
+Ei!
+
+1143
+01:03:24,666 --> 01:03:26,125
+Nagi. Ei!
+
+1144
+01:03:28,041 --> 01:03:29,083
+Ei!
+
+1145
+01:03:30,750 --> 01:03:32,166
+Sugrįžk!
+
+1146
+01:03:32,500 --> 01:03:34,000
+Mano kepurė!
+
+1147
+01:03:34,833 --> 01:03:36,333
+Baik! Stok!
+
+1148
+01:04:07,583 --> 01:04:09,958
+Ačiū. Ačiū, kad davei.
+
+1149
+01:04:13,416 --> 01:04:14,958
+Ačiū visiems.
+
+1150
+01:04:25,750 --> 01:04:27,708
+Radau tokią apyrankę.
+
+1151
+01:04:28,625 --> 01:04:30,583
+Ir man atrodo, ji jūsų.
+
+1152
+01:04:32,291 --> 01:04:35,958
+– Tikriausiai nukrito. Ačiū…
+– Radau ją Džordžo pievoje.
+
+1153
+01:04:36,125 --> 01:04:38,500
+Žinot, ten, kur nesat buvusi?
+
+1154
+01:04:39,916 --> 01:04:42,875
+Turiu leidimą atlikti kratą.
+
+1155
+01:04:45,166 --> 01:04:46,708
+<i>Ko jūs ieškot?</i>
+
+1156
+01:04:46,875 --> 01:04:48,125
+<i>Nežinau.</i>
+
+1157
+01:04:59,541 --> 01:05:01,250
+Nesat buvus prie kukmedžių, ką?
+
+1158
+01:05:01,416 --> 01:05:02,416
+Žinojau.
+
+1159
+01:05:02,583 --> 01:05:04,708
+Aš ir nebuvau. Aš negalėčiau.
+
+1160
+01:05:04,875 --> 01:05:06,916
+Timai, prašau, patikėkit.
+
+1161
+01:05:07,083 --> 01:05:08,833
+Pareigūnas Deris.
+
+1162
+01:05:09,500 --> 01:05:12,583
+Pareigūne Deri, galiu jums prisiekti.
+
+1163
+01:05:12,750 --> 01:05:14,666
+Aš savo tėčio nenužudžiau.
+
+1164
+01:05:14,833 --> 01:05:19,333
+Rebeka Hampsted,
+jūs suimama už Džordžo Hardžio nužudymą.
+
+1165
+01:05:26,208 --> 01:05:27,583
+<i>Apklausiama įtariamoji</i>
+
+1166
+01:05:27,750 --> 01:05:32,083
+Čestitė Kramfs, tai yra, Rebeka Hampsted.
+
+1167
+01:05:32,875 --> 01:05:37,458
+Panele Kramfs, ar patvirtinate,
+kad atsisakote teisės į advokatą?
+
+1168
+01:05:37,708 --> 01:05:41,166
+Taip. Man nereikia. Viską papasakosiu.
+
+1169
+01:05:41,333 --> 01:05:43,541
+Gerai. Gal tuomet pradėkime.
+
+1170
+01:05:43,916 --> 01:05:48,291
+Ar Džordžo Hardžio nužudymo naktį
+buvot jo valdose?
+
+1171
+01:05:48,958 --> 01:05:50,250
+Buvau.
+
+1172
+01:05:50,583 --> 01:05:55,375
+Tai ta maloni šypsena ir visi tie
+„O, detektyve, koks jūs sumanus.“ –
+
+1173
+01:05:55,541 --> 01:05:57,708
+vaidyba? Ar ne?
+
+1174
+01:05:57,875 --> 01:06:00,833
+Nuo tada, kai čia pasirodėt,
+vien tik melavot.
+
+1175
+01:06:01,708 --> 01:06:04,416
+Laiškai. Apie juos nemelavau.
+
+1176
+01:06:04,916 --> 01:06:08,708
+Jis rašė, kad manęs ieškojo
+daugiau nei 20 metų
+
+1177
+01:06:08,875 --> 01:06:12,958
+ir pradėjo tvarkyti savo finansus.
+Net atsiuntė man savo testamento kopiją.
+
+1178
+01:06:13,125 --> 01:06:17,333
+To, kuriame jums paliekami 30 milijonų,
+ar to, kuriame gaunat krūva avių?
+
+1179
+01:06:17,500 --> 01:06:19,875
+Ne, to testamento be pinigų.
+
+1180
+01:06:21,333 --> 01:06:23,416
+Jis sakė, kad nori su manimi susitikti.
+
+1181
+01:06:23,625 --> 01:06:24,875
+Tai…
+
+1182
+01:06:25,625 --> 01:06:26,750
+Atskrendat
+
+1183
+01:06:26,916 --> 01:06:31,375
+ir nužudymo naktį apsilankot jo ūkyje.
+
+1184
+01:06:32,208 --> 01:06:33,750
+Ir kas tada?
+
+1185
+01:06:35,208 --> 01:06:36,500
+Kalbėjom.
+
+1186
+01:06:36,666 --> 01:06:37,708
+Apie ką?
+
+1187
+01:06:39,375 --> 01:06:40,666
+Apie avis.
+
+1188
+01:06:41,083 --> 01:06:42,875
+Apie avis kalbėjom.
+
+1189
+01:06:43,041 --> 01:06:45,000
+Ir apie jų vardus.
+
+1190
+01:06:45,166 --> 01:06:48,041
+Sakė, kad vardo reikia kiekvienai aviai.
+
+1191
+01:06:48,208 --> 01:06:52,083
+Ir kad išrinkdavo jį
+pažvelgęs joms į akis.
+
+1192
+01:06:52,500 --> 01:06:55,250
+Norėjo, kad vieną dieną jos atitektų man.
+
+1193
+01:06:57,125 --> 01:06:58,416
+Jis pasirinko mane.
+
+1194
+01:06:59,958 --> 01:07:02,750
+Bet aš nesu kvaila.
+
+1195
+01:07:03,083 --> 01:07:05,916
+Jo nužudymo naktį buvau su juo viena.
+
+1196
+01:07:06,083 --> 01:07:10,833
+Naujas testamentas,
+visi tie pinigai, mano praeitis…
+
+1197
+01:07:11,000 --> 01:07:14,375
+Vienintelė išeitis buvo meluoti.
+
+1198
+01:07:15,458 --> 01:07:17,291
+Patikėkit manim.
+
+1199
+01:07:18,791 --> 01:07:21,333
+„Aš melavau, tad patikėkit manim.“
+
+1200
+01:07:22,750 --> 01:07:23,625
+Teisingai?
+
+1201
+01:07:27,291 --> 01:07:31,125
+Ryte būsit nuvežta į apygardos teismą
+
+1202
+01:07:31,291 --> 01:07:35,250
+ir oficialiai apkaltinta
+tyčiniu Džordžo Hardžio nužudymu.
+
+1203
+01:07:48,916 --> 01:07:51,166
+Tai žudikė – ji.
+
+1204
+01:07:54,291 --> 01:07:55,541
+Pinigai.
+
+1205
+01:07:55,875 --> 01:07:57,250
+Ko dėl jų nepadarysi.
+
+1206
+01:07:58,333 --> 01:08:02,208
+Akivaizdu, kad Džordžas Hardis
+pasirinko blogai.
+
+1207
+01:08:03,541 --> 01:08:08,583
+Beje, Van Viurenas sutiko parduoti avis
+ir žemę Keilebui Merou,
+
+1208
+01:08:08,750 --> 01:08:11,833
+tad rytoj vidurdienį
+sutvarkysime dokumentus.
+
+1209
+01:08:12,750 --> 01:08:13,625
+Gerai.
+
+1210
+01:08:14,375 --> 01:08:16,833
+Neįvertinau jūsų, pareigūne.
+
+1211
+01:08:17,000 --> 01:08:18,000
+Tikrai.
+
+1212
+01:08:18,166 --> 01:08:21,000
+O pasirodo, jūs visai ne kvailys.
+
+1213
+01:08:21,458 --> 01:08:22,541
+Šaunuolis.
+
+1214
+01:09:01,458 --> 01:09:02,500
+Lile.
+
+1215
+01:09:03,916 --> 01:09:06,875
+Ką tu čia veiki? Viskas gerai?
+
+1216
+01:09:07,041 --> 01:09:09,916
+Taip. Geriau nei gerai. Aš laiminga.
+
+1217
+01:09:10,083 --> 01:09:13,625
+Rebeka suimta.
+Rytoj Keilebas taps mūsų piemeniu.
+
+1218
+01:09:13,791 --> 01:09:14,958
+Nuostabu.
+
+1219
+01:09:15,125 --> 01:09:19,333
+Ji, žinoma, viską neigia,
+bet aš buvau teisi, o Sebastianas klydo.
+
+1220
+01:09:20,625 --> 01:09:23,541
+Rebeka tikrai jį nužudė, ar ne?
+
+1221
+01:09:23,708 --> 01:09:24,958
+Žinoma, kad taip.
+
+1222
+01:09:25,125 --> 01:09:26,208
+Ačiū.
+
+1223
+01:09:26,375 --> 01:09:28,250
+Nes sakei, kad nužudė.
+
+1224
+01:09:29,041 --> 01:09:29,875
+Ką?
+
+1225
+01:09:30,041 --> 01:09:33,208
+Juk tu visada žinai,
+kaip baigiasi istorijos.
+
+1226
+01:09:33,375 --> 01:09:34,625
+Pasitikiu tavim.
+
+1227
+01:09:34,791 --> 01:09:36,708
+Bet ten tik istorijos.
+
+1228
+01:09:36,875 --> 01:09:39,458
+O čia tikras žmogus. O jei aš…
+
+1229
+01:09:39,625 --> 01:09:40,791
+Lile, klausyk.
+
+1230
+01:09:40,958 --> 01:09:43,708
+Keilebo pieva yra čia pat, už tvoros.
+
+1231
+01:09:43,875 --> 01:09:46,500
+Gal einam susipažint su naująja banda?
+
+1232
+01:09:47,041 --> 01:09:49,708
+Bet niekada nebuvome Keilebo pievoje.
+
+1233
+01:09:49,875 --> 01:09:52,583
+Na, anksčiau ir per kelią neidavom.
+
+1234
+01:09:52,750 --> 01:09:53,791
+Eime.
+
+1235
+01:10:04,208 --> 01:10:06,166
+Lyg būtume debesyje.
+
+1236
+01:10:06,333 --> 01:10:08,291
+Manai, kad ne ten pataikėm?
+
+1237
+01:10:08,458 --> 01:10:10,041
+Nemanau.
+
+1238
+01:10:12,541 --> 01:10:13,791
+Sveiki.
+
+1239
+01:10:32,750 --> 01:10:33,916
+Sveiki!
+
+1240
+01:10:34,541 --> 01:10:36,708
+Mano vardas Lilė.
+
+1241
+01:10:36,875 --> 01:10:39,375
+O čia Moplis.
+
+1242
+01:10:39,791 --> 01:10:42,000
+Mes iš kitos pievos pusės.
+
+1243
+01:10:43,250 --> 01:10:45,583
+Keilebas bus ir mūsų piemuo.
+
+1244
+01:10:49,875 --> 01:10:50,916
+Ką?
+
+1245
+01:10:58,666 --> 01:10:59,708
+Bėkit.
+
+1246
+01:10:59,875 --> 01:11:01,875
+Ką? Bet aš ne…
+
+1247
+01:11:07,958 --> 01:11:12,166
+Gal vis dėlto nereikėjo mums čia ateiti.
+
+1248
+01:11:12,333 --> 01:11:13,541
+Grįžkim.
+
+1249
+01:11:13,708 --> 01:11:15,333
+Gerai.
+
+1250
+01:11:15,500 --> 01:11:16,875
+O kur namai?
+
+1251
+01:11:17,041 --> 01:11:18,833
+Atrodo, kad ten.
+
+1252
+01:11:23,291 --> 01:11:25,208
+Žiūrėk! Ten šviesa.
+
+1253
+01:11:28,458 --> 01:11:30,833
+Čia turbūt Keilebo tvartas.
+
+1254
+01:11:31,666 --> 01:11:33,583
+Čia būsime saugūs.
+
+1255
+01:11:38,291 --> 01:11:40,958
+Čia nepanašu į tvartą.
+
+1256
+01:11:41,958 --> 01:11:43,000
+Gal mums reiktų…
+
+1257
+01:11:43,166 --> 01:11:44,166
+Pala.
+
+1258
+01:11:45,291 --> 01:11:46,541
+O kas čia?
+
+1259
+01:11:48,250 --> 01:11:50,416
+Lile, ne. Einam.
+
+1260
+01:11:52,291 --> 01:11:53,916
+{\an8}DENBRUKO MĖSA
+
+1261
+01:11:54,083 --> 01:11:56,083
+{\an8}Kodėl ta avis tokia?
+
+1262
+01:11:56,250 --> 01:11:58,666
+{\an8}Ką jie su jomis daro?
+
+1263
+01:12:02,041 --> 01:12:03,250
+Keilebas?
+
+1264
+01:12:04,625 --> 01:12:05,625
+Jis…
+
+1265
+01:12:06,166 --> 01:12:07,166
+Jis…
+
+1266
+01:12:08,416 --> 01:12:10,500
+O. Sveiki, šunyčiai.
+
+1267
+01:12:12,791 --> 01:12:14,125
+Kas jiems negerai?
+
+1268
+01:12:15,833 --> 01:12:17,791
+Mes neturėtume čia būti.
+
+1269
+01:12:19,250 --> 01:12:20,583
+Bėk!
+
+1270
+01:12:31,875 --> 01:12:33,041
+Greičiau, Lile!
+
+1271
+01:12:33,208 --> 01:12:35,416
+Negaliu! Nespėsiu!
+
+1272
+01:12:47,500 --> 01:12:48,583
+Sebastianai.
+
+1273
+01:13:03,791 --> 01:13:04,625
+Ne!
+
+1274
+01:13:19,416 --> 01:13:20,708
+Sebastianai.
+
+1275
+01:13:20,875 --> 01:13:23,416
+Visa laimė, kad pasirodei.
+Jau maniau, kad mes…
+
+1276
+01:13:25,750 --> 01:13:27,166
+Sebastianai.
+
+1277
+01:13:28,083 --> 01:13:29,625
+Sebastianai, kelkis!
+
+1278
+01:13:32,291 --> 01:13:33,583
+Lile.
+
+1279
+01:13:36,500 --> 01:13:37,833
+Negaliu.
+
+1280
+01:13:38,666 --> 01:13:40,125
+Kodėl?
+
+1281
+01:13:40,291 --> 01:13:42,000
+Aš nesupran…
+
+1282
+01:13:47,291 --> 01:13:48,416
+Lile.
+
+1283
+01:13:49,250 --> 01:13:50,625
+Jis miršta.
+
+1284
+01:13:51,125 --> 01:13:52,291
+Ką?
+
+1285
+01:13:52,458 --> 01:13:54,791
+Ne, avys nemiršta.
+
+1286
+01:13:54,958 --> 01:13:56,791
+Mes virstam debesim.
+
+1287
+01:13:56,958 --> 01:14:00,666
+Virsk debesim, Sebastianai.
+Virsk debesim.
+
+1288
+01:14:04,250 --> 01:14:05,958
+Būtų gerai.
+
+1289
+01:14:07,041 --> 01:14:09,291
+Tau nereikėjo grįžti.
+
+1290
+01:14:09,750 --> 01:14:11,708
+Kodėl sugrįžai?
+
+1291
+01:14:11,875 --> 01:14:13,250
+Privalėjau.
+
+1292
+01:14:14,166 --> 01:14:15,958
+Jūs – mano banda.
+
+1293
+01:14:23,166 --> 01:14:24,666
+Matau jį.
+
+1294
+01:14:26,583 --> 01:14:28,708
+Matau Džordžą.
+
+1295
+01:14:39,083 --> 01:14:40,166
+Ne.
+
+1296
+01:14:46,166 --> 01:14:47,250
+Ten Keilebas.
+
+1297
+01:14:47,500 --> 01:14:48,875
+Turim eiti.
+
+1298
+01:14:49,041 --> 01:14:50,208
+Eik, Lile!
+
+1299
+01:15:01,666 --> 01:15:04,125
+Pabuskit! Visi pabuskit!
+
+1300
+01:15:04,416 --> 01:15:06,041
+– Kylam!
+– Kylam!
+
+1301
+01:15:06,208 --> 01:15:07,666
+– Pabuskit!
+– Kelkitės!
+
+1302
+01:15:07,916 --> 01:15:08,958
+Paskui mane!
+
+1303
+01:15:09,125 --> 01:15:10,500
+Paskui ją!
+
+1304
+01:15:10,666 --> 01:15:11,666
+Paskui ją!
+
+1305
+01:15:11,833 --> 01:15:13,291
+Paskui ją!
+
+1306
+01:15:20,291 --> 01:15:21,458
+Stop!
+
+1307
+01:15:21,875 --> 01:15:24,750
+Nesustokit! Turim išeiti! Dabar!
+
+1308
+01:15:24,916 --> 01:15:27,500
+Išeiti? Apie ką tu kalbi?
+
+1309
+01:15:28,250 --> 01:15:30,166
+Sebastianas mirė.
+
+1310
+01:15:30,666 --> 01:15:33,416
+Bet sakei, kad virstame debesimis.
+
+1311
+01:15:33,583 --> 01:15:34,833
+Aš klydau.
+
+1312
+01:15:35,000 --> 01:15:36,333
+Mes mirštam.
+
+1313
+01:15:36,500 --> 01:15:38,625
+Mačiau, kaip mirė Sebastianas.
+
+1314
+01:15:38,791 --> 01:15:42,875
+Jei šiąnakt neišeisim,
+visi taip pat mirsim.
+
+1315
+01:15:43,666 --> 01:15:45,875
+Keilebas iš avių padaro maistą ir…
+
+1316
+01:15:46,041 --> 01:15:49,375
+Liaukis! Baik taip baisiai kalbėti!
+
+1317
+01:15:49,541 --> 01:15:51,541
+Pamiršiu, kad taip buvo. Tuoj pat!
+
+1318
+01:15:51,666 --> 01:15:52,833
+Ne! Negali!
+
+1319
+01:15:53,000 --> 01:15:56,041
+Kodėl? Kam prisimint
+tokius baisius dalykus?
+
+1320
+01:15:56,208 --> 01:15:57,541
+Nes tai tiesa!
+
+1321
+01:15:57,708 --> 01:15:59,666
+Ne tiesa, jei neprisimenu.
+
+1322
+01:15:59,833 --> 01:16:00,916
+– Vienas.
+– Pala!
+
+1323
+01:16:01,083 --> 01:16:01,833
+Du.
+
+1324
+01:16:01,958 --> 01:16:04,333
+Roni, Redži, prašau.
+Būkit drąsūs.
+
+1325
+01:16:04,500 --> 01:16:05,666
+Trys!
+
+1326
+01:16:08,666 --> 01:16:10,208
+O, labas, Lile.
+
+1327
+01:16:10,750 --> 01:16:12,250
+Noriu paklausti.
+
+1328
+01:16:12,458 --> 01:16:13,666
+Ką mes čia veikiam?
+
+1329
+01:16:13,833 --> 01:16:15,958
+Man nepatinka.
+Atgal į pievą.
+
+1330
+01:16:16,125 --> 01:16:17,250
+Atgal į pievą.
+
+1331
+01:16:17,666 --> 01:16:21,375
+Ne! Prašau! Ne!
+
+1332
+01:16:24,708 --> 01:16:27,291
+Sebastianas dėl mūsų neklydo.
+
+1333
+01:16:27,458 --> 01:16:31,083
+Mes tik kvailos, išsigandusios avys.
+
+1334
+01:16:32,375 --> 01:16:37,375
+Šįvakar ne pirmąsyk mačiau,
+kaip miršta avis. Ar ne?
+
+1335
+01:16:37,750 --> 01:16:38,791
+Taip.
+
+1336
+01:16:38,958 --> 01:16:41,166
+Kiek jau kartų aš pamiršau?
+
+1337
+01:16:42,500 --> 01:16:44,250
+Daugiau, nei galiu suskaičiuoti.
+
+1338
+01:16:44,875 --> 01:16:48,958
+Tu tiek laiko kentėjai vienas?
+
+1339
+01:16:49,666 --> 01:16:50,791
+Taip.
+
+1340
+01:16:51,208 --> 01:16:53,541
+Prisimenu visas blogybes.
+
+1341
+01:16:53,916 --> 01:16:56,833
+Bet pamenu ir daug gerų dalykų.
+
+1342
+01:16:58,291 --> 01:17:01,041
+Ryškiai prisimenu mamos veidą.
+
+1343
+01:17:01,208 --> 01:17:04,250
+Prisimenu, kaip mane mylėjo seni draugai.
+
+1344
+01:17:04,416 --> 01:17:07,125
+O tu prisiminsi Sebastianą.
+
+1345
+01:17:09,333 --> 01:17:10,791
+Skauda.
+
+1346
+01:17:10,958 --> 01:17:13,000
+Prisiminti skauda.
+
+1347
+01:17:13,541 --> 01:17:14,708
+Žinau.
+
+1348
+01:17:14,875 --> 01:17:19,958
+Bet jei pamirši, negalėsi išgelbėti kitų,
+ir Sebastianas bus miręs veltui.
+
+1349
+01:17:20,750 --> 01:17:22,375
+Rytoj ateis Keilebas,
+
+1350
+01:17:22,541 --> 01:17:28,083
+ir tu seksi naująjį piemenį
+kaip visos kvailos, išsigandusios avys.
+
+1351
+01:17:28,583 --> 01:17:31,250
+Ir… visi mirsim.
+
+1352
+01:17:32,875 --> 01:17:35,791
+Apgailestauju, Lile. Atleisk.
+
+1353
+01:17:35,958 --> 01:17:39,916
+Bet tik atmintis leidžia mūsų mylimiems
+išlikti gyviems.
+
+1354
+01:18:00,500 --> 01:18:02,666
+Atleisk man, Sebastianai.
+
+1355
+01:18:03,666 --> 01:18:05,791
+Aš ne tokia stipri kaip tu.
+
+1356
+01:18:08,291 --> 01:18:10,583
+Vienas. Du.
+
+1357
+01:18:10,750 --> 01:18:14,958
+<i>Gal ir esi protingiausia avis,
+bet Moplis – išmintingiausias.</i>
+
+1358
+01:18:15,125 --> 01:18:17,333
+{\an8}BROKLBENKO TILTO PASLAPTIS
+
+1359
+01:18:18,791 --> 01:18:20,666
+{\an8}Žinau, kas yra netektis.
+
+1360
+01:18:21,708 --> 01:18:23,375
+{\an8}Žinau, skauda.
+
+1361
+01:18:23,791 --> 01:18:27,416
+Bet laikui bėgant lieka tik tai, kas gera.
+
+1362
+01:18:28,083 --> 01:18:30,750
+Ar tu?.. Ar tu tikrai čia?
+
+1363
+01:18:31,208 --> 01:18:32,791
+Žinoma.
+
+1364
+01:18:32,958 --> 01:18:35,375
+Nes manęs nepamiršai. Supranti?
+
+1365
+01:18:35,708 --> 01:18:39,750
+Na, taip, bet nebesvarbu.
+Keilebas ketina…
+
+1366
+01:18:39,916 --> 01:18:44,166
+Keilebas mano bandai nieko nepadarys,
+nes tu juos išgelbėsi.
+
+1367
+01:18:44,708 --> 01:18:45,916
+Bet kaip?
+
+1368
+01:18:46,083 --> 01:18:48,000
+Jau žinai kaip.
+
+1369
+01:18:48,541 --> 01:18:51,250
+Jei išsiaiškinsi, kas žudikas,
+
+1370
+01:18:51,416 --> 01:18:54,000
+banda atiteks Rebekai,
+ir visi būsit saugūs.
+
+1371
+01:18:54,166 --> 01:18:56,708
+O jei aš nežinau, kas yra žudikas?
+
+1372
+01:18:56,875 --> 01:18:59,375
+Aš jums skaičiau dešimtis tokių istorijų.
+
+1373
+01:18:59,541 --> 01:19:01,166
+Jos turi paprastas taisykles.
+
+1374
+01:19:01,333 --> 01:19:03,250
+Bet taisyklės nepadėjo.
+
+1375
+01:19:03,416 --> 01:19:05,333
+Policija žino, kad tai padarė ne bastūnas.
+
+1376
+01:19:05,500 --> 01:19:07,375
+Bet kas galėjo grįžt į nusikaltimo vietą.
+
+1377
+01:19:07,541 --> 01:19:09,833
+Rebeka atvyko netikėtai ir…
+
+1378
+01:19:10,000 --> 01:19:11,125
+Ir?
+
+1379
+01:19:13,333 --> 01:19:16,375
+Auka – svarbiausia užuomina.
+
+1380
+01:19:18,708 --> 01:19:21,458
+<i>Žalia dėmė ant jo rankos.</i>
+
+1381
+01:19:22,166 --> 01:19:24,625
+<i>Taip gražiai nudažyta.</i>
+
+1382
+01:19:24,916 --> 01:19:26,250
+<i>Pasirinko blogai.</i>
+
+1383
+01:19:26,416 --> 01:19:28,458
+<i>Aš mačiau Džordžo vaiduoklį.</i>
+
+1384
+01:19:30,500 --> 01:19:31,541
+Šaunuolė.
+
+1385
+01:19:40,000 --> 01:19:42,083
+– Rebeka – ne žudikė!
+– Lile, ramiau.
+
+1386
+01:19:42,208 --> 01:19:44,750
+– Žinau, kas nužudė. Jei įrodysiu…
+– Ką įrodysi?
+
+1387
+01:19:44,875 --> 01:19:46,083
+Tai nebuvo žolės dėmė.
+
+1388
+01:19:46,208 --> 01:19:47,708
+– O kaip turėčiau?...
+– Pala.
+
+1389
+01:19:47,833 --> 01:19:49,041
+Nebent… Taip!
+
+1390
+01:19:49,166 --> 01:19:51,625
+O, bet aš per didelė. Netilpsiu.
+
+1391
+01:19:51,750 --> 01:19:54,041
+Aš visur telpu.
+
+1392
+01:19:55,166 --> 01:19:57,791
+Ir aš nepamiršau.
+
+1393
+01:19:59,791 --> 01:20:01,708
+Įkišk visą koją.
+
+1394
+01:20:03,833 --> 01:20:07,125
+Dabar į tą įkišk ir kitą.
+
+1395
+01:20:10,750 --> 01:20:13,250
+Gerai. Metas eiti.
+
+1396
+01:20:22,208 --> 01:20:24,541
+Štai taip. Pro ten.
+
+1397
+01:21:17,875 --> 01:21:20,208
+Keistesniam mieste nesu buvus.
+
+1398
+01:21:21,833 --> 01:21:24,000
+Manai, suveiks?
+
+1399
+01:21:24,458 --> 01:21:27,541
+Nežinau. Mums telieka laukti.
+
+1400
+01:21:29,916 --> 01:21:34,166
+Ką Džordžas tau pasakė
+tą rytą prieš mirtį?
+
+1401
+01:21:34,625 --> 01:21:37,291
+Mačiau, kaip sušnibždėjo tau į ausį.
+
+1402
+01:21:38,208 --> 01:21:42,625
+Sakė, kad žiemos ėriukas –
+geriausias ėriukas.
+
+1403
+01:21:56,458 --> 01:21:58,666
+– Žėk, Roni.
+– Ką?
+
+1404
+01:21:58,833 --> 01:22:02,500
+A tau būna, kad atrodo,
+lyg kažką pamiršai?
+
+1405
+01:22:02,666 --> 01:22:05,666
+Turi omeny, ką Lilė bandė
+mums vakar pasakyt,
+
+1406
+01:22:05,833 --> 01:22:09,166
+bet nusprendėm pamiršti,
+nes kažkaip labai išsigandom?
+
+1407
+01:22:09,416 --> 01:22:11,791
+Tipo mes? Ne, tikrai neišsigandom.
+
+1408
+01:22:11,958 --> 01:22:13,791
+Bet taip.
+
+1409
+01:22:13,958 --> 01:22:15,333
+Ką darysim, broli?
+
+1410
+01:22:15,500 --> 01:22:19,291
+Nežinau, bet negalim nieko nedaryt,
+tai turim daryti… kažką!
+
+1411
+01:22:20,041 --> 01:22:21,125
+Tu genijus.
+
+1412
+01:22:21,291 --> 01:22:23,625
+Tai pirmyn! Mes ką, ožiai?
+
+1413
+01:22:23,791 --> 01:22:26,583
+Ar avinai?
+
+1414
+01:22:39,291 --> 01:22:40,500
+O čia kas?
+
+1415
+01:22:40,875 --> 01:22:43,333
+Ėriukas įlipo pro viršlangį.
+
+1416
+01:22:43,500 --> 01:22:46,500
+Ėriukas įlipo pro viršlangį?
+
+1417
+01:22:46,750 --> 01:22:47,875
+Čia dar ne viskas.
+
+1418
+01:22:48,375 --> 01:22:51,166
+Ar bus kažkas dar blogiau?
+
+1419
+01:22:51,875 --> 01:22:53,916
+Aš įsitikinus,
+
+1420
+01:22:54,541 --> 01:22:58,500
+kad tas ėriukas klausė
+kitos avies nurodymų.
+
+1421
+01:23:01,000 --> 01:23:02,166
+Aišku.
+
+1422
+01:23:06,958 --> 01:23:08,208
+Ką tai reiškia?
+
+1423
+01:23:14,541 --> 01:23:16,291
+Tai reiškia…
+
+1424
+01:23:19,041 --> 01:23:20,291
+Nieko.
+
+1425
+01:23:21,208 --> 01:23:22,500
+Nieko!
+
+1426
+01:23:22,958 --> 01:23:24,291
+Jos – tik avys.
+
+1427
+01:23:25,458 --> 01:23:26,833
+Jos – avys.
+
+1428
+01:24:09,541 --> 01:24:11,750
+Pasirašykit perdavimą ir važiuosim.
+
+1429
+01:24:11,916 --> 01:24:13,083
+Gerai.
+
+1430
+01:24:15,125 --> 01:24:16,458
+Nesuveikė.
+
+1431
+01:24:16,625 --> 01:24:18,333
+Duok jam laiko.
+
+1432
+01:24:21,041 --> 01:24:22,083
+Pareigūne Deri.
+
+1433
+01:24:23,291 --> 01:24:24,416
+Forma.
+
+1434
+01:24:28,416 --> 01:24:29,875
+PERDAVIMO FORMA
+INFORMACIJA
+
+1435
+01:24:30,375 --> 01:24:31,875
+Nepasirašyk.
+
+1436
+01:24:34,000 --> 01:24:35,583
+PERDUODANČIO PAREIGŪNO PARAŠAS
+
+1437
+01:24:59,750 --> 01:25:01,750
+Pala! Palaukit!
+
+1438
+01:25:03,333 --> 01:25:06,041
+Ji ne žudikė. Ji ne žudikė.
+
+1439
+01:25:06,750 --> 01:25:08,291
+Bet aš žinau.
+
+1440
+01:25:08,458 --> 01:25:10,166
+Žinau, kas nužudė Džordžą Hardį.
+
+1441
+01:25:15,583 --> 01:25:16,875
+Ponia Harbotl.
+
+1442
+01:25:18,041 --> 01:25:19,208
+Ne, ne, ne!
+
+1443
+01:25:19,416 --> 01:25:24,208
+Pasirodo, aš buvau kvailys,
+bet gal jau nebesu.
+
+1444
+01:25:25,541 --> 01:25:30,000
+Nuo tada, kai Rebeka Hampsted atvyko,
+ji buvo pagrindinė įtariamoji.
+
+1445
+01:25:30,166 --> 01:25:33,125
+Ji turėjo rimčiausią motyvą.
+Be to, ji melavo.
+
+1446
+01:25:33,291 --> 01:25:35,583
+Ji buvo Džordžo ūkyje žmogžudystės naktį.
+
+1447
+01:25:35,750 --> 01:25:38,166
+Būtent to ir tikėjosi tikrasis žudikas.
+
+1448
+01:25:38,333 --> 01:25:43,250
+Žudikas, kurio nė nesvarstėm,
+nes jis apskritai nebuvo įtariamasis.
+
+1449
+01:25:43,458 --> 01:25:48,791
+Vienintelis iš Džordžo testamento,
+kuris turėjo alibi.
+
+1450
+01:25:49,041 --> 01:25:50,791
+Tobulą alibi.
+
+1451
+01:25:50,958 --> 01:25:52,708
+Ir net nebuvo šioje šalyje.
+
+1452
+01:25:52,875 --> 01:25:54,375
+– Turit omeny Pi…
+– Taip.
+
+1453
+01:25:54,541 --> 01:25:55,625
+Piteris Van Viurenas.
+
+1454
+01:25:55,791 --> 01:25:57,041
+– Iš Pietų Afrikos.
+– Iš Pietų Afrikos.
+
+1455
+01:25:57,208 --> 01:25:59,833
+Rebeka, Džordžas atsiuntė tau
+testamento kopiją.
+
+1456
+01:26:00,000 --> 01:26:03,250
+Lažinuosi, kad atsiuntė ir tavo broliui,
+
+1457
+01:26:03,416 --> 01:26:07,541
+kuris pasidomėjo,
+kiek iš tikrųjų Džordžas turi pinigų,
+
+1458
+01:26:07,708 --> 01:26:12,791
+ir nusprendė, kad gaus tuos 30 milijonų,
+net jei teks dėl jų nužudyti.
+
+1459
+01:26:13,750 --> 01:26:16,375
+Bet jis turėjo vieną milžinišką problemą.
+
+1460
+01:26:16,541 --> 01:26:17,500
+Motyvas!
+
+1461
+01:26:17,916 --> 01:26:19,208
+Aš norėjau tai pasakyti.
+
+1462
+01:26:19,375 --> 01:26:21,958
+Atrodė, kad ką tik mane apkaltinot
+žmogžudyste.
+
+1463
+01:26:23,833 --> 01:26:24,833
+Motyvas!
+
+1464
+01:26:25,333 --> 01:26:30,375
+Jei nužudytasis tau palieka turtą,
+tampi pagrindiniu įtariamuoju.
+
+1465
+01:26:30,541 --> 01:26:33,875
+Bet jei viską palieka tavo seseriai,
+o ji yra nuteisiama…
+
+1466
+01:26:34,041 --> 01:26:35,583
+Pinigai automatiškai atitenka…
+
+1467
+01:26:35,750 --> 01:26:37,041
+– Artimiausiam giminaičiui!
+– …artimiausiam giminaičiui!
+
+1468
+01:26:37,166 --> 01:26:39,416
+Gal patylėtumėt?!
+Man čia svarbi akimirka.
+
+1469
+01:26:39,583 --> 01:26:40,666
+Atsiprašau.
+
+1470
+01:26:41,041 --> 01:26:42,708
+Artimiausiam giminaičiui!
+
+1471
+01:26:43,083 --> 01:26:44,416
+Lieka tik vienas klausimas…
+
+1472
+01:26:45,791 --> 01:26:47,333
+Kur jis slepiasi?
+
+1473
+01:26:47,500 --> 01:26:49,291
+Ko aš ieškau?
+
+1474
+01:26:49,458 --> 01:26:52,041
+To, kuris slepiasi visiems prieš akis.
+
+1475
+01:26:52,208 --> 01:26:54,375
+To, kuris pasikeitė vardą.
+
+1476
+01:26:55,000 --> 01:26:58,708
+Pavyzdžiui, Čestitė Kramfs
+
+1477
+01:26:58,875 --> 01:27:01,125
+tapo Rebeka Hampsted.
+
+1478
+01:27:01,291 --> 01:27:02,583
+O Piteris Van Viurenas…
+
+1479
+01:27:02,750 --> 01:27:04,708
+O Piteris Van Viurenas…
+
+1480
+01:27:06,583 --> 01:27:08,375
+tapo Elijotu Metjusu.
+
+1481
+01:27:08,541 --> 01:27:09,583
+Ne!
+
+1482
+01:27:11,250 --> 01:27:13,041
+Džordžo vaiduoklis.
+
+1483
+01:27:14,333 --> 01:27:16,000
+Aš visada teisi.
+
+1484
+01:27:17,083 --> 01:27:19,041
+Timai, darotės sau gėdą.
+
+1485
+01:27:19,625 --> 01:27:23,166
+Aš negyvenu Pietų Afrikoje.
+Gyvenu šioje šalyje, dirbu leidykloj…
+
+1486
+01:27:23,333 --> 01:27:24,333
+Žinau.
+
+1487
+01:27:24,458 --> 01:27:29,375
+Spėju, kad jau kurį laiką gyvenat čia
+kaip „Elijotas Metjusas“.
+
+1488
+01:27:29,541 --> 01:27:31,291
+Kalbėdamas su akcentu.
+
+1489
+01:27:31,583 --> 01:27:36,000
+Džordžas pasakė jums,
+kad Rebeka atvyks jo aplankyti, tiesa?
+
+1490
+01:27:36,583 --> 01:27:39,541
+Gavote tobulą progą ją apšmeižti.
+
+1491
+01:27:39,833 --> 01:27:43,125
+Tereikėjo preteksto atvykti į Denbruką.
+
+1492
+01:27:43,875 --> 01:27:46,125
+<i>Pavyzdžiui, kultūros festivalio.</i>
+
+1493
+01:27:46,291 --> 01:27:48,333
+<i>Planas buvo paprastas.</i>
+
+1494
+01:27:48,500 --> 01:27:49,291
+<i>Iš pradžių</i>
+
+1495
+01:27:49,583 --> 01:27:51,833
+įsimintinai išvykti iš Denbruko.
+
+1496
+01:27:52,166 --> 01:27:55,541
+<i>Tada dėl automobilio gedimo sugrįžti.</i>
+
+1497
+01:27:57,750 --> 01:28:01,416
+<i>Vėliau, tą naktį, kai Rebeka išėjo,</i>
+
+1498
+01:28:01,583 --> 01:28:04,208
+<i>padarėt tai, dėl ko atvykot.</i>
+
+1499
+01:28:07,291 --> 01:28:08,375
+Ateik, ateik.
+
+1500
+01:28:18,333 --> 01:28:19,458
+Į sveikatą.
+
+1501
+01:28:19,750 --> 01:28:21,416
+<i>Nunuodijot savo tėvą</i>
+
+1502
+01:28:23,291 --> 01:28:25,458
+<i>ir pakišot naują testamentą.</i>
+
+1503
+01:28:28,375 --> 01:28:30,750
+<i>Bet jis buvo stipresnis, nei tikėjotės.</i>
+
+1504
+01:28:32,750 --> 01:28:34,125
+Įvyko grumtynės.
+
+1505
+01:28:42,500 --> 01:28:45,083
+<i>Bet galiausiai laimėjot.</i>
+
+1506
+01:28:45,625 --> 01:28:49,250
+Liko tik pasirūpinti,
+kad kaltė kristų seseriai.
+
+1507
+01:28:49,958 --> 01:28:51,916
+Buvot gudrus.
+
+1508
+01:28:52,291 --> 01:28:55,875
+Kai ponia Harbotl skaitė testamentą,
+žinojot, kad jus išvarys.
+
+1509
+01:28:57,708 --> 01:29:02,125
+<i>Pone Van Viurenai, čia Lidija Harbotl.
+Ar mane girdit?</i>
+
+1510
+01:29:02,458 --> 01:29:04,291
+<i>Ja.</i> Ryšys labai geras. Ačiū.
+
+1511
+01:29:04,458 --> 01:29:08,625
+O kukmedžio uogas
+pakišti Rebekos kambary buvo vieni niekai.
+
+1512
+01:29:09,083 --> 01:29:10,625
+<i>Mažo miestelio viešbutis.</i>
+
+1513
+01:29:10,791 --> 01:29:12,166
+<i>Lengvai atrakinamos spynos.</i>
+
+1514
+01:29:13,250 --> 01:29:15,291
+Buvo beveik tobula, Elijotai.
+
+1515
+01:29:15,458 --> 01:29:18,791
+Bet susimovėt, o aš irgi
+supratau tik dabar –
+
+1516
+01:29:18,958 --> 01:29:20,666
+palikot pėdsaką.
+
+1517
+01:29:21,458 --> 01:29:23,041
+Džordžo rankos.
+
+1518
+01:29:23,208 --> 01:29:25,166
+Džordžo rankos.
+
+1519
+01:29:26,833 --> 01:29:29,958
+Viena buvo mėlyna, kita – žalia.
+
+1520
+01:29:30,125 --> 01:29:32,958
+<i>Su mėlyna viskas aišku.
+Vaistas, iš kurio praturtėjo.</i>
+
+1521
+01:29:33,125 --> 01:29:34,958
+Bet žalia? Kodėl žalia?
+
+1522
+01:29:35,875 --> 01:29:38,833
+Ir tada keli draugai,
+
+1523
+01:29:39,250 --> 01:29:42,333
+kurie yra labai geri detektyvai…
+
+1524
+01:29:45,791 --> 01:29:47,333
+privertė susimąstyti.
+
+1525
+01:29:48,166 --> 01:29:50,041
+Mėlyna ir geltona.
+
+1526
+01:29:50,208 --> 01:29:54,000
+Sumaišę mėlyną ir geltoną gauname žalią.
+
+1527
+01:29:54,166 --> 01:29:57,250
+Kaip žalia dėmė ant Džordžo rankos.
+
+1528
+01:29:57,416 --> 01:30:00,583
+Kaip žalia dėmė, kurią mačiau
+ant mėlyno pagalvės užvalkalo,
+
+1529
+01:30:00,875 --> 01:30:04,250
+ant kurio miegojot tą naktį,
+kai nužudėt Džordžą!
+
+1530
+01:30:05,541 --> 01:30:09,458
+Tą nelemtą naktį abi Džordžo rankos
+buvo mėlynos nuo vaistų.
+
+1531
+01:30:09,625 --> 01:30:12,916
+Bet tada jis sugriebė kažką už plaukų.
+
+1532
+01:30:14,041 --> 01:30:17,750
+Kažką, kas naudojo pigius, geltonus
+plaukų dažus,
+
+1533
+01:30:17,916 --> 01:30:19,708
+kurie lietuje šiek tiek nubėga.
+
+1534
+01:30:19,875 --> 01:30:21,583
+<i>Nuo to Džordžo ranka ir tapo žalia.</i>
+
+1535
+01:30:22,583 --> 01:30:26,166
+Ir tas kažkas skubiai nusidažė šviesiai
+prieš atvykdamas į Denbruką,
+
+1536
+01:30:26,333 --> 01:30:29,125
+kad niekam nekiltų mintis,
+
+1537
+01:30:29,291 --> 01:30:32,125
+jog jis pernelyg panašus į savo seserį
+ar tėvą.
+
+1538
+01:30:32,625 --> 01:30:33,916
+Ar ne tiesa, Piteri?
+
+1539
+01:30:34,041 --> 01:30:34,833
+Taip!
+
+1540
+01:30:35,000 --> 01:30:35,916
+Ne!
+
+1541
+01:30:36,333 --> 01:30:39,333
+Tai tikra beprotybė, niekaip neįrodysit.
+
+1542
+01:30:39,500 --> 01:30:43,000
+Tuomet neprieštarausit, jei paimsiu.
+
+1543
+01:30:47,791 --> 01:30:49,291
+Visai ne.
+
+1544
+01:30:50,333 --> 01:30:53,041
+Prisipažinsiu, kad nesu
+natūralus blondinas.
+
+1545
+01:30:53,708 --> 01:30:58,666
+Taip pat turiu prisipažinti,
+kad balinu dantis ir depiliuoju krūtinę.
+
+1546
+01:30:58,833 --> 01:31:00,958
+Garantuoju, kad ir tas vegetaras.
+
+1547
+01:31:01,125 --> 01:31:05,375
+Turi įžūlumo kaltinti mane žmogžudyste
+vien dėl mano dažytų plaukų,
+
+1548
+01:31:05,541 --> 01:31:07,166
+bet į teismą nenutempsi.
+
+1549
+01:31:07,333 --> 01:31:09,500
+Tai aš nutempsiu tave.
+
+1550
+01:31:13,875 --> 01:31:15,416
+Jūs nesuprantate.
+
+1551
+01:31:15,583 --> 01:31:18,000
+Man reikia ne plaukų dažų.
+
+1552
+01:31:18,166 --> 01:31:19,625
+Man reikia DNR.
+
+1553
+01:31:21,291 --> 01:31:23,750
+Jei esate Džordžo Hardžio sūnus,
+
+1554
+01:31:23,916 --> 01:31:26,291
+esate Piteris Van Viurenas,
+
+1555
+01:31:26,458 --> 01:31:30,250
+o tai reiškia, kad ir tikrasis žudikas.
+
+1556
+01:31:31,250 --> 01:31:32,333
+Įkliuvai.
+
+1557
+01:31:33,416 --> 01:31:34,583
+Įkliuvai.
+
+1558
+01:31:40,625 --> 01:31:42,125
+Bravo, Timai.
+
+1559
+01:31:48,625 --> 01:31:49,625
+Ei!
+
+1560
+01:31:52,916 --> 01:31:53,708
+Lile!
+
+1561
+01:31:53,833 --> 01:31:55,708
+Roni! Redži! Atėjot!
+
+1562
+01:31:55,875 --> 01:31:57,166
+Taip!
+
+1563
+01:31:57,541 --> 01:31:58,541
+O kam?
+
+1564
+01:32:01,000 --> 01:32:02,666
+Ei! Stop! Stop!
+
+1565
+01:32:02,833 --> 01:32:06,541
+Nes dabar jau yra priežastis daužytis.
+
+1566
+01:32:06,708 --> 01:32:08,000
+– Ačiū.
+– Pagaliau!
+
+1567
+01:32:08,166 --> 01:32:08,958
+Taip!
+
+1568
+01:32:28,458 --> 01:32:29,625
+Teisinga?
+
+1569
+01:32:29,791 --> 01:32:32,166
+Ką? Kokia Inga?
+
+1570
+01:32:32,333 --> 01:32:33,500
+Taip!
+
+1571
+01:32:37,125 --> 01:32:40,583
+Jis turėjo milijonus! Girdit?! Milijonus!
+
+1572
+01:32:40,750 --> 01:32:41,875
+Aš jo sūnus.
+
+1573
+01:32:42,041 --> 01:32:44,166
+Tie milijonai turėjo būti mano.
+
+1574
+01:32:51,916 --> 01:32:54,166
+Gal ji ir amerikietė,
+bet tikrai ne žudikė.
+
+1575
+01:32:54,291 --> 01:32:55,458
+Tik jau nereikia.
+
+1576
+01:32:58,333 --> 01:32:59,250
+Klausykit.
+
+1577
+01:32:59,416 --> 01:33:03,291
+Viso Denbruko policijos departamento vardu
+
+1578
+01:33:03,458 --> 01:33:05,625
+nuoširdžiai atsiprašome.
+
+1579
+01:33:05,791 --> 01:33:08,625
+O ar be jūsų kas nors dar dirba?
+
+1580
+01:33:09,125 --> 01:33:10,166
+Ne.
+
+1581
+01:33:11,041 --> 01:33:12,958
+Aš noriu atsiprašyti.
+
+1582
+01:33:14,625 --> 01:33:15,625
+Ačiū.
+
+1583
+01:33:24,708 --> 01:33:26,000
+Žiūrėk.
+
+1584
+01:33:27,166 --> 01:33:28,291
+Viršlangio ėriukas?
+
+1585
+01:33:29,666 --> 01:33:31,250
+Viršlangio ėriukas.
+
+1586
+01:33:33,041 --> 01:33:35,458
+Dar kurį laiką čia pabūsite?
+
+1587
+01:33:35,708 --> 01:33:40,625
+Ką tik išėjau iš kalėjimo,
+tad man tiesiog reikia minutėlės sau.
+
+1588
+01:33:45,250 --> 01:33:47,208
+Tikiuosi, kad liksit.
+
+1589
+01:33:47,750 --> 01:33:48,958
+Galbūt.
+
+1590
+01:33:53,791 --> 01:33:54,875
+Rebeka.
+
+1591
+01:33:55,458 --> 01:33:58,833
+Rebeka. Labai atsiprašau.
+
+1592
+01:34:25,916 --> 01:34:27,458
+Nereikia.
+
+1593
+01:34:29,208 --> 01:34:30,416
+Ačiū.
+
+1594
+01:34:34,750 --> 01:34:35,875
+Palaukit.
+
+1595
+01:34:40,458 --> 01:34:42,583
+Aš atsiprašau.
+
+1596
+01:34:44,875 --> 01:34:46,416
+Pamačiau jį.
+
+1597
+01:34:47,041 --> 01:34:51,666
+Buvo krepšyje ir nežinojau,
+kad jūs jo dukra.
+
+1598
+01:34:51,833 --> 01:34:55,000
+Aš jam nupirkau
+tą rožių kvapo popierių, tai…
+
+1599
+01:34:55,416 --> 01:34:56,958
+Įsivaizduojat.
+
+1600
+01:34:57,166 --> 01:34:58,583
+Jūs jį mylėjot?
+
+1601
+01:35:00,166 --> 01:35:01,250
+Na…
+
+1602
+01:35:01,625 --> 01:35:04,208
+O jis ar mylėjo?...
+
+1603
+01:35:04,458 --> 01:35:05,875
+Bandė.
+
+1604
+01:35:06,250 --> 01:35:09,000
+Bet Džordžas mylėjo jūsų mamą.
+
+1605
+01:35:09,208 --> 01:35:12,291
+Ir jo gyvenime nebuvo vietos kitai.
+
+1606
+01:35:13,291 --> 01:35:15,666
+Galvodavau, kaip ji atrodė.
+
+1607
+01:35:16,041 --> 01:35:17,875
+Dabar jau žinau.
+
+1608
+01:35:19,375 --> 01:35:21,666
+Turėjau daugiau apie ją paklausinėti.
+
+1609
+01:35:23,625 --> 01:35:25,166
+Nė nežinau jos vardo.
+
+1610
+01:35:25,458 --> 01:35:26,625
+Lilė.
+
+1611
+01:35:27,291 --> 01:35:28,916
+Jos vardas Lilė.
+
+1612
+01:35:34,958 --> 01:35:38,166
+<i>Žinoma, suklastotas testamentas negalioja.</i>
+
+1613
+01:35:38,333 --> 01:35:41,291
+{\an8}Bet vis tiek paveldėsit jo avis ir žemę.
+
+1614
+01:35:41,458 --> 01:35:43,250
+– Panele Hampsted.
+– Neblogai.
+
+1615
+01:35:43,416 --> 01:35:45,125
+Atleiskit, kad trukdau.
+
+1616
+01:35:45,541 --> 01:35:49,625
+Mes su Hemu bandome pradėti naują verslą.
+
+1617
+01:35:49,791 --> 01:35:51,541
+Mus remia geras bankas.
+
+1618
+01:35:52,208 --> 01:35:55,958
+Ir iš esmės norėtume
+iš jūsų nupirkti tėvo lauką ir avis.
+
+1619
+01:35:56,625 --> 01:35:57,625
+Du žudikai.
+
+1620
+01:35:57,791 --> 01:35:58,958
+Ką?
+
+1621
+01:35:59,125 --> 01:36:02,166
+Mano tėvas sužinojo,
+kad jo žemėje skerdžiate avis.
+
+1622
+01:36:02,625 --> 01:36:04,583
+Jūs tie du žudikai.
+
+1623
+01:36:04,958 --> 01:36:06,458
+O gal du verslininkai.
+
+1624
+01:36:06,625 --> 01:36:09,333
+Kurie siūlo gerą kainą.
+
+1625
+01:36:09,750 --> 01:36:11,583
+Ar jūs bent žinote jų vardus?
+
+1626
+01:36:12,541 --> 01:36:14,291
+Jis man pasakė jų vardus.
+
+1627
+01:36:14,458 --> 01:36:16,791
+Ten yra Lilė.
+
+1628
+01:36:18,750 --> 01:36:19,958
+Ir Moplis.
+
+1629
+01:36:20,125 --> 01:36:24,125
+Ta didelė pūkuota – Debesėlė.
+Tikra primadona.
+
+1630
+01:36:24,291 --> 01:36:27,000
+O tą, kurio vilna krinta ant akių,
+pavadino Vilnaakiu,
+
+1631
+01:36:27,166 --> 01:36:30,416
+kas man pasirodė ir taip akivaizdu.
+Bet sakė, kad nieks nesiskundė.
+
+1632
+01:36:30,583 --> 01:36:32,750
+– Klausykit, panele Hampsted…
+– Hardi.
+
+1633
+01:36:33,208 --> 01:36:34,458
+Rebeka Hardi.
+
+1634
+01:36:34,625 --> 01:36:35,958
+Keičiu pavardę.
+
+1635
+01:36:36,125 --> 01:36:38,000
+Atleiskite, aš tuo neužsiimu.
+
+1636
+01:36:38,166 --> 01:36:40,500
+Atsiprašau, panele Hardi, sėkmės.
+
+1637
+01:36:40,708 --> 01:36:41,708
+Iki.
+
+1638
+01:36:42,750 --> 01:36:43,750
+Pala.
+
+1639
+01:36:44,208 --> 01:36:46,750
+O jeigu aš norėčiau daugiau avių?
+
+1640
+01:36:47,166 --> 01:36:49,500
+Ar ir aš galėčiau gauti gerą paramą?
+
+1641
+01:36:50,541 --> 01:36:53,666
+Lile, tai tu viską išsiaiškinai?
+
+1642
+01:36:53,833 --> 01:36:55,500
+Žinoma, kad išsiaiškino.
+
+1643
+01:36:55,666 --> 01:36:57,791
+Ji – protingiausia pasaulyje.
+
+1644
+01:36:57,958 --> 01:37:01,791
+Anksčiau maniau, kad aš tokia,
+bet visgi ne.
+
+1645
+01:37:01,958 --> 01:37:03,083
+Pridariau klaidų.
+
+1646
+01:37:03,250 --> 01:37:07,625
+Turėjau paklausyt, kai žiemos ėriukas
+sakė matęs Džordžo vaiduoklį, bet…
+
+1647
+01:37:16,333 --> 01:37:18,458
+Na, bičiuliai, eime.
+
+1648
+01:37:29,250 --> 01:37:30,791
+Koks tavo vardas? Turi brolių?
+
+1649
+01:37:30,958 --> 01:37:33,875
+Kiek laiko tu čia?
+Turiu tūkstantį klausimų.
+
+1650
+01:37:34,041 --> 01:37:36,041
+O! Atsiprašau.
+
+1651
+01:37:38,750 --> 01:37:40,375
+Kur tavo veidas?
+
+1652
+01:37:42,958 --> 01:37:45,000
+Tau ektima.
+
+1653
+01:37:45,166 --> 01:37:47,166
+Man irgi ektima!
+
+1654
+01:37:53,416 --> 01:37:54,666
+Lile.
+
+1655
+01:38:22,791 --> 01:38:26,625
+HARDŽIO AVIŲ AUGINIMO VADOVAS
+
+1656
+01:39:08,083 --> 01:39:09,666
+„Pirmas skyrius.
+
+1657
+01:39:11,833 --> 01:39:15,541
+Dauguma galvoja, kad iš visų ūkio gyvulių
+
+1658
+01:39:15,708 --> 01:39:17,500
+avys yra pačios kvailiausios.
+
+1659
+01:39:21,166 --> 01:39:22,833
+Tačiau tai netiesa.
+
+1660
+01:39:23,708 --> 01:39:27,541
+{\an8}Avys yra ne tik protingos,
+bet ir įkvepiančios.
+
+1661
+01:39:27,708 --> 01:39:30,708
+Prieš šimtmečius sukurta
+vaikiška skaičiuotė prasideda taip:
+
+1662
+01:39:30,875 --> 01:39:34,666
+„Mažoji Bo Pyp prateriojo avis
+Ir nežino, kur jų ieškot
+
+1663
+01:39:34,833 --> 01:39:37,333
+Bet bijot nėra ko
+Mat jos pargrįš namo
+
+1664
+01:39:38,083 --> 01:39:40,625
+<i>Beliks uodegėlėm mojuot“</i>
+
+1665
+01:39:47,166 --> 01:39:49,083
+Čia taip gražu.
+
+1666
+01:39:49,833 --> 01:39:51,583
+Bet truputį vieniša.
+
+1667
+01:39:55,083 --> 01:39:56,333
+Džordžas.
+
+1668
+01:39:57,666 --> 01:39:59,333
+Toks tavo vardas.
+
+1669
+01:40:00,000 --> 01:40:02,416
+Visoms avims reikia vardo.
+
+1670
+01:40:04,791 --> 01:40:06,250
+Džordžas.
+
+1671
+01:40:16,375 --> 01:40:21,708
+„Būrelis mielų, pūkuotų,
+žavių, sniego baltumo avių.
+
+1672
+01:40:21,875 --> 01:40:24,583
+Dažnai manoma,
+kad visos avys yra vienodos.
+
+1673
+01:40:25,166 --> 01:40:27,791
+Bet iš tiesų vienoje bandoje yra gyvūnų
+
+1674
+01:40:27,958 --> 01:40:32,166
+su pačiomis įvairiausiomis savybėmis
+ir charakteriais.
+
+1675
+01:40:35,416 --> 01:40:39,583
+Bus gerų, draugiškų ir atsiskyrėlių.
+
+1676
+01:40:39,750 --> 01:40:42,458
+Protingų ir kvailokų.
+Drovių ir mėgstančių pasirodyti.“
+
+1677
+01:40:42,583 --> 01:40:45,500
+– Labas, kuo tu vardu?
+– Labas! Mano vardas Džordžas.
+
+1678
+01:40:45,625 --> 01:40:46,750
+Labas, Džordžai!
+
+1679
+01:40:46,875 --> 01:40:50,000
+„Šiuos švelnius gyvulius
+pažįsta bene visos žmonių kultūros –
+
+1680
+01:40:50,166 --> 01:40:52,708
+kalboje ir vaizdiniuose jie dažnai
+
+1681
+01:40:52,875 --> 01:40:55,333
+tampa meilės, nekaltumo
+ir taikos simboliais.
+
+1682
+01:40:55,791 --> 01:41:00,416
+{\an8}Nes, kaip ir žmonės,
+jie nori priklausyti. Labiau už viską.
+
+1683
+01:41:01,291 --> 01:41:04,125
+{\an8}Jie leidžia sau priklausyti mums.
+
+1684
+01:41:04,708 --> 01:41:06,291
+{\an8}Ir tada pasirodo…
+
+1685
+01:41:07,250 --> 01:41:09,666
+kad mes priklausome jiems.“
+
+1686
+01:43:21,583 --> 01:43:24,291
+AVYS DETEKTYVĖS
+
+1687
+01:48:46,083 --> 01:48:47,750
+<i>Vis tiek manau, kad tarnaitė.</i>
+

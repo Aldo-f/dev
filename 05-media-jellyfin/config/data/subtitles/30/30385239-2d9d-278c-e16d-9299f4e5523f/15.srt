@@ -1,0 +1,7133 @@
+1
+00:00:42,291 --> 00:00:49,250
+ARDI DETEKTIBEAK
+
+2
+00:00:49,416 --> 00:00:51,000
+<i>Rebecca maitea:</i>
+
+3
+00:00:52,291 --> 00:00:54,958
+<i>Badakit galdera asko dituzula.</i>
+
+4
+00:00:56,125 --> 00:00:57,333
+<i>Nik ere bai.</i>
+
+5
+00:00:57,500 --> 00:01:00,625
+<i>Izan ere, bizitza misterio bat da.</i>
+
+6
+00:01:01,208 --> 00:01:04,250
+<i>Baina unibertsoko enigma guztietarako
+erantzunik badago,</i>
+
+7
+00:01:04,416 --> 00:01:06,083
+<i>zoriontasunerako sekreturik,</i>
+
+8
+00:01:06,250 --> 00:01:08,666
+<i>uste dut honako hau dela:</i>
+
+9
+00:01:10,708 --> 00:01:11,791
+<i>ardiak.</i>
+
+10
+00:01:15,125 --> 00:01:16,416
+<i>Benetan ari naiz.</i>
+
+11
+00:01:16,750 --> 00:01:18,250
+<i>Ardiak dira.</i>
+
+12
+00:01:20,458 --> 00:01:22,250
+Ados, banoa.
+
+13
+00:01:35,291 --> 00:01:38,750
+<i>Azken gutunean galdetu zenidan,
+nire ardietakoren bat berezia den.</i>
+
+14
+00:01:38,916 --> 00:01:43,458
+<i>Denak dira bereziak.
+Horregatik jarri diet izena denei.</i>
+
+15
+00:01:43,625 --> 00:01:44,708
+<i>Esaterako:</i>
+
+16
+00:01:45,666 --> 00:01:49,541
+<i>bi ahari biki eta iskanbilatsu ditut,
+Ronnie eta Reggie.</i>
+
+17
+00:01:50,041 --> 00:01:53,375
+<i>Eta Sir Ritchfield izeneko
+ahari harro eta dotorea.</i>
+
+18
+00:01:54,166 --> 00:01:55,916
+<i>Hodei, iletsuena da.</i>
+
+19
+00:01:56,083 --> 00:01:57,875
+<i>Diva hutsa.</i>
+
+20
+00:01:58,750 --> 00:02:01,041
+<i>Zorak ikusnahirik handiena du.</i>
+
+21
+00:02:01,833 --> 00:02:04,208
+<i>Mopple pazienteena da.</i>
+
+22
+00:02:04,958 --> 00:02:06,500
+<i>Eta Bilotsu…</i>
+
+23
+00:02:07,208 --> 00:02:09,833
+<i>Ez zaidalako bururatu izen hoberik.</i>
+
+24
+00:02:10,125 --> 00:02:13,083
+{\an8}<i>Eta, entzun, badakit
+denak bereziak direla esan dudala,</i>
+
+25
+00:02:13,250 --> 00:02:17,916
+<i>baina aitortu beharra dut
+nire ardietako bi berezienak direla.</i>
+
+26
+00:02:18,625 --> 00:02:19,708
+<i>Lehena Sebastian da.</i>
+
+27
+00:02:19,875 --> 00:02:21,291
+<i>Nire aharirik handiena,</i>
+
+28
+00:02:21,458 --> 00:02:23,916
+<i>eta ni bezala, bakarti samarra.</i>
+
+29
+00:02:24,500 --> 00:02:27,125
+<i>Lehenago edo geroago alde egiten du.</i>
+
+30
+00:02:27,458 --> 00:02:30,541
+<i>Eta lehenago edo geroago itzultzen da.</i>
+
+31
+00:02:34,083 --> 00:02:36,750
+<i>Eta azkenik, Lily.</i>
+
+32
+00:02:37,208 --> 00:02:38,750
+<i>Nire ardirik argiena.</i>
+
+33
+00:02:38,916 --> 00:02:42,083
+<i>Beti ematen du badakiela
+zer pentsatzen ari naizen</i>
+
+34
+00:02:42,250 --> 00:02:44,458
+<i>eta nola sentitzen naizen.</i>
+
+35
+00:02:44,625 --> 00:02:49,958
+<i>Berak eskaintzen dit gehien
+artzainek bakarrik ezagutzen duten bakea.</i>
+
+36
+00:02:50,125 --> 00:02:51,583
+<i>Bake hori</i>
+
+37
+00:02:51,750 --> 00:02:56,208
+<i>munduko izakirik atseginenak zaintzeak
+ematen dizu.</i>
+
+38
+00:03:01,500 --> 00:03:03,875
+<i>Egun oro hasten dut
+beren beharrak asebetez.</i>
+
+39
+00:03:04,041 --> 00:03:05,541
+ARDIENTZAKO PENTSUA
+
+40
+00:03:06,000 --> 00:03:07,750
+<i>Ondo elikatzen ditut…</i>
+
+41
+00:03:08,500 --> 00:03:09,625
+<i>ilea mozten diet.</i>
+
+42
+00:03:11,625 --> 00:03:14,375
+<i>Haiekin jolasten saiatzen naiz.</i>
+
+43
+00:03:14,541 --> 00:03:17,541
+<i>Esnatzen naizenean,
+badakit nor izango naizen.</i>
+
+44
+00:03:17,708 --> 00:03:20,375
+<i>Zure ondoan esnatzen den gizona
+izango naiz.</i>
+
+45
+00:03:22,083 --> 00:03:26,166
+<i>Eta botika ematen diet.
+Uste dut atsegin dutela esango luketela…</i>
+
+46
+00:03:26,333 --> 00:03:27,833
+<i>hitz egiteko gai balira.</i>
+
+47
+00:03:28,000 --> 00:03:30,791
+Botika hartzeko ordua, laguna. Hori da.
+
+48
+00:03:31,125 --> 00:03:35,291
+<i>Eta egitekoak bukatzen ditudanean
+eta eguzkia ezkutatzen denean,</i>
+
+49
+00:03:35,458 --> 00:03:37,625
+<i>liburu bat aukeratu
+eta ozen irakurtzen diet.</i>
+
+50
+00:03:37,791 --> 00:03:42,083
+<i>Detektibe-nobelak, misterio-nobelak.
+Nire gogokoenak.</i>
+
+51
+00:03:42,250 --> 00:03:45,000
+"Badakit noiz hil zuten
+Rodney Hollingshead,
+
+52
+00:03:45,166 --> 00:03:48,458
+eta badakit nor den hiltzailea".
+
+53
+00:03:48,708 --> 00:03:51,666
+<i>Atsegin dut
+istorioa ulertzen dutela pentsatzea.</i>
+
+54
+00:03:52,333 --> 00:03:56,750
+<i>Baina barru-barruan badakit,
+bereziak izan arren, zera baino ez direla…</i>
+
+55
+00:03:57,250 --> 00:03:58,500
+<i>ardiak.</i>
+
+56
+00:03:59,583 --> 00:04:00,875
+Ez, kito.
+
+57
+00:04:01,458 --> 00:04:02,875
+Tira, zoazte.
+
+58
+00:04:03,041 --> 00:04:05,166
+Bihar irakurriko dizuet amaiera.
+
+59
+00:04:11,875 --> 00:04:13,541
+Zergatik gelditu da hor?
+
+60
+00:04:13,708 --> 00:04:15,916
+Hiltzailea nor den esatear zegoen!
+
+61
+00:04:16,083 --> 00:04:18,125
+Hau jasanezina da! Neskamea izan da, ezta?
+
+62
+00:04:18,291 --> 00:04:19,833
+Bai, noski.
+
+63
+00:04:20,000 --> 00:04:22,791
+<i>Ez, lorezaina izan da.</i>
+
+64
+00:04:22,958 --> 00:04:25,666
+Belarra moztu eta moztu, jan gabe?
+
+65
+00:04:25,833 --> 00:04:27,166
+Bai. Bitxia da.
+
+66
+00:04:27,333 --> 00:04:28,750
+Burua galdu duzue? Medikua izan da.
+
+67
+00:04:28,916 --> 00:04:30,708
+Ez horixe. Izeko beldurgarria izan da.
+
+68
+00:04:30,875 --> 00:04:33,791
+Izeko beldurgarria
+duela hiru istoriokoa da.
+
+69
+00:04:33,958 --> 00:04:35,708
+Nola izan gaitezke anaiak?
+
+70
+00:04:35,875 --> 00:04:37,375
+Hasi dira.
+
+71
+00:04:37,541 --> 00:04:38,583
+Bai.
+
+72
+00:04:39,333 --> 00:04:40,916
+Beti berdin.
+
+73
+00:04:41,083 --> 00:04:43,666
+Oker zaudete denak.
+
+74
+00:04:43,833 --> 00:04:46,416
+Duela bi kapitulu ohartu nintzen.
+
+75
+00:04:46,958 --> 00:04:48,000
+Neskamea izan da?
+
+76
+00:04:48,166 --> 00:04:49,333
+Ez.
+
+77
+00:04:49,500 --> 00:04:52,541
+Iloba izan da, Bertie Hollingshead.
+
+78
+00:04:52,708 --> 00:04:56,875
+Baina, Lily, ez zuen detektibeak frogatu
+bere aurkako froga denak
+
+79
+00:04:57,041 --> 00:04:59,333
+faltsutu zituela benetako hiltzaileak?
+
+80
+00:04:59,500 --> 00:05:00,708
+Hala da.
+
+81
+00:05:00,875 --> 00:05:02,291
+Ez duzue ulertzen?
+
+82
+00:05:02,458 --> 00:05:06,333
+Berak faltsutu zituen frogak
+zigorra saihesteko.
+
+83
+00:05:08,875 --> 00:05:11,666
+Bertie Hollingshead da
+benetako hiltzailea.
+
+84
+00:05:12,958 --> 00:05:14,416
+Zer zabiltza?
+
+85
+00:05:16,416 --> 00:05:19,833
+Georgek bihar bukatuko du istorioa.
+Ikusiko duzue.
+
+86
+00:05:23,250 --> 00:05:25,041
+Neskamea izan dela uste dut.
+
+87
+00:05:25,375 --> 00:05:27,708
+"Bertiek bazekien legeak zioela
+
+88
+00:05:28,083 --> 00:05:32,041
+ezin daitekeela pertsona bat
+krimen beragatik birritan kondenatu.
+
+89
+00:05:32,208 --> 00:05:36,875
+Beraz, zigorra saihesteko,
+berak faltsutu zituen frogak.
+
+90
+00:05:37,500 --> 00:05:41,958
+Bertie Hollingshead da
+benetako hiltzailea".
+
+91
+00:05:47,416 --> 00:05:51,000
+<i>Nire ardi gehienek
+eguna ematen dute jaten,</i>
+
+92
+00:05:51,166 --> 00:05:53,000
+<i>edo jatea buruan.</i>
+
+93
+00:05:53,541 --> 00:05:57,416
+<i>Baina energia amaiezina duten
+hiru arkume bihurri ditut.</i>
+
+94
+00:05:57,958 --> 00:06:02,166
+<i>Udaberrian jaio ziren izaki txiki,
+zoriontsu eta alaiak.</i>
+
+95
+00:06:02,541 --> 00:06:06,291
+<i>Egia esan,
+arkume gehienak jaiotzen dira udaberrian.</i>
+
+96
+00:06:06,875 --> 00:06:11,083
+<i>Baina badaukat neguan jaio zen arkume bat.</i>
+
+97
+00:06:12,500 --> 00:06:14,416
+Kaixo.
+
+98
+00:06:16,875 --> 00:06:18,041
+- Daisy naiz.
+- Oliver naiz.
+
+99
+00:06:18,208 --> 00:06:20,166
+- Ozpintxo naiz.
+- Nola duzu izena?
+
+100
+00:06:20,750 --> 00:06:22,416
+Ez dut izenik.
+
+101
+00:06:22,583 --> 00:06:24,250
+Gurekin jolastu nahi duzu?
+
+102
+00:06:24,666 --> 00:06:26,333
+Ez! Zapi!
+
+103
+00:06:27,041 --> 00:06:29,833
+Ez jolastu neguko arkumearekin.
+
+104
+00:06:30,000 --> 00:06:32,625
+Ez da gure artaldekoa.
+
+105
+00:06:33,416 --> 00:06:36,166
+<i>Ardiek bakarrik
+uler ditzaketen arrazoiengatik,</i>
+
+106
+00:06:36,333 --> 00:06:39,666
+<i>artaldeek neguan jaiotako arkumeak
+baztertu ohi dituzte.</i>
+
+107
+00:06:39,833 --> 00:06:40,666
+Lasai.
+
+108
+00:06:40,833 --> 00:06:44,416
+<i>Neguko arkumeak ezberdinak direlako.</i>
+
+109
+00:06:44,583 --> 00:06:47,166
+Hori da. Oso ondo.
+
+110
+00:06:55,833 --> 00:06:57,125
+Galdera bat.
+
+111
+00:06:57,291 --> 00:06:59,750
+Zergatik da George beti hain atsegina
+arkume horrekin?
+
+112
+00:06:59,916 --> 00:07:01,625
+George ez da ardi bat.
+
+113
+00:07:01,791 --> 00:07:04,750
+Ez diote neguko arkumeena irakatsi.
+
+114
+00:07:16,750 --> 00:07:19,250
+<i>Eta azken gauza bat,
+nire gonbidapena onartuz gero,</i>
+
+115
+00:07:19,416 --> 00:07:22,333
+<i>Denbrook izeneko herritik gertu bizi naiz.</i>
+
+116
+00:07:22,666 --> 00:07:24,833
+{\an8}<i>Bertako jendea ere berezia da.</i>
+
+117
+00:07:25,000 --> 00:07:26,083
+{\an8}<i>Esaterako…</i>
+
+118
+00:07:26,250 --> 00:07:27,250
+Egun on, Caleb.
+
+119
+00:07:27,375 --> 00:07:28,624
+<i>Caleb, artzaina ere bai.</i>
+
+120
+00:07:28,625 --> 00:07:29,458
+Egun on, andereñoak.
+
+121
+00:07:29,583 --> 00:07:30,416
+<i>Ez dut atsegin.</i>
+
+122
+00:07:30,750 --> 00:07:32,208
+<i>Ham, harakina.</i>
+
+123
+00:07:32,375 --> 00:07:34,250
+<i>Ez dut batere atsegin.</i>
+
+124
+00:07:34,416 --> 00:07:35,833
+<i>Beth, ostalaria.</i>
+
+125
+00:07:36,000 --> 00:07:37,125
+<i>Ez nau atsegin.</i>
+
+126
+00:07:37,291 --> 00:07:38,791
+Akabatu egingo dut.
+
+127
+00:07:38,958 --> 00:07:40,666
+{\an8}<i>Tim, polizia.</i>
+
+128
+00:07:42,041 --> 00:07:43,125
+<i>Ergel hutsa.</i>
+
+129
+00:07:43,291 --> 00:07:47,083
+<i>Eta Aita Hillcoate,
+gizon-emakumeen artzaina.</i>
+
+130
+00:07:47,250 --> 00:07:50,333
+<i>Harreman korapilatsua dugu.</i>
+
+131
+00:07:50,500 --> 00:07:54,583
+Gaurko irakurketa:
+Ardi galduaren parabola.
+
+132
+00:08:05,291 --> 00:08:07,000
+George, meza entzutera zatoz?
+
+133
+00:08:07,791 --> 00:08:10,375
+Denak dira ongietorriak Jaunaren etxean.
+
+134
+00:08:11,291 --> 00:08:12,583
+Baita harakinak ere?
+
+135
+00:08:19,041 --> 00:08:20,958
+Ez nator meza entzutera.
+
+136
+00:08:21,958 --> 00:08:23,583
+Zor bat kitatzera nator.
+
+137
+00:08:30,250 --> 00:08:31,791
+Gure George maitea.
+
+138
+00:08:34,083 --> 00:08:35,458
+Gure George maitea.
+
+139
+00:08:35,791 --> 00:08:37,666
+<i>Baina nahikoa esan dut jendeaz.</i>
+
+140
+00:08:38,083 --> 00:08:40,250
+<i>Nire artaldea ezagutu behar duzu.</i>
+
+141
+00:08:40,416 --> 00:08:42,583
+<i>Zu ikusteko irrikan daude.</i>
+
+142
+00:08:43,625 --> 00:08:45,291
+<i>Baita ni ere.</i>
+
+143
+00:08:46,000 --> 00:08:47,666
+<i>Mesedez, zatoz laster.</i>
+
+144
+00:08:50,750 --> 00:08:52,416
+<i>Maitasunez, George.</i>
+
+145
+00:08:59,625 --> 00:09:00,708
+Hodei?
+
+146
+00:09:01,125 --> 00:09:02,333
+Galdera bat.
+
+147
+00:09:02,500 --> 00:09:05,166
+Txikoria-belarrak janez gero,
+betile politak izango ditut?
+
+148
+00:09:05,333 --> 00:09:07,875
+Ez, ez zaizkizu betileak haziko.
+
+149
+00:09:08,041 --> 00:09:10,083
+Baina ile ederra izango duzu.
+
+150
+00:09:10,250 --> 00:09:11,541
+Begiratu Bilotsuri.
+
+151
+00:09:11,708 --> 00:09:13,291
+Ez du besterik jaten.
+
+152
+00:09:13,458 --> 00:09:16,125
+Txikoria-belarra dira? Ados.
+
+153
+00:09:16,291 --> 00:09:20,208
+Batzuk utzi beharko genizkioke Sebastiani.
+Egunak daramatza desagertuta.
+
+154
+00:09:20,375 --> 00:09:24,000
+Eta zer?
+Georgek batek daki nondik ekarri zuenetik,
+
+155
+00:09:24,166 --> 00:09:26,166
+herrira ihes egiten tematzen da.
+
+156
+00:09:26,333 --> 00:09:27,583
+Goseak egon dadila.
+
+157
+00:09:27,750 --> 00:09:31,583
+Bera gugatik arduratzen ez bada ere,
+guk beragatik arduratu behar dugu.
+
+158
+00:09:31,750 --> 00:09:34,000
+Sebastian gure artaldekoa da.
+
+159
+00:09:34,250 --> 00:09:36,750
+Aizue, begira! Caleb da!
+
+160
+00:09:39,625 --> 00:09:40,958
+Txakurtxoak!
+
+161
+00:09:41,125 --> 00:09:45,083
+Txakurtxoak.
+
+162
+00:09:46,833 --> 00:09:48,875
+Caleb! Hemen!
+
+163
+00:09:49,041 --> 00:09:52,083
+Primeran usaintzen du.
+
+164
+00:09:52,250 --> 00:09:53,791
+Artilezko jertseengatik da.
+
+165
+00:09:54,250 --> 00:09:55,916
+Kolore ederrak dituzte.
+
+166
+00:09:57,166 --> 00:09:58,500
+- Sar naiteke?
+- Ospa!
+
+167
+00:09:58,625 --> 00:09:59,791
+Sartuko naiz.
+
+168
+00:10:00,291 --> 00:10:04,375
+Hain da berria, polita eta distiratsua.
+
+169
+00:10:04,791 --> 00:10:06,875
+Gauza bera pentsatzen ari gara?
+
+170
+00:10:07,208 --> 00:10:09,625
+- Kolpatu nahi dut!
+- Kolpatzeko irrikan nago!
+
+171
+00:10:10,500 --> 00:10:11,750
+Reggie! Ronnie!
+
+172
+00:10:13,041 --> 00:10:16,750
+Badakizue araua.
+Ez dugu gauzarik kolpatzen…?
+
+173
+00:10:16,916 --> 00:10:20,041
+Kolpatzeko arrazoi onik egon ezean.
+
+174
+00:10:20,208 --> 00:10:21,208
+Hori da.
+
+175
+00:10:21,375 --> 00:10:23,833
+Caleben hirugarren bisita da hilabetean.
+
+176
+00:10:24,000 --> 00:10:26,583
+Gauza bakarra eztabaidatzen egon daitezke.
+
+177
+00:10:27,125 --> 00:10:28,291
+Artaldeak bateratzea.
+
+178
+00:10:28,458 --> 00:10:30,375
+- Artaldeak bateratzea!
+- Ardi berriak!
+
+179
+00:10:30,541 --> 00:10:32,291
+- Zelai berriak!
+- Txakurtxoak?
+
+180
+00:10:32,458 --> 00:10:33,791
+Hausnartu egin dut!
+
+181
+00:10:33,958 --> 00:10:36,541
+Aukera bat eman nizun
+eta gezurra esan zenidan!
+
+182
+00:10:36,708 --> 00:10:37,875
+Ez itzuli.
+
+183
+00:10:45,541 --> 00:10:48,250
+Badirudi ez dituztela
+artaldeak bateratuko, azkenean.
+
+184
+00:10:49,916 --> 00:10:51,208
+Pozarren nengoen.
+
+185
+00:10:51,375 --> 00:10:53,000
+Eta orain triste eta atsekabetuta nago.
+
+186
+00:10:53,166 --> 00:10:54,750
+Gertatutako ahaztu nahi dut!
+
+187
+00:10:54,916 --> 00:10:56,916
+Zuzen zaude. Etsigarria da.
+
+188
+00:10:57,083 --> 00:10:58,333
+Ados gaude denok?
+
+189
+00:10:58,500 --> 00:11:02,416
+Caleben bisita ahaztuko dugu
+hiru zenbatzean.
+
+190
+00:11:02,583 --> 00:11:04,250
+Bat. Bi…
+
+191
+00:11:04,416 --> 00:11:07,375
+Eta Mopple, zer? Ezin ditu gauzak ahaztu.
+
+192
+00:11:07,541 --> 00:11:08,375
+Zergatik ez?
+
+193
+00:11:08,541 --> 00:11:10,000
+Mopple gaixoa!
+
+194
+00:11:10,166 --> 00:11:12,208
+Gaitz izugarri batekin jaio zen.
+
+195
+00:11:12,500 --> 00:11:15,916
+Beste guztiok ez bezala,
+ezin du gauzak ahaztea erabaki.
+
+196
+00:11:16,083 --> 00:11:17,166
+Egia.
+
+197
+00:11:17,333 --> 00:11:21,833
+Mopple, ahaztu dugunean,
+ez gogorarazi gertatutakoa, mesedez.
+
+198
+00:11:22,000 --> 00:11:24,458
+Ziur zaude? Ez da hainbesterako izan.
+
+199
+00:11:24,625 --> 00:11:27,875
+Ez. Baina ez da atsegina izan.
+Beraz, hobe ahaztu.
+
+200
+00:11:28,583 --> 00:11:29,583
+Prest?
+
+201
+00:11:29,916 --> 00:11:30,916
+Bat.
+
+202
+00:11:31,416 --> 00:11:32,500
+Bi.
+
+203
+00:11:32,833 --> 00:11:33,958
+Hiru.
+
+204
+00:11:36,625 --> 00:11:37,666
+Hodei?
+
+205
+00:11:38,291 --> 00:11:39,458
+Galdera bat.
+
+206
+00:11:39,625 --> 00:11:42,416
+Txikoria-belarrak janez gero,
+betile politak izango ditut?
+
+207
+00:11:42,583 --> 00:11:44,916
+Ez, ez zaizkizu betileak haziko.
+
+208
+00:11:45,125 --> 00:11:48,291
+- Baina ile ederra izango duzu.
+- Baina ile ederra izango duzu.
+
+209
+00:11:58,333 --> 00:11:59,333
+Ondo nago.
+
+210
+00:12:12,791 --> 00:12:14,750
+Pasatuko zait, benetan.
+
+211
+00:12:14,916 --> 00:12:15,958
+Baina…
+
+212
+00:12:17,041 --> 00:12:18,333
+Ez dakit.
+
+213
+00:12:21,916 --> 00:12:25,541
+Oraingoan gauzak ezberdinak izatea
+espero nuen.
+
+214
+00:12:26,791 --> 00:12:28,500
+Baina ez kezkatu.
+
+215
+00:12:29,541 --> 00:12:30,916
+Ondo egongo zara.
+
+216
+00:12:32,208 --> 00:12:34,166
+Eta ni ere bai.
+
+217
+00:12:57,708 --> 00:12:59,250
+DENBROOKEKO KULTURA JAIALDIA
+
+218
+00:13:05,458 --> 00:13:06,458
+Kaixo.
+
+219
+00:13:06,625 --> 00:13:09,500
+Kaixo. Ezer interesgarririk?
+
+220
+00:13:09,666 --> 00:13:13,374
+{\an8}Ezer gutxi astelehena izateko.
+Fakturak eta publizitatea.
+
+221
+00:13:13,375 --> 00:13:14,208
+GEORGE HARDY JAUNA
+
+222
+00:13:14,375 --> 00:13:16,291
+George. Nori ibili da idazten?
+
+223
+00:13:16,458 --> 00:13:18,791
+Ez nuke ezer esan beharko, baina…
+
+224
+00:13:19,666 --> 00:13:23,083
+Rebecca Hampstead andereñoari.
+Estatu Batuetakoa.
+
+225
+00:13:23,666 --> 00:13:26,875
+Ez dakit nor den, baina
+hilabeteak daramatzate elkarri idazten.
+
+226
+00:13:27,250 --> 00:13:28,375
+Eta…
+
+227
+00:13:28,541 --> 00:13:29,708
+Aurrera.
+
+228
+00:13:30,125 --> 00:13:31,208
+Usaindu.
+
+229
+00:13:31,750 --> 00:13:33,250
+Arrosa usaineko papera.
+
+230
+00:13:33,541 --> 00:13:34,666
+Maitasun eskutitzak dira.
+
+231
+00:13:34,833 --> 00:13:35,916
+Sinestezina, ezta?
+
+232
+00:13:36,083 --> 00:13:40,041
+George Hardy erretxina
+erromantiko hutsa da.
+
+233
+00:13:40,625 --> 00:13:41,833
+Hori ustekabea.
+
+234
+00:13:43,958 --> 00:13:45,541
+George maitekorra.
+
+235
+00:13:45,750 --> 00:13:46,750
+Bai.
+
+236
+00:13:47,125 --> 00:13:48,500
+- Zaindu.
+- Zu ere bai.
+
+237
+00:13:48,625 --> 00:13:49,666
+Agur!
+
+238
+00:13:51,375 --> 00:13:52,666
+- Kaixo!
+- Kaixo!
+
+239
+00:13:52,833 --> 00:13:55,791
+Hiritik nator
+Denbrookeko Kultura Jaialdira.
+
+240
+00:13:55,958 --> 00:13:57,541
+Zoragarri.
+
+241
+00:13:57,875 --> 00:13:59,291
+Hemen da.
+
+242
+00:14:00,125 --> 00:14:01,416
+Zatoz nirekin.
+
+243
+00:14:01,875 --> 00:14:03,750
+Hemen da zer?
+
+244
+00:14:04,166 --> 00:14:07,875
+Ongi etorri Denbrookeko Kultura Jaialdira.
+
+245
+00:14:10,000 --> 00:14:11,375
+{\an8}Artista: Beth Pennock
+
+246
+00:14:12,083 --> 00:14:13,125
+Txantxetan, ala?
+
+247
+00:14:13,291 --> 00:14:16,041
+Zer? Gure herriaren ondarea da.
+
+248
+00:14:18,625 --> 00:14:21,333
+Zer da <i>Itzulera Ozera</i>?
+
+249
+00:14:21,666 --> 00:14:23,666
+{\an8}Inoiz egindako filmik onena da.
+
+250
+00:14:24,083 --> 00:14:26,583
+{\an8}Eta hemendik 60 kilometrora filmatu zuten.
+
+251
+00:14:26,958 --> 00:14:29,750
+Jendeak dio originala baino hobea dela.
+
+252
+00:14:30,125 --> 00:14:31,125
+Ez dut ikusi.
+
+253
+00:14:31,291 --> 00:14:33,416
+Nork ez du <i>Itzulera Ozer</i> a ikusi?
+
+254
+00:14:33,583 --> 00:14:37,541
+Barkatu, baina zergatik egin duzue
+pankarta erraldoia honetarako?
+
+255
+00:14:37,708 --> 00:14:40,583
+Jendea etortzea nahi dut.
+Ez dago jaialdirik jenderik gabe.
+
+256
+00:14:41,083 --> 00:14:44,250
+Ez, hau ez da jaialdi bat.
+
+257
+00:14:44,416 --> 00:14:46,541
+Ez. Salmahai batzuk baino ez dira.
+
+258
+00:14:47,708 --> 00:14:49,958
+Nire negozioa nola zuzendu
+esaten ari zara?
+
+259
+00:14:50,583 --> 00:14:51,583
+Ez.
+
+260
+00:14:52,583 --> 00:14:54,291
+Zuzen zaude. Barkatu.
+
+261
+00:14:55,041 --> 00:14:57,000
+Gaizki hasi gara.
+
+262
+00:14:58,500 --> 00:15:01,583
+Elliot Matthews dut izena.
+<i>Gazette</i> ko kazetaria naiz.
+
+263
+00:15:03,583 --> 00:15:05,125
+Kazetari hasiberria.
+
+264
+00:15:08,000 --> 00:15:10,166
+Ondo da. Heriotza-oharrez arduratzen naiz.
+
+265
+00:15:10,333 --> 00:15:13,375
+Baina luze daramat
+benetako istorio baten bila,
+
+266
+00:15:13,541 --> 00:15:17,541
+eta editoreak hauxe esleitu dit:
+
+267
+00:15:18,291 --> 00:15:20,166
+Denbrookeko Kultura Jaialdia.
+
+268
+00:15:20,333 --> 00:15:23,083
+- Eta? Aukera paregabea dirudi.
+- Bai, itzela da.
+
+269
+00:15:23,250 --> 00:15:27,583
+Ez dut maila-igoerarik lortuko
+honetaz idazten, ezta? Ez.
+
+270
+00:15:27,916 --> 00:15:29,375
+Lastima.
+
+271
+00:15:30,333 --> 00:15:31,791
+Hamar. Eskudiruz.
+
+272
+00:15:32,166 --> 00:15:33,250
+Zergatik?
+
+273
+00:15:33,416 --> 00:15:35,166
+- Sarreragatik.
+- Sarreragatik.
+
+274
+00:15:38,500 --> 00:15:39,583
+Hamar.
+
+275
+00:15:39,750 --> 00:15:41,083
+Hartu…
+
+276
+00:15:41,750 --> 00:15:42,958
+Hartu dena.
+
+277
+00:15:44,083 --> 00:15:45,333
+Zera…
+
+278
+00:15:46,458 --> 00:15:47,625
+Zein tipo bitxia.
+
+279
+00:15:48,208 --> 00:15:50,041
+ONGI ETORRI DENBROOKERA
+
+280
+00:16:06,708 --> 00:16:09,875
+Non dago George?
+Ez digu istoriorik irakurriko?
+
+281
+00:16:10,041 --> 00:16:11,375
+Kanpoan behar luke honezkero.
+
+282
+00:16:13,958 --> 00:16:17,250
+Ez izan zarata horren beldur.
+
+283
+00:16:17,416 --> 00:16:18,541
+Sir Ritchfield?
+
+284
+00:16:18,708 --> 00:16:21,750
+Bai, baduzue jakiteko garaia, arkumetxoak,
+
+285
+00:16:22,041 --> 00:16:25,333
+gauzak horrelakoak baitira.
+
+286
+00:16:25,500 --> 00:16:30,208
+Hodei horiek guztiak ardiak
+izan ziren behin, zuek eta ni bezala.
+
+287
+00:16:30,375 --> 00:16:33,708
+Eta lurra lehorregi dagoela ikustean,
+
+288
+00:16:33,875 --> 00:16:36,125
+dantza egiten hasten dira.
+
+289
+00:16:36,291 --> 00:16:40,250
+Zarata burrunbatsua ateratzen dute
+euria zerutik erorarazten dutela
+
+290
+00:16:40,416 --> 00:16:43,333
+belarra eta hirustak haz daitezen.
+
+291
+00:16:43,500 --> 00:16:45,541
+Ardi guztiak bihurtzen dira hodei?
+
+292
+00:16:45,708 --> 00:16:48,250
+Bai, Ozpintxo. Gu guztiak.
+
+293
+00:16:48,416 --> 00:16:52,666
+Hodei bihurtuko naiz noizbait,
+nire gurasoak nire aurretik bezala.
+
+294
+00:16:53,000 --> 00:16:54,375
+Baina…
+
+295
+00:16:55,416 --> 00:16:57,958
+ez dakit zergatik ez dudan gogoratzen
+
+296
+00:16:58,125 --> 00:17:00,500
+gurasoak hodei bilakatu ziren eguna.
+
+297
+00:17:01,166 --> 00:17:03,375
+Mopple, zuk dena gogoratzen duzu.
+
+298
+00:17:03,750 --> 00:17:06,625
+Egun zoragarria izango zen, ezta?
+
+299
+00:17:12,416 --> 00:17:14,875
+Bai. Noski.
+
+300
+00:17:15,041 --> 00:17:18,833
+Agur esan
+eta pozez beteta igo ziren zerura
+
+301
+00:17:19,000 --> 00:17:21,791
+bi hodei bigun bihurtuz
+
+302
+00:17:21,958 --> 00:17:24,583
+goitik guri begira
+
+303
+00:17:24,833 --> 00:17:26,083
+maitasunez.
+
+304
+00:17:27,333 --> 00:17:28,416
+Betiko.
+
+305
+00:17:30,125 --> 00:17:31,291
+Mila esker.
+
+306
+00:17:35,375 --> 00:17:36,958
+Eta hemen dator!
+
+307
+00:17:37,333 --> 00:17:39,500
+Izan behar den bezala.
+
+308
+00:17:41,333 --> 00:17:42,500
+<i>Bai.</i>
+
+309
+00:17:42,833 --> 00:17:45,833
+<i>Dena behar bezala dago.</i>
+
+310
+00:17:56,000 --> 00:17:58,458
+GILYARD HARATEGIA
+
+311
+00:18:30,666 --> 00:18:35,541
+Gutxienez herrira etortzeko
+garai aproposa aukeratu duzu.
+
+312
+00:18:35,958 --> 00:18:38,750
+Denbrookeko Kultura Jaialdia da!
+
+313
+00:18:39,166 --> 00:18:40,750
+Zorionekoa zu!
+
+314
+00:18:42,291 --> 00:18:46,333
+Asteburuan joan nintzen ahizparekin,
+tokiko gazta probatu genuen.
+
+315
+00:18:46,500 --> 00:18:48,500
+Eta askoz hobea zegoen
+
+316
+00:18:48,666 --> 00:18:51,625
+hiriko gazta denda dotoreetan
+eros daitekeena baino.
+
+317
+00:18:51,791 --> 00:18:53,041
+Ahizpak esan zuen…
+
+318
+00:18:53,208 --> 00:18:54,541
+Ikusi duzu hori?
+
+319
+00:18:55,291 --> 00:18:56,583
+Zer ikusi?
+
+320
+00:18:59,708 --> 00:19:01,208
+ONGI ETORRI DENBROOKERA
+
+321
+00:19:34,916 --> 00:19:36,458
+Aupa! Esna zaude!
+
+322
+00:19:36,625 --> 00:19:39,333
+Hamaika aldiz eskatu dizut hau ez egiteko.
+
+323
+00:19:39,750 --> 00:19:40,750
+Ahaztu dugu!
+
+324
+00:19:40,916 --> 00:19:42,583
+Ahaztu dugu.
+
+325
+00:19:42,750 --> 00:19:43,791
+Jakina.
+
+326
+00:19:43,958 --> 00:19:44,958
+Ikusi hori!
+
+327
+00:19:45,125 --> 00:19:46,833
+- Itxaron!
+- Egon, astiroago!
+
+328
+00:19:50,958 --> 00:19:52,208
+<i>Esnatzen naizenean…</i>
+
+329
+00:19:54,458 --> 00:19:57,166
+<i>Zure ondoan esnatzen den gizona
+izango naiz.</i>
+
+330
+00:20:00,833 --> 00:20:02,708
+Lily? Zer egiten…?
+
+331
+00:20:03,250 --> 00:20:05,750
+Uste dut jolas bat dela. Ez mugitu.
+
+332
+00:20:05,916 --> 00:20:08,666
+Mugitzen den lehenak galtzen du.
+
+333
+00:20:21,458 --> 00:20:23,416
+Ez da jolasten ari.
+
+334
+00:20:23,583 --> 00:20:26,791
+Zertan dabil orduan?
+
+335
+00:20:29,625 --> 00:20:30,791
+Lily.
+
+336
+00:20:31,125 --> 00:20:32,250
+Bera…
+
+337
+00:20:33,083 --> 00:20:34,541
+Hilda dago.
+
+338
+00:20:35,000 --> 00:20:36,875
+George hilda dago.
+
+339
+00:20:37,333 --> 00:20:39,791
+Zer…? Zer esan nahi duzu?
+
+340
+00:20:40,833 --> 00:20:42,208
+Hori ez da benetakoa.
+
+341
+00:20:42,375 --> 00:20:44,250
+Liburuetako kontua da.
+
+342
+00:20:48,208 --> 00:20:49,666
+Benetakoa da?
+
+343
+00:20:53,708 --> 00:20:55,583
+Jendea hiltzen da?
+
+344
+00:20:57,791 --> 00:21:00,083
+Hodei bihurtuko da?
+
+345
+00:21:01,166 --> 00:21:04,416
+Ez. Hori ardiekin bakarrik gertatzen da.
+
+346
+00:21:34,000 --> 00:21:35,416
+- "Hilda"?
+- "Hilda"?
+
+347
+00:21:35,583 --> 00:21:36,916
+Hori benetakoa da?
+
+348
+00:21:37,375 --> 00:21:38,958
+Hala dirudi.
+
+349
+00:21:39,125 --> 00:21:41,000
+Orduan ardiak ere hil daitezke?
+
+350
+00:21:41,166 --> 00:21:44,083
+Ez, Ozpintxo,
+gu hodei bihurtzen gara, baina…
+
+351
+00:21:44,250 --> 00:21:45,541
+George ezin da hilda egon.
+
+352
+00:21:45,708 --> 00:21:48,250
+Nire botika behar dut. Ektima daukat.
+
+353
+00:21:48,416 --> 00:21:49,416
+Zer da ektima?
+
+354
+00:21:49,583 --> 00:21:50,875
+Hau da ektima.
+
+355
+00:21:52,625 --> 00:21:53,666
+Nazkagarria da!
+
+356
+00:21:53,833 --> 00:21:56,750
+Ez dut uste esan dudana ulertu duzuenik.
+
+357
+00:21:57,333 --> 00:21:59,000
+George joan da.
+
+358
+00:21:59,166 --> 00:22:00,958
+Ez da inoiz itzuliko.
+
+359
+00:22:01,125 --> 00:22:03,833
+Baina George gure artzaina zen.
+Zer egingo dugu?
+
+360
+00:22:04,000 --> 00:22:07,208
+Munduko ardirik argiena zara, Lily.
+Esan zer egin!
+
+361
+00:22:07,375 --> 00:22:09,666
+Gauza bakarra egin dezakegu.
+
+362
+00:22:10,791 --> 00:22:12,375
+George ahaztu behar dugu.
+
+363
+00:22:12,541 --> 00:22:15,291
+Zer? Baina, Lily, George da. Ezin dugu…
+
+364
+00:22:15,458 --> 00:22:18,791
+Gogoratzea mingarriegia da.
+Ezin dut jasan.
+
+365
+00:22:18,958 --> 00:22:22,708
+Zuzen dago. Ardiok ez dugu zertan sufritu.
+
+366
+00:22:22,875 --> 00:22:25,833
+Ahaztea erabaki behar dugu.
+
+367
+00:22:27,833 --> 00:22:29,500
+Hiru zenbatzean.
+
+368
+00:22:29,666 --> 00:22:30,791
+Egon. Ez…
+
+369
+00:22:30,958 --> 00:22:31,958
+Bat.
+
+370
+00:22:32,125 --> 00:22:33,500
+Ez, mesedez! George da!
+
+371
+00:22:33,875 --> 00:22:34,916
+Bi.
+
+372
+00:22:35,083 --> 00:22:37,583
+Ez duzue ezer ahaztuko.
+
+373
+00:22:38,541 --> 00:22:39,541
+Sebastian.
+
+374
+00:22:39,708 --> 00:22:44,125
+Benetan uste zenuten nire artzaina
+ahazten utziko nizuela?
+
+375
+00:22:44,291 --> 00:22:46,166
+Gure artzaina zen, Sebastian.
+
+376
+00:22:46,333 --> 00:22:47,750
+Denok maite genuen.
+
+377
+00:22:48,041 --> 00:22:50,000
+Mingarriegia da.
+
+378
+00:22:50,541 --> 00:22:52,250
+Beraz, ahaztu egingo dugu.
+
+379
+00:22:52,416 --> 00:22:54,416
+Ez horixe.
+
+380
+00:22:54,583 --> 00:22:57,333
+Gogoratu egingo duzue
+erabaki zuzena delako.
+
+381
+00:22:57,500 --> 00:22:58,958
+Justua delako.
+
+382
+00:22:59,291 --> 00:23:00,458
+Gu zer?
+
+383
+00:23:00,625 --> 00:23:02,833
+Ez, gu ez. Justizia.
+
+384
+00:23:03,750 --> 00:23:04,791
+Gustizia?
+
+385
+00:23:04,958 --> 00:23:07,333
+Jus-tizia. Justizia.
+
+386
+00:23:07,500 --> 00:23:09,875
+Gaiztoek ez diete zintzoei
+minik eman behar.
+
+387
+00:23:10,041 --> 00:23:12,375
+Indartsuek ez diete ahulei
+minik eman behar.
+
+388
+00:23:12,541 --> 00:23:15,416
+Eta lagunak ez dira ahaztu behar.
+
+389
+00:23:15,833 --> 00:23:18,791
+George nitaz errukitu zen.
+
+390
+00:23:19,125 --> 00:23:21,083
+Berdina merezi du.
+
+391
+00:23:21,250 --> 00:23:24,500
+Egia da.
+George beti izan da atsegina nirekin.
+
+392
+00:23:24,666 --> 00:23:25,666
+Zuekin guztiekin.
+
+393
+00:23:25,833 --> 00:23:28,333
+Horregatik hazten gintuen
+artileagatik bakarrik.
+
+394
+00:23:28,500 --> 00:23:30,125
+Zertarako haziko lituzke ardiak bestela?
+
+395
+00:23:30,250 --> 00:23:32,500
+Ezertarako ez.
+Artile ederra lortzeko bakarrik.
+
+396
+00:23:32,625 --> 00:23:33,916
+Galdera bat!
+
+397
+00:23:34,208 --> 00:23:38,000
+Zein da giza bizitzaren zergatia
+instant batean dena amai badaiteke?
+
+398
+00:23:38,125 --> 00:23:39,625
+Zergatik daude gizakiak hemen?
+
+399
+00:23:39,750 --> 00:23:41,041
+Nork sortu ditu? Nork sortu gaitu?
+
+400
+00:23:41,166 --> 00:23:43,250
+Eta zer dago zuhaitzen barruan?
+Nora doa ilargia egunez?
+
+401
+00:23:43,375 --> 00:23:45,041
+Eta zergatik hil dute George?
+
+402
+00:23:45,791 --> 00:23:48,250
+"Hil"? Zergatik diozu hil dutela?
+
+403
+00:23:48,416 --> 00:23:51,166
+Istorioetan beti hil dute
+hiltzen den jendea.
+
+404
+00:23:51,333 --> 00:23:52,416
+Ez, Zora.
+
+405
+00:23:52,583 --> 00:23:54,958
+Horiek ipuinak dira. Hau benetakoa da.
+
+406
+00:23:55,125 --> 00:23:56,208
+Ezta, Lily?
+
+407
+00:23:56,375 --> 00:23:59,750
+Bai, hala da.
+Ez dugu arrazoirik pentsatzeko George…
+
+408
+00:24:01,416 --> 00:24:02,916
+Bere txanoa.
+
+409
+00:24:20,375 --> 00:24:23,875
+Dokumentu batzuk ekartzera etorri naiz
+eta horrela aurkitu dut.
+
+410
+00:24:25,166 --> 00:24:26,666
+Hitz batzuk esan nahi dituzu?
+
+411
+00:24:26,833 --> 00:24:27,666
+Ez.
+
+412
+00:24:30,875 --> 00:24:32,000
+Caleb.
+
+413
+00:24:34,083 --> 00:24:35,958
+Zer dabil harakina hemen?
+
+414
+00:24:38,166 --> 00:24:39,375
+Bost.
+
+415
+00:24:40,291 --> 00:24:41,333
+Sei.
+
+416
+00:24:42,708 --> 00:24:44,083
+Ardiak nahi ditu.
+
+417
+00:24:45,875 --> 00:24:47,500
+Hamabost.
+
+418
+00:24:49,041 --> 00:24:50,583
+Hamasei.
+
+419
+00:24:51,083 --> 00:24:52,500
+Lily. Zer zabiltza?
+
+420
+00:24:52,666 --> 00:24:54,375
+Agian ez da ezer izango…
+
+421
+00:24:54,541 --> 00:24:57,541
+baina ezin ditut burutik atera
+Georgeren txanoa eta zira.
+
+422
+00:24:57,708 --> 00:24:58,875
+Zer txano eta zira?
+
+423
+00:24:59,041 --> 00:25:02,333
+Hain zuzen ere. Euria ari zuen.
+Zergatik ez zituen jantzi?
+
+424
+00:25:02,500 --> 00:25:03,791
+Harik eta…
+
+425
+00:25:04,500 --> 00:25:05,875
+Igo nazazu.
+
+426
+00:25:09,333 --> 00:25:10,375
+Zer?
+
+427
+00:25:10,750 --> 00:25:12,916
+Hau ahaztu nahiko nuke.
+
+428
+00:25:16,041 --> 00:25:17,791
+Zerbait ikusten duzu?
+
+429
+00:25:19,708 --> 00:25:22,208
+Dena ikusten dut.
+
+430
+00:25:37,416 --> 00:25:38,791
+Barkatu?
+
+431
+00:25:38,958 --> 00:25:40,000
+Egun on.
+
+432
+00:25:40,166 --> 00:25:42,375
+Zergatik jarraitzen duzu hemen?
+
+433
+00:25:42,541 --> 00:25:44,375
+Autoa matxuratu zait. Nor da?
+
+434
+00:25:44,750 --> 00:25:47,208
+George Hardy du izena. Artzaina da.
+
+435
+00:25:47,541 --> 00:25:48,875
+Zer gertatu da?
+
+436
+00:25:49,041 --> 00:25:50,541
+Bihotzekoa ziurrenik.
+
+437
+00:25:50,708 --> 00:25:53,041
+Ez da istorio interesgarria,
+sentitzen dut.
+
+438
+00:25:53,416 --> 00:25:56,208
+Ezohiko zerbait egon ezean, ezta?
+
+439
+00:25:56,375 --> 00:25:58,166
+Ez dago. Nonahi begiratu dut.
+
+440
+00:25:58,333 --> 00:26:00,250
+Karabanaren inguruan.
+
+441
+00:26:01,291 --> 00:26:02,833
+Karabanaren azpian.
+
+442
+00:26:03,000 --> 00:26:04,958
+Eta karabana barruan?
+
+443
+00:26:10,250 --> 00:26:11,750
+Saia gaitezke.
+
+444
+00:26:12,625 --> 00:26:14,583
+Nik ez nuke hori…
+
+445
+00:26:15,875 --> 00:26:16,916
+Zer?
+
+446
+00:26:17,083 --> 00:26:18,875
+Hatz-markak egon daitezke.
+
+447
+00:26:19,958 --> 00:26:22,833
+Egia. Zientzia forentsea.
+
+448
+00:26:23,500 --> 00:26:24,541
+Bai.
+
+449
+00:26:33,375 --> 00:26:35,625
+Dena dago bere tokian.
+
+450
+00:26:35,791 --> 00:26:37,291
+Egon, unetxo bat.
+
+451
+00:26:38,333 --> 00:26:43,125
+Zergatik irtengo zen kanpora
+bihotzekoak eman ostean?
+
+452
+00:26:43,458 --> 00:26:45,166
+Kanpoan egongo zen dagoeneko.
+
+453
+00:26:45,333 --> 00:26:47,166
+Ez. Hemen gertatu zen.
+
+454
+00:26:47,833 --> 00:26:49,583
+Aulkia bota zuen.
+
+455
+00:26:53,416 --> 00:26:54,916
+Eta ez zegoen bakarrik.
+
+456
+00:26:55,208 --> 00:26:56,875
+Eta ez zegoen bakarrik.
+
+457
+00:26:59,000 --> 00:27:00,250
+Tira, motel.
+
+458
+00:27:00,833 --> 00:27:02,291
+Bihotzekoa izan zen.
+
+459
+00:27:02,458 --> 00:27:04,416
+Uste dut ez duzula aitortu nahi
+
+460
+00:27:04,541 --> 00:27:06,333
+kontrakoaren frogak daudela.
+
+461
+00:27:06,458 --> 00:27:09,541
+Zer esan nahi duzu?
+Hilketa bat izateko beldur naizela?
+
+462
+00:27:09,916 --> 00:27:10,750
+Beldur zara?
+
+463
+00:27:11,666 --> 00:27:12,666
+Mesedez.
+
+464
+00:27:12,833 --> 00:27:16,458
+Denbrooken hilketa bat egotea nahi nuke.
+Egunero bat egotea nahi nuke.
+
+465
+00:27:16,625 --> 00:27:18,208
+Pozarren egongo nintzateke.
+
+466
+00:27:20,125 --> 00:27:24,291
+{\an8}Entzun, badakit istorio bat behar duzula
+kazetari arrakastatsua izateko.
+
+467
+00:27:24,458 --> 00:27:25,875
+{\an8}Baina sentitzen dut…
+
+468
+00:27:29,000 --> 00:27:31,708
+{\an8}ez dute George Hardy hil.
+
+469
+00:27:32,500 --> 00:27:34,000
+George Hardy hil egin dute.
+
+470
+00:27:35,333 --> 00:27:37,708
+Poliziak hil dutela esan du?
+
+471
+00:27:37,875 --> 00:27:41,125
+Ez. Poliziak dio bihotzekoa izan duela.
+Baina oker dago.
+
+472
+00:27:41,291 --> 00:27:44,583
+Orduan ez dute benetan hil.
+
+473
+00:27:44,750 --> 00:27:48,625
+Baserriko animalia baten asmakizuna
+baino ez da.
+
+474
+00:27:50,291 --> 00:27:51,333
+Ondo da.
+
+475
+00:27:52,000 --> 00:27:56,083
+George norbaitekin egon zen, eta trago bat
+eskaini zion, beraz, ezagutzen zuen.
+
+476
+00:27:56,250 --> 00:27:57,833
+Gero ondoezik sentitu zen.
+
+477
+00:27:58,000 --> 00:28:02,791
+Gonbidatuak inor ohartarazi ez izanak
+aditzera ematen du erantzulea dela,
+
+478
+00:28:02,958 --> 00:28:06,375
+eta ageriko zauririk ez egoteak
+pozoia erabili zuela.
+
+479
+00:28:06,708 --> 00:28:10,666
+Eskuko belar koloreko orbainak
+esan nahi dut borrokatu zirela.
+
+480
+00:28:10,875 --> 00:28:12,583
+Hiltzaileak ihes egin zuen.
+
+481
+00:28:12,750 --> 00:28:16,041
+George pozoiaren ondorioz hil zen.
+
+482
+00:28:18,458 --> 00:28:19,625
+Ez da asmakizuna.
+
+483
+00:28:20,666 --> 00:28:24,625
+Polizia ezgai hutsa da,
+detektibe-nobeletan bezala.
+
+484
+00:28:24,791 --> 00:28:28,166
+Horregatik agertu behar da
+krimena argituko duen beste norbait.
+
+485
+00:28:28,333 --> 00:28:29,416
+Nor?
+
+486
+00:28:29,708 --> 00:28:31,208
+Georgek jaten ematen zigun.
+
+487
+00:28:31,375 --> 00:28:33,500
+Georgek zaintzen gintuen.
+
+488
+00:28:33,666 --> 00:28:35,541
+Georgek maite gintuen.
+
+489
+00:28:36,000 --> 00:28:37,458
+Dena zor diogu.
+
+490
+00:28:37,875 --> 00:28:39,500
+Zer esan nahi duzu?
+
+491
+00:28:39,666 --> 00:28:42,208
+Gure artzaina hil dute.
+
+492
+00:28:42,375 --> 00:28:45,125
+Eta krimena argituko dugu.
+
+493
+00:28:49,500 --> 00:28:50,500
+Zeri barrezka?
+
+494
+00:28:50,666 --> 00:28:52,833
+Hara.
+
+495
+00:28:53,666 --> 00:28:55,041
+Hasteko…
+
+496
+00:28:55,208 --> 00:28:57,541
+ardiak zarete!
+
+497
+00:28:57,875 --> 00:28:59,000
+Zutaz ari da.
+
+498
+00:28:59,166 --> 00:29:03,500
+Krimen bat argitzeko bezain argiak
+zaretela uste duzue?
+
+499
+00:29:03,666 --> 00:29:08,416
+Badakizue nola esaten dieten gizakiek
+beren kabuz pentsatzen ez dutenei?
+
+500
+00:29:08,583 --> 00:29:09,665
+Ahateak!
+
+501
+00:29:09,666 --> 00:29:10,500
+Ardiak!
+
+502
+00:29:10,666 --> 00:29:13,541
+Eta zu. Munduko ardirik argiena?
+
+503
+00:29:13,708 --> 00:29:16,458
+Munduko zein tokitan egon zara?
+
+504
+00:29:16,750 --> 00:29:19,541
+Hortik eta hemendik?
+
+505
+00:29:19,916 --> 00:29:20,958
+Mesedez.
+
+506
+00:29:21,125 --> 00:29:25,208
+Jarraitu belar ondua eta txikoria-belarra
+jaten eta siestak egiten
+
+507
+00:29:25,375 --> 00:29:28,125
+eta utzi hilketa kasuak gizakiei.
+
+508
+00:29:29,666 --> 00:29:32,125
+Hasiko gara?
+
+509
+00:29:34,250 --> 00:29:37,916
+Bilatu aztarnak. Ez ukitu frogarik.
+
+510
+00:29:40,083 --> 00:29:43,000
+Eta ez jan krimenaren gertalekua!
+
+511
+00:29:44,250 --> 00:29:45,541
+Zer da hau?
+
+512
+00:29:45,708 --> 00:29:48,791
+Aizue! Froga baten barruan nago!
+
+513
+00:29:50,291 --> 00:29:52,625
+Ene. Kaixo?
+
+514
+00:29:52,750 --> 00:29:54,750
+Ondo da, ahatz ditzagun frogak.
+
+515
+00:29:54,916 --> 00:29:58,375
+Ikusi zuen inork zerbait
+hilketaren gauean?
+
+516
+00:29:58,541 --> 00:30:00,000
+Nik bai.
+
+517
+00:30:01,166 --> 00:30:03,208
+Zu ikusi zintudan, Sebastian.
+
+518
+00:30:04,250 --> 00:30:05,458
+Sebastian izan da!
+
+519
+00:30:05,625 --> 00:30:07,166
+Hiltzailea!
+
+520
+00:30:07,708 --> 00:30:09,666
+Bai. Ni izan naiz.
+
+521
+00:30:09,833 --> 00:30:13,833
+Sartzen ez naizen atetik sartu,
+nire pisua jasan ezin duen aulkian eseri,
+
+522
+00:30:14,000 --> 00:30:16,083
+eta nire artzaina hil nuen arrazoirik gabe
+
+523
+00:30:16,250 --> 00:30:20,166
+bere edalontzian
+pozoi tantak kontu handiz botaz
+
+524
+00:30:20,416 --> 00:30:22,166
+hauek erabiliz.
+
+525
+00:30:22,333 --> 00:30:24,041
+- Arrazoia du.
+- Zer gertatzen da?
+
+526
+00:30:24,208 --> 00:30:26,541
+Ikusi zenuten inor?
+
+527
+00:30:27,291 --> 00:30:29,375
+Nik Georgeren mamua ikusi nuen.
+
+528
+00:30:30,291 --> 00:30:32,083
+- Gezurra.
+- Egia da.
+
+529
+00:30:34,166 --> 00:30:36,333
+Mamua bere gorputik irten zen.
+
+530
+00:30:36,500 --> 00:30:39,875
+Ez nuen ondo ikusi, ilun zegoelako,
+
+531
+00:30:40,041 --> 00:30:42,333
+baina Georgeren usaina zuen eta…
+
+532
+00:30:42,500 --> 00:30:45,375
+Mesedez, Neguko Arkume,
+ez da txantxetarako unea.
+
+533
+00:30:45,833 --> 00:30:48,500
+Kanpai-hotsa?
+Duela bi egun jo zituzten kanpaiak.
+
+534
+00:30:48,833 --> 00:30:51,625
+Jendea deitzeko erabiltzen dituzte.
+
+535
+00:30:51,791 --> 00:30:53,041
+Georgerengatik izango da.
+
+536
+00:30:53,208 --> 00:30:54,250
+Noski!
+
+537
+00:30:54,416 --> 00:30:58,916
+Detektibe-nobeletan beti biltzen dira
+hilketa iragartzeko.
+
+538
+00:30:59,083 --> 00:31:01,000
+Eta hiltzailea beti dago bertan.
+
+539
+00:31:01,166 --> 00:31:02,541
+Joan behar dugu.
+
+540
+00:31:03,250 --> 00:31:05,458
+Etxetik irteten ausartuko zarete?
+
+541
+00:31:05,625 --> 00:31:07,458
+Ez zarete inoiz zelai honetatik irten.
+
+542
+00:31:07,625 --> 00:31:10,083
+Zuen apatxek belarra baino ez dute ukitu.
+
+543
+00:31:10,250 --> 00:31:12,083
+Gai izango ez garelakoan?
+
+544
+00:31:12,250 --> 00:31:13,625
+Ez gara beldur.
+
+545
+00:31:19,000 --> 00:31:21,000
+- Mopple, zer da hori?
+- Errepidea dela uste dut.
+
+546
+00:31:21,125 --> 00:31:23,541
+- Baina zerez egina dago?
+- Belarrez ez, hori ziur.
+
+547
+00:31:23,666 --> 00:31:24,750
+Lily?
+
+548
+00:31:25,291 --> 00:31:26,291
+Bai!
+
+549
+00:31:26,458 --> 00:31:27,916
+Bazatozte?
+
+550
+00:31:28,083 --> 00:31:29,750
+Zera, ni…
+
+551
+00:31:30,083 --> 00:31:32,125
+Zoaz zu lehenengo.
+
+552
+00:31:32,291 --> 00:31:34,458
+Zergatik ari zara oihuka?
+
+553
+00:31:34,625 --> 00:31:36,916
+Zugandik metro gutxira nago.
+
+554
+00:31:38,666 --> 00:31:40,333
+Baina oso urrun zaudela dirudi.
+
+555
+00:31:40,500 --> 00:31:44,000
+Errepidea gurutzatu baino
+ez duzue egin behar.
+
+556
+00:31:56,666 --> 00:31:59,166
+Ez. Ezin dut.
+
+557
+00:31:59,333 --> 00:32:00,625
+Ezinezkoa da.
+
+558
+00:32:15,416 --> 00:32:17,083
+Ez da zure errua.
+
+559
+00:32:17,250 --> 00:32:18,750
+Garena gara.
+
+560
+00:32:21,666 --> 00:32:25,541
+Elkarrekin gurutza dezakegu.
+
+561
+00:32:27,416 --> 00:32:28,708
+Georgerengatik?
+
+562
+00:32:30,541 --> 00:32:32,125
+Georgerengatik.
+
+563
+00:32:33,125 --> 00:32:34,458
+Elkarrekin.
+
+564
+00:32:45,833 --> 00:32:48,208
+- Itzuli nahi dut.
+- Nik ere bai. Jarraitu.
+
+565
+00:32:52,333 --> 00:32:54,541
+Lortu dugu! Etxetik irten gara!
+
+566
+00:32:54,708 --> 00:32:56,875
+Ikusten? Ardiek gauzak egin ditzakete.
+
+567
+00:32:57,041 --> 00:32:59,583
+Edozer egin dezakegu.
+
+568
+00:32:59,750 --> 00:33:01,125
+Gora!
+
+569
+00:33:01,291 --> 00:33:03,458
+Hiru kilometro baino ez dira falta.
+
+570
+00:33:03,625 --> 00:33:05,291
+Arazorik ez.
+
+571
+00:33:05,916 --> 00:33:08,000
+Zenbat kilometro daramatzagu?
+
+572
+00:33:08,666 --> 00:33:10,333
+Harrituta nagoela aitortuko dut.
+
+573
+00:33:10,500 --> 00:33:14,791
+Ez duzu misterioa argituko,
+baina, gutxienez, mundua ikusten ari zara.
+
+574
+00:33:14,958 --> 00:33:17,000
+Noski argituko dudala.
+
+575
+00:33:17,166 --> 00:33:19,250
+Gauerako argituko dut.
+
+576
+00:33:19,666 --> 00:33:22,291
+Georgek hamaika detektibe-nobela
+irakurri zizkigun.
+
+577
+00:33:22,458 --> 00:33:25,208
+Oso arau sinpleak jarraitzen dituzte.
+
+578
+00:33:25,375 --> 00:33:26,583
+Mopple?
+
+579
+00:33:27,333 --> 00:33:29,166
+Zer? A, bat!
+
+580
+00:33:29,291 --> 00:33:31,499
+Hiltzailea beti itzultzen da
+krimenaren gertalekura.
+
+581
+00:33:31,500 --> 00:33:32,333
+Bi!
+
+582
+00:33:32,458 --> 00:33:34,625
+Poliziak beti uste du
+arlote bat izan dela.
+
+583
+00:33:34,791 --> 00:33:36,457
+Beti dabiltza arlotearen atzetik.
+
+584
+00:33:36,458 --> 00:33:37,291
+Hiru.
+
+585
+00:33:37,416 --> 00:33:40,625
+Norbait ustekabean agertu
+eta dena aldatzen du.
+
+586
+00:33:40,791 --> 00:33:41,625
+Lau!
+
+587
+00:33:41,791 --> 00:33:44,625
+Biktima da frogarik garrantzitsuena.
+
+588
+00:33:44,958 --> 00:33:47,250
+Hori sinplea da.
+
+589
+00:33:47,416 --> 00:33:52,500
+Baina benetako mundua
+liburuak baino korapilatsuagoa da.
+
+590
+00:33:52,666 --> 00:33:53,833
+Horretaz ari garela…
+
+591
+00:33:54,000 --> 00:33:56,125
+Ongi etorri Denbrookera.
+
+592
+00:33:56,958 --> 00:33:58,208
+Zer da hau?
+
+593
+00:33:58,375 --> 00:34:01,291
+Hau eliza da,
+"Jainkoa" izeneko norbaiten etxea.
+
+594
+00:34:01,458 --> 00:34:02,458
+Nor da Jainkoa?
+
+595
+00:34:02,625 --> 00:34:03,958
+Azaltzen zaila da.
+
+596
+00:34:04,125 --> 00:34:05,541
+Jainkoa artzaina da.
+
+597
+00:34:05,708 --> 00:34:07,125
+Gure artzaina izan liteke?
+
+598
+00:34:07,291 --> 00:34:09,957
+Ez. Arkume bat ere delako.
+
+599
+00:34:09,958 --> 00:34:10,791
+Zer?
+
+600
+00:34:10,916 --> 00:34:12,666
+Baita ikusezina ere.
+
+601
+00:34:12,833 --> 00:34:14,083
+Eta ogiz egina dago.
+
+602
+00:34:14,250 --> 00:34:15,625
+Eta egurra lantzen du.
+
+603
+00:34:15,750 --> 00:34:17,708
+Egurra lantzen duela? Kastoreek bezala?
+
+604
+00:34:17,875 --> 00:34:18,875
+Bai.
+
+605
+00:34:19,041 --> 00:34:22,541
+Orduan Jainkoa ogiz egindako
+arkume-kastore ikusezin handia da?
+
+606
+00:34:22,708 --> 00:34:24,666
+Bai. Eta igandeetan jaten dute.
+
+607
+00:34:25,625 --> 00:34:26,916
+Jainko gaixoa.
+
+608
+00:34:27,250 --> 00:34:28,583
+Badakit itzuli behar nuela,
+
+609
+00:34:28,750 --> 00:34:32,375
+baina uste dut herri txiki bateko
+nire lehen hilketa aurkitu dudala.
+
+610
+00:34:32,541 --> 00:34:34,333
+Joan beharra dut.
+
+611
+00:34:34,500 --> 00:34:36,333
+Tira. Ez gaituzte ikusiko.
+
+612
+00:34:36,500 --> 00:34:38,875
+Ikusi zaituztete eta ez die axola.
+
+613
+00:34:39,041 --> 00:34:41,458
+Berriro esango dut, ardiak zarete.
+
+614
+00:34:41,916 --> 00:34:43,875
+Denbrookeko hiritarrak.
+
+615
+00:34:44,291 --> 00:34:48,791
+Badakit zurrumurruak dabiltzala
+George Hardyren hilketaren inguruan.
+
+616
+00:34:48,958 --> 00:34:52,583
+Baina ezin dut
+pozoiduraz hitz egin ikerketa…
+
+617
+00:34:52,708 --> 00:34:54,625
+Egon! George hil dute?
+
+618
+00:34:55,500 --> 00:34:56,625
+Kaka.
+
+619
+00:34:56,791 --> 00:34:59,041
+Barkatu, zer-nolako pozoia?
+
+620
+00:34:59,208 --> 00:35:00,208
+Entzun.
+
+621
+00:35:00,750 --> 00:35:03,250
+Taxina izeneko zerbait
+erabili zuten George pozoitzeko.
+
+622
+00:35:03,541 --> 00:35:05,166
+Hagina zuhaitzaren fruituetan
+aurki daiteke.
+
+623
+00:35:05,333 --> 00:35:07,666
+Eta badago halako zuhaitzik inguruan?
+
+624
+00:35:09,375 --> 00:35:10,208
+Hortxe bertan.
+
+625
+00:35:12,041 --> 00:35:13,625
+Orduan, gutako batek hil zuen?
+
+626
+00:35:13,791 --> 00:35:15,083
+Ez.
+
+627
+00:35:15,250 --> 00:35:18,333
+Mesedez. Arlote bat izango zen.
+
+628
+00:35:22,833 --> 00:35:24,250
+Zer daukate?
+
+629
+00:35:44,958 --> 00:35:46,416
+Derry agentea?
+
+630
+00:35:47,291 --> 00:35:48,583
+Derry agentea.
+
+631
+00:35:49,500 --> 00:35:50,583
+Bai.
+
+632
+00:35:50,916 --> 00:35:53,500
+Zer…? Pertsona hori naiz.
+
+633
+00:35:53,666 --> 00:35:56,375
+Lydia Harbottle? Harbottle and Bloom?
+
+634
+00:35:56,625 --> 00:36:00,125
+Lehen hitz egin dugu.
+George Hardy zenaren abokatua naiz.
+
+635
+00:36:00,291 --> 00:36:02,750
+Bai. Eta zu nor zara?
+
+636
+00:36:02,958 --> 00:36:04,916
+Rebecca Hampstead.
+
+637
+00:36:05,083 --> 00:36:06,875
+Georgeren alaba.
+
+638
+00:36:07,458 --> 00:36:10,166
+- Alaba bat zuen?
+- Georgek alaba bat du?
+
+639
+00:36:10,666 --> 00:36:15,291
+Norbait ustekabean agertu
+eta dena aldatzen du.
+
+640
+00:36:16,708 --> 00:36:19,541
+Orriaren behealdean
+zure telefonoa agertzen da.
+
+641
+00:36:19,708 --> 00:36:21,541
+Horregatik deitu nizun.
+
+642
+00:36:21,708 --> 00:36:23,291
+Beti nabil detektatzen.
+
+643
+00:36:23,458 --> 00:36:25,125
+Baina ez zara detektibea, ezta?
+
+644
+00:36:25,291 --> 00:36:26,291
+Ez, baina…
+
+645
+00:36:26,416 --> 00:36:30,333
+Dokumentu hau aurkitu zenuen
+mahai baten gainean karabana txiki batean.
+
+646
+00:36:30,458 --> 00:36:31,708
+Hori "ikustea" baino ez da, ezta?
+
+647
+00:36:31,875 --> 00:36:32,708
+Zera…
+
+648
+00:36:32,833 --> 00:36:37,250
+Orduan dokumentu hau ikusi zenuen
+karabanan bigarren aldiz sartu zinenean?
+
+649
+00:36:37,416 --> 00:36:38,333
+Hala da.
+
+650
+00:36:38,500 --> 00:36:41,708
+Gertalekura itzuli, eta ondo aztertu nuen.
+
+651
+00:36:42,125 --> 00:36:45,250
+Polizia zinta jarri nuen.
+Nahiko itsaskorra da.
+
+652
+00:36:45,375 --> 00:36:47,000
+Horrek ez du inongo garrantzirik.
+
+653
+00:36:47,125 --> 00:36:49,791
+Irakurri duzu? Begiratu duzu, bederen?
+
+654
+00:36:49,958 --> 00:36:51,958
+Ez. Ez da nire kontua.
+
+655
+00:36:52,125 --> 00:36:53,708
+Zure lana da.
+
+656
+00:36:54,208 --> 00:36:56,166
+Testamentua irakurriko dut arratsaldean.
+
+657
+00:36:56,333 --> 00:37:00,125
+Honako pertsona hauek aipatzen ditu,
+ziurtatu badatozela.
+
+658
+00:37:00,291 --> 00:37:04,291
+Aita Hillcoate, Caleb Merrow…
+
+659
+00:37:04,458 --> 00:37:05,875
+Idatzi.
+
+660
+00:37:06,041 --> 00:37:09,791
+Aita Hillcoate,
+Caleb Merrow, Beth Pennock,
+
+661
+00:37:09,958 --> 00:37:14,416
+Ham Gilyard, zu, eta Rebecca Hampstead.
+
+662
+00:37:14,583 --> 00:37:16,708
+Partridge ostatuan egongo naiz.
+
+663
+00:37:17,291 --> 00:37:19,875
+Bertan irakurriko dut
+arratsaldeko bostetan puntuan.
+
+664
+00:37:20,041 --> 00:37:22,125
+Arratsaldeko bostetan, 17:00ak.
+
+665
+00:37:22,291 --> 00:37:27,625
+Rebecca AEBn bizi dela esan dizut,
+eta halere, hemen dago, Denbrooken,
+
+666
+00:37:27,791 --> 00:37:30,833
+bere aita hilda zegoela esan didazun
+egun berean.
+
+667
+00:37:31,000 --> 00:37:33,833
+Beraz, bazegoen herrialdean
+hil zuten gauean.
+
+668
+00:37:34,000 --> 00:37:35,750
+Baina ez zara horretaz ohartu, ezta?
+
+669
+00:37:37,000 --> 00:37:38,083
+Bai.
+
+670
+00:37:38,416 --> 00:37:40,916
+Ez. Bai. Noski.
+
+671
+00:37:41,333 --> 00:37:43,750
+Zure lehen hilketa da, ezta?
+
+672
+00:37:43,916 --> 00:37:44,958
+Zer?
+
+673
+00:37:46,000 --> 00:37:47,833
+Nik hil nuela uste duzu?
+
+674
+00:37:51,333 --> 00:37:53,291
+A.
+
+675
+00:37:54,041 --> 00:37:57,541
+Nire lehen hilketa kasua esan nahi duzu.
+
+676
+00:37:58,500 --> 00:38:01,833
+Zurea da orain ardura, Derry agentea.
+
+677
+00:38:02,166 --> 00:38:03,250
+Bostetan ikusiko zaitut.
+
+678
+00:38:03,416 --> 00:38:05,083
+Ordura arte, Harbottle andereñoa.
+
+679
+00:38:05,250 --> 00:38:06,541
+Harbottle andrea.
+
+680
+00:38:08,791 --> 00:38:10,916
+Irakurketara joan behar dugu.
+
+681
+00:38:11,500 --> 00:38:13,083
+{\an8}Hau Partridge ostatua da.
+
+682
+00:38:13,250 --> 00:38:15,291
+Hemengo loreak jaten ditut batzuetan.
+
+683
+00:38:15,458 --> 00:38:18,750
+Baina ez dakit
+zer axola duen honek guztiak.
+
+684
+00:38:18,916 --> 00:38:21,291
+Detektibe-nobeletan
+beti dago testamentu bat,
+
+685
+00:38:21,458 --> 00:38:24,625
+eta bertan aipatzen direnak
+beti dira susmagarriak.
+
+686
+00:38:27,125 --> 00:38:28,540
+Aurpegia ikusi behar diet.
+
+687
+00:38:28,541 --> 00:38:29,375
+Zergatik?
+
+688
+00:38:29,541 --> 00:38:33,125
+Gizakiek gezurrak esaten dituztelako,
+eta begietan nabari zaie.
+
+689
+00:38:33,291 --> 00:38:34,541
+Hala da.
+
+690
+00:38:36,166 --> 00:38:39,541
+Mopple, leihotik begira gaudela,
+zoaz hoberik aurkitzen duzun ikustera.
+
+691
+00:38:39,708 --> 00:38:40,791
+Ados.
+
+692
+00:38:41,458 --> 00:38:42,791
+Prest?
+
+693
+00:38:45,208 --> 00:38:47,416
+Zer dakizu zure ama biologikoaz?
+
+694
+00:38:47,583 --> 00:38:51,250
+Eskutitzetan esan zidan
+ni erditzean hil zela.
+
+695
+00:38:51,375 --> 00:38:54,291
+Eta bera oso gaztea zela,
+beldur handia zuela, sosik ez…
+
+696
+00:38:55,750 --> 00:38:57,708
+eta adopzioan eman ninduela.
+
+697
+00:38:58,250 --> 00:38:59,500
+Elizaren bidez, hain zuzen ere.
+
+698
+00:39:02,333 --> 00:39:04,250
+Nik ere galdera bat dut.
+
+699
+00:39:04,416 --> 00:39:05,750
+Barkatu, motel.
+
+700
+00:39:06,750 --> 00:39:08,250
+Pozten naiz zu ikusteaz.
+
+701
+00:39:08,416 --> 00:39:10,166
+Ohartu berri naiz,
+
+702
+00:39:10,916 --> 00:39:12,166
+nire kabuz,
+
+703
+00:39:12,333 --> 00:39:16,166
+ezinezkoa dela gaur etorri izana
+Estatu Batuetatik, ezta?
+
+704
+00:39:16,333 --> 00:39:19,458
+Beraz, herrialdean zeunden bart,
+
+705
+00:39:19,625 --> 00:39:22,708
+George… erail zutenean.
+
+706
+00:39:23,166 --> 00:39:26,458
+Ez dizut ezer leporatu nahi,
+baina zuzen nago?
+
+707
+00:39:26,833 --> 00:39:28,750
+Oso argia zara, detektibea.
+
+708
+00:39:28,916 --> 00:39:31,166
+Ez, ez naiz detektibea.
+
+709
+00:39:31,333 --> 00:39:33,083
+Agentea baino ez…
+
+710
+00:39:33,250 --> 00:39:36,083
+beti detektatzen.
+
+711
+00:39:36,583 --> 00:39:39,708
+Bada, ni…
+
+712
+00:39:40,500 --> 00:39:44,041
+Herrialdean nengoen,
+baina ez naiz gaur arte Denbrookera heldu.
+
+713
+00:39:44,583 --> 00:39:46,458
+Beste galdera bat:
+
+714
+00:39:46,625 --> 00:39:48,125
+Baduzu
+
+715
+00:39:48,291 --> 00:39:49,541
+mutil-lagunik?
+
+716
+00:39:50,541 --> 00:39:51,833
+Hau lotsagarria da.
+
+717
+00:39:52,000 --> 00:39:53,875
+Zer? Galdera arrunta da,
+
+718
+00:39:54,041 --> 00:39:57,791
+edozein agentek egingo luke
+egoera honetan.
+
+719
+00:39:57,958 --> 00:40:01,041
+Galdera ona. Utzi berri dugu.
+
+720
+00:40:01,541 --> 00:40:02,750
+Hara.
+
+721
+00:40:04,125 --> 00:40:05,541
+Hori ikusten ari zara?
+
+722
+00:40:05,708 --> 00:40:06,750
+Alaba.
+
+723
+00:40:06,916 --> 00:40:09,083
+Irribarretsu dago…
+
+724
+00:40:09,250 --> 00:40:11,958
+Baina beldurra du begietan.
+
+725
+00:40:12,125 --> 00:40:14,791
+Zer ordutan heldu zinen bart?
+
+726
+00:40:14,958 --> 00:40:17,541
+Zazpiak aldera heldu, eta…
+
+727
+00:40:19,375 --> 00:40:20,375
+Barkatu.
+
+728
+00:40:22,041 --> 00:40:24,708
+- Ez kezkatu.
+- Gaur ezagutu behar nuen.
+
+729
+00:40:24,875 --> 00:40:26,291
+Larrituta nago.
+
+730
+00:40:28,333 --> 00:40:30,208
+- Mila esker.
+- Tori.
+
+731
+00:40:30,375 --> 00:40:31,833
+Mila esker.
+
+732
+00:40:32,250 --> 00:40:34,125
+Nahikoa da. Mila esker.
+
+733
+00:40:34,583 --> 00:40:38,125
+Leihoa. Leiho bat izango banintz,
+non egongo nintzateke?
+
+734
+00:40:40,041 --> 00:40:41,208
+Barazkiak.
+
+735
+00:40:41,416 --> 00:40:44,416
+Kaixo. Azenario txiki bat soilik.
+
+736
+00:40:45,500 --> 00:40:49,250
+Ene. Ez.
+
+737
+00:40:49,625 --> 00:40:53,375
+Neba bikia dudala ere esan zidan,
+
+738
+00:40:53,541 --> 00:40:55,458
+Hegoafrikara bidali zutela uste dut.
+
+739
+00:40:55,625 --> 00:40:59,000
+Ezagutzen ez duzun biki hegoafrikarra.
+Hau sekulakoa da.
+
+740
+00:40:59,500 --> 00:41:01,125
+Eta nor zara zu?
+
+741
+00:41:01,875 --> 00:41:04,833
+Elliot Matthews. Istorioaren berri ematen…
+
+742
+00:41:05,000 --> 00:41:06,416
+Niri bost. Ospa.
+
+743
+00:41:07,666 --> 00:41:09,541
+Egia esan, kazetari gisa…
+
+744
+00:41:09,666 --> 00:41:13,125
+Ez duzu inongo eskubiderik. Ospa.
+
+745
+00:41:13,458 --> 00:41:14,291
+Ados.
+
+746
+00:41:14,416 --> 00:41:16,166
+Eta ez egon zelatan.
+
+747
+00:41:16,333 --> 00:41:20,833
+Presidentearen suitean egongo naiz
+luxuzko zerbitzuez gozatzen.
+
+748
+00:41:21,000 --> 00:41:22,166
+Lily!
+
+749
+00:41:22,666 --> 00:41:24,291
+Lily, Sebastian!
+
+750
+00:41:24,458 --> 00:41:25,791
+Lagundu!
+
+751
+00:41:28,125 --> 00:41:32,541
+Van Vuuren jauna, Lydia Harbottle naiz.
+Entzuten didazu?
+
+752
+00:41:32,708 --> 00:41:34,333
+Ja. <i>Konexio bikaina dago. Mila esker.</i>
+
+753
+00:41:34,500 --> 00:41:37,208
+Van Vuuren jauna Hardy jaunaren semea da,
+
+754
+00:41:37,375 --> 00:41:41,791
+eta Hegoafrikan bizi da,
+beraz, telefonoz deitu dut.
+
+755
+00:41:41,958 --> 00:41:47,208
+Hardy jaunak bere testamentua bidali zidan
+duela bi hilabete.
+
+756
+00:41:48,875 --> 00:41:52,375
+Baina hau ez da
+gaur irakurriko dudan testamentua.
+
+757
+00:41:52,541 --> 00:41:53,708
+Berri bat idatzi zuen.
+
+758
+00:41:54,041 --> 00:41:55,625
+- Nik aurkitu dut.
+- Ixo.
+
+759
+00:41:55,791 --> 00:41:58,041
+Bera hil baino hiru egun aurrekoa da.
+
+760
+00:41:58,208 --> 00:42:02,250
+Noski. Beti dago testamentu berri bat.
+
+761
+00:42:02,708 --> 00:42:07,000
+"Hau George Hardyren testamentua da.
+
+762
+00:42:07,500 --> 00:42:10,000
+Zazpiak deitu zaituztet hona
+
+763
+00:42:10,166 --> 00:42:14,041
+argitu gabeko kontuak ditudalako
+zuetako bakoitzarekin.
+
+764
+00:42:14,208 --> 00:42:17,083
+Zuetako batzuei kalte egin dizuet,
+
+765
+00:42:17,250 --> 00:42:20,375
+eta zuetako batzuek
+niri egin didazue kalte.
+
+766
+00:42:20,833 --> 00:42:24,041
+Zuen artean, gela honetan bertan,
+
+767
+00:42:24,208 --> 00:42:27,708
+badaude mozolo bat, artzain kaskar bat,
+
+768
+00:42:27,875 --> 00:42:31,291
+udaberriko arkume bat, neguko arkume bat,
+
+769
+00:42:31,458 --> 00:42:32,791
+biktima bat,
+
+770
+00:42:34,250 --> 00:42:35,583
+eta bi hiltzaile".
+
+771
+00:42:35,750 --> 00:42:36,958
+Bi hiltzaile?
+
+772
+00:42:37,125 --> 00:42:38,333
+Artzain kaskarra deitu dit.
+
+773
+00:42:38,500 --> 00:42:41,208
+- Nola argituko dut hori?
+- Badakigu nor den mozoloa.
+
+774
+00:42:41,375 --> 00:42:43,500
+Ardi frantses bikainak hezten ditut.
+
+775
+00:42:43,666 --> 00:42:45,208
+Eta nor da beste biktima?
+
+776
+00:42:45,375 --> 00:42:46,708
+Gutako bat da hurrengoa.
+
+777
+00:42:46,875 --> 00:42:48,416
+Gutako bat izan daiteke hiltzailea.
+
+778
+00:42:48,541 --> 00:42:52,208
+Hasi galderak egiten eta utzi ligatzeari.
+
+779
+00:42:53,250 --> 00:42:54,625
+Bi hiltzaile?
+
+780
+00:42:54,791 --> 00:42:56,666
+Neguko arkume bat.
+
+781
+00:42:59,750 --> 00:43:01,375
+"Hona hemen utzi dizuedana".
+
+782
+00:43:01,541 --> 00:43:02,666
+Aizue!
+
+783
+00:43:05,166 --> 00:43:07,541
+"Hona hemen utzi dizuedana.
+
+784
+00:43:08,291 --> 00:43:11,541
+Barru-barruan nor zareten
+ikusi nuelako ezagutza.
+
+785
+00:43:12,416 --> 00:43:15,708
+Eta gehienok, ez duzue besterik jasoko".
+
+786
+00:43:16,208 --> 00:43:20,000
+Nola ez dugula besterik jasoko?
+Zer ari naiz orduan hemen?
+
+787
+00:43:20,166 --> 00:43:21,625
+Eseri eta isili, Ham.
+
+788
+00:43:22,333 --> 00:43:23,375
+Ez horixe.
+
+789
+00:43:23,541 --> 00:43:27,125
+Ez, hurrengo lerroa da.
+"Eseri eta isili, Ham".
+
+790
+00:43:28,166 --> 00:43:31,666
+Antza, Georgek ondo ezagutzen zintuen.
+
+791
+00:43:32,291 --> 00:43:33,375
+Izan lotsa apur bat.
+
+792
+00:43:33,541 --> 00:43:34,833
+- Isildu.
+- Isildu zu.
+
+793
+00:43:35,000 --> 00:43:37,291
+"Nire seme Peter Van Vuureni
+
+794
+00:43:37,458 --> 00:43:41,708
+Caleb Merroweri alokatutako
+120 hektareak".
+
+795
+00:43:41,875 --> 00:43:43,291
+<i>Zein atsegina.</i>
+
+796
+00:43:43,458 --> 00:43:45,500
+"Nire alaba Rebecca Hampsteadi
+
+797
+00:43:45,666 --> 00:43:49,458
+nire etxea diren alboko 120 hektareak,
+
+798
+00:43:49,625 --> 00:43:54,916
+nire karabana, ukuilua,
+bertako edukiak eta nire ardiak barne".
+
+799
+00:43:55,083 --> 00:43:59,000
+Aurreko testamentuan Hardy jaunak
+gainerako ondasunak utzi zizkion
+
+800
+00:43:59,166 --> 00:44:02,041
+Animaliak Babesteko Erakundeari.
+
+801
+00:44:02,791 --> 00:44:06,166
+Testamentu berrian, ordea,
+paragrafo horrek honakoa dio:
+
+802
+00:44:06,333 --> 00:44:11,541
+"Nire gainerako ondasunak ematen dizkiot
+nire alaba Rebecca Hampsteadi".
+
+803
+00:44:11,708 --> 00:44:14,166
+Ez hasi ospatzen. Gizonak ez zuen ezer.
+
+804
+00:44:14,333 --> 00:44:19,125
+Bazuen ez dabilen simaur zabaltzaile bat,
+
+805
+00:44:19,291 --> 00:44:22,125
+aurrez ordaindutako hiru ongarri poltsa…
+
+806
+00:44:22,291 --> 00:44:23,708
+Ondo etorriko zaizkizu.
+
+807
+00:44:23,875 --> 00:44:28,250
+…eta Money Market kontu bat,
+zenaren zenbatekoa…
+
+808
+00:44:28,416 --> 00:44:29,666
+hogeita hamar milioi dolarrekoa den.
+
+809
+00:44:30,625 --> 00:44:32,083
+<i>Hogeita hamar milioikoa?</i>
+
+810
+00:44:32,250 --> 00:44:35,125
+Hori da eragingarria.
+
+811
+00:44:35,916 --> 00:44:37,625
+Hogeita hamar milioi? Nola?
+
+812
+00:44:37,791 --> 00:44:40,750
+Duela bi urte,
+George Hardyk sendabidea asmatu zuen
+
+813
+00:44:40,916 --> 00:44:44,208
+ektima izeneko ardien gaixotasunarentzat.
+
+814
+00:44:44,375 --> 00:44:46,125
+- Ektima?
+- Ektima.
+
+815
+00:44:46,291 --> 00:44:49,083
+Orduan beti nahasten zebilen
+masa urdin hura botika bat zen?
+
+816
+00:44:49,208 --> 00:44:53,208
+Nekazal enpresa handi bati
+saldu zion patentea…
+
+817
+00:44:53,333 --> 00:44:54,625
+Hogeita hamar milioi.
+
+818
+00:44:55,750 --> 00:44:56,750
+Ektimagatik.
+
+819
+00:45:08,916 --> 00:45:10,541
+- Norbait dago hor kanpoan.
+- Tim.
+
+820
+00:45:10,708 --> 00:45:12,916
+Harrapa ezazu. Bizkor!
+
+821
+00:45:26,000 --> 00:45:27,916
+Aizu!
+
+822
+00:45:38,250 --> 00:45:40,041
+Ondo nago.
+
+823
+00:45:41,041 --> 00:45:41,875
+Itzuli da!
+
+824
+00:45:57,916 --> 00:45:58,750
+REBECCA HAMPSTEAD ANDEREÑOA
+
+825
+00:46:02,250 --> 00:46:03,708
+Atera hemendik!
+
+826
+00:46:03,875 --> 00:46:04,958
+Ospa!
+
+827
+00:46:09,416 --> 00:46:13,000
+Lily, leihoa aurkitu dut.
+
+828
+00:46:14,083 --> 00:46:15,875
+Hori da. Oso ondo.
+
+829
+00:46:16,041 --> 00:46:17,291
+Hori da.
+
+830
+00:46:20,583 --> 00:46:23,875
+Ardi hauek bazterrak nahasiko dituzte
+artzainik ez badute, aditu?
+
+831
+00:46:24,125 --> 00:46:25,125
+Bereziki ahari handi horrek.
+
+832
+00:46:26,583 --> 00:46:28,625
+Georgek zirku batetik atera zuen.
+
+833
+00:46:28,958 --> 00:46:30,541
+Basatia da.
+
+834
+00:46:35,666 --> 00:46:39,208
+Egon, Tim! Adierazpenik egin nahi?
+
+835
+00:46:39,375 --> 00:46:42,000
+Ez. Oharrik ez. Eta deitu agente.
+
+836
+00:46:42,166 --> 00:46:44,125
+Eta frogak? Baduzu frogarik?
+
+837
+00:46:44,291 --> 00:46:48,291
+Bai. Froga mordoa ditut,
+eta kontrolpean daukat dena.
+
+838
+00:46:49,625 --> 00:46:53,750
+Entzun. Nik istorio bat behar dut
+eta zuk norbait atxilotu.
+
+839
+00:46:54,541 --> 00:46:57,916
+Zergatik ez dugu elkar errespetatzen?
+
+840
+00:46:58,083 --> 00:47:00,750
+Jendeak errespetatu egiten nau.
+
+841
+00:47:02,458 --> 00:47:05,666
+Hau argituz gero, heroi bat izango zara.
+
+842
+00:47:08,958 --> 00:47:10,708
+Elkarrekin lan egin dezakegu.
+
+843
+00:47:12,250 --> 00:47:13,250
+Lagun zaitzaket.
+
+844
+00:47:13,416 --> 00:47:16,083
+Bart, autoa atoian eraman zutenean,
+
+845
+00:47:16,250 --> 00:47:19,208
+argi bat ikusi nuen 21:00ak aldera
+Georgeren lurretatik gertu.
+
+846
+00:47:20,166 --> 00:47:21,958
+Ondo da.
+
+847
+00:47:22,500 --> 00:47:23,916
+Ordua bat dator.
+
+848
+00:47:24,208 --> 00:47:27,666
+Forentseak dio
+20:00ak eta 23:00ak bitartean hil zela.
+
+849
+00:47:30,500 --> 00:47:33,791
+Gorpuaren argazkiak dituzu, ezta?
+Argazkiak atera behar nituen.
+
+850
+00:47:33,958 --> 00:47:38,041
+Argazki pila atera ditut.
+Bidaliko dizkizut.
+
+851
+00:47:39,833 --> 00:47:41,041
+Zer diozu…
+
+852
+00:47:41,625 --> 00:47:43,291
+Heroi Agentea?
+
+853
+00:47:48,750 --> 00:47:52,375
+Eta gero esan du mozolo bat,
+biktima bat, hi hiltzaile…
+
+854
+00:47:52,541 --> 00:47:53,958
+Neskamea izan dela uste dut.
+
+855
+00:47:54,125 --> 00:47:55,750
+Ez dago neskamerik.
+
+856
+00:47:55,916 --> 00:48:00,041
+Hori istorio bat zen, eta istorioan ere
+ez zen neskamea izan. Aski da!
+
+857
+00:48:00,791 --> 00:48:01,958
+Ardiak.
+
+858
+00:48:02,125 --> 00:48:05,750
+Caleb izango da
+gure artzain berria, ezta, Lily?
+
+859
+00:48:05,916 --> 00:48:09,666
+Noski. Misterioa argitu arte baino
+ez dugu itxaron behar.
+
+860
+00:48:09,833 --> 00:48:10,833
+Galdera bat.
+
+861
+00:48:11,000 --> 00:48:12,791
+Zergatik ez duzu misterioa argitu, Lily?
+
+862
+00:48:12,958 --> 00:48:15,333
+Berehala argitzen dituzu
+detektibe-nobeletakoak.
+
+863
+00:48:15,500 --> 00:48:19,208
+Bai, baina benetako mundua
+korapilatsuagoa da
+
+864
+00:48:19,375 --> 00:48:21,916
+liburu bat baino.
+
+865
+00:48:22,583 --> 00:48:23,958
+Liburu bat.
+
+866
+00:48:24,625 --> 00:48:26,458
+Hori izan daiteke gakoa.
+
+867
+00:48:26,625 --> 00:48:29,125
+Georgeren karabanan sartu eta…
+
+868
+00:48:29,291 --> 00:48:30,375
+Begira.
+
+869
+00:48:32,500 --> 00:48:34,250
+Rebecca al da?
+
+870
+00:48:36,041 --> 00:48:37,958
+Zeren bila dabil?
+
+871
+00:49:04,541 --> 00:49:06,250
+Nola duzu izena?
+
+872
+00:49:06,750 --> 00:49:08,666
+Georgeren alaba da?
+
+873
+00:49:08,833 --> 00:49:11,875
+Bere usaina du. Baina ez du bere antzik.
+
+874
+00:49:12,041 --> 00:49:13,875
+Ziur neguan jaio zela.
+
+875
+00:49:14,041 --> 00:49:16,208
+Horregatik ez zuen inguruan nahi Georgek.
+
+876
+00:49:16,375 --> 00:49:19,791
+Noski. Neguko arkumea.
+Horrek frogatzen du.
+
+877
+00:49:19,958 --> 00:49:21,041
+Rebecca izan da!
+
+878
+00:49:21,208 --> 00:49:22,333
+Hiltzailea!
+
+879
+00:49:22,500 --> 00:49:23,791
+Ez dakigu!
+
+880
+00:49:23,958 --> 00:49:26,000
+- Banekien!
+- Esaten saiatu naiz.
+
+881
+00:49:26,166 --> 00:49:28,208
+Ikusi eta pentsatu dut:
+"Rebecca, gaiztoa da".
+
+882
+00:49:28,375 --> 00:49:30,000
+Hasieratik esan dut.
+
+883
+00:49:30,166 --> 00:49:31,500
+Sebastian?
+
+884
+00:49:33,041 --> 00:49:36,500
+Lily? Zerbait esan duzu
+Georgeren karabanaz?
+
+885
+00:49:36,666 --> 00:49:38,291
+Eta liburu batez?
+
+886
+00:49:39,375 --> 00:49:40,375
+{\an8}KRIMENAREN GERTALEKUA
+
+887
+00:49:40,500 --> 00:49:43,958
+Georgek irakurri zigun azken liburuak
+susmagarria nola aurkitu azaltzen zuen.
+
+888
+00:49:44,083 --> 00:49:47,000
+Liburua aurkitu
+eta poliziari eramango diot.
+
+889
+00:49:47,166 --> 00:49:49,833
+Zorte apur batez,
+irakurri eta zerbait ikasiko du.
+
+890
+00:49:50,416 --> 00:49:52,541
+- Utzi niri!
+- Ez. Zora!
+
+891
+00:49:52,708 --> 00:49:54,666
+Detektibea izan nahi dut! Utzi niri!
+
+892
+00:49:54,833 --> 00:49:56,583
+Ondo da. Bilatu liburura,
+
+893
+00:49:56,708 --> 00:49:58,500
+George guri irakurtzen hasi zena,
+
+894
+00:49:58,666 --> 00:50:00,916
+bitartekoei, eragingarriari
+eta aukerari buruzko atalarekin.
+
+895
+00:50:01,083 --> 00:50:02,916
+Galdera bat. Zer da atal bat?
+
+896
+00:50:03,083 --> 00:50:05,625
+Ez du axola.
+Bilatu azalean tren bat duen liburua.
+
+897
+00:50:05,791 --> 00:50:08,875
+- Galdera bat. Zer da tren bat?
+- Trailerrez osatutako lerroa.
+
+898
+00:50:09,041 --> 00:50:09,916
+Galdera bat.
+
+899
+00:50:10,041 --> 00:50:11,750
+Egon. Bilotsu, zer zabiltza?
+
+900
+00:50:11,916 --> 00:50:15,791
+Egin atzera. Liburua aurkituko dut
+nire usaimen ona erabiliz.
+
+901
+00:50:17,791 --> 00:50:20,791
+Hara, tomateak. Jan ditzakezue.
+
+902
+00:50:22,000 --> 00:50:24,250
+Tira, Bilotsu. Aurkituko duzu.
+
+903
+00:50:24,416 --> 00:50:25,666
+Ez nago hain ziur.
+
+904
+00:50:25,833 --> 00:50:28,500
+Georgek ukitutako azken liburua.
+
+905
+00:50:28,666 --> 00:50:29,916
+Hau…? Ez, azenario bat da.
+
+906
+00:50:30,083 --> 00:50:32,416
+- Ene.
+- Gero itzuliko naiz horren bila.
+
+907
+00:50:34,625 --> 00:50:35,750
+Hara!
+
+908
+00:50:35,916 --> 00:50:36,875
+101 ARDI TXISTE
+
+909
+00:50:37,000 --> 00:50:39,083
+Hau da bila gabiltzana?
+
+910
+00:50:39,250 --> 00:50:40,250
+Ez!
+
+911
+00:50:40,416 --> 00:50:41,666
+Eta hauxe?
+
+912
+00:50:41,791 --> 00:50:42,791
+HILKETA PASAGUNEAN
+
+913
+00:50:42,958 --> 00:50:45,541
+Bai! Bilotsu, aurkitu duzu!
+
+914
+00:50:45,708 --> 00:50:46,958
+Noski.
+
+915
+00:50:47,125 --> 00:50:48,708
+Lily, ezta?
+
+916
+00:50:48,875 --> 00:50:51,458
+Ardi detektibea naiz, gero!
+
+917
+00:50:55,375 --> 00:50:56,416
+Froga argazkiak
+
+918
+00:50:56,583 --> 00:50:57,833
+Igorlea: Elliot Matthews
+
+919
+00:50:58,000 --> 00:51:00,125
+Kaixo, Tim:
+Hona hemen ateratako argazkiak.
+
+920
+00:51:09,791 --> 00:51:12,416
+POLIZIA-ETXEA
+
+921
+00:51:25,833 --> 00:51:27,125
+HILKETA PASAGUNEAN
+
+922
+00:51:38,083 --> 00:51:40,125
+Toki polita da.
+
+923
+00:51:40,708 --> 00:51:42,500
+Baina nahiko bakartia.
+
+924
+00:51:46,000 --> 00:51:50,291
+Liburu bat eman diot poliziari
+kasua argitzen laguntzeko.
+
+925
+00:51:55,541 --> 00:51:57,166
+Zer da zirku bat?
+
+926
+00:51:58,083 --> 00:52:00,666
+Ez da ezer. Itzuli zure artaldearekin.
+
+927
+00:52:01,333 --> 00:52:02,916
+Gure artaldea da.
+
+928
+00:52:08,250 --> 00:52:09,708
+Musika dago.
+
+929
+00:52:10,458 --> 00:52:13,000
+Zirkuan musika dago.
+
+930
+00:52:14,000 --> 00:52:15,208
+Eta barrakak.
+
+931
+00:52:16,625 --> 00:52:21,375
+Egunero, umeak etorri,
+eta laztanak egin eta jana ematen zidaten.
+
+932
+00:52:21,875 --> 00:52:23,791
+Izugarri atsegin nuen.
+
+933
+00:52:24,041 --> 00:52:26,375
+Gehiegi handitu nintzen arte.
+
+934
+00:52:27,500 --> 00:52:30,208
+Eta orduan gaua heltzean,
+
+935
+00:52:30,375 --> 00:52:34,083
+zirkuko gizonak etorri,
+eta zirkulu batean sartzen ninduten.
+
+936
+00:52:35,625 --> 00:52:39,375
+Eta zirkuluan txakur bat zegoen.
+
+937
+00:52:41,500 --> 00:52:43,500
+Eta borrokatzera behartzen ninduten.
+
+938
+00:52:46,083 --> 00:52:48,500
+Odoletan egon arte.
+
+939
+00:52:50,500 --> 00:52:52,375
+Gau batean…
+
+940
+00:52:53,375 --> 00:52:54,791
+<i>berak aurkitu ninduen.</i>
+
+941
+00:53:07,583 --> 00:53:09,416
+Gizonei ordaindu…
+
+942
+00:53:10,250 --> 00:53:11,583
+eta hortik atera ninduen.
+
+943
+00:53:14,208 --> 00:53:18,041
+Eta hori da zirku bat.
+
+944
+00:53:21,416 --> 00:53:24,750
+Baina nola bukatu zenuen
+hain leku izugarrian?
+
+945
+00:53:24,916 --> 00:53:26,791
+Eta zure artaldea?
+
+946
+00:53:27,583 --> 00:53:31,750
+Uste nuen Lily Ardi Detektibe Handiak
+argituko zuela dagoeneko.
+
+947
+00:53:34,041 --> 00:53:35,625
+Orduan neguko…
+
+948
+00:53:35,750 --> 00:53:40,166
+Lehenago edo beranduago,
+neguko arkume bat beti doa.
+
+949
+00:53:57,250 --> 00:53:59,541
+Hor zaude! Bai!
+
+950
+00:54:01,458 --> 00:54:03,625
+Espero dut gose izatea, Tim.
+
+951
+00:54:03,791 --> 00:54:05,083
+Gose zara?
+
+952
+00:54:06,916 --> 00:54:08,083
+Kaixo?
+
+953
+00:54:08,833 --> 00:54:14,125
+Kasuan zerbait interesgarria
+gertatzen den bakoitzean,
+
+954
+00:54:15,125 --> 00:54:16,583
+hor daude.
+
+955
+00:54:22,666 --> 00:54:24,208
+Burua galdu duzu.
+
+956
+00:54:24,708 --> 00:54:27,375
+Burua galdu duzu,
+eta ez duzu ezer egin! Tim!
+
+957
+00:54:27,541 --> 00:54:31,208
+Zerbait egin dut.
+
+958
+00:54:32,291 --> 00:54:35,708
+"Nork hil zuen George?".
+
+959
+00:54:35,875 --> 00:54:37,750
+{\an8}Bost susmagarri
+aipatzen ditu testamentuak.
+
+960
+00:54:38,000 --> 00:54:41,500
+Hiltzaileak hiru gauza izan behar ditu:
+
+961
+00:54:41,666 --> 00:54:45,708
+bitartekoak, eragingarria, aukera.
+
+962
+00:54:45,958 --> 00:54:48,375
+Bai! Liburua irakurri du!
+
+963
+00:54:48,541 --> 00:54:50,958
+Azter ditzagun banan-banan, ados?
+
+964
+00:54:51,125 --> 00:54:54,500
+Bitartekoak: Haginaren fruituetako taxina.
+
+965
+00:54:54,666 --> 00:54:57,416
+Haginak daude elizaren inguruan.
+
+966
+00:54:57,583 --> 00:54:59,708
+Denek zituzten bitartekoak.
+
+967
+00:54:59,875 --> 00:55:02,416
+{\an8}Eragingarria: Zergatik hil George?
+
+968
+00:55:02,583 --> 00:55:04,416
+Rebeccak du eragingarririk argiena.
+
+969
+00:55:04,583 --> 00:55:07,583
+Baina edonork izan lezake eragile bat.
+Zer ezkutatzen ari dira?
+
+970
+00:55:08,083 --> 00:55:11,666
+Aukera: Badu inork zurigarririk?
+
+971
+00:55:11,833 --> 00:55:15,000
+Bitartekoak, eragingarria, aukera.
+
+972
+00:55:15,166 --> 00:55:19,958
+Hirurak dituena aurkitu,
+eta Denbrookeko Pozoitzailea harrapatu.
+
+973
+00:55:22,708 --> 00:55:25,791
+Tim. Lan bikaina egin duzu.
+
+974
+00:55:25,958 --> 00:55:28,625
+Bai, zera, bat-batean…
+
+975
+00:55:29,916 --> 00:55:31,333
+bururatu zitzaidan gauean.
+
+976
+00:55:32,750 --> 00:55:36,250
+Ondo da. Has gaitezen.
+
+977
+00:55:36,416 --> 00:55:37,750
+Ham.
+
+978
+00:55:37,916 --> 00:55:40,291
+{\an8}<i>Eta nor zara zu Georgeren testamentuan?</i>
+
+979
+00:55:40,791 --> 00:55:42,500
+Ziurrenik hiltzailea.
+
+980
+00:55:43,583 --> 00:55:46,208
+Begetarianoa zen.
+
+981
+00:55:46,541 --> 00:55:50,125
+Emakume batengan onar dezaket.
+Baina gizon batengan?
+
+982
+00:55:50,583 --> 00:55:52,375
+Nazkagarria.
+
+983
+00:55:52,541 --> 00:55:53,666
+Beth.
+
+984
+00:55:54,041 --> 00:55:57,208
+Zergatik zeneukan zuk
+Georgek Rebeccari bidalitako eskutitza?
+
+985
+00:55:57,500 --> 00:56:01,791
+<i>Agian posta zerbitzua okertuko zen
+lehen aldiz historian.</i>
+
+986
+00:56:01,958 --> 00:56:04,750
+Eta George hil aurreko egunean,
+
+987
+00:56:04,916 --> 00:56:07,500
+akabatu nahi zenuela esan zenidan.
+
+988
+00:56:07,666 --> 00:56:10,541
+Ez naiz hiltzailea. Biktima naiz.
+Eta ez dut besterik esango.
+
+989
+00:56:10,708 --> 00:56:12,041
+Nire eskubidea da!
+
+990
+00:56:12,208 --> 00:56:13,375
+Caleb.
+
+991
+00:56:13,541 --> 00:56:15,166
+George aurkitu zenuen goizean,
+
+992
+00:56:15,291 --> 00:56:17,500
+dokumentu batzuk eramatera joan zinen.
+
+993
+00:56:17,666 --> 00:56:19,458
+Nire alokairu kontratua deuseztatu zuen.
+
+994
+00:56:19,625 --> 00:56:22,458
+Eskaera bat prestatu nuen birpentsa zezan.
+
+995
+00:56:22,625 --> 00:56:23,916
+Alferrik.
+
+996
+00:56:25,000 --> 00:56:29,291
+{\an8}Georgek kontratua deuseztatu zuen?
+Zergatik?
+
+997
+00:56:29,666 --> 00:56:32,916
+{\an8}Entzun duzu testamentua.
+Artzain kaskarra naiz.
+
+998
+00:56:33,083 --> 00:56:34,500
+Hillcoate.
+
+999
+00:56:34,666 --> 00:56:36,375
+George ez zen elizara etortzen.
+
+1000
+00:56:36,541 --> 00:56:39,750
+Eta bat-batean,
+hil aurreko egunean agertu,
+
+1001
+00:56:39,916 --> 00:56:41,333
+eta diru mordoa eman zizun.
+
+1002
+00:56:43,833 --> 00:56:44,666
+Zergatik?
+
+1003
+00:56:44,916 --> 00:56:46,916
+Zergatik nago beti behean?
+
+1004
+00:56:48,208 --> 00:56:49,833
+Duela denbora bat nigana etorri
+
+1005
+00:56:50,000 --> 00:56:53,500
+eta elizak bere umeak
+adopzioan eman zituela esan zidan.
+
+1006
+00:56:53,666 --> 00:56:57,375
+<i>Diru apur bat lortu bezain laster,
+haiek bilatzen hasi zen.</i>
+
+1007
+00:56:57,541 --> 00:56:59,916
+<i>Elizak ez zion esan nahi non zeuden.</i>
+
+1008
+00:57:00,083 --> 00:57:02,250
+<i>Arau zorrotza omen da.</i>
+
+1009
+00:57:02,416 --> 00:57:04,625
+Beraz, niri galdetu zidan
+
+1010
+00:57:04,791 --> 00:57:09,416
+zeren truke lor nezakeen informazioa.
+
+1011
+00:57:09,583 --> 00:57:13,000
+Elizak jakingo balu, nireak egingo luke.
+
+1012
+00:57:13,166 --> 00:57:15,333
+- Ene.
+- Kaleratuko lukete.
+
+1013
+00:57:16,583 --> 00:57:18,208
+Baina dirua ez zen niretzat.
+
+1014
+00:57:18,375 --> 00:57:20,916
+Larria da eliza berritzeko premia.
+
+1015
+00:57:21,791 --> 00:57:25,875
+George laguntza eske etorri,
+eta bere egoeraz baliatu nintzen.
+
+1016
+00:57:26,500 --> 00:57:28,708
+Caleb ez da artzain kaskarra.
+
+1017
+00:57:31,083 --> 00:57:32,291
+Neu naiz.
+
+1018
+00:57:32,458 --> 00:57:33,791
+Eta Rebecca.
+
+1019
+00:57:34,125 --> 00:57:34,958
+Hampstead andereñoa.
+
+1020
+00:57:36,666 --> 00:57:39,333
+Denbrookeko Kultura Jaialdiaz gozatzen?
+
+1021
+00:57:41,041 --> 00:57:43,291
+Bai horixe.
+
+1022
+00:57:44,791 --> 00:57:46,208
+Galderatxo batzuk.
+
+1023
+00:57:46,375 --> 00:57:51,416
+Non egon zinen 20:00ak
+eta 23:00ak bitartean hilketaren gauean?
+
+1024
+00:57:51,583 --> 00:57:53,750
+Aireportu ondoko hotelean.
+
+1025
+00:57:53,916 --> 00:57:56,750
+Check-ina egin eta telebista ikusi nuen.
+
+1026
+00:57:56,916 --> 00:57:59,083
+Ezin nuen lorik egin. Jet laga nuen.
+
+1027
+00:58:00,041 --> 00:58:02,083
+Zer ikusi zenuen?
+
+1028
+00:58:03,500 --> 00:58:05,708
+24 orduko albistegia.
+
+1029
+00:58:06,750 --> 00:58:10,833
+- 24 orduko albistegia.
+- 24 orduko albistegia.
+
+1030
+00:58:11,000 --> 00:58:14,958
+Ondo da. Kito.
+Egun ona izan, Hampstead andereñoa.
+
+1031
+00:58:15,125 --> 00:58:17,416
+Zuk ere bai. Agur.
+
+1032
+00:58:18,333 --> 00:58:20,041
+Edo Crampfs andereñoa esan behar nuke?
+
+1033
+00:58:26,041 --> 00:58:30,541
+Chastity Crampfs da
+zure benetako izena, ezta?
+
+1034
+00:58:30,708 --> 00:58:32,291
+Eta ez al zaizu arrazoirik bururatzen
+
+1035
+00:58:32,458 --> 00:58:35,333
+norbaitek Chastity Crampfs izena
+aldatu nahi izateko?
+
+1036
+00:58:35,500 --> 00:58:38,458
+Egia. Baina ikertu egin zaitut.
+
+1037
+00:58:38,708 --> 00:58:42,875
+Eta garai batean, kriminal ezagun batekin
+harremana izan zenuen.
+
+1038
+00:58:43,041 --> 00:58:44,500
+Faltsutzeak egotzi zaizkio.
+
+1039
+00:58:44,666 --> 00:58:46,208
+Banku kontu bat partekatu zenuten.
+
+1040
+00:58:46,375 --> 00:58:49,125
+Entzun. Harreman horretaz damutzen naiz.
+
+1041
+00:58:49,291 --> 00:58:51,750
+Eta ez nekien.
+Eta duela hiru urte izan zen.
+
+1042
+00:58:51,916 --> 00:58:54,375
+Orduan ez zenuten arestian utzi.
+
+1043
+00:58:54,625 --> 00:58:56,458
+- Ez da benetako izena.
+- Patroi bat ematen du.
+
+1044
+00:58:56,625 --> 00:58:58,083
+Patroi bat sortzen ari da.
+
+1045
+00:58:58,250 --> 00:58:59,958
+Beraz, esan.
+
+1046
+00:59:00,333 --> 00:59:02,750
+Ibili zara inoiz
+eliza inguruko haginetatik gertu?
+
+1047
+00:59:03,000 --> 00:59:04,791
+Ez, noski.
+
+1048
+00:59:04,958 --> 00:59:08,541
+Eta Georgeren baserrian?
+
+1049
+00:59:09,000 --> 00:59:10,458
+Egon zara inoiz han?
+
+1050
+00:59:11,500 --> 00:59:12,625
+Inoiz ez.
+
+1051
+00:59:13,916 --> 00:59:15,500
+Calebek alokairua zuen…
+
+1052
+00:59:15,666 --> 00:59:17,333
+Baina gero Bethek esan du…
+
+1053
+00:59:17,500 --> 00:59:18,916
+Zergatik dio Rebeccak gezurra?
+
+1054
+00:59:19,083 --> 00:59:20,458
+Eta zer da begetariano bat?
+
+1055
+00:59:20,625 --> 00:59:21,916
+Zer lotura du guztiak?
+
+1056
+00:59:22,083 --> 00:59:24,791
+Pentsatu, ardi tentela, pentsatu!
+
+1057
+00:59:24,958 --> 00:59:27,958
+Utzi pentsatzeari, Lily.
+Argi dago alaba izan dela.
+
+1058
+00:59:28,125 --> 00:59:30,291
+- Noski.
+- Zuzen dago.
+
+1059
+00:59:30,458 --> 00:59:32,083
+Ez, ez da bera izan.
+
+1060
+00:59:32,958 --> 00:59:35,250
+Ez duzue ezagutzen. Ona da.
+
+1061
+00:59:35,416 --> 00:59:39,333
+Georgek bezala usaintzen du,
+eta Georgek maite ninduen.
+
+1062
+00:59:39,500 --> 00:59:42,125
+Maite zintuela?
+Inork ez du neguko arkume bat maite.
+
+1063
+00:59:42,291 --> 00:59:46,333
+Neguko arkumeek elkar babesten dute.
+Horrelakoak dira.
+
+1064
+00:59:46,500 --> 00:59:47,500
+Egon.
+
+1065
+00:59:47,666 --> 00:59:49,125
+Zer esan duzu?
+
+1066
+00:59:49,291 --> 00:59:51,916
+Georgek maite ninduela.
+
+1067
+00:59:52,083 --> 00:59:54,000
+Ez. Horren aurretik.
+
+1068
+00:59:54,166 --> 00:59:57,708
+Rebeccak Georgek bezala usaintzen duela.
+
+1069
+00:59:57,875 --> 01:00:00,125
+Norbaitek esan du hori lehenago.
+
+1070
+01:00:00,291 --> 01:00:02,000
+Esan behar ez zuen norbaitek.
+
+1071
+01:00:02,166 --> 01:00:03,333
+Nork?
+
+1072
+01:00:05,000 --> 01:00:06,333
+Zuk.
+
+1073
+01:00:06,500 --> 01:00:09,458
+Egon, nik? Zer esan nahi duzu?
+
+1074
+01:00:09,625 --> 01:00:10,666
+Hodei izan da!
+
+1075
+01:00:10,833 --> 01:00:12,750
+Hiltzailea!
+
+1076
+01:00:12,916 --> 01:00:16,125
+Ez. Baina sekretu bat du.
+
+1077
+01:00:16,291 --> 01:00:17,666
+Ezta, Hodei?
+
+1078
+01:00:17,833 --> 01:00:21,041
+Bart, Rebeccak Georgek bezala
+usaintzen zuela esan zenuen.
+
+1079
+01:00:21,208 --> 01:00:25,166
+Baina oso urrun zegoen,
+ezinezkoa zen bera usaintzea.
+
+1080
+01:00:25,333 --> 01:00:28,416
+Rebecca lehenago hemen izan ez bazen.
+
+1081
+01:00:30,500 --> 01:00:33,250
+Baina hain da ederra!
+
+1082
+01:00:33,416 --> 01:00:35,333
+Zer da hain ederra?
+
+1083
+01:00:37,666 --> 01:00:39,666
+Amaierarik gabeko gauza.
+
+1084
+01:00:43,958 --> 01:00:45,250
+Ikusten?
+
+1085
+01:00:45,416 --> 01:00:48,750
+Ederra da eta ez du amaierarik.
+
+1086
+01:00:48,916 --> 01:00:53,708
+Orduak eman ditut begira
+eta bueltak eta bueltak ematen ditu.
+
+1087
+01:00:53,958 --> 01:00:55,583
+Hodei!
+
+1088
+01:00:55,750 --> 01:00:57,708
+Nondik atera duzu?
+
+1089
+01:01:00,250 --> 01:01:02,500
+Rebecca hemen egon zen gau hartan.
+
+1090
+01:01:02,791 --> 01:01:04,583
+George hil zuten gauean.
+
+1091
+01:01:06,916 --> 01:01:11,166
+Goseak esnatu ninduen,
+beraz, zelaira irten eta han aurkitu nuen.
+
+1092
+01:01:11,333 --> 01:01:12,833
+<i>Ni ikusi eta esan zidan:</i>
+
+1093
+01:01:13,000 --> 01:01:16,333
+"Zein polita zaren".
+Polita naizelako. Ederrena naiz.
+
+1094
+01:01:16,500 --> 01:01:18,250
+Eta laztandu ninduen,
+
+1095
+01:01:18,416 --> 01:01:20,083
+eta gauza erori zitzaion, beraz…
+
+1096
+01:01:21,250 --> 01:01:23,000
+Erabaki nuen…
+
+1097
+01:01:23,583 --> 01:01:25,625
+nirea izan behar zuela.
+
+1098
+01:01:25,791 --> 01:01:28,166
+Orain ondasunak ditugu?
+
+1099
+01:01:28,333 --> 01:01:30,541
+Ardiek ez dute ondasunik!
+
+1100
+01:01:30,708 --> 01:01:32,208
+Badakit, baina…
+
+1101
+01:01:32,666 --> 01:01:34,375
+Ez du amaierarik.
+
+1102
+01:01:35,000 --> 01:01:36,833
+Argitu dugu.
+
+1103
+01:01:37,000 --> 01:01:38,208
+Rebecca izan zen.
+
+1104
+01:01:38,375 --> 01:01:39,375
+Hiltzailea!
+
+1105
+01:01:39,541 --> 01:01:42,583
+Metal zati distiratsu batek
+ez du ezer argitzen.
+
+1106
+01:01:42,750 --> 01:01:45,208
+Bai horixe. Froga da.
+
+1107
+01:01:45,375 --> 01:01:48,041
+Froga? Zeren froga?
+
+1108
+01:01:48,208 --> 01:01:50,625
+Poliziari esan dio
+ez dela inoiz hemen egon,
+
+1109
+01:01:50,791 --> 01:01:54,375
+baina hemen egon zen bart,
+baita George hil zuten gauean ere.
+
+1110
+01:01:54,708 --> 01:01:57,625
+Gezurtia da, iruzurtia eta neguko…
+
+1111
+01:01:58,208 --> 01:01:59,958
+Zer?
+
+1112
+01:02:00,416 --> 01:02:01,500
+Esan.
+
+1113
+01:02:02,208 --> 01:02:04,166
+Hasieratik gorrotatu duzue.
+
+1114
+01:02:04,333 --> 01:02:05,416
+Denok!
+
+1115
+01:02:05,708 --> 01:02:07,000
+Eta zergatik?
+
+1116
+01:02:07,166 --> 01:02:10,125
+Neguan jaio zelako.
+
+1117
+01:02:11,291 --> 01:02:14,166
+Krimenik larriena.
+
+1118
+01:02:14,333 --> 01:02:15,708
+Ez al duzu entzun?
+
+1119
+01:02:15,875 --> 01:02:17,375
+Ez zaitu inork nahi.
+
+1120
+01:02:17,541 --> 01:02:19,625
+Ez duzu ezer merezi!
+
+1121
+01:02:21,416 --> 01:02:26,125
+Hori da neguko arkume batek
+entzuten duena, harik eta egun batean
+
+1122
+01:02:26,500 --> 01:02:29,165
+sinesten duen arte.
+
+1123
+01:02:29,166 --> 01:02:30,000
+Sebastian…
+
+1124
+01:02:30,125 --> 01:02:31,250
+Ez da bera izan.
+
+1125
+01:02:31,416 --> 01:02:32,583
+Baina nola dakizu?
+
+1126
+01:02:32,750 --> 01:02:35,041
+Begietara begiratu dudalako.
+
+1127
+01:02:35,208 --> 01:02:37,333
+Agerikoa delako.
+
+1128
+01:02:37,750 --> 01:02:39,416
+Baina zuretzat ez.
+
+1129
+01:02:39,666 --> 01:02:40,875
+Ez.
+
+1130
+01:02:41,041 --> 01:02:43,875
+Ezta artaldearentzat ere.
+
+1131
+01:02:45,333 --> 01:02:47,666
+Zure artaldea gara.
+
+1132
+01:02:48,833 --> 01:02:50,375
+Esan dizut.
+
+1133
+01:02:50,541 --> 01:02:52,541
+Ez dut artalderik.
+
+1134
+01:02:54,000 --> 01:02:55,708
+Ez dut inoiz izan.
+
+1135
+01:02:58,500 --> 01:02:59,583
+Lily.
+
+1136
+01:03:00,291 --> 01:03:03,083
+Zer egingo dugu
+amaierarik gabeko gauzarekin?
+
+1137
+01:03:06,583 --> 01:03:07,916
+Jakina!
+
+1138
+01:03:08,083 --> 01:03:09,416
+Gidaria!
+
+1139
+01:03:13,416 --> 01:03:14,541
+Zer?
+
+1140
+01:03:17,083 --> 01:03:18,333
+Zer?
+
+1141
+01:03:20,750 --> 01:03:21,791
+Aizu!
+
+1142
+01:03:24,750 --> 01:03:26,208
+Tira. Aizu!
+
+1143
+01:03:28,125 --> 01:03:29,166
+Aizu!
+
+1144
+01:03:30,833 --> 01:03:32,250
+Itzuli hona!
+
+1145
+01:03:32,583 --> 01:03:34,083
+Nire txapela da!
+
+1146
+01:03:34,916 --> 01:03:36,416
+Geldi! Aski da!
+
+1147
+01:04:07,666 --> 01:04:10,041
+Milesker. Milesker honengatik.
+
+1148
+01:04:13,500 --> 01:04:15,041
+Milesker denoi.
+
+1149
+01:04:25,833 --> 01:04:27,791
+Zurea den zerbait aurkitu dut.
+
+1150
+01:04:28,708 --> 01:04:30,666
+Besteak bezalakoa da.
+
+1151
+01:04:32,375 --> 01:04:36,041
+- Eroriko zitzaidan. Mila esker…
+- Georgeren lurretan zegoen.
+
+1152
+01:04:36,208 --> 01:04:38,583
+Inoiz egon ez zaren tokian?
+
+1153
+01:04:40,000 --> 01:04:42,958
+Zure gela arakatzeko agindua dut.
+
+1154
+01:04:45,250 --> 01:04:46,791
+<i>Zeren bila zabiltza?</i>
+
+1155
+01:04:46,958 --> 01:04:48,208
+<i>Ez dakit.</i>
+
+1156
+01:04:59,625 --> 01:05:01,333
+Ez omen zara haginetatik gertu ibili.
+
+1157
+01:05:01,500 --> 01:05:02,500
+Banekien.
+
+1158
+01:05:02,666 --> 01:05:04,791
+Ez. Ez nuke halakorik egingo.
+
+1159
+01:05:04,958 --> 01:05:07,000
+Tim, sinetsi behar didazu.
+
+1160
+01:05:07,166 --> 01:05:08,916
+Derry agentea da.
+
+1161
+01:05:09,583 --> 01:05:12,666
+Derry agentea, zin degizut.
+
+1162
+01:05:12,833 --> 01:05:14,750
+Ez nuen nire aita hil.
+
+1163
+01:05:14,916 --> 01:05:19,416
+Rebecca Hampstead, atxilotuta zaude
+George Hardyren hilketagatik.
+
+1164
+01:05:26,291 --> 01:05:27,666
+<i>Susmagarriaren elkarrizketa.</i>
+
+1165
+01:05:27,833 --> 01:05:32,166
+Chastity Crampfs,
+Rebecca Hampstead bezala ere ezaguna.
+
+1166
+01:05:32,958 --> 01:05:37,541
+Crampfs andereñoa, uko egiten diozu
+abokatu bat aurrean egoteko eskubideari?
+
+1167
+01:05:37,791 --> 01:05:41,250
+Bai. Ez dit axola. Dena kontatuko dizut.
+
+1168
+01:05:41,416 --> 01:05:43,625
+Ados. Orduan has gaitezen.
+
+1169
+01:05:44,000 --> 01:05:48,375
+Egon zinen George Hardyren jabetzan
+hilketaren gauan?
+
+1170
+01:05:49,041 --> 01:05:50,333
+Bai.
+
+1171
+01:05:50,666 --> 01:05:55,458
+Ondo da, orduan irribarre
+eta "Oso argia zara, detektibe" guztiak,
+
+1172
+01:05:55,625 --> 01:05:57,791
+hori guztia gezurra izan da, ezta?
+
+1173
+01:05:57,958 --> 01:06:00,916
+Ez duzu egiarik esan agertu zinenetik.
+
+1174
+01:06:01,791 --> 01:06:04,500
+Eskutitzena egia da.
+
+1175
+01:06:05,000 --> 01:06:08,791
+Bertan idatzi zidan
+hogei urte zeramatzala nire bila,
+
+1176
+01:06:08,958 --> 01:06:13,041
+eta egoera egonkorra zuela orain,
+bere testamentua bidali zidan.
+
+1177
+01:06:13,208 --> 01:06:17,416
+Zuk 30 milioi jasoko dituzula dioenak
+edo ardiak jasoko dituzula dioenak?
+
+1178
+01:06:17,583 --> 01:06:19,958
+Ez, dirua aipatzen ez duena.
+
+1179
+01:06:21,416 --> 01:06:23,500
+Ezagutu nahi ninduela esan zidan.
+
+1180
+01:06:23,708 --> 01:06:24,958
+Beraz…
+
+1181
+01:06:25,708 --> 01:06:26,833
+hegazkinez etorri,
+
+1182
+01:06:27,000 --> 01:06:31,458
+eta bere baserrira joan zinen
+hilketaren gauean.
+
+1183
+01:06:32,291 --> 01:06:33,833
+Eta zer gertatu zen?
+
+1184
+01:06:35,291 --> 01:06:36,583
+Hitz egin genuen.
+
+1185
+01:06:36,750 --> 01:06:37,791
+Zeri buruz?
+
+1186
+01:06:39,458 --> 01:06:40,750
+Ardiei buruz.
+
+1187
+01:06:41,166 --> 01:06:42,958
+Ardiei buruz hitz egin genuen.
+
+1188
+01:06:43,125 --> 01:06:45,083
+Beren izenei buruz.
+
+1189
+01:06:45,250 --> 01:06:48,125
+Esan zidan denek
+izan behar luketela izena.
+
+1190
+01:06:48,291 --> 01:06:52,166
+Haiei begietara begiratuz
+aukeratzen zituela.
+
+1191
+01:06:52,583 --> 01:06:55,333
+Eta egun batean nireak izatea nahi zuela.
+
+1192
+01:06:57,208 --> 01:06:58,500
+Neu aukeratu ninduen.
+
+1193
+01:07:00,041 --> 01:07:02,833
+Baina, entzun, ez naiz ergela.
+
+1194
+01:07:03,166 --> 01:07:06,000
+Berarekin bakarka egon nintzen
+hil zuten gauean.
+
+1195
+01:07:06,166 --> 01:07:10,916
+Eta testamentu berria, dirua
+eta nire iragana kontuan hartuta,
+
+1196
+01:07:11,083 --> 01:07:14,458
+nire aukera bakarra gezurra esatea zen.
+
+1197
+01:07:15,541 --> 01:07:17,375
+Sinetsi behar didazu.
+
+1198
+01:07:18,875 --> 01:07:21,416
+Gezurti bat sinetsi behar dut.
+
+1199
+01:07:22,833 --> 01:07:23,708
+Ez al da hala?
+
+1200
+01:07:27,375 --> 01:07:31,208
+Goizean, auzitegira eramango zaituzte,
+
+1201
+01:07:31,375 --> 01:07:35,333
+eta George Hardyren berariazko hilketa
+egotziko zaizu.
+
+1202
+01:07:49,000 --> 01:07:51,250
+Orduan, bera izan zen.
+
+1203
+01:07:54,375 --> 01:07:55,625
+Dirua.
+
+1204
+01:07:55,958 --> 01:07:57,333
+Jendea itsutzen du.
+
+1205
+01:07:58,416 --> 01:08:02,291
+Antza denez, George Hardyk
+arkume okerra aukeratu zuen.
+
+1206
+01:08:03,625 --> 01:08:08,666
+Horren harira, Van Vuurenek onartu egin du
+bere ardiak eta lurrak Calebi saltzea,
+
+1207
+01:08:08,833 --> 01:08:11,916
+bihar eguerdian egingo ditugu agiriak.
+
+1208
+01:08:12,833 --> 01:08:13,708
+Ongi.
+
+1209
+01:08:14,458 --> 01:08:16,916
+Oker nengoen, agente.
+
+1210
+01:08:17,083 --> 01:08:18,083
+Bai.
+
+1211
+01:08:18,250 --> 01:08:21,083
+Badirudi ez zarela mozoloa.
+
+1212
+01:08:21,541 --> 01:08:22,625
+Lan bikaina.
+
+1213
+01:09:01,541 --> 01:09:02,583
+Lily?
+
+1214
+01:09:04,000 --> 01:09:06,958
+Zer zabiltza hemen? Ondo zaude?
+
+1215
+01:09:07,125 --> 01:09:10,000
+Bai. Ondo baino hobeto. Pozik nago.
+
+1216
+01:09:10,166 --> 01:09:13,708
+Rebecca atxilotu dute. Bihar,
+Caleb gure artzain berria izango da.
+
+1217
+01:09:13,875 --> 01:09:15,041
+Hori zoragarria da.
+
+1218
+01:09:15,208 --> 01:09:19,416
+Ez du aitortu, noski,
+baina ni zuzen nago eta Sebastian oker.
+
+1219
+01:09:20,708 --> 01:09:23,625
+Rebecca izan zen, ezta?
+
+1220
+01:09:23,791 --> 01:09:25,041
+Noski.
+
+1221
+01:09:25,208 --> 01:09:26,291
+Mila esker.
+
+1222
+01:09:26,458 --> 01:09:28,333
+Zuk hala diozulako.
+
+1223
+01:09:29,125 --> 01:09:29,958
+Zer?
+
+1224
+01:09:30,125 --> 01:09:33,291
+Beti asmatzen duzu istorioen bukaera
+bukatu aurretik.
+
+1225
+01:09:33,458 --> 01:09:34,708
+Zutaz fidatzen naiz.
+
+1226
+01:09:34,875 --> 01:09:36,791
+Horiek istorioak baino ez ziren.
+
+1227
+01:09:36,958 --> 01:09:39,541
+Hau benetako pertsona da. Eta oker…?
+
+1228
+01:09:39,708 --> 01:09:40,875
+Lily, begira.
+
+1229
+01:09:41,041 --> 01:09:43,791
+Caleben zelaia
+hesi horren beste aldean dago.
+
+1230
+01:09:43,958 --> 01:09:46,583
+Zergatik ez goaz
+gure artalde berria ezagutzera?
+
+1231
+01:09:47,125 --> 01:09:49,791
+Baina ez gara inoiz Caleben zelaian egon.
+
+1232
+01:09:49,958 --> 01:09:52,666
+Eta lehen ez ohi genuen
+errepiderik gurutzatzen.
+
+1233
+01:09:52,833 --> 01:09:53,875
+Tira.
+
+1234
+01:10:04,291 --> 01:10:06,250
+Hodei batean gaudela dirudi.
+
+1235
+01:10:06,416 --> 01:10:08,375
+Leku okerrean egongo gara?
+
+1236
+01:10:08,541 --> 01:10:10,125
+Ez dut uste.
+
+1237
+01:10:12,625 --> 01:10:13,875
+Kaixo?
+
+1238
+01:10:32,833 --> 01:10:34,000
+Kaixo!
+
+1239
+01:10:34,625 --> 01:10:36,791
+Lily dut izena.
+
+1240
+01:10:36,958 --> 01:10:39,458
+Eta hau Mopple da.
+
+1241
+01:10:39,875 --> 01:10:42,083
+Zelaiko beste aldekoak gara.
+
+1242
+01:10:43,333 --> 01:10:45,666
+Caleb gure artzaina ere izango da.
+
+1243
+01:10:49,958 --> 01:10:51,000
+Zer?
+
+1244
+01:10:58,750 --> 01:10:59,791
+Korri.
+
+1245
+01:10:59,958 --> 01:11:01,958
+Zer? Baina ez…
+
+1246
+01:11:08,041 --> 01:11:12,250
+Agian ez genuen etorri behar.
+
+1247
+01:11:12,416 --> 01:11:13,625
+Hobe dugu joan.
+
+1248
+01:11:13,791 --> 01:11:15,416
+Ados.
+
+1249
+01:11:15,583 --> 01:11:16,958
+Nondik da?
+
+1250
+01:11:17,125 --> 01:11:18,916
+Hortik dela uste dut.
+
+1251
+01:11:23,375 --> 01:11:25,291
+Begira! Argia dago.
+
+1252
+01:11:28,541 --> 01:11:30,916
+Caleben ukuilua izango da.
+
+1253
+01:11:31,750 --> 01:11:33,666
+Salbu egongo gara hemen.
+
+1254
+01:11:38,375 --> 01:11:41,041
+Ez dut uste hau ukuilu bat denik.
+
+1255
+01:11:42,041 --> 01:11:43,083
+Agian hobe dugu…
+
+1256
+01:11:43,250 --> 01:11:44,250
+Egon.
+
+1257
+01:11:45,375 --> 01:11:46,625
+Zer da hau?
+
+1258
+01:11:48,333 --> 01:11:50,500
+Lily, ez. Hobe dugu joan.
+
+1259
+01:11:52,375 --> 01:11:54,000
+{\an8}DENBROOKEKO OKELA
+
+1260
+01:11:54,166 --> 01:11:56,166
+{\an8}Zer dauka ardi horrek?
+
+1261
+01:11:56,333 --> 01:11:58,750
+{\an8}Zer egin diote?
+
+1262
+01:12:02,125 --> 01:12:03,333
+Caleb?
+
+1263
+01:12:04,708 --> 01:12:05,708
+Bera…
+
+1264
+01:12:06,250 --> 01:12:07,250
+Bera…
+
+1265
+01:12:08,500 --> 01:12:10,583
+Kaixo, txakurtxoak.
+
+1266
+01:12:12,875 --> 01:12:14,208
+Zer gertatzen zaie?
+
+1267
+01:12:15,916 --> 01:12:17,875
+Ez genuke hemen egon behar.
+
+1268
+01:12:19,333 --> 01:12:20,666
+Korri!
+
+1269
+01:12:31,958 --> 01:12:33,125
+Arinago, Lily!
+
+1270
+01:12:33,291 --> 01:12:35,500
+Ezin dut! Ez naiz helduko!
+
+1271
+01:12:47,583 --> 01:12:48,666
+Sebastian.
+
+1272
+01:13:03,875 --> 01:13:04,708
+Ez!
+
+1273
+01:13:19,500 --> 01:13:20,791
+Sebastian.
+
+1274
+01:13:20,958 --> 01:13:23,500
+Eskerrak etorri zaren. Uste nuen gureak…
+
+1275
+01:13:25,833 --> 01:13:27,250
+Sebastian?
+
+1276
+01:13:28,166 --> 01:13:29,708
+Sebastian, altxatu!
+
+1277
+01:13:32,375 --> 01:13:33,666
+Lily.
+
+1278
+01:13:36,583 --> 01:13:37,916
+Ezin dut.
+
+1279
+01:13:38,750 --> 01:13:40,208
+Zergatik ez?
+
+1280
+01:13:40,375 --> 01:13:42,083
+Ez dut uler…
+
+1281
+01:13:47,375 --> 01:13:48,500
+Lily.
+
+1282
+01:13:49,333 --> 01:13:50,708
+Hiltzen ari da.
+
+1283
+01:13:51,208 --> 01:13:52,375
+Zer?
+
+1284
+01:13:52,541 --> 01:13:54,875
+Ez, ardiak ez dira hiltzen.
+
+1285
+01:13:55,041 --> 01:13:56,875
+Hodei bihurtzen gara.
+
+1286
+01:13:57,041 --> 01:14:00,750
+Bihurtu hodei, Sebastian.
+
+1287
+01:14:04,333 --> 01:14:06,041
+Gai izan nahi nuke.
+
+1288
+01:14:07,125 --> 01:14:09,375
+Ez zenuen itzuli behar.
+
+1289
+01:14:09,833 --> 01:14:11,791
+Zergatik itzuli zara?
+
+1290
+01:14:11,958 --> 01:14:13,333
+Itzuli behar nuen.
+
+1291
+01:14:14,250 --> 01:14:16,041
+Nire artaldea zarete.
+
+1292
+01:14:23,250 --> 01:14:24,750
+Ikusten dut.
+
+1293
+01:14:26,666 --> 01:14:28,791
+George ikusten dut.
+
+1294
+01:14:39,166 --> 01:14:40,250
+Ez.
+
+1295
+01:14:46,250 --> 01:14:47,333
+Caleb da.
+
+1296
+01:14:47,583 --> 01:14:48,958
+Joan beharra dugu.
+
+1297
+01:14:49,125 --> 01:14:50,291
+Azkar, Lily!
+
+1298
+01:15:01,750 --> 01:15:04,208
+Esnatu! Esnatu denak!
+
+1299
+01:15:04,500 --> 01:15:06,125
+- Esnatu!
+- Esnatu!
+
+1300
+01:15:06,291 --> 01:15:07,750
+- Esnatu!
+- Esnatu!
+
+1301
+01:15:08,000 --> 01:15:09,041
+Zatozte nirekin.
+
+1302
+01:15:09,208 --> 01:15:10,583
+Goazen berarekin!
+
+1303
+01:15:10,750 --> 01:15:11,750
+Goazen berarekin!
+
+1304
+01:15:11,916 --> 01:15:13,375
+Goazen berarekin!
+
+1305
+01:15:20,375 --> 01:15:21,541
+Geldi!
+
+1306
+01:15:21,958 --> 01:15:24,833
+Ez gelditu!
+Alde egin beharra dugu! Bizkor!
+
+1307
+01:15:25,000 --> 01:15:27,583
+Alde egin? Zertaz ari zara?
+
+1308
+01:15:28,333 --> 01:15:30,250
+Sebastian hilda dago.
+
+1309
+01:15:30,750 --> 01:15:33,500
+Hodei bihurtzen garela esan zenuen.
+
+1310
+01:15:33,666 --> 01:15:34,916
+Oker nengoen.
+
+1311
+01:15:35,083 --> 01:15:36,416
+Hil egiten gara.
+
+1312
+01:15:36,583 --> 01:15:38,708
+Sebastian hiltzen ikusi dut.
+
+1313
+01:15:38,875 --> 01:15:42,958
+Eta gaur ez bagoaz, denok hilko gara.
+
+1314
+01:15:43,750 --> 01:15:45,958
+Calebek ardiak janari bihurtzen ditu eta…
+
+1315
+01:15:46,125 --> 01:15:49,458
+Aski da! Utzi gauza itsusiak esateari!
+
+1316
+01:15:49,625 --> 01:15:51,625
+Hau gertatu dela ahaztuko dut. Oraintxe!
+
+1317
+01:15:51,750 --> 01:15:52,916
+Ez, ezin duzu!
+
+1318
+01:15:53,083 --> 01:15:56,125
+Zergatik gogoratu nahiko nuke
+hain gauza izugarria?
+
+1319
+01:15:56,291 --> 01:15:57,625
+Egia delako!
+
+1320
+01:15:57,791 --> 01:15:59,750
+Ez da egia gogoratzen ez badut.
+
+1321
+01:15:59,916 --> 01:16:01,082
+- Bat.
+- Egon!
+
+1322
+01:16:01,083 --> 01:16:01,916
+Bi.
+
+1323
+01:16:02,041 --> 01:16:04,416
+Ronnie, Reggie, mesedez. Izan ausartak.
+
+1324
+01:16:04,583 --> 01:16:05,750
+Hiru!
+
+1325
+01:16:08,750 --> 01:16:10,291
+Kaixo, Lily.
+
+1326
+01:16:10,833 --> 01:16:12,333
+Galdera bat.
+
+1327
+01:16:12,541 --> 01:16:13,750
+Zer gabiltza hemen kanpoan?
+
+1328
+01:16:13,916 --> 01:16:16,041
+Ez dut atsegin. Goazen zelaira.
+
+1329
+01:16:16,208 --> 01:16:17,333
+Goazen zelaira.
+
+1330
+01:16:17,750 --> 01:16:21,458
+Ez! Mesedez, ez joan!
+
+1331
+01:16:24,791 --> 01:16:27,375
+Sebastian zuzen zegoen.
+
+1332
+01:16:27,541 --> 01:16:31,166
+Ardi tentel eta koldarrak baino ez gara.
+
+1333
+01:16:32,458 --> 01:16:37,458
+Gaur ez da ardi bat hiltzen
+ikusi dudan lehen aldia, ezta?
+
+1334
+01:16:37,833 --> 01:16:38,875
+Ez.
+
+1335
+01:16:39,041 --> 01:16:41,250
+Zenbat aldiz ahaztu dut?
+
+1336
+01:16:42,583 --> 01:16:44,333
+Zenbatzeari utzi diot.
+
+1337
+01:16:44,958 --> 01:16:49,041
+Zama hau bakarrik jasan behar izan duzu?
+
+1338
+01:16:49,750 --> 01:16:50,875
+Bai.
+
+1339
+01:16:51,291 --> 01:16:53,625
+Gauza txar guztiak gogoratzen ditut.
+
+1340
+01:16:54,000 --> 01:16:56,916
+Baina gauza onak ere bai.
+
+1341
+01:16:58,375 --> 01:17:01,125
+Amaren aurpegia gogoratzen dut.
+
+1342
+01:17:01,291 --> 01:17:04,333
+Aspaldiko lagunak
+eta zenbat maite ninduten.
+
+1343
+01:17:04,500 --> 01:17:07,208
+Eta zuk Sebastian gogoratuko duzu.
+
+1344
+01:17:09,416 --> 01:17:10,875
+Mingarria da.
+
+1345
+01:17:11,041 --> 01:17:13,083
+Gogoratzea mingarria da.
+
+1346
+01:17:13,625 --> 01:17:14,791
+Badakit.
+
+1347
+01:17:14,958 --> 01:17:20,041
+Bestela, ezingo dituzu besteak salbatu
+eta Sebastian alferrik hilko zen.
+
+1348
+01:17:20,833 --> 01:17:22,458
+Caleb zure bila etorriko da bihar,
+
+1349
+01:17:22,625 --> 01:17:28,166
+eta artzain berriaren atzetik joango zara
+beste ardi tentel eta koldarrak bezala.
+
+1350
+01:17:28,666 --> 01:17:31,333
+Eta… denok hilko gara.
+
+1351
+01:17:32,958 --> 01:17:35,875
+Sentitzen dut, Lily. Benetan.
+
+1352
+01:17:36,041 --> 01:17:40,000
+Baina maite ditugunak
+gure oroimenean bizi dira.
+
+1353
+01:18:00,583 --> 01:18:02,750
+Sentitzen dut, Sebastian.
+
+1354
+01:18:03,750 --> 01:18:05,875
+Ez naiz zu bezain indartsua.
+
+1355
+01:18:08,375 --> 01:18:10,666
+Bat. Bi.
+
+1356
+01:18:10,833 --> 01:18:15,041
+<i>Zu ardirik argiena zara,
+baina Mopple zuhurrena da.</i>
+
+1357
+01:18:15,208 --> 01:18:17,416
+{\an8}MISTERIOA BROCKLEBANK ZUBIAN
+
+1358
+01:18:18,875 --> 01:18:20,750
+{\an8}Norbait galdu nuen behin.
+
+1359
+01:18:21,791 --> 01:18:23,458
+{\an8}Mingarria da.
+
+1360
+01:18:23,875 --> 01:18:27,500
+Baina, denboraz,
+gauza onak baino ez dituzu oroituko.
+
+1361
+01:18:28,166 --> 01:18:30,833
+Benetan…? Benetan zaude hemen?
+
+1362
+01:18:31,291 --> 01:18:32,875
+Noski.
+
+1363
+01:18:33,041 --> 01:18:35,458
+Ez nauzulako ahaztu. Ulertzen?
+
+1364
+01:18:35,791 --> 01:18:39,833
+Bai, baina jada ez du axola. Calebek…
+
+1365
+01:18:40,000 --> 01:18:44,250
+Calebek ez dio nire artaldeari ezer egingo
+zuk salbatuko duzulako.
+
+1366
+01:18:44,791 --> 01:18:46,000
+Baina nola?
+
+1367
+01:18:46,166 --> 01:18:48,083
+Badakizu nola.
+
+1368
+01:18:48,625 --> 01:18:51,333
+Nor izan zen argitzen baduzu, Lily,
+
+1369
+01:18:51,500 --> 01:18:54,083
+artaldea Rebeccaren izango da
+eta salbu egongo zarete.
+
+1370
+01:18:54,250 --> 01:18:56,791
+Eta benetan nor izan zen ez badakit?
+
+1371
+01:18:56,958 --> 01:18:59,458
+Hamaika detektibe-nobela
+irakurri dizkizuet.
+
+1372
+01:18:59,625 --> 01:19:01,250
+Oso arau sinpleak jarraitzen dituzte.
+
+1373
+01:19:01,416 --> 01:19:03,333
+Baina arauek ez dute lagundu.
+
+1374
+01:19:03,500 --> 01:19:05,416
+Poliziak badaki ez zela arlote bat izan.
+
+1375
+01:19:05,583 --> 01:19:07,458
+Edonor itzul zitekeen
+krimenaren gertalekura.
+
+1376
+01:19:07,625 --> 01:19:09,916
+Rebecca bat-batean agertu zen eta…
+
+1377
+01:19:10,083 --> 01:19:11,208
+Eta?
+
+1378
+01:19:13,416 --> 01:19:16,458
+Biktima da frogarik garrantzitsuena.
+
+1379
+01:19:18,791 --> 01:19:21,541
+<i>Belar koloreko orbaina eskuan.</i>
+
+1380
+01:19:22,250 --> 01:19:24,708
+<i>Kolore ederrak dituzte.</i>
+
+1381
+01:19:25,000 --> 01:19:26,333
+<i>Arkume okerra aukeratu zuen.</i>
+
+1382
+01:19:26,500 --> 01:19:28,541
+<i>Georgeren mamua ikusi nuen.</i>
+
+1383
+01:19:30,583 --> 01:19:31,625
+Hori da.
+
+1384
+01:19:40,083 --> 01:19:42,166
+- Ez zen Rebecca izan!
+- Lily, astiroago.
+
+1385
+01:19:42,291 --> 01:19:44,833
+- Badakit nor izan zen. Froga badezaket…
+- Zer frogatu?
+
+1386
+01:19:44,958 --> 01:19:46,166
+Ez zen belar orbain bat.
+
+1387
+01:19:46,291 --> 01:19:47,791
+- Eta nola egingo…?
+- Egon.
+
+1388
+01:19:47,916 --> 01:19:49,125
+Harik eta… Bai!
+
+1389
+01:19:49,250 --> 01:19:51,708
+Baina handiegia naiz. Ez naiz sartuko.
+
+1390
+01:19:51,833 --> 01:19:54,125
+Ni leku askotan sar naiteke.
+
+1391
+01:19:55,250 --> 01:19:57,875
+Eta ez dut ahaztu.
+
+1392
+01:19:59,875 --> 01:20:01,791
+Sartu hanka osoa.
+
+1393
+01:20:03,916 --> 01:20:07,208
+Orain sartu beste hanka horko horretan.
+
+1394
+01:20:10,833 --> 01:20:13,333
+Ondo da. Goazen.
+
+1395
+01:20:22,291 --> 01:20:24,625
+Hori da. Hortik.
+
+1396
+01:21:17,958 --> 01:21:20,291
+Herri hau oso bitxia da.
+
+1397
+01:21:21,916 --> 01:21:24,083
+Funtzionatuko ote du?
+
+1398
+01:21:24,541 --> 01:21:27,625
+Ez dakit. Itxaron baino ezin dugu egin.
+
+1399
+01:21:30,000 --> 01:21:34,250
+Zer esan zizun Georgek
+hil aurreko goizean?
+
+1400
+01:21:34,708 --> 01:21:37,375
+Zerbait esan zizun belarrira.
+
+1401
+01:21:38,291 --> 01:21:42,708
+Neguko arkumeak arkumerik onenak direla.
+
+1402
+01:21:56,541 --> 01:21:58,750
+- Aizu, Ronnie.
+- Bai?
+
+1403
+01:21:58,916 --> 01:22:02,583
+Ez al zaizu inoiz iruditzen
+zerbait ahaztu duzula?
+
+1404
+01:22:02,750 --> 01:22:05,750
+Lilyk bart esan zigun zerbait,
+
+1405
+01:22:05,916 --> 01:22:09,250
+baina ahaztea erabaki genuena
+beldur ginelako?
+
+1406
+01:22:09,500 --> 01:22:11,875
+Beldur ez. Ez ginen beldur.
+
+1407
+01:22:12,041 --> 01:22:13,875
+Baina bai. Hori da.
+
+1408
+01:22:14,041 --> 01:22:15,416
+Zer egingo dugu, anaia?
+
+1409
+01:22:15,583 --> 01:22:19,375
+Ezin gara ezer egin gabe geratu,
+zerbait egin behar dugu!
+
+1410
+01:22:20,125 --> 01:22:21,208
+Ideia bikaina.
+
+1411
+01:22:21,375 --> 01:22:23,708
+Goazen, ba! Zer gara, arkumeak?
+
+1412
+01:22:23,875 --> 01:22:26,666
+Ala ahariak?
+
+1413
+01:22:39,375 --> 01:22:40,583
+Nork egin du hau?
+
+1414
+01:22:40,958 --> 01:22:43,416
+Arkume bat sartu da leihatilatik.
+
+1415
+01:22:43,583 --> 01:22:46,583
+Arkume bat sartu da leihatilatik.
+
+1416
+01:22:46,833 --> 01:22:47,958
+Okerragoa da.
+
+1417
+01:22:48,458 --> 01:22:51,250
+Leihatila-arkume bat baino okerragoa?
+
+1418
+01:22:51,958 --> 01:22:54,000
+Esango nuke
+
+1419
+01:22:54,625 --> 01:22:58,583
+arkumea ardi baten aginduak
+jarraitzen ari zela.
+
+1420
+01:23:01,083 --> 01:23:02,250
+Ados.
+
+1421
+01:23:07,041 --> 01:23:08,291
+Zer esan nahi du?
+
+1422
+01:23:14,625 --> 01:23:16,375
+Hauxe esan nahi du…
+
+1423
+01:23:19,125 --> 01:23:20,375
+Ezer ez.
+
+1424
+01:23:21,291 --> 01:23:22,583
+Ezer ez!
+
+1425
+01:23:23,041 --> 01:23:24,375
+Ardiak dira.
+
+1426
+01:23:25,541 --> 01:23:26,916
+Ardiak dira.
+
+1427
+01:24:09,625 --> 01:24:11,833
+Sinatu, eta eramango dugu.
+
+1428
+01:24:12,000 --> 01:24:13,166
+Ondo da.
+
+1429
+01:24:15,208 --> 01:24:16,541
+Ez du funtzionatu.
+
+1430
+01:24:16,708 --> 01:24:18,416
+Eman unetxo bat.
+
+1431
+01:24:21,125 --> 01:24:22,166
+Derry agentea.
+
+1432
+01:24:23,375 --> 01:24:24,500
+Orria.
+
+1433
+01:24:28,500 --> 01:24:29,958
+LEKUALDATZE ORRIA
+Eskolta aldaketa
+
+1434
+01:24:30,458 --> 01:24:31,958
+Ez sinatu.
+
+1435
+01:24:34,083 --> 01:24:35,666
+JATORRIZKO AGENTEA
+SINADURA
+
+1436
+01:24:59,833 --> 01:25:01,833
+Geldi!
+
+1437
+01:25:03,416 --> 01:25:06,125
+Ez zen bera izan.
+
+1438
+01:25:06,833 --> 01:25:08,375
+Baina badakit nor izan zen.
+
+1439
+01:25:08,541 --> 01:25:10,250
+Badakit nork hil zuen George Hardy.
+
+1440
+01:25:15,666 --> 01:25:16,958
+Harbottle andrea.
+
+1441
+01:25:18,125 --> 01:25:19,291
+Ez!
+
+1442
+01:25:19,500 --> 01:25:24,291
+Antza, banintzen mozoloa,
+baina dagoeneko ez naiz.
+
+1443
+01:25:25,625 --> 01:25:30,083
+Rebecca izan da susmagarri nagusia
+Denbrookera heldu zenetik.
+
+1444
+01:25:30,250 --> 01:25:33,208
+Eragingarririk handiena zuen.
+Eta gezurra esan zuen.
+
+1445
+01:25:33,375 --> 01:25:35,666
+Georgeren baserrian egon zen
+hilketaren gauean.
+
+1446
+01:25:35,833 --> 01:25:38,250
+Hiltzaileak espero bezala.
+
+1447
+01:25:38,416 --> 01:25:43,333
+Ez dugu hiltzailea ikertu
+ez zelako susmagarria.
+
+1448
+01:25:43,541 --> 01:25:48,875
+Zurigarria zuen
+Georgeren testamentuko pertsona bakarra.
+
+1449
+01:25:49,125 --> 01:25:50,875
+Zurigarri ezin hobea.
+
+1450
+01:25:51,041 --> 01:25:52,791
+Herrialdean ere ez zegoelako.
+
+1451
+01:25:52,958 --> 01:25:54,458
+- Ez zara ariko…?
+- Bai.
+
+1452
+01:25:54,625 --> 01:25:55,708
+Peter Van Vuuren.
+
+1453
+01:25:55,875 --> 01:25:57,125
+- Hegoafrikakoa.
+- Hegoafrikakoa.
+
+1454
+01:25:57,291 --> 01:25:59,916
+Rebecca, esan zenuen
+Georgek testamentua bidali zizula.
+
+1455
+01:26:00,083 --> 01:26:03,333
+Ziur aski zure nebari ere bidaliko zion.
+
+1456
+01:26:03,500 --> 01:26:07,625
+Hark ikertu,
+Georgeren benetako balioa ikasi,
+
+1457
+01:26:07,791 --> 01:26:12,875
+eta 30 milioi horiek lortzeko
+hiltzeko prest zegoela erabaki zuen.
+
+1458
+01:26:13,833 --> 01:26:16,458
+Baina arazo handi bat zuen.
+
+1459
+01:26:16,625 --> 01:26:17,583
+Eragingarria!
+
+1460
+01:26:18,000 --> 01:26:19,291
+Nik esan nahi nuen.
+
+1461
+01:26:19,458 --> 01:26:22,041
+Hiltzailea nintzela
+aditzera eman berri duzu.
+
+1462
+01:26:23,916 --> 01:26:24,916
+Eragingarria!
+
+1463
+01:26:25,416 --> 01:26:30,458
+Hilketa biktimak dirutza uzten badizu,
+orduan susmagarri nagusia zara.
+
+1464
+01:26:30,625 --> 01:26:33,958
+Baina zure arrebari utzi
+eta krimena berari leporatzen badiote…
+
+1465
+01:26:34,125 --> 01:26:35,666
+Dirua automatikoki jasoko du…
+
+1466
+01:26:35,833 --> 01:26:37,125
+- Seniderik hurbilenak!
+- Seniderik hurbilenak!
+
+1467
+01:26:37,250 --> 01:26:39,500
+Mesedez! Nire unea da.
+
+1468
+01:26:39,666 --> 01:26:40,750
+Asko sentitzen dut.
+
+1469
+01:26:41,125 --> 01:26:42,791
+Seniderik hurbilenak!
+
+1470
+01:26:43,166 --> 01:26:44,500
+Argitu beharreko bakarra da
+
+1471
+01:26:45,875 --> 01:26:47,416
+non ezkutatu da?
+
+1472
+01:26:47,583 --> 01:26:49,375
+Nor bilatzen ari naiz?
+
+1473
+01:26:49,541 --> 01:26:52,125
+Mutur aurrean dagoen norbait.
+
+1474
+01:26:52,291 --> 01:26:54,458
+Izena aldatu zuen norbait.
+
+1475
+01:26:55,083 --> 01:26:58,791
+Adibidez, Chastity Crampfs…
+
+1476
+01:26:58,958 --> 01:27:01,208
+Rebecca Hampstead bihurtu zen.
+
+1477
+01:27:01,375 --> 01:27:02,666
+Eta Peter Van Vuuren…
+
+1478
+01:27:02,833 --> 01:27:04,791
+Eta Peter Van Vuuren…
+
+1479
+01:27:06,666 --> 01:27:08,458
+Elliot Matthews bihurtu zen.
+
+1480
+01:27:08,625 --> 01:27:09,666
+Ez!
+
+1481
+01:27:11,333 --> 01:27:13,125
+Georgeren mamua.
+
+1482
+01:27:14,416 --> 01:27:16,083
+Ez da asmakizuna.
+
+1483
+01:27:17,166 --> 01:27:19,125
+Tim, lotsagarri geratzen ari zara.
+
+1484
+01:27:19,708 --> 01:27:23,250
+Ez naiz Hegoafrikan bizi.
+Hemen bizi naiz, eta egunkari batentzat…
+
+1485
+01:27:23,416 --> 01:27:24,416
+Badakit.
+
+1486
+01:27:24,541 --> 01:27:29,458
+Denbora bat eramango duzu herrialdean
+Elliot Matthews izena erabiliz.
+
+1487
+01:27:29,625 --> 01:27:31,375
+Doinua imitatuz.
+
+1488
+01:27:31,666 --> 01:27:36,083
+Georgek esan zizun
+Rebecca bisitan etorriko zela, ezta?
+
+1489
+01:27:36,666 --> 01:27:39,625
+Aukera bikaina krimena berari leporatzeko.
+
+1490
+01:27:39,916 --> 01:27:43,208
+Denbrookera etortzeko arrazoi bat
+baino ez zenuen behar.
+
+1491
+01:27:43,958 --> 01:27:46,208
+<i>Kultura jaialdi bat, esaterako.</i>
+
+1492
+01:27:46,375 --> 01:27:48,416
+<i>Zure plana sinplea zen.</i>
+
+1493
+01:27:48,541 --> 01:27:49,375
+<i>Lehenik…</i>
+
+1494
+01:27:49,666 --> 01:27:51,916
+amorratuta alde egin zenuen Denbrooketik.
+
+1495
+01:27:52,250 --> 01:27:55,625
+<i>Gero, autoa matxuratu zitzaizulako
+itzuli behar izan zenuen.</i>
+
+1496
+01:27:57,833 --> 01:28:01,500
+<i>Beranduago gau hartan,
+Rebecca joan ostean,</i>
+
+1497
+01:28:01,666 --> 01:28:04,291
+<i>egitera etorri zinena egin zenuen.</i>
+
+1498
+01:28:07,375 --> 01:28:08,458
+Sartu.
+
+1499
+01:28:18,416 --> 01:28:19,541
+Topa.
+
+1500
+01:28:19,833 --> 01:28:21,500
+<i>Zure aita pozoitu…</i>
+
+1501
+01:28:23,375 --> 01:28:25,541
+<i>eta testamentu berria mahaian utzi zenuen.</i>
+
+1502
+01:28:28,458 --> 01:28:30,833
+<i>Baina zure aita
+zuk uste baino indartsuagoa zen.</i>
+
+1503
+01:28:32,833 --> 01:28:34,208
+Borrokatu zineten.
+
+1504
+01:28:42,583 --> 01:28:45,166
+<i>Baina azkenean, irabazi zenuen.</i>
+
+1505
+01:28:45,708 --> 01:28:49,333
+Falta zen bakarra
+errua zure arrebari leporatzea zen.
+
+1506
+01:28:50,041 --> 01:28:52,000
+Argia izan zinen.
+
+1507
+01:28:52,375 --> 01:28:55,958
+Bazenekien Harbottle andreak
+testamentua irakurtzeko botako zintuela.
+
+1508
+01:28:57,791 --> 01:29:02,208
+<i>Van Vuuren jauna, Lydia Harbottle naiz.
+Entzuten didazu?</i>
+
+1509
+01:29:02,541 --> 01:29:04,375
+<i>Ja.</i> Konexio bikaina dago. Mila esker.
+
+1510
+01:29:04,541 --> 01:29:08,708
+Fruituei dagokienez, erraza izan zen
+horiek Rebeccaren gelan jartzea.
+
+1511
+01:29:09,166 --> 01:29:10,708
+<i>Herriko ostatua da.</i>
+
+1512
+01:29:10,875 --> 01:29:12,250
+<i>Sarraila kaskarrak ditu.</i>
+
+1513
+01:29:13,333 --> 01:29:15,375
+Ia perfektua, Elliot.
+
+1514
+01:29:15,541 --> 01:29:18,875
+Baina ez zenekiena
+eta nik orain arte ulertzen ez nuena da
+
+1515
+01:29:19,041 --> 01:29:20,750
+atzean froga bat utzi zenuela.
+
+1516
+01:29:21,541 --> 01:29:23,125
+Georgeren eskuak.
+
+1517
+01:29:23,291 --> 01:29:25,250
+Georgeren eskuak.
+
+1518
+01:29:26,916 --> 01:29:30,041
+Bata urdin zeukan, bestea berde.
+
+1519
+01:29:30,208 --> 01:29:33,041
+<i>Urdinak zentzua zuen.
+Aberats egin zuen botika.</i>
+
+1520
+01:29:33,208 --> 01:29:35,041
+Baina zer zen berdea?
+
+1521
+01:29:35,958 --> 01:29:38,916
+Eta orduan lagun batzuek…
+
+1522
+01:29:39,333 --> 01:29:42,416
+oso detektibe onak diren lagun batzuek…
+
+1523
+01:29:45,875 --> 01:29:47,416
+ideia bat eman zidaten.
+
+1524
+01:29:48,250 --> 01:29:50,125
+Urdina eta horia.
+
+1525
+01:29:50,291 --> 01:29:54,083
+Urdina eta horia nahasiz gero
+berdea lortzen da.
+
+1526
+01:29:54,250 --> 01:29:57,333
+Georgeren eskuan ikusi nuen
+orbain berdea bezala.
+
+1527
+01:29:57,500 --> 01:30:00,666
+Ostatuko burko-azalean ikusi nuen
+orbain berdea bezala.
+
+1528
+01:30:00,958 --> 01:30:04,333
+Zuk erabili zenuena
+George hil zenuen gauean!
+
+1529
+01:30:05,625 --> 01:30:09,541
+Georgek bi eskuak zituen gau hartan
+urdinez zikinduta botika zela eta.
+
+1530
+01:30:09,708 --> 01:30:13,000
+Baina norbaiti tiratu zion iletik.
+
+1531
+01:30:14,125 --> 01:30:17,833
+Eta pertsona horrek
+ilerako tindagai hori merkea erabili zuen,
+
+1532
+01:30:18,000 --> 01:30:19,791
+euriarekin joaten den horietakoa,
+
+1533
+01:30:19,958 --> 01:30:21,666
+Georgeren eskua berdez tindatuz.
+
+1534
+01:30:22,666 --> 01:30:26,250
+Pertsona horrek horiz tindatu zuen ilea
+Denbrookera heldu aurretik
+
+1535
+01:30:26,416 --> 01:30:29,208
+ez zuelako inork
+une batez ere pentsatzerik nahi
+
+1536
+01:30:29,375 --> 01:30:32,208
+bere aitaren edo arrebaren antzik zuenik.
+
+1537
+01:30:32,708 --> 01:30:34,082
+Ez al da hala, Peter?
+
+1538
+01:30:34,083 --> 01:30:34,916
+Bai!
+
+1539
+01:30:35,083 --> 01:30:36,000
+Ez!
+
+1540
+01:30:36,416 --> 01:30:39,416
+Ez, erokeria hutsa da, ezin duzu frogatu.
+
+1541
+01:30:39,583 --> 01:30:43,083
+Orduan ez zaizu axola izango hau hartzea.
+
+1542
+01:30:47,875 --> 01:30:49,375
+Ez horixe.
+
+1543
+01:30:50,416 --> 01:30:53,125
+Aitortu beharra dut ez naizela ilehoria.
+
+1544
+01:30:53,791 --> 01:30:58,750
+Baita hortzak zuritu
+eta bularra depilatzen dudala ere.
+
+1545
+01:30:58,916 --> 01:31:01,041
+Ziur begetarianoa dela.
+
+1546
+01:31:01,208 --> 01:31:05,458
+Beraz, hilketa egozten ausartzen bazara,
+ilea tindatzeagatik,
+
+1547
+01:31:05,625 --> 01:31:07,250
+ez nauzu auzitara eramango.
+
+1548
+01:31:07,416 --> 01:31:09,583
+Nik eramango zaitut zu.
+
+1549
+01:31:13,958 --> 01:31:15,500
+Gaizki ulertu duzu.
+
+1550
+01:31:15,666 --> 01:31:18,083
+Nahi dudana ez da zure tindagaia.
+
+1551
+01:31:18,250 --> 01:31:19,708
+Zure DNA baizik.
+
+1552
+01:31:21,375 --> 01:31:23,833
+George Hardyren semea bazara,
+
+1553
+01:31:24,000 --> 01:31:26,375
+orduan Peter Van Vuuren zara,
+
+1554
+01:31:26,541 --> 01:31:30,333
+eta hortaz, hiltzailea.
+
+1555
+01:31:31,333 --> 01:31:32,416
+Harrapatu zaitut.
+
+1556
+01:31:33,500 --> 01:31:34,666
+Harrapatu zaitut.
+
+1557
+01:31:40,708 --> 01:31:42,208
+Lan bikaina, Tim.
+
+1558
+01:31:48,708 --> 01:31:49,708
+Aizu!
+
+1559
+01:31:52,958 --> 01:31:53,791
+Lily!
+
+1560
+01:31:53,916 --> 01:31:55,791
+Ronnie! Reggie! Etorri zarete!
+
+1561
+01:31:55,958 --> 01:31:57,250
+Bai!
+
+1562
+01:31:57,625 --> 01:31:58,625
+Zergatik?
+
+1563
+01:32:01,083 --> 01:32:02,750
+Aizu! Geldi!
+
+1564
+01:32:02,916 --> 01:32:06,625
+Zerbait kolpatzeko
+arrazoi on bat dagoelako.
+
+1565
+01:32:06,791 --> 01:32:08,083
+- Mila esker.
+- Azkenik!
+
+1566
+01:32:08,208 --> 01:32:09,041
+Bai!
+
+1567
+01:32:28,541 --> 01:32:29,708
+Justizia?
+
+1568
+01:32:29,875 --> 01:32:32,250
+Ez. Gu-stizia.
+
+1569
+01:32:32,416 --> 01:32:33,583
+Bai!
+
+1570
+01:32:37,208 --> 01:32:40,666
+Milioiak zituen! Aditu? Milioiak!
+
+1571
+01:32:40,833 --> 01:32:41,958
+Bere semea naiz.
+
+1572
+01:32:42,125 --> 01:32:44,250
+Milioiek nireak izan behar zuten.
+
+1573
+01:32:52,000 --> 01:32:54,250
+Estatubatuarra izan arren,
+banekien ez zela bera.
+
+1574
+01:32:54,375 --> 01:32:55,541
+Hori ez da egia.
+
+1575
+01:32:58,416 --> 01:32:59,333
+Entzun.
+
+1576
+01:32:59,500 --> 01:33:03,375
+Denbrookeko polizia-etxe osoaren izenean
+
+1577
+01:33:03,541 --> 01:33:05,708
+barkamena eskatzen dizut.
+
+1578
+01:33:05,875 --> 01:33:08,708
+Badago beste poliziarik herrian?
+
+1579
+01:33:09,208 --> 01:33:10,250
+Ez.
+
+1580
+01:33:11,125 --> 01:33:13,041
+Nik eskatu nahi dizut barkamena.
+
+1581
+01:33:14,708 --> 01:33:15,708
+Milesker.
+
+1582
+01:33:24,791 --> 01:33:26,083
+Begira.
+
+1583
+01:33:27,250 --> 01:33:28,375
+Leihatilako-arkumea?
+
+1584
+01:33:29,750 --> 01:33:31,333
+Leihatilako-arkumea.
+
+1585
+01:33:33,125 --> 01:33:35,541
+Denbora batez geratuko zara?
+
+1586
+01:33:35,791 --> 01:33:40,708
+Espetxetik irten berri naiz,
+denbora apur bat beharko dut.
+
+1587
+01:33:45,333 --> 01:33:47,291
+Espero dut geratzea.
+
+1588
+01:33:47,833 --> 01:33:49,041
+Agian.
+
+1589
+01:33:53,875 --> 01:33:54,958
+Rebecca.
+
+1590
+01:33:55,541 --> 01:33:58,916
+Rebecca.
+Bihotzez eskatzen dizut barkamena.
+
+1591
+01:34:26,000 --> 01:34:27,541
+Nire kontu.
+
+1592
+01:34:29,291 --> 01:34:30,500
+Milesker.
+
+1593
+01:34:34,833 --> 01:34:35,958
+Egon.
+
+1594
+01:34:40,541 --> 01:34:42,666
+Sentitzen dut.
+
+1595
+01:34:44,958 --> 01:34:46,500
+Gutuna ikusi nuen,
+
+1596
+01:34:47,125 --> 01:34:51,750
+postariaren poltsan,
+eta ez nekien bere alaba zinela.
+
+1597
+01:34:51,916 --> 01:34:55,083
+Nik erosi nion
+arrosa usaineko papera, beraz…
+
+1598
+01:34:55,500 --> 01:34:57,041
+Imajina dezakezu.
+
+1599
+01:34:57,250 --> 01:34:58,666
+Berarekin maiteminduta zeunden?
+
+1600
+01:35:00,250 --> 01:35:01,333
+Zera…
+
+1601
+01:35:01,708 --> 01:35:04,291
+Eta bera zurekin…?
+
+1602
+01:35:04,541 --> 01:35:05,958
+Saiatu zen.
+
+1603
+01:35:06,333 --> 01:35:09,083
+Baina zure ama maite zuen.
+
+1604
+01:35:09,291 --> 01:35:12,375
+Ez ez zegoen lekurik
+bere bihotzean beste inorentzat.
+
+1605
+01:35:13,375 --> 01:35:15,750
+Nolako itxura zuen jakin nahi nuen.
+
+1606
+01:35:16,125 --> 01:35:17,958
+Baina orain badakit.
+
+1607
+01:35:19,458 --> 01:35:21,750
+Gauza gehiago galdetu izan banizkio.
+
+1608
+01:35:23,708 --> 01:35:25,250
+Ez dakit bere izena ere.
+
+1609
+01:35:25,541 --> 01:35:26,708
+Lily.
+
+1610
+01:35:27,375 --> 01:35:29,000
+Lily zuen izena.
+
+1611
+01:35:35,041 --> 01:35:38,250
+<i>Testamentu faltsua ez da baliozkoa.</i>
+
+1612
+01:35:38,416 --> 01:35:41,375
+{\an8}Baina ardiak eta lurrak zureak dira.
+
+1613
+01:35:41,541 --> 01:35:43,333
+- Hampstead andereñoa.
+- Ez dago gaizki.
+
+1614
+01:35:43,500 --> 01:35:45,208
+Barkatu eragozpena.
+
+1615
+01:35:45,625 --> 01:35:49,708
+Hamek eta biok negozio berri bat
+abiarazi nahi dugu.
+
+1616
+01:35:49,875 --> 01:35:51,625
+Eta bankuaren babesa dugu.
+
+1617
+01:35:52,291 --> 01:35:56,041
+Zure aitaren zelaiak eta ardiak
+erosi nahi ditugu.
+
+1618
+01:35:56,708 --> 01:35:57,708
+Bi hiltzaile.
+
+1619
+01:35:57,875 --> 01:35:59,041
+Barkatu?
+
+1620
+01:35:59,208 --> 01:36:02,250
+Aitak bere lurretan
+ardiak hiltzen zituztela jakin zuen.
+
+1621
+01:36:02,708 --> 01:36:04,666
+Zuek zarete bi hiltzaileak.
+
+1622
+01:36:05,041 --> 01:36:06,541
+Bi negozio-gizon gara.
+
+1623
+01:36:06,708 --> 01:36:09,416
+Eta ondo ordainduko dizugu.
+
+1624
+01:36:09,833 --> 01:36:11,666
+Badakizue nola duten izena ere?
+
+1625
+01:36:12,625 --> 01:36:14,375
+Haien izenak esan zizkidan.
+
+1626
+01:36:14,541 --> 01:36:16,875
+Badago Lily.
+
+1627
+01:36:18,833 --> 01:36:20,041
+Eta Mopple.
+
+1628
+01:36:20,208 --> 01:36:24,208
+Eta iletsua Hodei da. Diva hutsa dela dio.
+
+1629
+01:36:24,375 --> 01:36:27,083
+Eta bilotsua denak Bilotsu du izena,
+
+1630
+01:36:27,250 --> 01:36:30,500
+nabariegia iruditu zitzaidan,
+baina kexatu ez dela esan zidan.
+
+1631
+01:36:30,666 --> 01:36:32,833
+- Bai, entzun, Hampstead andereñoa…
+- Hardy.
+
+1632
+01:36:33,291 --> 01:36:34,541
+Rebecca Hardy.
+
+1633
+01:36:34,708 --> 01:36:36,041
+Aldatuko dut.
+
+1634
+01:36:36,208 --> 01:36:38,083
+Ez dut izen aldaketarik egiten.
+
+1635
+01:36:38,250 --> 01:36:40,583
+Sentitzen dut, Hardy andereñoa, zorte on.
+
+1636
+01:36:40,791 --> 01:36:41,791
+Agur.
+
+1637
+01:36:42,833 --> 01:36:43,833
+Egon.
+
+1638
+01:36:44,291 --> 01:36:46,833
+Eta ardi gehiago nahi banitu?
+
+1639
+01:36:47,250 --> 01:36:49,583
+Banku baten babesa lor nezake?
+
+1640
+01:36:50,666 --> 01:36:53,791
+Lily, nola argitu duzu?
+
+1641
+01:36:53,958 --> 01:36:55,625
+Nola ez zuen argituko bada.
+
+1642
+01:36:55,791 --> 01:36:57,916
+Munduko ardirik argiena da.
+
+1643
+01:36:58,083 --> 01:37:01,916
+Tira. Hori pentsatu ohi nuen, baina ez.
+
+1644
+01:37:02,083 --> 01:37:03,208
+Akatsak egin ditut.
+
+1645
+01:37:03,375 --> 01:37:07,750
+Neguko arkumeari kasu egin behar nion
+Georgeren mamua ikusi zuela esatean…
+
+1646
+01:37:16,458 --> 01:37:18,583
+Tira, neska-mutilak. Goazen.
+
+1647
+01:37:29,375 --> 01:37:30,916
+Nola duzu izena? Baduzu anai-arrebarik?
+
+1648
+01:37:31,083 --> 01:37:34,000
+Zenbat daramazue hemen?
+Hamaika galdera ditut.
+
+1649
+01:37:34,166 --> 01:37:36,166
+Barkatu.
+
+1650
+01:37:38,875 --> 01:37:40,500
+Non duzu aurpegia?
+
+1651
+01:37:43,083 --> 01:37:45,125
+Ektima duzu.
+
+1652
+01:37:45,291 --> 01:37:47,291
+Nik ere bai!
+
+1653
+01:37:53,541 --> 01:37:54,791
+Lily.
+
+1654
+01:38:22,916 --> 01:38:26,750
+ARDIAK HEZTEKO HARDYREN GIDA
+
+1655
+01:39:08,208 --> 01:39:09,791
+"Lehenengo atala:
+
+1656
+01:39:11,958 --> 01:39:15,666
+ohiko ustea da
+baserriko animalia guztien artean
+
+1657
+01:39:15,833 --> 01:39:17,625
+ardiak direla tentelenak.
+
+1658
+01:39:21,291 --> 01:39:22,958
+Baina hori ez da egia.
+
+1659
+01:39:23,833 --> 01:39:27,666
+{\an8}Ardiak argiak eta inspiratzaileak dira.
+
+1660
+01:39:27,833 --> 01:39:30,833
+Sehaska-kanta zahar batek honela dio:
+
+1661
+01:39:31,000 --> 01:39:34,791
+<i>Bo Beep txikiak bere ardiak galdu ditu.
+Eta ez daki non aurkitu.</i>
+
+1662
+01:39:34,958 --> 01:39:37,458
+<i>Baina bakarrik utzi.
+Eta etxera dira itzuli.</i>
+
+1663
+01:39:38,208 --> 01:39:40,750
+<i>Buztana astintzen".</i>
+
+1664
+01:39:47,291 --> 01:39:49,208
+Leku polita da.
+
+1665
+01:39:49,958 --> 01:39:51,708
+Baina nahiko bakartia.
+
+1666
+01:39:55,208 --> 01:39:56,458
+George.
+
+1667
+01:39:57,791 --> 01:39:59,458
+Horrela duzu izena.
+
+1668
+01:40:00,125 --> 01:40:02,541
+Ardi orok behar du izen bat.
+
+1669
+01:40:04,916 --> 01:40:06,375
+George.
+
+1670
+01:40:16,500 --> 01:40:21,833
+"Ardi zuri, maitekor,
+iletsu eta politen talde bat.
+
+1671
+01:40:22,000 --> 01:40:24,708
+Askok uste dute
+ardi denak direla berdinak.
+
+1672
+01:40:25,291 --> 01:40:27,916
+Baina artalde bakar batean
+
+1673
+01:40:28,083 --> 01:40:32,291
+ezaugarri eta izaera ezberdineko ardiak
+aurkituko dituzu.
+
+1674
+01:40:35,541 --> 01:40:39,708
+Batzuk atseginak izango dira
+eta beste batzuk harroak.
+
+1675
+01:40:39,875 --> 01:40:42,583
+Argiak, inozoak,
+lotsatiak edo harroputzak".
+
+1676
+01:40:42,708 --> 01:40:45,625
+- Kaixo, nola duzu izena?
+- George dut izena.
+
+1677
+01:40:45,750 --> 01:40:46,875
+Kaixo, George!
+
+1678
+01:40:47,000 --> 01:40:50,125
+"Animalia maitekor hauek
+giza kultura ororen parte izan dira,
+
+1679
+01:40:50,291 --> 01:40:52,833
+eta hizkuntza eta piktografian
+irudikatuak izan dira
+
+1680
+01:40:53,000 --> 01:40:55,458
+maitasunaren, tolesgabetasunaren
+eta bakearen ikur gisa.
+
+1681
+01:40:55,916 --> 01:41:00,541
+{\an8}Gizakiok bezala,
+beren artaldea baitute ardatz.
+
+1682
+01:41:01,416 --> 01:41:04,250
+{\an8}Gurearen parte izatea erabakitzen dute.
+
+1683
+01:41:04,833 --> 01:41:06,416
+{\an8}Eta horrela ikasten dugu…
+
+1684
+01:41:07,375 --> 01:41:09,791
+gu haienaren parte garela".
+
+1685
+01:43:21,708 --> 01:43:24,416
+ARDI DETEKTIBEAK
+
+1686
+01:48:46,208 --> 01:48:47,541
+<i>Neskamea izan dela uste dut.</i>
+
+1687
+01:48:47,666 --> 01:48:48,666
+Azpitituluak: Leire Chertudi
+

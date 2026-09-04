@@ -1,0 +1,7 @@
+labels:
+  # Sablier service management: this container is started/stopped by sablier
+  - "sablier.enable=true"
+  - "sablier.group=freellmapi"
+  - "sablier.session.duration=30m"
+  - "sablier.session.inactivity=5m"
+  - "sablier.port.name=3001"

@@ -1,0 +1,16 @@
+{
+  "category": "Subtitles",
+  "changelog": "- Fix 429 handling (#189) @MBR-0001\n- Revert \u0022Update dependency Microsoft.Extensions.Http to v10\u0022 (#184) @Shadowghost\n- imdbId fixes (#182) @MBR-0001\n\n### Dependency updates ###\n- Update dependency xunit to 2.9.3 (#137) @[renovate[bot]](https://github.com/apps/renovate)\n- Update dependency coverlet.collector to v6 (#125) @[renovate[bot]](https://github.com/apps/renovate)\n- Update dependency xunit.runner.visualstudio to v3 (#158) @[renovate[bot]](https://github.com/apps/renovate)\n- Update dependency Microsoft.NET.Test.Sdk to v18 - autoclosed (#170) @[renovate[bot]](https://github.com/apps/renovate)\n- Update dependency Microsoft.Extensions.Http to v10 (#178) @[renovate[bot]](https://github.com/apps/renovate)",
+  "description": "Download subtitles from the internet to use with your media files. (Requires configuration)",
+  "guid": "4b9ed42f-5185-48b5-9803-6ff2989014c4",
+  "name": "Open Subtitles",
+  "overview": "Download subtitles for your media",
+  "owner": "jellyfin",
+  "targetAbi": "10.11.8.0",
+  "timestamp": "2026-05-05T15:28:07.0000000Z",
+  "version": "24.0.0.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/plugins/Open Subtitles_24.0.0.0/jellyfin-plugin-opensubtitles.png",
+  "assemblies": []
+}

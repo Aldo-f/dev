@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2026-08-24 14:21:47</dateadded>
+  <title>Oleta Adams</title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>d3ffeb64-9d7b-4911-98e5-91ee26005ee9</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Oleta Adams/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Oleta Adams/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,7041 @@
+1
+00:00:42,291 --> 00:00:49,250
+BÉÉ TEAM NA STOPĚ
+
+2
+00:00:49,416 --> 00:00:51,000
+<i>Nejdražší Rebeko,</i>
+
+3
+00:00:52,291 --> 00:00:54,958
+<i>vím, že máš mnoho otázek.</i>
+
+4
+00:00:56,125 --> 00:00:57,333
+<i>Ale to i já.</i>
+
+5
+00:00:57,500 --> 00:01:00,625
+<i>Koneckonců, život je
+jedna velká detektivka.</i>
+
+6
+00:01:01,208 --> 00:01:04,250
+<i>Avšak existuje-li odpověď
+na všechny záhady vesmíru,</i>
+
+7
+00:01:04,416 --> 00:01:06,333
+<i>jediný klíč ke šťastnému životu,</i>
+
+8
+00:01:06,458 --> 00:01:08,666
+<i>pak to jsou</i>…
+
+9
+00:01:10,708 --> 00:01:11,791
+<i>Ovce.</i>
+
+10
+00:01:15,125 --> 00:01:16,416
+<i>Ale vážně.</i>
+
+11
+00:01:16,750 --> 00:01:18,250
+<i>Opravdu to jsou ovce.</i>
+
+12
+00:01:20,458 --> 00:01:22,250
+No jo, už běžím.
+
+13
+00:01:35,291 --> 00:01:38,750
+<i>V dopise ses ptala, zda mám
+mezi ovečkami nějaké oblíbené.</i>
+
+14
+00:01:38,916 --> 00:01:43,458
+<i>Inu, mám je rád všechny.
+Proto jsem každou z nich pojmenoval.</i>
+
+15
+00:01:43,625 --> 00:01:44,708
+<i>Například</i>
+
+16
+00:01:45,666 --> 00:01:49,541
+<i>tihle tvrdohlaví berani
+se jmenují Ducan a Drcan.</i>
+
+17
+00:01:50,041 --> 00:01:53,375
+<i>A ten hrdý a vznešený je sir Ritchfield.</i>
+
+18
+00:01:54,083 --> 00:01:55,916
+<i>Vlnka je nejhuňatější ze všech.</i>
+
+19
+00:01:56,083 --> 00:01:57,875
+<i>Je to trochu primadona.</i>
+
+20
+00:01:58,750 --> 00:02:01,041
+<i>Zorka je zase nejzvídavější.</i>
+
+21
+00:02:01,833 --> 00:02:04,208
+<i>Mopple je nejtrpělivější.</i>
+
+22
+00:02:04,958 --> 00:02:06,500
+<i>A pro Emoně</i>
+
+23
+00:02:07,208 --> 00:02:09,833
+<i>mě lepší jméno nenapadlo.</i>
+
+24
+00:02:10,125 --> 00:02:13,083
+{\an8}<i>Vím, že jsem psal, že je mám rád všechny,</i>
+
+25
+00:02:13,250 --> 00:02:17,916
+<i>ale dvě z nich mám přece jen nejraději.</i>
+
+26
+00:02:18,625 --> 00:02:19,750
+<i>První je Sebastian.</i>
+
+27
+00:02:19,875 --> 00:02:21,291
+<i>Můj největší beran.</i>
+
+28
+00:02:21,458 --> 00:02:23,916
+<i>Je jako já. Trochu samotář.</i>
+
+29
+00:02:24,500 --> 00:02:27,125
+<i>Čas od času se někam zatoulá.</i>
+
+30
+00:02:27,458 --> 00:02:30,541
+<i>Ale nakonec se vždycky vrátí.</i>
+
+31
+00:02:34,083 --> 00:02:36,750
+<i>A nakonec, Lily.</i>
+
+32
+00:02:37,208 --> 00:02:38,750
+<i>Je ze všech nejchytřejší.</i>
+
+33
+00:02:38,916 --> 00:02:42,083
+<i>Zdá se mi, že nějak ví, na co právě myslím</i>
+
+34
+00:02:42,250 --> 00:02:44,458
+<i>nebo co zrovna cítím.</i>
+
+35
+00:02:44,625 --> 00:02:49,958
+<i>Je to hlavně ona, kdo mi dodává klid,
+jaký znají jenom pastýři.</i>
+
+36
+00:02:50,125 --> 00:02:51,583
+<i>Mír, jaký pociťují</i>
+
+37
+00:02:51,750 --> 00:02:56,208
+<i>chovatelé těch
+nejmilejších zvířat na Zemi.</i>
+
+38
+00:03:01,500 --> 00:03:03,875
+<i>Starám se, aby byly mé ovečky zdravé.</i>
+
+39
+00:03:04,041 --> 00:03:05,541
+KRMENÍ PRO OVCE
+
+40
+00:03:06,000 --> 00:03:07,750
+<i>Dobře je krmím,</i>
+
+41
+00:03:08,500 --> 00:03:09,625
+<i>pravidelně stříhám.</i>
+
+42
+00:03:11,625 --> 00:03:14,375
+<i>Dělám, co mohu, aby se nenudily.</i>
+
+43
+00:03:22,083 --> 00:03:26,166
+<i>A starám se, aby jedly svoji meducínu,
+která jim podle mě moc chutná.</i>
+
+44
+00:03:26,333 --> 00:03:27,833
+<i>Kéž by mohly mluvit.</i>
+
+45
+00:03:28,000 --> 00:03:30,791
+Papej meducínku. Budeš zdravý.
+
+46
+00:03:31,125 --> 00:03:35,291
+<i>A když mám všechnu práci
+hotovou a slunce zapadá,</i>
+
+47
+00:03:35,458 --> 00:03:37,625
+<i>předčítám jim nahlas z knih.</i>
+
+48
+00:03:37,791 --> 00:03:42,083
+<i>Detektivky, záhady, krváky.
+Ty mám nejradši.</i>
+
+49
+00:03:42,250 --> 00:03:45,000
+„Už vím, kdy byl
+Rodney Hollingshead zavražděn
+
+50
+00:03:45,166 --> 00:03:48,458
+a kdo byl jeho vrahem.“
+
+51
+00:03:48,708 --> 00:03:51,916
+<i>Představuju si, že rozumí,
+co se v těch příbězích děje.</i>
+
+52
+00:03:52,333 --> 00:03:56,750
+<i>Ale samozřejmě vím, že i když
+jsou velmi chytré, pořád to jsou</i>…
+
+53
+00:03:57,250 --> 00:03:58,500
+<i>ovce.</i>
+
+54
+00:03:59,583 --> 00:04:00,875
+Ne, stačilo.
+
+55
+00:04:01,458 --> 00:04:02,875
+Dobrou, ovečky.
+
+56
+00:04:03,041 --> 00:04:05,166
+Konec vám dočtu až zítra.
+
+57
+00:04:11,875 --> 00:04:13,458
+Proč nám to nedočetl?
+
+58
+00:04:13,625 --> 00:04:15,958
+Chystal se nám prozradit, kdo byl vrah!
+
+59
+00:04:16,083 --> 00:04:18,166
+To jsou muka! Byla to služebná, že?
+
+60
+00:04:18,291 --> 00:04:19,833
+Natuty to byla ona.
+
+61
+00:04:20,000 --> 00:04:22,791
+<i>Ne. Vrah byl zahradník.</i>
+
+62
+00:04:22,958 --> 00:04:25,666
+Pořád sekal trávu a vůbec ji nejedl.
+
+63
+00:04:25,833 --> 00:04:27,000
+Jo. Podezřelý.
+
+64
+00:04:27,125 --> 00:04:28,791
+Šibe vám? Ten doktor to byl!
+
+65
+00:04:28,916 --> 00:04:30,708
+Neke. Byla to ta slizká teta.
+
+66
+00:04:30,875 --> 00:04:33,791
+Slizká teta byla
+v předminulý knížce, ty chytrej.
+
+67
+00:04:33,958 --> 00:04:35,750
+Jak my dva můžeme bejt bratři?
+
+68
+00:04:35,875 --> 00:04:37,375
+Zas bude boj.
+
+69
+00:04:37,541 --> 00:04:38,583
+Tak.
+
+70
+00:04:39,333 --> 00:04:40,916
+Jo, a jsou zase v sobě.
+
+71
+00:04:41,083 --> 00:04:43,666
+Všichni jste mimo.
+
+72
+00:04:43,833 --> 00:04:46,416
+Já na to přišla už předminulou kapitolu.
+
+73
+00:04:46,958 --> 00:04:48,000
+Služebná, viď?
+
+74
+00:04:48,166 --> 00:04:49,333
+Ta ne.
+
+75
+00:04:49,500 --> 00:04:52,541
+Ten synovec. Bertie Hollingshead.
+
+76
+00:04:52,708 --> 00:04:56,875
+Ale neprokázal ten detektiv,
+že důkazy proti Bertiemu Hollingsheadovi
+
+77
+00:04:57,041 --> 00:04:59,333
+zfalšoval skutečný vrah?
+
+78
+00:04:59,500 --> 00:05:00,708
+Přesně tak.
+
+79
+00:05:00,875 --> 00:05:02,291
+Nechápete?
+
+80
+00:05:02,458 --> 00:05:06,333
+Zfalšoval ty důkazy sám,
+aby unikl podezření.
+
+81
+00:05:08,875 --> 00:05:11,666
+Bertie Hollingshead je skutečným vrahem.
+
+82
+00:05:12,958 --> 00:05:14,416
+Co se do mě navážíš?
+
+83
+00:05:16,416 --> 00:05:19,833
+George vám zítra ten příběh dočte.
+Uslyšíte sami.
+
+84
+00:05:23,250 --> 00:05:25,041
+Natuty to byla služebná.
+
+85
+00:05:25,375 --> 00:05:27,708
+<i>„Bertie znal zákon, který praví,</i>
+
+86
+00:05:28,083 --> 00:05:32,041
+že za jeden zločin
+nelze nikoho stíhat dvakrát.
+
+87
+00:05:32,208 --> 00:05:36,875
+A tak, aby unikl obvinění,
+zfalšoval ty důkazy sám.
+
+88
+00:05:37,500 --> 00:05:41,958
+Bertie Hollingshead byl skutečný vrah.“
+
+89
+00:05:47,416 --> 00:05:51,000
+<i>Většina mých oveček tráví svůj den pastvou</i>
+
+90
+00:05:51,166 --> 00:05:53,000
+<i>nebo přemýšlením o pastvě.</i>
+
+91
+00:05:53,541 --> 00:05:57,416
+<i>Mám tu i tři dovádivá jehňátka
+se spoustou elánu.</i>
+
+92
+00:05:57,958 --> 00:06:02,166
+<i>Jsou to šťastná, bezstarostná zvířátka,
+která se narodila zjara.</i>
+
+93
+00:06:02,541 --> 00:06:06,291
+<i>Ona se totiž
+většina jehňátek rodí na jaře.</i>
+
+94
+00:06:06,875 --> 00:06:11,083
+<i>Ale mám i jednoho beránka,
+který se narodil v zimě.</i>
+
+95
+00:06:12,500 --> 00:06:14,416
+Ahoj.
+
+96
+00:06:16,541 --> 00:06:18,041
+- Jsem Daisy.
+- Já Oliver.
+
+97
+00:06:18,208 --> 00:06:20,166
+- Já Pikla.
+- Jak se jmenuješ ty?
+
+98
+00:06:20,750 --> 00:06:22,416
+Já žádné jméno nemám.
+
+99
+00:06:22,583 --> 00:06:24,250
+Chceš si s námi hrát?
+
+100
+00:06:24,666 --> 00:06:26,333
+Ne! Kšá!
+
+101
+00:06:27,041 --> 00:06:29,833
+Se zimním beránkem si nehrajte.
+
+102
+00:06:30,000 --> 00:06:32,625
+Do našeho stáda nepatří.
+
+103
+00:06:33,416 --> 00:06:36,166
+<i>Z důvodů, které chápou jen ovečky,</i>
+
+104
+00:06:36,333 --> 00:06:39,666
+<i>stádo jehňátka narozená v zimě
+často odmítne.</i>
+
+105
+00:06:39,833 --> 00:06:40,666
+Pojď ke mně.
+
+106
+00:06:40,833 --> 00:06:44,416
+<i>Asi proto, že zimní jehňátka jsou jiná.</i>
+
+107
+00:06:44,583 --> 00:06:47,166
+Už je dobře.
+
+108
+00:06:55,833 --> 00:06:57,125
+Měla bych dotaz.
+
+109
+00:06:57,291 --> 00:06:59,750
+Proč je George na toho beránka tak hodný?
+
+110
+00:06:59,916 --> 00:07:01,625
+George není ovce.
+
+111
+00:07:01,791 --> 00:07:04,750
+Nikdo ho nikdy
+o zimních jehňatech nepoučil.
+
+112
+00:07:16,750 --> 00:07:19,250
+<i>A ještě něco. Přijmeš-li mé pozvání,</i>
+
+113
+00:07:19,416 --> 00:07:22,333
+<i>pak věz, že bydlím
+poblíž městečka Denbrook.</i>
+
+114
+00:07:22,666 --> 00:07:24,833
+{\an8}<i>Žijí v něm všelijací zvláštní lidé.</i>
+
+115
+00:07:25,000 --> 00:07:26,083
+{\an8}<i>Například</i>…
+
+116
+00:07:26,250 --> 00:07:27,250
+Ahoj, Calebe.
+
+117
+00:07:27,375 --> 00:07:28,624
+<i>Caleb. Též pastýř.</i>
+
+118
+00:07:28,625 --> 00:07:29,458
+Dobré jitro.
+
+119
+00:07:29,583 --> 00:07:30,416
+<i>Nemám ho rád.</i>
+
+120
+00:07:30,750 --> 00:07:32,208
+<i>Řezník Sádlo.</i>
+
+121
+00:07:32,375 --> 00:07:34,250
+<i>Toho přímo nesnáším.</i>
+
+122
+00:07:34,375 --> 00:07:35,875
+<i>Běta, správcová hostince.</i>
+
+123
+00:07:36,000 --> 00:07:37,125
+<i>Ta nemá ráda mě.</i>
+
+124
+00:07:37,291 --> 00:07:38,791
+Já ho jednou zabiju.
+
+125
+00:07:38,958 --> 00:07:40,666
+{\an8}<i>Policista Tim.</i>
+
+126
+00:07:40,833 --> 00:07:41,875
+{\an8}TASER
+
+127
+00:07:42,041 --> 00:07:43,125
+<i>Místní mamlas.</i>
+
+128
+00:07:43,291 --> 00:07:47,083
+<i>A reverend Hillcoate,
+který se považuje za pastýře lidí.</i>
+
+129
+00:07:47,250 --> 00:07:50,333
+<i>S tím mám velice komplikovaný vztah.</i>
+
+130
+00:07:50,500 --> 00:07:54,583
+A dnes si přečteme
+Podobenství o ztracené ovci.
+
+131
+00:08:05,291 --> 00:08:07,000
+Georgi, chcete se přidat?
+
+132
+00:08:07,791 --> 00:08:10,375
+V příbytku Páně jsou vítáni všichni.
+
+133
+00:08:11,291 --> 00:08:12,583
+I řezníci?
+
+134
+00:08:19,041 --> 00:08:20,958
+Nepřišel jsem se modlit.
+
+135
+00:08:21,958 --> 00:08:23,583
+Přišel jsem splatit dluh.
+
+136
+00:08:30,250 --> 00:08:31,791
+Podivín George.
+
+137
+00:08:34,083 --> 00:08:35,458
+Podivín George.
+
+138
+00:08:35,791 --> 00:08:37,666
+<i>Ale dost už o místních lidech.</i>
+
+139
+00:08:38,083 --> 00:08:40,250
+<i>Chci ti představit své stádo.</i>
+
+140
+00:08:40,416 --> 00:08:42,583
+<i>Touží tě poznat.</i>
+
+141
+00:08:43,625 --> 00:08:45,291
+<i>Stejně jako já.</i>
+
+142
+00:08:46,000 --> 00:08:47,666
+<i>Prosím, přijeď co nejdřív.</i>
+
+143
+00:08:50,750 --> 00:08:52,416
+<i>S láskou, George.</i>
+
+144
+00:08:59,625 --> 00:09:00,708
+Vlnko?
+
+145
+00:09:01,125 --> 00:09:02,208
+Měla bych dotaz.
+
+146
+00:09:02,375 --> 00:09:05,208
+Budu mít po pampeliškách
+tak hezké řasy jako ty?
+
+147
+00:09:05,333 --> 00:09:07,875
+Ne, na řasy nejsou pampelišky.
+
+148
+00:09:08,041 --> 00:09:10,083
+Ale báječně po nich roste vlna.
+
+149
+00:09:10,250 --> 00:09:11,541
+Podívej na Emoně.
+
+150
+00:09:11,708 --> 00:09:13,291
+Ten jí jenom pampelišky.
+
+151
+00:09:13,458 --> 00:09:16,125
+Jo to jsou pampelišky? Aha.
+
+152
+00:09:16,291 --> 00:09:20,208
+Nech pár těch pampelišek pro Sebastiana.
+Zase se někde toulá.
+
+153
+00:09:20,375 --> 00:09:24,000
+Nezájem. Od té doby,
+co ho sem George přivezl bůhvíodkud,
+
+154
+00:09:24,166 --> 00:09:26,166
+pořád utíká do toho městečka.
+
+155
+00:09:26,333 --> 00:09:27,583
+Ať si umře hlady.
+
+156
+00:09:27,750 --> 00:09:31,583
+Možná se o nás nezajímá,
+ale to neznamená, že je nám ukradený.
+
+157
+00:09:31,750 --> 00:09:34,000
+Sebastian patří do našeho stáda.
+
+158
+00:09:34,250 --> 00:09:36,750
+Hele! To je Caleb!
+
+159
+00:09:39,625 --> 00:09:40,958
+Pejsci!
+
+160
+00:09:41,125 --> 00:09:45,083
+Pejsci!
+
+161
+00:09:46,833 --> 00:09:48,875
+Calebe! Sluší ti to!
+
+162
+00:09:49,041 --> 00:09:52,083
+Moc se mi líbí, jak ten chlápek voní.
+
+163
+00:09:52,250 --> 00:09:53,791
+Nosí vlněné svetry.
+
+164
+00:09:54,250 --> 00:09:55,916
+A jak jsou krásně barevné.
+
+165
+00:09:57,166 --> 00:09:58,500
+- Můžu dál?
+- Vypadni!
+
+166
+00:09:58,625 --> 00:09:59,791
+Tak já jdu dál.
+
+167
+00:10:00,291 --> 00:10:04,375
+Je tak nový, červený a lesklý.
+
+168
+00:10:04,791 --> 00:10:06,875
+Myslíš na to, na co myslím já?
+
+169
+00:10:07,208 --> 00:10:09,625
+- Chci si ducnout!
+- Já taky, děsně!
+
+170
+00:10:10,500 --> 00:10:11,750
+Ducane! Drcane!
+
+171
+00:10:13,041 --> 00:10:16,750
+Co jsme si říkali?
+Do věcí neducáme, pokud…?
+
+172
+00:10:16,916 --> 00:10:20,041
+Pokud k tomu nemáme legitimní důvod.
+
+173
+00:10:20,208 --> 00:10:21,208
+A je jasno.
+
+174
+00:10:21,375 --> 00:10:23,833
+Tenhle měsíc je tu Caleb už potřetí.
+
+175
+00:10:24,000 --> 00:10:26,583
+Ti dva tam můžou řešit jen jedinou věc.
+
+176
+00:10:27,125 --> 00:10:28,291
+Spojení stád.
+
+177
+00:10:28,458 --> 00:10:30,375
+- Spojení stád!
+- Nové ovce.
+
+178
+00:10:30,541 --> 00:10:32,291
+- A pastviny!
+- Pejsci?
+
+179
+00:10:32,458 --> 00:10:33,791
+Moje rozhodnutí platí!
+
+180
+00:10:33,958 --> 00:10:36,541
+Dal jsem ti šanci a tys mi lhal, Calebe!
+
+181
+00:10:36,708 --> 00:10:37,875
+A už se nevracej.
+
+182
+00:10:45,541 --> 00:10:48,250
+Zdá se, že spojovat stáda nebudeme.
+
+183
+00:10:49,916 --> 00:10:51,208
+Tolik jsem se těšila.
+
+184
+00:10:51,375 --> 00:10:53,000
+Jsem nešťastná a smutná.
+
+185
+00:10:53,166 --> 00:10:54,750
+Chci na to zapomenout!
+
+186
+00:10:54,916 --> 00:10:56,916
+Je to tak. Tohle bylo zklamání.
+
+187
+00:10:57,083 --> 00:10:58,333
+Nuže, přátelé?
+
+188
+00:10:58,500 --> 00:11:02,416
+Teď společně zapomeneme
+Calebovu návštěvu. Na tři.
+
+189
+00:11:02,583 --> 00:11:04,250
+Raz. Dva…
+
+190
+00:11:04,416 --> 00:11:07,375
+Ale co náš Mopple? Ten nezapomíná.
+
+191
+00:11:07,541 --> 00:11:08,375
+Proč ne?
+
+192
+00:11:08,541 --> 00:11:10,000
+Chudák Mopple.
+
+193
+00:11:10,166 --> 00:11:12,208
+Má nepříjemnou vrozenou vadu.
+
+194
+00:11:12,500 --> 00:11:15,916
+Na rozdíl od nás neumí na nic zapomenout.
+
+195
+00:11:16,083 --> 00:11:17,166
+No jo.
+
+196
+00:11:17,333 --> 00:11:21,833
+Mopple, jakmile zapomeneme,
+prosím, nepřipomínej nám, co se stalo.
+
+197
+00:11:22,000 --> 00:11:24,458
+Chcete zapomenout? Nebylo to zas tak zlé.
+
+198
+00:11:24,625 --> 00:11:27,875
+Ne. Ale nebylo to ani dobré.
+Proč se trápit?
+
+199
+00:11:28,583 --> 00:11:29,583
+Můžem?
+
+200
+00:11:29,916 --> 00:11:30,916
+Raz.
+
+201
+00:11:31,416 --> 00:11:32,500
+Dva.
+
+202
+00:11:32,833 --> 00:11:33,958
+Tři.
+
+203
+00:11:36,625 --> 00:11:37,666
+Vlnko?
+
+204
+00:11:38,291 --> 00:11:39,458
+Měla bych dotaz.
+
+205
+00:11:39,625 --> 00:11:42,458
+Budu mít po pampeliškách
+tak hezké řasy jako ty?
+
+206
+00:11:42,583 --> 00:11:44,916
+Ne, na řasy nejsou pampelišky.
+
+207
+00:11:45,125 --> 00:11:48,416
+- Ale báječně po nich roste vlna.
+- Ale báječně po nich roste vlna.
+
+208
+00:11:58,333 --> 00:11:59,333
+To nic.
+
+209
+00:12:12,791 --> 00:12:14,750
+Já se uklidním, neboj.
+
+210
+00:12:14,916 --> 00:12:15,958
+Jenom…
+
+211
+00:12:17,041 --> 00:12:18,333
+Jak to říct?
+
+212
+00:12:21,916 --> 00:12:25,541
+Tiše jsem doufal, že si brzy polepšíte.
+
+213
+00:12:26,791 --> 00:12:28,500
+Ale nemusíte mít strach.
+
+214
+00:12:29,541 --> 00:12:30,916
+Nic se vám nestane.
+
+215
+00:12:32,208 --> 00:12:34,166
+A mně taky ne.
+
+216
+00:12:57,708 --> 00:12:59,416
+DENBROOKSKÝ KULTURNÍ FESTIVAL
+
+217
+00:13:05,458 --> 00:13:06,458
+Brýtro.
+
+218
+00:13:06,625 --> 00:13:09,500
+Ahoj. Copak mi neseš?
+
+219
+00:13:09,666 --> 00:13:13,208
+{\an8}Nic moc. Na pondělí.
+
+220
+00:13:13,416 --> 00:13:14,375
+PAN GEORGE HARDY
+
+221
+00:13:14,500 --> 00:13:16,291
+George. Komupak to píše?
+
+222
+00:13:16,458 --> 00:13:18,791
+Ctím listovní tajemství, ale…
+
+223
+00:13:19,666 --> 00:13:23,083
+Slečně Rebece Hampsteadové. Do Ameriky.
+
+224
+00:13:23,666 --> 00:13:26,875
+Ať je to, kdo chce,
+píšou si spolu čile už měsíce.
+
+225
+00:13:27,250 --> 00:13:28,375
+A…
+
+226
+00:13:28,541 --> 00:13:29,708
+Hele.
+
+227
+00:13:30,125 --> 00:13:31,208
+Přivoň.
+
+228
+00:13:31,750 --> 00:13:33,250
+Navoněný papír.
+
+229
+00:13:33,541 --> 00:13:34,666
+Milostná psaníčka.
+
+230
+00:13:34,833 --> 00:13:35,916
+Věřila bys tomu?
+
+231
+00:13:36,083 --> 00:13:40,041
+Z mrzouta George Hardyho se stal romantik.
+
+232
+00:13:40,625 --> 00:13:41,833
+To jsou věci.
+
+233
+00:13:43,958 --> 00:13:45,541
+Mrzout George.
+
+234
+00:13:45,750 --> 00:13:46,750
+Jo.
+
+235
+00:13:47,125 --> 00:13:48,500
+- Měj se.
+- Jo, ty taky.
+
+236
+00:13:48,625 --> 00:13:49,666
+Pa!
+
+237
+00:13:51,375 --> 00:13:52,666
+- Dobrý den!
+- Dobrý!
+
+238
+00:13:52,833 --> 00:13:55,791
+Přijel jsem
+na Denbrookský kulturní festival.
+
+239
+00:13:55,958 --> 00:13:57,541
+To je fantastické.
+
+240
+00:13:57,875 --> 00:13:59,291
+Ten je tu.
+
+241
+00:14:00,125 --> 00:14:01,416
+Pojďte za mnou.
+
+242
+00:14:01,875 --> 00:14:03,750
+Kam jako?
+
+243
+00:14:04,166 --> 00:14:07,875
+Vítejte na Denbrookském
+kulturním festivalu.
+
+244
+00:14:10,000 --> 00:14:11,500
+{\an8}OBRAZY od BĚTY PENNOCKOVÉ
+
+245
+00:14:12,083 --> 00:14:13,125
+Vy žertujete.
+
+246
+00:14:13,291 --> 00:14:16,041
+Proč? Jsme tady velmi kulturní.
+
+247
+00:14:18,625 --> 00:14:21,333
+Co? <i>Návrat do země Oz?</i>
+
+248
+00:14:21,666 --> 00:14:23,666
+{\an8}Jo, to je nejlepší film všech dob.
+
+249
+00:14:24,083 --> 00:14:26,583
+{\an8}A natáčeli ho 60 kilometrů odtud.
+
+250
+00:14:26,958 --> 00:14:29,916
+Většina místních soudí,
+že je lepší než první díl.
+
+251
+00:14:30,125 --> 00:14:31,125
+Neviděl jsem ho.
+
+252
+00:14:31,291 --> 00:14:33,416
+Kdo neviděl <i>Návrat do země Oz?</i>
+
+253
+00:14:33,583 --> 00:14:37,541
+Odpusťte.
+Proč tak obří poutač láká na tohle?
+
+254
+00:14:37,708 --> 00:14:40,583
+Aby přijeli lidi.
+Bez lidí by to nebyl festival.
+
+255
+00:14:41,083 --> 00:14:44,250
+Ale vždyť tohle žádný festival není.
+
+256
+00:14:44,416 --> 00:14:46,541
+Ne. Jsou to jen tři stánky.
+
+257
+00:14:47,708 --> 00:14:49,958
+Radíte mi, jak mám řídit svůj byznys?
+
+258
+00:14:50,583 --> 00:14:51,583
+Ne.
+
+259
+00:14:52,583 --> 00:14:54,291
+Ne. Odpusťte.
+
+260
+00:14:55,041 --> 00:14:57,000
+Nezačali jsme úplně šťastně.
+
+261
+00:14:58,500 --> 00:15:01,583
+Jmenuji se Elliot Matthews.
+Jsem reportér z <i>Deníku.</i>
+
+262
+00:15:03,583 --> 00:15:05,125
+Začínající reportér.
+
+263
+00:15:08,000 --> 00:15:10,166
+Fajn. Většinou píšu nekrology.
+
+264
+00:15:10,333 --> 00:15:13,375
+Ale chtěl jsem si napsat i něco živějšího
+
+265
+00:15:13,541 --> 00:15:17,541
+a náš šéfredaktor mě poslal sem.
+
+266
+00:15:18,208 --> 00:15:20,166
+Na Denbrookský kulturní festival.
+
+267
+00:15:20,333 --> 00:15:23,083
+- To je reportáž snů.
+- Jo, máte kliku.
+
+268
+00:15:23,250 --> 00:15:27,583
+A povýší mě někdo,
+když budu psát o tomhle? Ne.
+
+269
+00:15:27,916 --> 00:15:29,375
+To je zlé.
+
+270
+00:15:30,333 --> 00:15:31,791
+Deset. Hotově.
+
+271
+00:15:32,166 --> 00:15:33,250
+Za co?
+
+272
+00:15:33,416 --> 00:15:35,166
+- Za vstup.
+- Za vstup.
+
+273
+00:15:38,500 --> 00:15:39,583
+Deset.
+
+274
+00:15:39,750 --> 00:15:41,083
+Tady.
+
+275
+00:15:41,750 --> 00:15:42,958
+Drobné si nechte.
+
+276
+00:15:44,083 --> 00:15:45,333
+No nic.
+
+277
+00:15:46,458 --> 00:15:47,625
+Buran.
+
+278
+00:15:48,208 --> 00:15:50,041
+VÍTEJTE V DENBROOKU
+
+279
+00:16:06,708 --> 00:16:09,875
+Kde je George? Proč nám nečte příběh?
+
+280
+00:16:10,041 --> 00:16:11,375
+Když prší, chodí sem.
+
+281
+00:16:13,958 --> 00:16:17,250
+Toho zvuku se bát nemusíte.
+
+282
+00:16:17,416 --> 00:16:18,541
+Sire Ritchfielde?
+
+283
+00:16:18,708 --> 00:16:21,750
+Ano. Nadešel čas, má milá jehňátka,
+
+284
+00:16:22,041 --> 00:16:25,333
+abych vám vyjevil ovčí tajemství.
+
+285
+00:16:25,500 --> 00:16:30,208
+Všechny ty mráčky
+byly kdysi ovcemi, jako jsme my.
+
+286
+00:16:30,375 --> 00:16:33,708
+A když vidí, že je pastvina moc suchá,
+
+287
+00:16:33,875 --> 00:16:36,125
+dají se do tance.
+
+288
+00:16:36,291 --> 00:16:40,250
+To dunění jsou jejich kopýtka,
+kterými vytloukají z nebes déšť,
+
+289
+00:16:40,416 --> 00:16:43,333
+aby rostla tráva a jetelíček.
+
+290
+00:16:43,500 --> 00:16:45,541
+Ze všech ovcí se stanou mraky?
+
+291
+00:16:45,708 --> 00:16:48,250
+Ano, Piklo. I z nás.
+
+292
+00:16:48,416 --> 00:16:52,666
+I ze mě bude jednou
+obláček jako z mých rodičů.
+
+293
+00:16:53,000 --> 00:16:54,375
+I když,
+
+294
+00:16:55,416 --> 00:16:57,958
+ani nevím, proč si vůbec nepamatuju,
+
+295
+00:16:58,125 --> 00:17:00,500
+jak se z mých rodičů ty obláčky staly.
+
+296
+00:17:01,166 --> 00:17:03,375
+Mopple, ty si pamatuješ všechno.
+
+297
+00:17:03,750 --> 00:17:06,625
+Ten den musel být báječný, viď?
+
+298
+00:17:12,416 --> 00:17:14,875
+No ano. Ovšem.
+
+299
+00:17:15,041 --> 00:17:18,833
+Dali nám sbohem
+a radostně se vznesli do nebíčka,
+
+300
+00:17:19,000 --> 00:17:21,791
+kde se z nich staly dva nadýchané obláčky,
+
+301
+00:17:21,958 --> 00:17:24,583
+které na nás shlíží.
+
+302
+00:17:24,833 --> 00:17:26,083
+S láskou.
+
+303
+00:17:27,333 --> 00:17:28,416
+Navěky.
+
+304
+00:17:30,125 --> 00:17:31,291
+Díky.
+
+305
+00:17:35,375 --> 00:17:36,958
+A je tu déšť!
+
+306
+00:17:37,333 --> 00:17:39,500
+Jak se sluší a patří.
+
+307
+00:17:41,333 --> 00:17:42,500
+<i>Ano.</i>
+
+308
+00:17:42,833 --> 00:17:45,833
+<i>Všechno je, jak se sluší a patří.</i>
+
+309
+00:17:56,000 --> 00:17:58,458
+ŘEZNICTVÍ
+
+310
+00:18:30,666 --> 00:18:35,541
+Nesmutněte. Zkysnete tady
+v tu nejlepší možnou dobu.
+
+311
+00:18:35,958 --> 00:18:38,750
+Máme tu Denbrookský kulturní festival.
+
+312
+00:18:39,166 --> 00:18:40,750
+Máte kliku!
+
+313
+00:18:42,291 --> 00:18:46,333
+Já tam byla minulý víkend
+se sestrou a koupily jsme si místní sýr.
+
+314
+00:18:46,500 --> 00:18:48,500
+A byl mnohem lepší než ten obyč,
+
+315
+00:18:48,666 --> 00:18:51,625
+co si můžete koupit v sámošce ve městě.
+
+316
+00:18:51,791 --> 00:18:53,041
+Moje sestra říkala…
+
+317
+00:18:53,208 --> 00:18:54,541
+Viděla jste to?
+
+318
+00:18:55,291 --> 00:18:56,583
+Co jako?
+
+319
+00:18:59,708 --> 00:19:01,208
+VÍTEJTE V DENBROOKU
+
+320
+00:19:34,916 --> 00:19:36,458
+Jo! Jsi vzhůru!
+
+321
+00:19:36,625 --> 00:19:39,333
+Kolikrát jsem vás žádal, ať to neděláte?
+
+322
+00:19:39,750 --> 00:19:40,750
+My zapomněli!
+
+323
+00:19:40,916 --> 00:19:42,583
+My zapomněli.
+
+324
+00:19:42,750 --> 00:19:43,791
+Samozřejmě.
+
+325
+00:19:43,958 --> 00:19:44,958
+Pojďte ven!
+
+326
+00:19:45,125 --> 00:19:46,833
+- Počkejte!
+- Jdu taky!
+
+327
+00:20:00,750 --> 00:20:02,625
+Lily? Co to tam…?
+
+328
+00:20:03,166 --> 00:20:05,666
+Asi hraje hru. Nehýbej se.
+
+329
+00:20:05,833 --> 00:20:08,583
+Kdo se pohne, prohrál.
+
+330
+00:20:21,375 --> 00:20:23,333
+Ale on nic nehraje.
+
+331
+00:20:23,500 --> 00:20:26,708
+A co teda dělá?
+
+332
+00:20:29,541 --> 00:20:30,708
+Lily.
+
+333
+00:20:31,041 --> 00:20:32,166
+Je…
+
+334
+00:20:33,000 --> 00:20:34,458
+Je mrtvý.
+
+335
+00:20:34,916 --> 00:20:36,791
+George je mrtvý.
+
+336
+00:20:37,250 --> 00:20:39,708
+Co? Jak jako mrtvý?
+
+337
+00:20:40,750 --> 00:20:42,125
+To se neděje.
+
+338
+00:20:42,291 --> 00:20:44,166
+Možná v těch knihách.
+
+339
+00:20:48,125 --> 00:20:49,583
+On je fakt mrtvý?
+
+340
+00:20:53,625 --> 00:20:55,500
+Lidé umírají?
+
+341
+00:20:57,708 --> 00:21:00,000
+Promění se taky v mrak?
+
+342
+00:21:01,083 --> 00:21:04,333
+Ne. To dělají jen ovce.
+
+343
+00:21:33,916 --> 00:21:35,333
+- „Mrtvý?“
+- „Mrtvý?“
+
+344
+00:21:35,500 --> 00:21:36,833
+To je možný?
+
+345
+00:21:37,291 --> 00:21:38,875
+Asi ano.
+
+346
+00:21:39,041 --> 00:21:40,916
+A znamená to, že i ovce umíraj?
+
+347
+00:21:41,083 --> 00:21:44,000
+Ne. Piklo, my se měníme v obláčky.
+
+348
+00:21:44,166 --> 00:21:45,458
+George musí dál žít.
+
+349
+00:21:45,625 --> 00:21:48,166
+A dávat mi meducínu. Mám orf!
+
+350
+00:21:48,333 --> 00:21:49,333
+Co je orf?
+
+351
+00:21:49,500 --> 00:21:50,791
+Tohle je orf.
+
+352
+00:21:52,541 --> 00:21:53,583
+Ale fujky!
+
+353
+00:21:53,750 --> 00:21:56,666
+Myslím, že nechápete, co vám říkám.
+
+354
+00:21:57,250 --> 00:21:58,916
+George je pryč.
+
+355
+00:21:59,083 --> 00:22:00,875
+A už se nikdy nevrátí.
+
+356
+00:22:01,041 --> 00:22:03,750
+Ale George byl náš pastýř. Co si počneme?
+
+357
+00:22:03,916 --> 00:22:07,125
+Jsi nejchytřejší ovce na světě, Lily.
+Řekni, co teď?
+
+358
+00:22:07,291 --> 00:22:09,583
+Můžeme udělat jenom jedinou věc.
+
+359
+00:22:10,708 --> 00:22:12,291
+Zapomenout na George.
+
+360
+00:22:12,458 --> 00:22:15,208
+Cože? Ale Lily, byl to George. Nemůžeme…
+
+361
+00:22:15,375 --> 00:22:18,708
+Vzpomínka na něj bolí, a moc.
+Nezvládnu to.
+
+362
+00:22:18,875 --> 00:22:22,625
+Je to tak.
+Ovce nejsou ustrojeny na to truchlit.
+
+363
+00:22:22,791 --> 00:22:25,750
+Musíme na něj zapomenout.
+
+364
+00:22:27,750 --> 00:22:29,416
+Napočítám do tří.
+
+365
+00:22:29,583 --> 00:22:30,708
+Počkej přece.
+
+366
+00:22:30,875 --> 00:22:31,875
+Raz.
+
+367
+00:22:32,041 --> 00:22:33,416
+Ne, byl to náš George!
+
+368
+00:22:33,791 --> 00:22:34,833
+Dva.
+
+369
+00:22:35,000 --> 00:22:37,500
+Žádné zapomínání.
+
+370
+00:22:38,458 --> 00:22:39,458
+Sebastian.
+
+371
+00:22:39,625 --> 00:22:44,041
+Snad jste si nemysleli, že vám dovolím,
+abyste zapomněli na mého pastýře?
+
+372
+00:22:44,208 --> 00:22:46,083
+Byl to pastýř nás všech.
+
+373
+00:22:46,250 --> 00:22:47,791
+Všichni jsme ho měli rádi.
+
+374
+00:22:47,958 --> 00:22:49,916
+Ale je to příliš bolestivé.
+
+375
+00:22:50,458 --> 00:22:52,166
+Tak na něj zapomeneme.
+
+376
+00:22:52,333 --> 00:22:54,333
+Ani náhodou.
+
+377
+00:22:54,500 --> 00:22:57,250
+Budete na něj vzpomínat, neb tak se to má.
+
+378
+00:22:57,416 --> 00:22:58,875
+Podle práva.
+
+379
+00:22:59,208 --> 00:23:00,375
+Tráva?
+
+380
+00:23:00,541 --> 00:23:02,750
+Ne, podle… Žádná tráva.
+
+381
+00:23:03,666 --> 00:23:04,708
+Jasná zpráva.
+
+382
+00:23:04,875 --> 00:23:07,250
+Ale právo. Spravedlnost.
+
+383
+00:23:07,375 --> 00:23:09,875
+To znamená, že zlí nesmí ubližovat hodným.
+
+384
+00:23:10,000 --> 00:23:12,291
+A že silní nesmí ubližovat slabým.
+
+385
+00:23:12,458 --> 00:23:15,333
+A že na přátele se nezapomíná.
+
+386
+00:23:15,750 --> 00:23:18,708
+George se ke mně
+kdysi zachoval spravedlivě.
+
+387
+00:23:19,041 --> 00:23:21,000
+A spravedlnost si zaslouží.
+
+388
+00:23:21,166 --> 00:23:24,416
+Má pravdu.
+George byl na mě vždycky moc hodný.
+
+389
+00:23:24,583 --> 00:23:25,583
+To k vám všem.
+
+390
+00:23:25,750 --> 00:23:27,958
+Proto vás choval jenom pro vlnu.
+
+391
+00:23:28,083 --> 00:23:30,041
+Kvůli čemu jinému by choval ovce?
+
+392
+00:23:30,166 --> 00:23:32,416
+Kvůli ničemu. Jen pro vlnu.
+
+393
+00:23:32,541 --> 00:23:33,833
+Měla bych dotaz.
+
+394
+00:23:34,125 --> 00:23:37,916
+Jaký smysl má lidský život,
+když může kdykoli v okamžiku skončit?
+
+395
+00:23:38,041 --> 00:23:39,500
+Proč jsou lidi na světě?
+
+396
+00:23:39,625 --> 00:23:40,958
+Kdo je stvořil? A nás?
+
+397
+00:23:41,083 --> 00:23:43,166
+Co je ve stromech, kde je Měsíc ve dne
+
+398
+00:23:43,291 --> 00:23:45,083
+a kdo spáchal Georgovu vraždu?
+
+399
+00:23:45,708 --> 00:23:48,166
+„Vraždu?“ Jak to myslíš „vraždu“?
+
+400
+00:23:48,333 --> 00:23:51,125
+V jeho historkách
+byla za smrtí vždycky vražda.
+
+401
+00:23:51,250 --> 00:23:52,333
+Ne, Zorko.
+
+402
+00:23:52,500 --> 00:23:54,875
+To jsou příběhy. Tohle je realita.
+
+403
+00:23:55,041 --> 00:23:56,166
+Nemám pravdu, Lily?
+
+404
+00:23:56,291 --> 00:23:59,666
+Přesně tak.
+Není důvod si myslet, že George byl…
+
+405
+00:24:01,333 --> 00:24:02,833
+Jeho čepice!
+
+406
+00:24:20,291 --> 00:24:23,791
+Přivezl jsem mu nějaký papíry
+k podpisu a našel ho takhle.
+
+407
+00:24:25,041 --> 00:24:26,749
+Nechtěl byste říct pár slov?
+
+408
+00:24:26,750 --> 00:24:27,583
+Ne.
+
+409
+00:24:30,791 --> 00:24:31,916
+Calebe.
+
+410
+00:24:34,000 --> 00:24:35,875
+Co tady dělá ten řezník?
+
+411
+00:24:38,083 --> 00:24:39,291
+Pět.
+
+412
+00:24:40,208 --> 00:24:41,250
+Šest.
+
+413
+00:24:42,625 --> 00:24:44,000
+Chce ty ovce koupit.
+
+414
+00:24:45,791 --> 00:24:47,416
+Patnáct.
+
+415
+00:24:48,958 --> 00:24:50,500
+Šestnáct.
+
+416
+00:24:51,000 --> 00:24:52,416
+Lily. Kam se šineš?
+
+417
+00:24:52,583 --> 00:24:54,250
+Možná o nic nejde…
+
+418
+00:24:54,375 --> 00:24:57,500
+Ale pořád musím myslet
+na Georgovu čepici a pršiplášť.
+
+419
+00:24:57,625 --> 00:24:58,791
+Na pršiplášť?
+
+420
+00:24:58,958 --> 00:25:02,250
+Přesně. Vyšel ven za bouřky.
+Proč si je nevzal?
+
+421
+00:25:02,416 --> 00:25:03,708
+Co když…
+
+422
+00:25:04,416 --> 00:25:05,791
+Udělej mi kozu.
+
+423
+00:25:09,250 --> 00:25:10,291
+Cože?
+
+424
+00:25:10,666 --> 00:25:12,833
+Na tohle bych chtěl umět zapomenout.
+
+425
+00:25:15,958 --> 00:25:17,708
+Vidíš tam něco?
+
+426
+00:25:19,625 --> 00:25:22,125
+Vidím tam všecičko.
+
+427
+00:25:37,333 --> 00:25:38,708
+Promiňte…
+
+428
+00:25:38,875 --> 00:25:39,916
+Brýtro.
+
+429
+00:25:40,083 --> 00:25:42,291
+Odpusťte, ale co tady ještě děláte?
+
+430
+00:25:42,458 --> 00:25:44,291
+Autonehoda. Kdo je tohle?
+
+431
+00:25:44,666 --> 00:25:47,125
+Jmenoval se George Hardy. Choval ovce.
+
+432
+00:25:47,458 --> 00:25:48,791
+Co se mu stalo?
+
+433
+00:25:48,958 --> 00:25:50,458
+Asi dostal infarkt.
+
+434
+00:25:50,625 --> 00:25:52,958
+Z toho zpráva dne, obávám se, nebude.
+
+435
+00:25:53,208 --> 00:25:56,166
+Pokud k tomu nedošlo
+za mimořádných okolností. Že?
+
+436
+00:25:56,291 --> 00:25:58,083
+Ne. Všude jsem to prohledal.
+
+437
+00:25:58,250 --> 00:26:00,166
+Kolem karavanu.
+
+438
+00:26:01,208 --> 00:26:02,750
+Pod tím karavanem.
+
+439
+00:26:02,916 --> 00:26:04,875
+A co uvnitř toho karavanu?
+
+440
+00:26:10,166 --> 00:26:11,666
+Jdu na to.
+
+441
+00:26:12,541 --> 00:26:14,500
+Já bych na tu kliku…
+
+442
+00:26:15,791 --> 00:26:16,833
+Proč?
+
+443
+00:26:17,000 --> 00:26:18,791
+Setřete otisky, ne?
+
+444
+00:26:19,875 --> 00:26:22,750
+Aha. Stopy.
+
+445
+00:26:23,416 --> 00:26:24,458
+Jo.
+
+446
+00:26:33,291 --> 00:26:35,541
+Vše je tu v normě.
+
+447
+00:26:35,708 --> 00:26:37,208
+Počkejte moment.
+
+448
+00:26:38,250 --> 00:26:43,041
+Proč by se člověk, který dostal infarkt,
+zvedal z křesílka a šel ven?
+
+449
+00:26:43,375 --> 00:26:45,083
+Možná ho dostal až venku.
+
+450
+00:26:45,250 --> 00:26:47,083
+Ne. Bylo to tady.
+
+451
+00:26:47,750 --> 00:26:49,500
+Tohle křesílko převrhl.
+
+452
+00:26:53,333 --> 00:26:54,833
+A nebyl tu sám.
+
+453
+00:26:55,125 --> 00:26:56,791
+A nebyl tu sám.
+
+454
+00:26:58,916 --> 00:27:00,166
+Ale jděte.
+
+455
+00:27:00,750 --> 00:27:02,208
+Umřel na infarkt.
+
+456
+00:27:02,375 --> 00:27:06,083
+Mně se zdá, že svévolně ignorujete
+důkazy, které svědčí o opaku.
+
+457
+00:27:06,375 --> 00:27:09,458
+Co tím naznačujete?
+Že mám strach řešit vraždu?
+
+458
+00:27:09,833 --> 00:27:10,666
+A máte?
+
+459
+00:27:11,583 --> 00:27:12,583
+Prosím vás.
+
+460
+00:27:12,750 --> 00:27:16,541
+Já si přeju, aby se udála
+v Denbrooku vražda. Nejlíp jedna denně.
+
+461
+00:27:16,666 --> 00:27:18,125
+To bych byl šťastný.
+
+462
+00:27:20,041 --> 00:27:24,208
+{\an8}Chápu, že do těch svých novin
+potřebujete nějaký skandál.
+
+463
+00:27:24,375 --> 00:27:25,791
+{\an8}Ale je mi líto…
+
+464
+00:27:28,916 --> 00:27:31,625
+{\an8}George Hardy nebyl zavražděn.
+
+465
+00:27:32,416 --> 00:27:34,041
+George Hardy byl zavražděn.
+
+466
+00:27:35,250 --> 00:27:37,625
+To řekl ten policista?
+
+467
+00:27:37,791 --> 00:27:41,041
+Ne. Policista řekl, že George
+umřel na infarkt. Je mimo.
+
+468
+00:27:41,208 --> 00:27:44,500
+Aha. Takže to nemusela být vražda.
+
+469
+00:27:44,666 --> 00:27:48,541
+Je to spíše mýlka jisté ovce domácí.
+
+470
+00:27:50,208 --> 00:27:51,250
+Takže.
+
+471
+00:27:51,916 --> 00:27:56,000
+George navštívil někdo,
+komu se nezdráhal nabídnout drink.
+
+472
+00:27:56,166 --> 00:27:57,750
+Pak se mu udělalo zle.
+
+473
+00:27:57,916 --> 00:28:02,708
+Jeho host nepřivolal pomoc,
+tudíž toho byl patrně strůjcem.
+
+474
+00:28:02,875 --> 00:28:06,291
+Absence viditelných poranění
+ukazuje na použití jedu.
+
+475
+00:28:06,625 --> 00:28:10,583
+Skvrna od trávy na jeho ruce
+naznačuje, že došlo k potyčce.
+
+476
+00:28:10,791 --> 00:28:12,500
+Vrah unikl.
+
+477
+00:28:12,666 --> 00:28:15,958
+George podlehl jedu a zemřel.
+
+478
+00:28:18,375 --> 00:28:19,541
+Já se nemýlím.
+
+479
+00:28:20,583 --> 00:28:24,541
+Ten policista je zcela neschopný,
+přesně jako v našich příbězích.
+
+480
+00:28:24,666 --> 00:28:28,166
+Proto se musí objevit někdo jiný,
+kdo zločin nakonec vyřeší.
+
+481
+00:28:28,291 --> 00:28:29,333
+Kdo?
+
+482
+00:28:29,625 --> 00:28:31,125
+George nás krmil.
+
+483
+00:28:31,291 --> 00:28:33,416
+George nás stříhal.
+
+484
+00:28:33,583 --> 00:28:35,458
+George nás miloval.
+
+485
+00:28:35,916 --> 00:28:37,375
+Je čas splatit mu dluh.
+
+486
+00:28:37,791 --> 00:28:39,416
+A co navrhuješ?
+
+487
+00:28:39,583 --> 00:28:42,125
+Náš pastýř byl zavražděn.
+
+488
+00:28:42,291 --> 00:28:45,041
+A my zjistíme, kdo byl vrah.
+
+489
+00:28:49,416 --> 00:28:50,416
+Něco k smíchu?
+
+490
+00:28:50,583 --> 00:28:52,750
+Ale nic.
+
+491
+00:28:53,583 --> 00:28:54,958
+Jen podotýkám,
+
+492
+00:28:55,125 --> 00:28:57,458
+že jste ovce!
+
+493
+00:28:57,791 --> 00:28:58,916
+To mluví o tobě.
+
+494
+00:28:59,083 --> 00:29:03,416
+Vážně si myslíte, že máte nejmenší
+šanci přijít na to, kdo byl vrah?
+
+495
+00:29:03,583 --> 00:29:08,333
+Víte, jak lidé říkají jiným lidem,
+kterým to zrovna moc nemyslí?
+
+496
+00:29:08,500 --> 00:29:09,582
+Kachny!
+
+497
+00:29:09,583 --> 00:29:10,416
+Ovce!
+
+498
+00:29:10,583 --> 00:29:13,458
+A ty, „nejchytřejší ovce na světě“.
+
+499
+00:29:13,625 --> 00:29:16,375
+Kde všude „na světě“ jsi byla?
+
+500
+00:29:16,666 --> 00:29:19,458
+Tady? A tamhle?
+
+501
+00:29:19,833 --> 00:29:20,875
+Prosím.
+
+502
+00:29:21,041 --> 00:29:25,125
+Vrať se ke svému senu,
+pampeliškám, přežvykování
+
+503
+00:29:25,291 --> 00:29:28,041
+a vyšetřování vražd nech na lidech.
+
+504
+00:29:29,583 --> 00:29:32,041
+Můžem začít?
+
+505
+00:29:34,166 --> 00:29:37,833
+Hledejte stopy. A neponičte důkazy.
+
+506
+00:29:40,000 --> 00:29:42,916
+A ty nespásej místo činu!
+
+507
+00:29:44,166 --> 00:29:45,458
+Kde to jsem?
+
+508
+00:29:45,625 --> 00:29:48,708
+Možná jsem našel stopu!
+
+509
+00:29:50,208 --> 00:29:52,541
+Ach jo. Haló?
+
+510
+00:29:52,666 --> 00:29:54,666
+No nic, stopy necháme na potom.
+
+511
+00:29:54,833 --> 00:29:58,291
+Viděl jste někdo
+ten večer někoho podezřelého?
+
+512
+00:29:58,458 --> 00:29:59,916
+Já jo.
+
+513
+00:30:01,083 --> 00:30:03,125
+Viděl jsem tebe, Sebastiane.
+
+514
+00:30:04,166 --> 00:30:05,375
+Sebastian ho zabil!
+
+515
+00:30:05,541 --> 00:30:07,083
+Vražedníku!
+
+516
+00:30:07,625 --> 00:30:09,583
+Jasně. Já ho zabil.
+
+517
+00:30:09,750 --> 00:30:13,833
+Prošel jsem dveřmi, jimiž neprojdu,
+sedl si na křesílko, co mě neudrží,
+
+518
+00:30:13,958 --> 00:30:16,000
+a zabil jsem vlastního pastýře
+
+519
+00:30:16,166 --> 00:30:20,083
+jedem, který jsem mu
+nenápadně vymačkal do pití
+
+520
+00:30:20,333 --> 00:30:22,083
+tímhle.
+
+521
+00:30:22,250 --> 00:30:23,958
+- Na tom něco je.
+- Má pravdu.
+
+522
+00:30:24,125 --> 00:30:26,666
+Všimli jste si,
+že by tu byl nějaký člověk?
+
+523
+00:30:27,208 --> 00:30:29,291
+Já viděl Georgova ducha.
+
+524
+00:30:30,208 --> 00:30:32,000
+- Ale neviděl.
+- Viděl.
+
+525
+00:30:34,083 --> 00:30:36,250
+Ten duch se zvedl z jeho těla.
+
+526
+00:30:36,416 --> 00:30:39,791
+Jako moc dobře jsem ho v tý tmě neviděl,
+
+527
+00:30:39,958 --> 00:30:42,250
+ale voněl jako George a…
+
+528
+00:30:42,416 --> 00:30:45,291
+Prosím, beránku, na tohle teď nemáme čas.
+
+529
+00:30:45,750 --> 00:30:48,416
+Zvony? Ale vždyť zvonily předevčírem.
+
+530
+00:30:48,750 --> 00:30:51,541
+Svolávají všechny z městečka.
+
+531
+00:30:51,708 --> 00:30:52,958
+Jistě kvůli Georgovi.
+
+532
+00:30:53,125 --> 00:30:54,166
+No jasně!
+
+533
+00:30:54,333 --> 00:30:58,833
+V těch příbězích vždycky všechny svolají,
+aby oznámili vraždu.
+
+534
+00:30:59,000 --> 00:31:00,916
+A vrah je vždycky někdo z nich.
+
+535
+00:31:01,083 --> 00:31:02,458
+Musíme tam taky.
+
+536
+00:31:03,166 --> 00:31:05,375
+Máš dost kuráže, abys opustila domov?
+
+537
+00:31:05,541 --> 00:31:07,375
+Nikdo z vás nikdy neodešel.
+
+538
+00:31:07,541 --> 00:31:10,000
+Vaše kopýtka umí chodit jenom po trávě.
+
+539
+00:31:10,166 --> 00:31:12,000
+Proč bychom se měli bát odejít?
+
+540
+00:31:12,166 --> 00:31:13,541
+Nemáme strach.
+
+541
+00:31:18,916 --> 00:31:20,916
+- Mopple, co to je?
+- Asi silnice.
+
+542
+00:31:21,041 --> 00:31:23,458
+- Z čeho je?
+- Z trávy ne. To je na beton.
+
+543
+00:31:23,583 --> 00:31:24,666
+Lily?
+
+544
+00:31:25,208 --> 00:31:26,208
+Ano!
+
+545
+00:31:26,375 --> 00:31:27,833
+Jdete taky?
+
+546
+00:31:28,000 --> 00:31:29,666
+Jasně…
+
+547
+00:31:30,000 --> 00:31:32,041
+Klidně běž napřed.
+
+548
+00:31:32,208 --> 00:31:34,375
+Proč tak křičíš?
+
+549
+00:31:34,541 --> 00:31:36,833
+Jsem od tebe sotva pár kroků.
+
+550
+00:31:38,583 --> 00:31:40,250
+Nepřijde mi to jako pár.
+
+551
+00:31:40,416 --> 00:31:43,916
+Přejít silnici není vůbec nic těžkého.
+
+552
+00:31:56,583 --> 00:31:59,083
+Ne. Nejde to.
+
+553
+00:31:59,250 --> 00:32:00,541
+Je to nemožné.
+
+554
+00:32:15,333 --> 00:32:17,000
+Nemůžeš za to.
+
+555
+00:32:17,166 --> 00:32:18,666
+Taková je naše nátura.
+
+556
+00:32:21,583 --> 00:32:25,458
+A co když to zkusíme přejít spolu?
+
+557
+00:32:27,333 --> 00:32:28,625
+Pro George?
+
+558
+00:32:30,458 --> 00:32:32,041
+Pro George.
+
+559
+00:32:33,041 --> 00:32:34,375
+Spolu.
+
+560
+00:32:45,750 --> 00:32:48,125
+- Já chci zpátky.
+- To i já. Jdem dál.
+
+561
+00:32:52,250 --> 00:32:54,500
+Dokázali jsme to! Opustili jsme domov!
+
+562
+00:32:54,625 --> 00:32:56,791
+Vidíš? Ovce se nezdaj.
+
+563
+00:32:56,958 --> 00:32:59,500
+Zvládnem všechno na světě.
+
+564
+00:32:59,666 --> 00:33:01,041
+Jupí jé.
+
+565
+00:33:01,208 --> 00:33:03,375
+Jsou to ještě tři kiláky.
+
+566
+00:33:03,541 --> 00:33:05,208
+Žádný problém.
+
+567
+00:33:05,833 --> 00:33:07,916
+A kolik kiláků bylo tohle?
+
+568
+00:33:08,583 --> 00:33:10,250
+Děláte na mě dojem.
+
+569
+00:33:10,416 --> 00:33:14,708
+Ten případ nevyřešíte,
+ale aspoň se podíváte do světa.
+
+570
+00:33:14,875 --> 00:33:16,916
+Ovšemže ten případ vyřešíme.
+
+571
+00:33:17,083 --> 00:33:19,166
+Do dnešního večera.
+
+572
+00:33:19,583 --> 00:33:22,208
+George nám těch příběhů přečetl tucty.
+
+573
+00:33:22,375 --> 00:33:25,125
+Chodí to v nich vždycky stejně.
+
+574
+00:33:25,291 --> 00:33:26,500
+Mopple?
+
+575
+00:33:27,250 --> 00:33:29,083
+Jo. Zaprvé!
+
+576
+00:33:29,208 --> 00:33:31,415
+Vrah se vždycky vrátí na místo činu.
+
+577
+00:33:31,416 --> 00:33:32,250
+Zadruhé!
+
+578
+00:33:32,375 --> 00:33:34,541
+Policie si myslí, že to byl tulák.
+
+579
+00:33:34,708 --> 00:33:36,374
+Vždycky to hodí na tuláka.
+
+580
+00:33:36,375 --> 00:33:37,208
+Zatřetí.
+
+581
+00:33:37,333 --> 00:33:40,541
+Dostaví se někdo, koho nikdo nečekal,
+a všechno změní.
+
+582
+00:33:40,708 --> 00:33:41,541
+Začtvrté!
+
+583
+00:33:41,708 --> 00:33:44,541
+Oběť je klíčem k řešení případu.
+
+584
+00:33:44,875 --> 00:33:47,166
+To zní hezky.
+
+585
+00:33:47,333 --> 00:33:52,416
+Jenže brzy zjistíte, že v realitě je to
+mnohem komplikovanější než v knížkách.
+
+586
+00:33:52,583 --> 00:33:53,750
+A jsme tu.
+
+587
+00:33:53,916 --> 00:33:56,041
+Vítejte v Denbrooku.
+
+588
+00:33:56,875 --> 00:33:58,125
+Co je tohle?
+
+589
+00:33:58,291 --> 00:34:01,208
+To je kostel,
+kde bydlí kdosi jménem „Bůh“.
+
+590
+00:34:01,375 --> 00:34:02,375
+Kdo je Bůh?
+
+591
+00:34:02,541 --> 00:34:03,875
+To je trochu nejasné.
+
+592
+00:34:04,041 --> 00:34:05,416
+Bůh je pastýř.
+
+593
+00:34:05,541 --> 00:34:07,083
+Mohl by to být náš pastýř?
+
+594
+00:34:07,208 --> 00:34:09,874
+Ne. Protože je to i beránek.
+
+595
+00:34:09,875 --> 00:34:10,708
+Cože?
+
+596
+00:34:10,833 --> 00:34:12,583
+A je neviditelný.
+
+597
+00:34:12,750 --> 00:34:14,000
+A jeho tělo je chléb.
+
+598
+00:34:14,166 --> 00:34:15,541
+A často se zlobí.
+
+599
+00:34:15,666 --> 00:34:17,625
+Zlobí? Je to zlobil?
+
+600
+00:34:17,791 --> 00:34:18,791
+Je.
+
+601
+00:34:18,958 --> 00:34:22,458
+Takže Bůh je neviditelné
+zlobivé jehně z chleba?
+
+602
+00:34:22,625 --> 00:34:24,583
+Ano. A v neděli ho vždycky jedí.
+
+603
+00:34:25,541 --> 00:34:26,833
+Chudák.
+
+604
+00:34:27,125 --> 00:34:28,541
+Vím, že už mám být zpět,
+
+605
+00:34:28,666 --> 00:34:32,291
+ale zřejmě jsem natrefil
+na vraždu na maloměstě.
+
+606
+00:34:32,458 --> 00:34:34,250
+Už musím letět. Ahoj.
+
+607
+00:34:34,416 --> 00:34:36,250
+Za mnou! Tady nás neuvidí.
+
+608
+00:34:36,416 --> 00:34:38,791
+Všichni nás vidí a jsme jim jedno.
+
+609
+00:34:38,958 --> 00:34:41,375
+Po sté vám říkám, že jste ovce.
+
+610
+00:34:41,833 --> 00:34:43,791
+Občané Denbrooku.
+
+611
+00:34:44,208 --> 00:34:48,708
+Vím, že se říká, že George Hardy
+zemřel za podezřelých okolností.
+
+612
+00:34:48,875 --> 00:34:52,500
+Ale podezření, že byl otráven,
+nemohu komentovat, dokud…
+
+613
+00:34:52,625 --> 00:34:54,541
+Cože? George byl otráven?
+
+614
+00:34:55,416 --> 00:34:56,541
+A safra.
+
+615
+00:34:56,708 --> 00:34:58,958
+Promiňte, co to bylo za jed?
+
+616
+00:34:59,125 --> 00:35:00,125
+Poslyšte.
+
+617
+00:35:00,666 --> 00:35:03,333
+George byl otráven něčím,
+čemu se říká taxin.
+
+618
+00:35:03,458 --> 00:35:05,083
+Je z plodů tisu červeného.
+
+619
+00:35:05,250 --> 00:35:07,583
+A ty tisy rostou někde tady?
+
+620
+00:35:09,291 --> 00:35:10,125
+Tamhle.
+
+621
+00:35:11,958 --> 00:35:13,583
+Zavraždil ho někdo z místních.
+
+622
+00:35:13,708 --> 00:35:15,000
+Ne.
+
+623
+00:35:15,166 --> 00:35:18,250
+Prosím. Jistě to byl nějaký tulák.
+
+624
+00:35:22,750 --> 00:35:24,166
+Co je to s nimi?
+
+625
+00:35:44,875 --> 00:35:46,333
+Strážníku Derry?
+
+626
+00:35:47,208 --> 00:35:48,500
+Strážníku Derry.
+
+627
+00:35:49,416 --> 00:35:50,500
+Ano.
+
+628
+00:35:50,833 --> 00:35:53,416
+Ano, to jsem já.
+
+629
+00:35:53,583 --> 00:35:56,291
+Lydia Harbottlová? Harbottlová a Bloom?
+
+630
+00:35:56,541 --> 00:36:00,041
+Hovořili jsme spolu.
+Jsem advokátka pana George Hardyho.
+
+631
+00:36:00,208 --> 00:36:02,666
+Aha. A vy jste?
+
+632
+00:36:02,875 --> 00:36:04,833
+Já jsem Rebeka Hampsteadová.
+
+633
+00:36:05,000 --> 00:36:06,791
+Jsem Georgova dcera.
+
+634
+00:36:07,375 --> 00:36:10,083
+- On měl dceru?
+- George měl dceru?
+
+635
+00:36:10,583 --> 00:36:15,208
+Dostaví se někdo,
+koho nikdo nečekal, a všechno změní.
+
+636
+00:36:16,625 --> 00:36:19,458
+Dole jsem našel napsané
+vaše telefonní číslo.
+
+637
+00:36:19,625 --> 00:36:21,458
+Tak jsem zjistil, kam zavolat.
+
+638
+00:36:21,625 --> 00:36:23,208
+Stále detekuji…
+
+639
+00:36:23,375 --> 00:36:25,041
+Vy ale nejste detektiv, že?
+
+640
+00:36:25,208 --> 00:36:26,166
+Já vím, ale…
+
+641
+00:36:26,291 --> 00:36:30,250
+Každopádně jste ten dokument našel
+na stolku v karavanu na pastvině.
+
+642
+00:36:30,375 --> 00:36:31,625
+To není detekování.
+
+643
+00:36:31,791 --> 00:36:32,707
+No…
+
+644
+00:36:32,708 --> 00:36:37,415
+Jen jste si toho dokumentu všiml, když
+jste byl podruhé v karavanu pana Hardyho.
+
+645
+00:36:37,416 --> 00:36:38,250
+Přesně tak.
+
+646
+00:36:38,416 --> 00:36:41,625
+Vrátil jsem se tam,
+abych místo činu řádně ohledal.
+
+647
+00:36:41,958 --> 00:36:45,166
+Obehnal jsem to tam páskou.
+Lepila víc, než bych čekal.
+
+648
+00:36:45,291 --> 00:36:46,916
+To nikoho nezajímá.
+
+649
+00:36:47,041 --> 00:36:49,708
+Četl jste to? Ani jste to neprolétl?
+
+650
+00:36:49,875 --> 00:36:51,875
+Ne. To není má práce.
+
+651
+00:36:52,041 --> 00:36:53,625
+Ale samozřejmě že je.
+
+652
+00:36:54,041 --> 00:36:56,125
+Jeho závěť přečtu dneska odpoledne.
+
+653
+00:36:56,250 --> 00:37:00,041
+Zmiňuje v ní následující osoby.
+Postarejte se, aby se dostavily.
+
+654
+00:37:00,208 --> 00:37:04,208
+Reverend Hillcoate, Caleb Merrow…
+
+655
+00:37:04,375 --> 00:37:05,791
+Pište si.
+
+656
+00:37:05,958 --> 00:37:09,708
+Reverend Hillcoate,
+Caleb Merrow, Běta Pennocková,
+
+657
+00:37:09,875 --> 00:37:14,333
+pan Sádlo, vy a Rebeka Hampsteadová.
+
+658
+00:37:14,500 --> 00:37:16,625
+Bydlím v hostinci U Koroptve.
+
+659
+00:37:17,208 --> 00:37:19,791
+Závěť budu číst přesně v pět.
+
+660
+00:37:19,958 --> 00:37:22,041
+V pět odpo. V 17:00.
+
+661
+00:37:22,208 --> 00:37:27,541
+Poslyšte, jak víte, Rebeka žije v Americe,
+a přesto se ocitla v Denbrooku
+
+662
+00:37:27,708 --> 00:37:30,750
+zrovna v den,
+kdy byl její otec nalezen mrtev.
+
+663
+00:37:30,916 --> 00:37:33,750
+Takže ve večer vraždy
+už byla v naší vlasti.
+
+664
+00:37:33,916 --> 00:37:35,666
+Ale to vám nedošlo, že ne?
+
+665
+00:37:36,916 --> 00:37:38,000
+Ano.
+
+666
+00:37:38,333 --> 00:37:40,833
+Ne. Ovšemže došlo.
+
+667
+00:37:41,250 --> 00:37:43,666
+To je vaše první vražda, že ano?
+
+668
+00:37:43,833 --> 00:37:44,875
+Cože?
+
+669
+00:37:45,916 --> 00:37:47,833
+Myslíte, že jsem ho zabil já?
+
+670
+00:37:51,250 --> 00:37:53,208
+Jo. Aha.
+
+671
+00:37:53,958 --> 00:37:57,458
+Aha. Jakože poprvé vyšetřuji vraždu.
+
+672
+00:37:58,416 --> 00:38:01,750
+Je to velká zátěž
+pro vaše bedra, strážníku Derry.
+
+673
+00:38:02,083 --> 00:38:03,166
+Nashle v pět.
+
+674
+00:38:03,333 --> 00:38:05,000
+Nashle, slečno Harbottlová.
+
+675
+00:38:05,166 --> 00:38:06,458
+Madam Harbottlová.
+
+676
+00:38:08,708 --> 00:38:10,833
+Musíme zjistit, co je v té závěti.
+
+677
+00:38:11,416 --> 00:38:13,000
+{\an8}Hostinec u Koroptve.
+
+678
+00:38:13,166 --> 00:38:15,208
+Občas jim tu ožírám kytky za okny.
+
+679
+00:38:15,375 --> 00:38:18,666
+A nevím, k čemu nám tohle bude.
+
+680
+00:38:18,833 --> 00:38:21,208
+V těch příbězích, co nám čítal,
+
+681
+00:38:21,375 --> 00:38:24,541
+byli všichni zmínění v závěti podezřelí.
+
+682
+00:38:27,000 --> 00:38:28,457
+Chci vidět jejich tváře.
+
+683
+00:38:28,458 --> 00:38:29,291
+Proč?
+
+684
+00:38:29,458 --> 00:38:33,041
+Protože lidé často lžou
+a z jejich očí se to pozná.
+
+685
+00:38:33,208 --> 00:38:34,458
+Přesně tak.
+
+686
+00:38:36,083 --> 00:38:39,500
+Mopple, my si tu vykoušeme okno.
+Ty najdi nějaké vhodnější.
+
+687
+00:38:39,625 --> 00:38:40,708
+Rozkaz.
+
+688
+00:38:41,375 --> 00:38:42,708
+Koušem?
+
+689
+00:38:45,250 --> 00:38:47,458
+Co víte o svojí mamince?
+
+690
+00:38:47,625 --> 00:38:51,291
+V dopisech mi psal, že zemřela při porodu.
+
+691
+00:38:51,416 --> 00:38:54,333
+A že byl velmi mladý
+a chudý a že se bál a…
+
+692
+00:38:55,791 --> 00:38:57,750
+Že mě dal k adopci.
+
+693
+00:38:58,291 --> 00:38:59,541
+Prý skrz církev.
+
+694
+00:39:02,375 --> 00:39:04,291
+I já bych měl jeden dotaz.
+
+695
+00:39:04,458 --> 00:39:05,791
+Promiňte.
+
+696
+00:39:06,791 --> 00:39:08,291
+Rád vás zas vidím.
+
+697
+00:39:08,458 --> 00:39:10,208
+Právě mi došlo,
+
+698
+00:39:10,958 --> 00:39:12,208
+bez pomoci,
+
+699
+00:39:12,375 --> 00:39:16,208
+že z Ameriky
+jste sem nemohla dorazit dneska, že?
+
+700
+00:39:16,375 --> 00:39:19,500
+Což znamená,
+že jste byla v naší vlasti už včera,
+
+701
+00:39:19,666 --> 00:39:22,750
+kdy byl George zavražděn.
+
+702
+00:39:23,208 --> 00:39:26,500
+Z ničeho vás neobviňuji, ale je to tak?
+
+703
+00:39:26,875 --> 00:39:28,791
+To je chytré, detektive.
+
+704
+00:39:28,958 --> 00:39:31,208
+Ne, já nejsem detektiv.
+
+705
+00:39:31,375 --> 00:39:33,125
+Jsem jen místní strážník,
+
+706
+00:39:33,291 --> 00:39:36,125
+který čile detekuje.
+
+707
+00:39:36,625 --> 00:39:39,750
+No já jsem…
+
+708
+00:39:40,541 --> 00:39:44,083
+přiletěla už včera,
+ale do Denbrooku jsem se dostala až dnes.
+
+709
+00:39:44,625 --> 00:39:46,500
+Doplňující dotaz.
+
+710
+00:39:46,666 --> 00:39:48,166
+Máte
+
+711
+00:39:48,333 --> 00:39:49,583
+přítele?
+
+712
+00:39:50,583 --> 00:39:51,875
+Tak to bylo laciné.
+
+713
+00:39:52,041 --> 00:39:53,916
+Co je? To je standardní dotaz,
+
+714
+00:39:54,083 --> 00:39:57,833
+který by položil každý vyšetřovatel.
+
+715
+00:39:58,000 --> 00:40:01,083
+To je vtipné, že se ptáte.
+Zrovna jsme se rozešli.
+
+716
+00:40:01,583 --> 00:40:02,791
+Ach ne.
+
+717
+00:40:04,166 --> 00:40:05,583
+Vidíš to, co vidím já?
+
+718
+00:40:05,750 --> 00:40:06,791
+Ta dcera.
+
+719
+00:40:06,958 --> 00:40:09,125
+Tváří se šťastně…
+
+720
+00:40:09,291 --> 00:40:12,000
+Ale v očích má strach.
+
+721
+00:40:12,166 --> 00:40:14,833
+V kolik hodin jste včera přiletěla?
+
+722
+00:40:15,000 --> 00:40:17,583
+Nějak kolem sedmé večer a…
+
+723
+00:40:19,416 --> 00:40:20,416
+promiňte.
+
+724
+00:40:22,083 --> 00:40:24,750
+- Ale to nic.
+- Dneska jsme se měli potkat.
+
+725
+00:40:24,916 --> 00:40:26,333
+Jsem z toho celá vedle.
+
+726
+00:40:28,375 --> 00:40:30,250
+- Díky.
+- Nate.
+
+727
+00:40:30,416 --> 00:40:31,875
+Díky.
+
+728
+00:40:32,291 --> 00:40:34,166
+Už stačí. Děkuji mockrát.
+
+729
+00:40:34,625 --> 00:40:38,166
+Okno. Kdybych byl okno, kdepak bych byl?
+
+730
+00:40:40,083 --> 00:40:41,250
+Zeleninka.
+
+731
+00:40:41,458 --> 00:40:44,458
+Ahoj. Mrkvičku si dám líbit!
+
+732
+00:40:45,541 --> 00:40:49,291
+To ne.
+
+733
+00:40:49,666 --> 00:40:53,416
+A taky mi psal, že mám bratra, prý dvojče,
+
+734
+00:40:53,583 --> 00:40:55,500
+kterého poslali do Jižní Afriky.
+
+735
+00:40:55,666 --> 00:40:59,041
+Jihoafrické dvojče, které neznáte.
+To je fakt něco.
+
+736
+00:40:59,541 --> 00:41:01,166
+A vy jste kdo?
+
+737
+00:41:01,916 --> 00:41:04,875
+Jsem Elliot Matthews. Píšu článek o té…
+
+738
+00:41:05,041 --> 00:41:06,458
+Nezájem. Ven.
+
+739
+00:41:07,708 --> 00:41:09,583
+Jako žurnalista mám prá…
+
+740
+00:41:09,708 --> 00:41:13,166
+Nemáte vůbec žádná práva. Zmizte.
+
+741
+00:41:13,500 --> 00:41:14,333
+Fajn.
+
+742
+00:41:14,458 --> 00:41:16,208
+A neposlouchejte.
+
+743
+00:41:16,375 --> 00:41:20,875
+Budu si v „prezidentském apartmá“
+užívat všech jeho výhod.
+
+744
+00:41:21,041 --> 00:41:22,208
+Lily!
+
+745
+00:41:22,708 --> 00:41:24,333
+Lily, Sebastiane!
+
+746
+00:41:24,500 --> 00:41:25,833
+Pomoc!
+
+747
+00:41:28,166 --> 00:41:32,583
+Pane Van Vuurene, tady Lydia Harbottlová.
+Slyšíme se?
+
+748
+00:41:32,750 --> 00:41:34,375
+Ja. <i>Dobré spojení. Děkuji.</i>
+
+749
+00:41:34,541 --> 00:41:37,250
+Pan Van Vuuren je syn pana Hardyho.
+
+750
+00:41:37,416 --> 00:41:41,833
+Žije v Jižní Africe,
+a proto se bude účastnit přes telefon.
+
+751
+00:41:42,000 --> 00:41:47,250
+Pan Hardy mi poslal opis své závěti.
+Před dvěma měsíci.
+
+752
+00:41:48,916 --> 00:41:52,416
+Ale tuto závěť si zde dnes číst nebudeme.
+
+753
+00:41:52,583 --> 00:41:53,750
+Napsal totiž novou.
+
+754
+00:41:54,083 --> 00:41:55,666
+- Já ji našel.
+- Kuš.
+
+755
+00:41:55,833 --> 00:41:58,083
+Datovaná je tři dny před jeho smrtí.
+
+756
+00:41:58,250 --> 00:42:02,291
+No jasně. Vždycky je nová závěť.
+
+757
+00:42:02,750 --> 00:42:07,041
+„Toto je závěť a poslední vůle
+pana George Hardyho.
+
+758
+00:42:07,541 --> 00:42:10,041
+Všech sedm jsem vás sezval sem,
+
+759
+00:42:10,208 --> 00:42:14,083
+neb mám s každým z vás nevyřízený účet.
+
+760
+00:42:14,250 --> 00:42:17,125
+Některým z vás jsem ublížil
+
+761
+00:42:17,291 --> 00:42:20,416
+a někteří z vás zase ublížili mně.
+
+762
+00:42:20,875 --> 00:42:24,083
+Mezi vámi teď v této místnosti
+
+763
+00:42:24,250 --> 00:42:27,750
+sedí Hňup, Špatný pastýř,
+
+764
+00:42:27,916 --> 00:42:31,333
+Jarní jehně, Zimní jehně,
+
+765
+00:42:31,500 --> 00:42:32,833
+Oběť
+
+766
+00:42:34,291 --> 00:42:35,625
+a dva Vrahouni.“
+
+767
+00:42:35,791 --> 00:42:37,000
+Dva Vrahouni?
+
+768
+00:42:37,125 --> 00:42:38,458
+Že jsem Špatný pastýř?
+
+769
+00:42:38,583 --> 00:42:41,250
+- Kdo je kdo?
+- Alespoň víme, kdo je tu Hňup.
+
+770
+00:42:41,416 --> 00:42:43,541
+Chovám ušlechtilé francouzské ovce.
+
+771
+00:42:43,708 --> 00:42:45,250
+Co to píše o další oběti?
+
+772
+00:42:45,416 --> 00:42:46,541
+Umře někdo z nás?
+
+773
+00:42:46,750 --> 00:42:48,458
+A že dva z nás jsou vrahouni.
+
+774
+00:42:48,583 --> 00:42:52,250
+Co kdybyste zjistil kdo,
+místo toho flirtování?
+
+775
+00:42:53,291 --> 00:42:54,666
+Dva Vrahouni?
+
+776
+00:42:54,833 --> 00:42:56,708
+Zimní jehně.
+
+777
+00:42:59,791 --> 00:43:01,416
+„A toto vám odkazuji.“
+
+778
+00:43:01,583 --> 00:43:02,708
+Hej!
+
+779
+00:43:05,208 --> 00:43:07,583
+„A toto vám odkazuji.
+
+780
+00:43:08,333 --> 00:43:11,708
+Ujištění, že jsem dobře věděl,
+co jste ve skutečnosti zač.
+
+781
+00:43:12,458 --> 00:43:15,750
+A pro většinu z vás to tímhle končí.“
+
+782
+00:43:16,250 --> 00:43:20,041
+Jak to myslí, že tím to pro nás končí?
+Co tady vůbec děláme?
+
+783
+00:43:20,208 --> 00:43:22,000
+Sedněte si a sklapněte, Sádlo.
+
+784
+00:43:22,375 --> 00:43:23,416
+No dovolte?
+
+785
+00:43:23,583 --> 00:43:27,250
+Ne, to je další věta v závěti.
+„Sedněte si a sklapněte, Sádlo.“
+
+786
+00:43:28,208 --> 00:43:31,708
+Zdá se, že George vás velmi dobře znal.
+
+787
+00:43:32,333 --> 00:43:33,416
+Nedělej ostudu.
+
+788
+00:43:33,583 --> 00:43:34,875
+- Kušuj.
+- Ty kušuj.
+
+789
+00:43:35,041 --> 00:43:37,333
+„Svému synovi Peteru Van Vuurenovi
+
+790
+00:43:37,500 --> 00:43:41,750
+odkazuji 300 akrů aktuálně
+pronajatých Calebu Merrowovi.“
+
+791
+00:43:41,916 --> 00:43:43,333
+<i>To je milé.</i>
+
+792
+00:43:43,500 --> 00:43:45,541
+„Své dceři Rebece Hampsteadové
+
+793
+00:43:45,708 --> 00:43:49,500
+přilehlých 300 akrů,
+na kterých jsem byl doma,
+
+794
+00:43:49,666 --> 00:43:54,958
+včetně karavanu,
+stodoly, inventáře a ovcí.“
+
+795
+00:43:55,125 --> 00:43:59,041
+Ve své předchozí závěti zanechal
+pan Hardy zbytek svých aktiv
+
+796
+00:43:59,208 --> 00:44:02,083
+charitě, Organizaci pro ochranu zvířat.
+
+797
+00:44:02,833 --> 00:44:06,208
+V této nové
+však zní následující odstavec takto:
+
+798
+00:44:06,375 --> 00:44:11,583
+„Zbytek svých aktiv přenechávám
+své dceři, Rebece Hampsteadové.“
+
+799
+00:44:11,750 --> 00:44:14,208
+Moc se neradujte. Ten chlap nic neměl.
+
+800
+00:44:14,375 --> 00:44:19,166
+Omyl, v majetku měl jedno
+nefunkční rozmetadlo mrvy,
+
+801
+00:44:19,333 --> 00:44:22,166
+tři pytle hnojiva na trávu…
+
+802
+00:44:22,333 --> 00:44:23,750
+To se vždycky hodí.
+
+803
+00:44:23,916 --> 00:44:28,291
+…a jeden bankovní účet
+se zůstatkem přibližně
+
+804
+00:44:28,458 --> 00:44:29,708
+30 milionů dolarů.
+
+805
+00:44:30,666 --> 00:44:32,125
+<i>Říkáte 30 milionů?</i>
+
+806
+00:44:32,291 --> 00:44:35,166
+A máme motiv.
+
+807
+00:44:35,958 --> 00:44:37,666
+30 milionů? Jak?
+
+808
+00:44:37,833 --> 00:44:40,791
+Před dvěma lety
+George Hardy vynalezl léčivo
+
+809
+00:44:40,958 --> 00:44:44,250
+na ovčí chorobu známou jako orf.
+
+810
+00:44:44,416 --> 00:44:46,166
+- Orf?
+- Orf.
+
+811
+00:44:46,333 --> 00:44:49,125
+Říkáte, že ta modrá blebta byla léčivo?
+
+812
+00:44:49,250 --> 00:44:53,250
+Svůj patent prodal velké
+zemědělské korporaci a dostal…
+
+813
+00:44:53,375 --> 00:44:54,666
+30 milionů dolarů.
+
+814
+00:44:55,791 --> 00:44:56,791
+Za orf.
+
+815
+00:45:08,958 --> 00:45:10,583
+- Někdo je venku.
+- Time.
+
+816
+00:45:10,750 --> 00:45:12,958
+Běžte tam. Šup!
+
+817
+00:45:26,041 --> 00:45:27,958
+Hej!
+
+818
+00:45:38,291 --> 00:45:40,083
+Nic mi není.
+
+819
+00:45:41,083 --> 00:45:41,916
+Je zpět.
+
+820
+00:46:02,291 --> 00:46:03,750
+Vyžeňte ho!
+
+821
+00:46:03,916 --> 00:46:05,000
+Ven!
+
+822
+00:46:09,458 --> 00:46:13,041
+Lily, našel jsem to okno.
+
+823
+00:46:14,125 --> 00:46:15,916
+Jen si dej. Hodnej kluk.
+
+824
+00:46:16,083 --> 00:46:17,333
+Jen si dej.
+
+825
+00:46:20,625 --> 00:46:23,916
+Bez pastýře ty ovce dočista zvlčí.
+
+826
+00:46:24,166 --> 00:46:25,333
+Obzvlášť ten beran.
+
+827
+00:46:26,625 --> 00:46:28,666
+George ho koupil na pouti.
+
+828
+00:46:29,000 --> 00:46:30,583
+Je to pěkný rváč.
+
+829
+00:46:35,708 --> 00:46:39,250
+Počkejte, Time!
+Dal byste mi prosím svůj komentář?
+
+830
+00:46:39,416 --> 00:46:42,041
+Ne. Bez komentáře.
+A pro vás jsem strážník.
+
+831
+00:46:42,208 --> 00:46:44,166
+A co stopy? Máte nějakou stopu?
+
+832
+00:46:44,333 --> 00:46:48,333
+Ano. Jo, mám tunu stop
+a mám to plně pod kontrolou.
+
+833
+00:46:49,666 --> 00:46:53,791
+Hele. Já potřebuju článek.
+Vy někoho zatknout.
+
+834
+00:46:54,583 --> 00:46:57,958
+Nebylo by milé, kdyby vás místní
+pro jednou respektovali?
+
+835
+00:46:58,125 --> 00:47:00,791
+Místní mě respektují.
+
+836
+00:47:02,500 --> 00:47:05,708
+Když to vyřešíte, budete hrdina.
+
+837
+00:47:09,000 --> 00:47:10,750
+Rozlouskneme to spolu.
+
+838
+00:47:12,291 --> 00:47:13,291
+Něco vím.
+
+839
+00:47:13,458 --> 00:47:16,125
+Včera večer,
+když táhli moje auto do města,
+
+840
+00:47:16,291 --> 00:47:19,541
+viděl jsem ve 21:00 svítit
+baterku na Georgově pastvině.
+
+841
+00:47:20,208 --> 00:47:22,000
+Aha.
+
+842
+00:47:22,541 --> 00:47:23,958
+To sedí.
+
+843
+00:47:24,250 --> 00:47:27,708
+Dle ohledání
+George zemřel mezi 20:00 a 23:00.
+
+844
+00:47:30,541 --> 00:47:33,833
+Vy jste si to tělo fotil, že? Já zapomněl.
+
+845
+00:47:34,000 --> 00:47:38,083
+Mám fotek hromadu. Všechny vám je pošlu.
+
+846
+00:47:39,875 --> 00:47:41,083
+Co vy na to?
+
+847
+00:47:41,666 --> 00:47:43,333
+Strážníku Hrdino?
+
+848
+00:47:48,791 --> 00:47:52,416
+A pak řekla Hňup, Oběť, dva Vrahouni a…
+
+849
+00:47:52,583 --> 00:47:54,000
+Natuty to byla služebná.
+
+850
+00:47:54,166 --> 00:47:55,791
+Žádná tam nebyla!
+
+851
+00:47:55,958 --> 00:48:00,083
+Byla jen v knížce a ani v knížce
+nevraždila ona! Nech ji bejt!
+
+852
+00:48:00,833 --> 00:48:02,000
+Ovce.
+
+853
+00:48:02,166 --> 00:48:05,791
+Teď nás bude pást Caleb. Viď, Lily?
+
+854
+00:48:05,958 --> 00:48:09,708
+Ovšem. Jen musíme dořešit tu vraždu.
+
+855
+00:48:09,875 --> 00:48:10,875
+Měla bych dotaz.
+
+856
+00:48:11,041 --> 00:48:12,833
+Pročs ještě neodhalila vraha?
+
+857
+00:48:13,000 --> 00:48:15,375
+V příbězích jsi vraha odhalila vždycky.
+
+858
+00:48:15,541 --> 00:48:19,250
+Jenže v realitě
+je to mnohem komplikovanější
+
+859
+00:48:19,416 --> 00:48:21,958
+než v knížkách.
+
+860
+00:48:22,625 --> 00:48:24,000
+Knížka.
+
+861
+00:48:24,666 --> 00:48:26,500
+Ta by nám mohla pomoct.
+
+862
+00:48:26,666 --> 00:48:29,166
+Musím se dostat do Georgova karavanu a…
+
+863
+00:48:29,333 --> 00:48:30,416
+Hleďte.
+
+864
+00:48:32,541 --> 00:48:34,291
+Není to Rebeka?
+
+865
+00:48:36,083 --> 00:48:38,000
+Co ta tady hledá?
+
+866
+00:49:04,583 --> 00:49:06,291
+Jakpak se jmenuješ?
+
+867
+00:49:06,791 --> 00:49:08,708
+To je Georgova dcera?
+
+868
+00:49:08,875 --> 00:49:11,916
+Voní jako on. Ale podobná mu není.
+
+869
+00:49:12,083 --> 00:49:13,916
+Určitě se narodila v zimě.
+
+870
+00:49:14,083 --> 00:49:16,250
+A proto ji tady George nechtěl.
+
+871
+00:49:16,416 --> 00:49:19,833
+Ovšem! Zimní jehně. A máme ji.
+
+872
+00:49:20,000 --> 00:49:21,083
+Rebeka to byla!
+
+873
+00:49:21,250 --> 00:49:22,375
+Vražednice!
+
+874
+00:49:22,541 --> 00:49:23,833
+To přece nevíme!
+
+875
+00:49:24,000 --> 00:49:26,041
+- Já to věděl!
+- To mluví za vše.
+
+876
+00:49:26,208 --> 00:49:28,250
+Mně ta Rebeka přišla podezřelá.
+
+877
+00:49:28,375 --> 00:49:30,083
+Já ji podezřívala od začátku.
+
+878
+00:49:30,208 --> 00:49:31,541
+Sebastiane?
+
+879
+00:49:33,083 --> 00:49:36,541
+Lily? Nepotřebovalas
+něco z Georgova karavanu?
+
+880
+00:49:36,708 --> 00:49:38,333
+Ňákou knížku?
+
+881
+00:49:39,416 --> 00:49:40,416
+{\an8}NEVSTUPOVAT
+
+882
+00:49:40,541 --> 00:49:44,000
+Naposledy nám George četl
+o zúžení počtu podezřelých.
+
+883
+00:49:44,125 --> 00:49:47,083
+Musím tu knihu najít
+a donést ji tomu policistovi.
+
+884
+00:49:47,208 --> 00:49:49,875
+Snad si ji přečte a poučí se z ní.
+
+885
+00:49:50,458 --> 00:49:52,583
+- Jdu já!
+- Ne. Zorko!
+
+886
+00:49:52,750 --> 00:49:54,750
+Chci být vyšetřovatelkou! Pusť mě!
+
+887
+00:49:54,875 --> 00:49:56,625
+Dobře. Musíš mi najít knížku,
+
+888
+00:49:56,750 --> 00:49:58,541
+ze které nám George četl kapitolu
+
+889
+00:49:58,666 --> 00:50:01,000
+o prostředcích, motivech a příležitostech.
+
+890
+00:50:01,125 --> 00:50:03,041
+Měla bych dotaz. Co je kapitola?
+
+891
+00:50:03,166 --> 00:50:05,666
+To je fuk. Najdi knihu s obrázkem vlaku.
+
+892
+00:50:05,833 --> 00:50:08,916
+- Měla bych dotaz. Co je vlak?
+- Mašinka a vagónky.
+
+893
+00:50:09,041 --> 00:50:10,000
+Měla bych dotaz.
+
+894
+00:50:10,125 --> 00:50:11,750
+Moment. Emoni, co to děláš?
+
+895
+00:50:11,958 --> 00:50:15,833
+Vydržte, kolegové. Tu knihu vyčmuchám,
+neb jsem rozený čmuchal.
+
+896
+00:50:17,833 --> 00:50:20,833
+Vyčmuchal jsem rajčata. Ty si nechte.
+
+897
+00:50:22,041 --> 00:50:24,291
+Čmuchej, Emoni. Spoléháme na tebe.
+
+898
+00:50:24,458 --> 00:50:25,708
+To jsi mimo.
+
+899
+00:50:25,875 --> 00:50:28,541
+Na kterou knihu George sáhl naposledy?
+
+900
+00:50:28,666 --> 00:50:30,000
+Tady? Ne, to je mrkev.
+
+901
+00:50:30,125 --> 00:50:32,458
+- To je skopec.
+- Pro tu se vrátím.
+
+902
+00:50:34,666 --> 00:50:35,791
+Aha!
+
+903
+00:50:35,916 --> 00:50:36,916
+101 HLOUPÝCH VTIPŮ O OVCÍCH
+
+904
+00:50:37,041 --> 00:50:39,125
+Tuhle knížku hledáme?
+
+905
+00:50:39,291 --> 00:50:40,291
+Ne!
+
+906
+00:50:40,458 --> 00:50:41,708
+Ne? A co tuhle?
+
+907
+00:50:41,833 --> 00:50:42,833
+VRAŽDA NA DRÁZE
+
+908
+00:50:43,000 --> 00:50:45,583
+To je ona! Emoni, tys ji našel!
+
+909
+00:50:45,750 --> 00:50:47,000
+Si piš, že našel.
+
+910
+00:50:47,166 --> 00:50:48,750
+Lily, to jsi řekla ty?
+
+911
+00:50:48,916 --> 00:50:51,500
+Koneckonců jsem ovčí detektiv.
+
+912
+00:50:58,000 --> 00:51:00,208
+Ahoj, Time. Posílám ty fotky. Elliot.
+
+913
+00:51:09,833 --> 00:51:12,458
+POLICEJNÍ STANICE
+
+914
+00:51:25,875 --> 00:51:27,166
+VRAŽDA NA DRÁZE
+
+915
+00:51:38,125 --> 00:51:40,166
+Máš tu moc hezky.
+
+916
+00:51:40,750 --> 00:51:42,541
+Ale trochu smutno.
+
+917
+00:51:46,041 --> 00:51:50,333
+Odnesla jsem tu knížku tomu policistovi,
+snad mu pomůže.
+
+918
+00:51:55,583 --> 00:51:57,208
+Co je to ta pouť?
+
+919
+00:51:58,125 --> 00:52:00,708
+To neřeš. A vrať se ke stádu.
+
+920
+00:52:01,375 --> 00:52:02,958
+Patříš do něj taky.
+
+921
+00:52:08,291 --> 00:52:09,750
+Je to hudba.
+
+922
+00:52:10,500 --> 00:52:13,041
+Pouť je samá muzika.
+
+923
+00:52:14,041 --> 00:52:15,250
+A atrakce.
+
+924
+00:52:16,666 --> 00:52:21,416
+Každý den přicházely děti.
+Hladily mě a krmily.
+
+925
+00:52:21,916 --> 00:52:23,833
+To jsem měl rád.
+
+926
+00:52:24,083 --> 00:52:26,416
+Jenže pak jsem dospěl.
+
+927
+00:52:27,541 --> 00:52:30,250
+A když nastal večer,
+
+928
+00:52:30,416 --> 00:52:34,125
+přišli nějací chlapi
+a odtáhli mě do arény.
+
+929
+00:52:35,666 --> 00:52:39,416
+A pak do té arény pustili psa.
+
+930
+00:52:41,541 --> 00:52:43,541
+A já s ním musel bojovat.
+
+931
+00:52:46,125 --> 00:52:48,541
+Dokud netekla krev.
+
+932
+00:52:50,541 --> 00:52:52,416
+A pak jednou
+
+933
+00:52:53,416 --> 00:52:54,833
+<i>tam přišel.</i>
+
+934
+00:53:07,625 --> 00:53:09,458
+Zaplatil jim
+
+935
+00:53:10,291 --> 00:53:11,625
+a odvedl mě.
+
+936
+00:53:14,250 --> 00:53:18,083
+Říká se tomu putovní pouť.
+
+937
+00:53:21,458 --> 00:53:24,791
+Ale jak to, že jsi skončil
+na tak hrozném místě?
+
+938
+00:53:24,958 --> 00:53:26,833
+Proč jsi nebyl u svého stáda?
+
+939
+00:53:27,625 --> 00:53:31,791
+Já myslel, že Lily, nejchytřejší ovci
+na světě, by to došlo už dávno.
+
+940
+00:53:34,083 --> 00:53:35,666
+Jo, tys byl zimní…?
+
+941
+00:53:35,791 --> 00:53:40,208
+Dříve či později
+chce zimní beránek odejít.
+
+942
+00:53:57,291 --> 00:53:59,583
+Tady jste! Jo!
+
+943
+00:54:01,500 --> 00:54:03,666
+Doufám, že máte hlad, Time.
+
+944
+00:54:03,833 --> 00:54:05,125
+Máte?
+
+945
+00:54:06,958 --> 00:54:08,125
+Haló?
+
+946
+00:54:08,875 --> 00:54:14,166
+Kdykoli nastane
+v tom případu nějaký zvrat,
+
+947
+00:54:15,166 --> 00:54:16,625
+jsou u toho.
+
+948
+00:54:22,708 --> 00:54:24,250
+Zešílel jste.
+
+949
+00:54:24,750 --> 00:54:27,416
+Zešílel jste a nic nevykoumal. Time!
+
+950
+00:54:27,583 --> 00:54:31,250
+To jste vedle.
+
+951
+00:54:32,333 --> 00:54:35,750
+„Kdo zabil George?“
+
+952
+00:54:35,916 --> 00:54:37,791
+{\an8}Závěť jmenuje pět podezřelých.
+
+953
+00:54:38,041 --> 00:54:41,541
+Ten, kdo zavraždil George,
+potřeboval tři věci:
+
+954
+00:54:41,708 --> 00:54:45,750
+Prostředky, motiv, příležitost.
+
+955
+00:54:46,000 --> 00:54:48,416
+Vyšlo to! Četl tu knihu!
+
+956
+00:54:48,583 --> 00:54:51,000
+Vezmeme to postupně, ano?
+
+957
+00:54:51,166 --> 00:54:54,541
+Prostředky: Taxin z plodů tisu červeného.
+
+958
+00:54:54,708 --> 00:54:57,458
+Ty stromy rostou hojně kolem kostela.
+
+959
+00:54:57,625 --> 00:54:59,750
+Prostředky měli všichni.
+
+960
+00:54:59,916 --> 00:55:02,458
+{\an8}Motiv: Proč vraždit George?
+
+961
+00:55:02,625 --> 00:55:04,458
+Rebeka má jasný motiv.
+
+962
+00:55:04,625 --> 00:55:07,625
+Ale motiv mohli mít i ti ostatní.
+Co nám tají?
+
+963
+00:55:08,125 --> 00:55:11,708
+Příležitost: Má někdo z podezřelých alibi?
+
+964
+00:55:11,875 --> 00:55:15,041
+Prostředky, motiv, příležitost.
+
+965
+00:55:15,208 --> 00:55:20,000
+Najdeme toho, kdo měl tři ze tří,
+a máme Denbrookského Traviče.
+
+966
+00:55:22,750 --> 00:55:25,833
+Time. To je vážně dobrý postup.
+
+967
+00:55:26,000 --> 00:55:28,666
+Jo. V noci mi to došlo…
+
+968
+00:55:29,958 --> 00:55:31,375
+Už ani nevím jak.
+
+969
+00:55:32,791 --> 00:55:36,291
+Nuže. Můžeme začít.
+
+970
+00:55:36,458 --> 00:55:37,791
+Sádlo.
+
+971
+00:55:37,958 --> 00:55:40,333
+{\an8}<i>Který jste vy z Georgovy závěti?</i>
+
+972
+00:55:40,833 --> 00:55:42,541
+Pravděpodobně Vrahoun.
+
+973
+00:55:43,625 --> 00:55:46,250
+Byl to vegetarián.
+
+974
+00:55:46,583 --> 00:55:50,166
+To bych dokázal odpustit ženě.
+Ale chlapovi?
+
+975
+00:55:50,625 --> 00:55:52,416
+Nechutné.
+
+976
+00:55:52,583 --> 00:55:53,708
+Běta.
+
+977
+00:55:54,083 --> 00:55:57,250
+Georgův dopis Rebece. Proč jste ho měla?
+
+978
+00:55:57,541 --> 00:56:01,833
+<i>Možná že poprvé v historii
+udělali na poště chybu?</i>
+
+979
+00:56:02,000 --> 00:56:04,791
+A v den předtím, kdy George zemřel,
+
+980
+00:56:04,958 --> 00:56:07,541
+jste utrousila: „Já ho jednou zabiju.“
+
+981
+00:56:07,708 --> 00:56:10,583
+Já nevraždila. Já jsem Oběť.
+A víc vám neřeknu.
+
+982
+00:56:10,750 --> 00:56:12,083
+Znám svá práva!
+
+983
+00:56:12,250 --> 00:56:13,416
+Caleb.
+
+984
+00:56:13,583 --> 00:56:15,500
+To ráno, když jste George našel,
+
+985
+00:56:15,625 --> 00:56:17,541
+jste mu nesl nějaké dokumenty?
+
+986
+00:56:17,708 --> 00:56:19,500
+Jo, vypověděl mi nájem.
+
+987
+00:56:19,666 --> 00:56:22,500
+Tak jsem mu nesl
+výhodnější nájemní smlouvu.
+
+988
+00:56:22,666 --> 00:56:23,958
+Ale zbytečně.
+
+989
+00:56:25,041 --> 00:56:29,333
+{\an8}Moment. George vás vyhodil? Ale proč?
+
+990
+00:56:29,708 --> 00:56:32,958
+{\an8}Slyšeli jste závěť.
+Asi jsem Špatný pastýř.
+
+991
+00:56:33,125 --> 00:56:34,541
+Hillcoate.
+
+992
+00:56:34,666 --> 00:56:36,625
+George do kostela nikdy nechodil.
+
+993
+00:56:36,791 --> 00:56:39,791
+A zčistajasna tam
+den před svou smrtí přišel,
+
+994
+00:56:39,958 --> 00:56:41,541
+aby vám velkoryse přispěl.
+
+995
+00:56:43,875 --> 00:56:44,708
+Proč?
+
+996
+00:56:44,958 --> 00:56:46,958
+Proč musím pořád dělat kozu?
+
+997
+00:56:48,250 --> 00:56:49,875
+George za mnou kdysi přišel
+
+998
+00:56:50,000 --> 00:56:53,666
+a řekl mi, že své děti nechal
+adoptovat prostřednictvím církve.
+
+999
+00:56:53,875 --> 00:56:57,416
+<i>Jakmile se dal do kupy,
+začal po nich pátrat.</i>
+
+1000
+00:56:57,583 --> 00:56:59,958
+<i>Církev mu nechtěla sdělit, kde jsou.</i>
+
+1001
+00:57:00,125 --> 00:57:02,291
+<i>Má na to přísná pravidla.</i>
+
+1002
+00:57:02,458 --> 00:57:04,666
+A tak se mě zeptal, co by ho to stálo,
+
+1003
+00:57:04,833 --> 00:57:09,458
+abych mu tu informaci zjistil.
+
+1004
+00:57:09,625 --> 00:57:13,041
+Kdyby na to církev přišla,
+byl bych vyobcován.
+
+1005
+00:57:13,208 --> 00:57:15,375
+- Fuj.
+- Vyhodili by ho.
+
+1006
+00:57:16,625 --> 00:57:18,291
+Ale ty peníze nebyly pro mě.
+
+1007
+00:57:18,416 --> 00:57:20,958
+Náš kostel si žádá rozsáhlé opravy.
+
+1008
+00:57:21,833 --> 00:57:25,916
+George za mnou přišel v nouzi
+a já toho zneužil.
+
+1009
+00:57:26,541 --> 00:57:28,750
+Caleb není Špatný pastýř.
+
+1010
+00:57:31,125 --> 00:57:32,333
+Jsem to já.
+
+1011
+00:57:32,500 --> 00:57:33,833
+A Rebeka.
+
+1012
+00:57:34,166 --> 00:57:35,375
+Slečno Hampsteadová.
+
+1013
+00:57:36,708 --> 00:57:39,375
+Užíváte si Denbrookský kulturní festival?
+
+1014
+00:57:41,083 --> 00:57:43,333
+Ano. Plnými doušky.
+
+1015
+00:57:44,833 --> 00:57:46,250
+Tohle bude snadné.
+
+1016
+00:57:46,416 --> 00:57:51,458
+Kde jste byla
+mezi 20:00 a 23:00 v den té vraždy?
+
+1017
+00:57:51,625 --> 00:57:53,791
+V hotelu poblíž letiště.
+
+1018
+00:57:53,958 --> 00:57:56,791
+Ubytovala jsem se
+a pak sledovala televizi.
+
+1019
+00:57:56,958 --> 00:57:59,125
+Nemohla jsem spát. Časový posun.
+
+1020
+00:58:00,083 --> 00:58:02,125
+A na co jste se dívala?
+
+1021
+00:58:03,541 --> 00:58:05,750
+Na kanál, kde běží zprávy dokola.
+
+1022
+00:58:06,791 --> 00:58:10,916
+- Na kanál, kde běží zprávy dokola.
+- Na kanál, kde běží zprávy dokola.
+
+1023
+00:58:11,041 --> 00:58:15,000
+Aha. Tak a máme hotovo.
+Příjemný den, slečno Hampsteadová.
+
+1024
+00:58:15,166 --> 00:58:17,458
+I vám. Nashle.
+
+1025
+00:58:18,375 --> 00:58:20,291
+Nebo mám říct slečno Krampusová?
+
+1026
+00:58:26,083 --> 00:58:30,583
+Zlověna Krampusová. Tak se jmenujete, že?
+
+1027
+00:58:30,750 --> 00:58:32,333
+A napadá vás nějaký důvod,
+
+1028
+00:58:32,458 --> 00:58:35,416
+proč by si někdo měnil jméno
+ze Zlověny Krampusové?
+
+1029
+00:58:35,541 --> 00:58:38,500
+Nesporně. Ale i tak jsem si vás proťukal.
+
+1030
+00:58:38,750 --> 00:58:42,791
+A zjistil jsem, že jste se jistou dobu
+stýkala se známým zločincem.
+
+1031
+00:58:42,916 --> 00:58:44,583
+Odsouzeným za padělatelství.
+
+1032
+00:58:44,708 --> 00:58:46,250
+I účet jste s ním sdílela.
+
+1033
+00:58:46,375 --> 00:58:49,208
+Neznám nikoho,
+kdo by neudělal chybu ve vztazích.
+
+1034
+00:58:49,333 --> 00:58:51,833
+Nevěděla jsem to. Bylo to před třemi lety.
+
+1035
+00:58:51,958 --> 00:58:54,416
+Aha. Takže jste se nerozešli nedávno.
+
+1036
+00:58:54,541 --> 00:58:56,541
+- Falešné jméno.
+- To je podezřelé.
+
+1037
+00:58:56,666 --> 00:58:58,125
+Nanejvýš podezřelé.
+
+1038
+00:58:58,291 --> 00:59:00,000
+Povězte mi.
+
+1039
+00:59:00,375 --> 00:59:02,916
+Byla jste poblíž tisů,
+co rostou u kostela?
+
+1040
+00:59:03,041 --> 00:59:04,833
+Ne. Samozřejmě že ne.
+
+1041
+00:59:05,000 --> 00:59:08,583
+A co třeba na Georgově farmě?
+
+1042
+00:59:09,041 --> 00:59:10,500
+Byla jste tam?
+
+1043
+00:59:11,541 --> 00:59:12,666
+Nikdy.
+
+1044
+00:59:13,916 --> 00:59:15,500
+Caleba vyhodil…
+
+1045
+00:59:15,666 --> 00:59:17,333
+Jo, ale pak Běta řekla…
+
+1046
+00:59:17,500 --> 00:59:18,916
+A proč Rebeka lhala?
+
+1047
+00:59:19,083 --> 00:59:20,458
+A co je vegetarián?
+
+1048
+00:59:20,625 --> 00:59:21,916
+Jak to souvisí?
+
+1049
+00:59:22,083 --> 00:59:24,791
+Mysli, ovce hloupá, mysli!
+
+1050
+00:59:24,958 --> 00:59:27,958
+Přestaň se tím trápit, Lily.
+Udělala to ta dcera.
+
+1051
+00:59:28,125 --> 00:59:30,291
+- Byla to Rebeka!
+- Kdo jinej?
+
+1052
+00:59:30,458 --> 00:59:32,083
+Ne, nebyla!
+
+1053
+00:59:32,958 --> 00:59:35,250
+Neznáte ji. Je hodná.
+
+1054
+00:59:35,416 --> 00:59:39,333
+Voní dočista jako George
+a George mě měl rád.
+
+1055
+00:59:39,500 --> 00:59:42,125
+Tebe? Zimního beránka nemá rád nikdo.
+
+1056
+00:59:42,291 --> 00:59:46,333
+Jedno zimní jehně omlouvá to druhé.
+To je jim podobné.
+
+1057
+00:59:46,500 --> 00:59:47,500
+Moment.
+
+1058
+00:59:47,666 --> 00:59:49,125
+Cos to říkal?
+
+1059
+00:59:49,291 --> 00:59:51,916
+Že mě měl George rád.
+
+1060
+00:59:52,083 --> 00:59:54,000
+Ne. To předtím.
+
+1061
+00:59:54,166 --> 00:59:57,708
+Řekls, že Rebeka voní dočista jako George.
+
+1062
+00:59:57,875 --> 01:00:00,125
+To už přece někdo říkal.
+
+1063
+01:00:00,291 --> 01:00:02,000
+Někdo, kdo neměl.
+
+1064
+01:00:02,166 --> 01:00:03,333
+Kdo?
+
+1065
+01:00:05,000 --> 01:00:06,333
+Ty.
+
+1066
+01:00:06,500 --> 01:00:09,458
+Já? Jak to myslíš?
+
+1067
+01:00:09,625 --> 01:00:10,666
+Vlnka to byla!
+
+1068
+01:00:10,833 --> 01:00:12,750
+Vražednice!
+
+1069
+01:00:12,916 --> 01:00:16,125
+Ne. Ale přece jenom nám něco tají.
+
+1070
+01:00:16,291 --> 01:00:17,666
+Že ano, Vlnko?
+
+1071
+01:00:17,833 --> 01:00:21,041
+Včera jsi řekla,
+že Rebeka voní jako George.
+
+1072
+01:00:21,208 --> 01:00:25,166
+Ale ona stála tak daleko,
+žes nemohla cítit, jak voní.
+
+1073
+01:00:25,333 --> 01:00:28,416
+Pokud tady už Rebeka někdy předtím nebyla.
+
+1074
+01:00:30,500 --> 01:00:33,250
+Ale je to tak nádherný!
+
+1075
+01:00:33,416 --> 01:00:35,333
+Co je tak nádherný?
+
+1076
+01:00:37,666 --> 01:00:39,666
+Ta věc bez konce.
+
+1077
+01:00:43,958 --> 01:00:45,250
+Vidíte?
+
+1078
+01:00:45,416 --> 01:00:48,750
+Je to tak nádherný a nemá to konec.
+
+1079
+01:00:48,916 --> 01:00:53,708
+Zírala jsem na to hodiny,
+až mi z toho šla hlava kolem.
+
+1080
+01:00:53,958 --> 01:00:55,583
+Vlnko!
+
+1081
+01:00:55,750 --> 01:00:57,708
+Kde jsi to vzala?
+
+1082
+01:01:00,250 --> 01:01:02,500
+Rebeka tu ten večer byla.
+
+1083
+01:01:02,750 --> 01:01:04,666
+Ten večer, kdy byl George zabit.
+
+1084
+01:01:06,916 --> 01:01:11,166
+Probudila jsem se, měla jsem hlad,
+šla jsem na pastvinu a ona tam byla.
+
+1085
+01:01:11,333 --> 01:01:12,833
+<i>Uviděla mě a řekla:</i>
+
+1086
+01:01:13,000 --> 01:01:16,375
+„Ty jsi ale hezká.“ Protože jsem.
+Jsem z vás nejkrásnější.
+
+1087
+01:01:16,500 --> 01:01:18,250
+A pak mě podrbala
+
+1088
+01:01:18,416 --> 01:01:20,083
+<i>a ta věc jí upadla.</i>
+
+1089
+01:01:21,250 --> 01:01:23,000
+A já se rozhodla,
+
+1090
+01:01:23,583 --> 01:01:25,625
+že si ji nechám.
+
+1091
+01:01:25,791 --> 01:01:28,166
+Takže soukromé vlastnictví.
+
+1092
+01:01:28,333 --> 01:01:30,541
+Ovce nic nevlastní!
+
+1093
+01:01:30,708 --> 01:01:32,208
+Já vím, ale…
+
+1094
+01:01:32,666 --> 01:01:34,375
+Nemá to konec.
+
+1095
+01:01:35,000 --> 01:01:36,833
+Případ vyřešen.
+
+1096
+01:01:37,000 --> 01:01:38,208
+Byla to Rebeka.
+
+1097
+01:01:38,375 --> 01:01:39,375
+Vražednice!
+
+1098
+01:01:39,541 --> 01:01:42,583
+Ten kousek lesklého kovu nic neřeší.
+
+1099
+01:01:42,750 --> 01:01:45,208
+Ovšemže řeší. Je to důkaz.
+
+1100
+01:01:45,375 --> 01:01:48,041
+Důkaz, jo? Čeho?
+
+1101
+01:01:48,208 --> 01:01:50,625
+Řekla policistovi, že tu nikdy nebyla,
+
+1102
+01:01:50,791 --> 01:01:54,375
+ale byla tu včera večer,
+kdy byl George zavražděn.
+
+1103
+01:01:54,708 --> 01:01:57,625
+Je to lhářka, falešnice a zimní jeh…
+
+1104
+01:01:58,208 --> 01:01:59,958
+Cože je?
+
+1105
+01:02:00,416 --> 01:02:01,500
+Řekni to.
+
+1106
+01:02:02,208 --> 01:02:04,166
+Od začátku ji nesnášíš.
+
+1107
+01:02:04,333 --> 01:02:05,416
+A vy taky!
+
+1108
+01:02:05,708 --> 01:02:07,000
+A proč?
+
+1109
+01:02:07,166 --> 01:02:10,125
+Protože se náhodou narodila v zimě.
+
+1110
+01:02:11,291 --> 01:02:14,166
+Dopustila se nejhoršího zločinu.
+
+1111
+01:02:14,333 --> 01:02:15,708
+No nemám pravdu?
+
+1112
+01:02:15,875 --> 01:02:17,375
+Nikdo tě nechce.
+
+1113
+01:02:17,541 --> 01:02:19,625
+Nezasloužíš si lásku!
+
+1114
+01:02:21,416 --> 01:02:26,125
+To slýchá každé zimní jehně znovu a znovu,
+
+1115
+01:02:26,500 --> 01:02:29,165
+dokud tomu jednoho dne samo neuvěří.
+
+1116
+01:02:29,166 --> 01:02:30,000
+Sebastiane…
+
+1117
+01:02:30,125 --> 01:02:31,250
+Ona nevraždila.
+
+1118
+01:02:31,416 --> 01:02:32,583
+Ale jak to víš?
+
+1119
+01:02:32,750 --> 01:02:35,041
+Protože jsem jí pohlédl do očí.
+
+1120
+01:02:35,208 --> 01:02:37,333
+Protože je to jasné.
+
+1121
+01:02:37,750 --> 01:02:39,416
+Ale ne vám.
+
+1122
+01:02:39,666 --> 01:02:40,875
+Ne.
+
+1123
+01:02:41,041 --> 01:02:43,875
+Jste jen stádo ovcí.
+
+1124
+01:02:45,333 --> 01:02:47,666
+Ale ty do našeho stáda patříš.
+
+1125
+01:02:48,833 --> 01:02:50,375
+Jak jsem řekl,
+
+1126
+01:02:50,541 --> 01:02:52,541
+já nikam nepatřím.
+
+1127
+01:02:54,000 --> 01:02:55,708
+A nikdy nepatřil.
+
+1128
+01:02:58,500 --> 01:02:59,583
+Lily.
+
+1129
+01:03:00,291 --> 01:03:03,083
+Co uděláme s tou věcí bez konce?
+
+1130
+01:03:06,583 --> 01:03:07,916
+No jasně!
+
+1131
+01:03:08,083 --> 01:03:09,416
+Ten šofér!
+
+1132
+01:03:13,416 --> 01:03:14,541
+Co je?
+
+1133
+01:03:17,083 --> 01:03:18,333
+No co?
+
+1134
+01:03:20,750 --> 01:03:21,791
+Hej!
+
+1135
+01:03:24,750 --> 01:03:26,208
+Vrať to. Hej!
+
+1136
+01:03:28,125 --> 01:03:29,166
+Hej!
+
+1137
+01:03:30,833 --> 01:03:32,250
+Ihned se vraťte!
+
+1138
+01:03:32,583 --> 01:03:34,083
+To je moje čepice!
+
+1139
+01:03:34,916 --> 01:03:36,416
+Stát! Stůjte!
+
+1140
+01:04:07,666 --> 01:04:10,041
+Díky. Za důkaz.
+
+1141
+01:04:13,500 --> 01:04:15,041
+Díky všem!
+
+1142
+01:04:25,833 --> 01:04:27,833
+Našel jsem něco, co vám asi patří.
+
+1143
+01:04:28,708 --> 01:04:30,666
+Těch náramků máte víc.
+
+1144
+01:04:32,375 --> 01:04:36,041
+- Asi mi sklouzl z ruky. Děkuji.
+- Ležel na Georgově pastvině.
+
+1145
+01:04:36,208 --> 01:04:38,583
+Tam, kde jste nikdy nebyla?
+
+1146
+01:04:40,000 --> 01:04:42,958
+Mám povolení prohledat vám pokoj.
+
+1147
+01:04:45,250 --> 01:04:46,791
+<i>A co tu hledáte?</i>
+
+1148
+01:04:46,958 --> 01:04:48,208
+<i>To nevím.</i>
+
+1149
+01:04:59,625 --> 01:05:01,333
+U tisů jste nikdy nebyla, že?
+
+1150
+01:05:01,500 --> 01:05:02,500
+Já to věděla.
+
+1151
+01:05:02,666 --> 01:05:04,791
+Ale nebyla. Nezabila bych…
+
+1152
+01:05:04,958 --> 01:05:07,000
+Time, musíte mi věřit.
+
+1153
+01:05:07,166 --> 01:05:08,916
+Strážníku Derry.
+
+1154
+01:05:09,583 --> 01:05:12,666
+Strážníku Derry, já vám přísahám.
+
+1155
+01:05:12,833 --> 01:05:14,750
+Já svého otce nezabila.
+
+1156
+01:05:14,916 --> 01:05:19,416
+Rebeko Hampsteadová,
+zatýkám vás pro vraždu George Hardyho.
+
+1157
+01:05:26,291 --> 01:05:27,666
+<i>Výslech podezřelé</i>
+
+1158
+01:05:27,833 --> 01:05:32,166
+Zlověny Krampusové
+alias Rebeky Hampsteadové.
+
+1159
+01:05:32,958 --> 01:05:37,541
+Jste ochotna vypovídat bez přítomnosti
+svého právního zástupce?
+
+1160
+01:05:37,791 --> 01:05:41,250
+Ano. Nepotřebuji ho.
+Ráda vám všechno vypovím.
+
+1161
+01:05:41,416 --> 01:05:43,625
+Aha. Tak začněme tímhle.
+
+1162
+01:05:44,000 --> 01:05:48,375
+Byla jste na pozemku George Hardyho
+toho večera, kdy byl zavražděn?
+
+1163
+01:05:49,041 --> 01:05:50,333
+Ano.
+
+1164
+01:05:50,666 --> 01:05:55,458
+Aha, takže všechny ty úsměvy
+a ta chvála, jak jsem chytrý detektiv,
+
+1165
+01:05:55,625 --> 01:05:57,791
+to jste jen hrála. Že ano?
+
+1166
+01:05:57,958 --> 01:06:00,958
+Lhala jste od první chvíle,
+kdy jste se tu objevila.
+
+1167
+01:06:01,791 --> 01:06:04,500
+Ty dopisy. Ty jsou pravda.
+
+1168
+01:06:05,000 --> 01:06:08,791
+Psal mi, že mě hledal přes 20 let
+
+1169
+01:06:08,958 --> 01:06:13,041
+a že si chce uspořádat svoje záležitosti.
+Poslal mi opis své závěti.
+
+1170
+01:06:13,208 --> 01:06:17,458
+Závěti, kde vám odkazuje 30 milionů,
+nebo té, kde zdědíte jen stádo ovcí?
+
+1171
+01:06:17,583 --> 01:06:19,958
+Nebylo v ní nic o penězích.
+
+1172
+01:06:21,416 --> 01:06:23,500
+Psal mi, že mě chce poznat.
+
+1173
+01:06:23,708 --> 01:06:24,958
+No…
+
+1174
+01:06:25,708 --> 01:06:26,833
+Přiletěla jste
+
+1175
+01:06:27,000 --> 01:06:31,458
+a pak jste jela k němu na farmu
+v ten večer, kdy byl zavražděn.
+
+1176
+01:06:32,291 --> 01:06:33,833
+A co se stalo pak?
+
+1177
+01:06:35,291 --> 01:06:36,583
+Povídali jsme si.
+
+1178
+01:06:36,750 --> 01:06:37,791
+O čem?
+
+1179
+01:06:39,458 --> 01:06:40,750
+O ovcích.
+
+1180
+01:06:41,166 --> 01:06:42,958
+Povídali jsme si o ovcích.
+
+1181
+01:06:43,125 --> 01:06:45,083
+A jejich jménech.
+
+1182
+01:06:45,250 --> 01:06:48,125
+Říkal, že jméno by měla mít každá ovce.
+
+1183
+01:06:48,291 --> 01:06:52,166
+A že ta jména vybírá podle toho,
+co jim vidí na očích.
+
+1184
+01:06:52,583 --> 01:06:55,333
+A chtěl, abych se o ně jednou starala.
+
+1185
+01:06:57,208 --> 01:06:58,500
+Vybral si mě.
+
+1186
+01:07:00,041 --> 01:07:02,833
+Ale já nejsem hloupá.
+
+1187
+01:07:03,166 --> 01:07:06,000
+V době vraždy jsem s ním byla o samotě.
+
+1188
+01:07:06,166 --> 01:07:10,916
+A ta nová závěť a ty peníze
+a to, jakou mám za sebou minulost?
+
+1189
+01:07:11,083 --> 01:07:14,458
+Mohla jsem jenom lhát.
+
+1190
+01:07:15,541 --> 01:07:17,375
+Musíte mi věřit.
+
+1191
+01:07:18,875 --> 01:07:21,416
+„Lhala jsem, tak mi věřte.“
+
+1192
+01:07:22,833 --> 01:07:23,708
+Jako fakt?
+
+1193
+01:07:27,375 --> 01:07:31,208
+Ráno vás odvezou na okresní soud,
+
+1194
+01:07:31,375 --> 01:07:35,333
+kde vás úředně obviní
+z úkladné vraždy George Hardyho.
+
+1195
+01:07:49,000 --> 01:07:51,250
+Takže to byla ona.
+
+1196
+01:07:54,375 --> 01:07:55,625
+Prachy.
+
+1197
+01:07:55,958 --> 01:07:57,333
+Pletou lidem hlavu.
+
+1198
+01:07:58,416 --> 01:08:02,291
+George Hardy
+si očividně vybral špatné jehně.
+
+1199
+01:08:03,625 --> 01:08:08,666
+Mimochodem, Van Vuuren se rozhodl
+prodat svou pastvinu Calebu Merrowovi.
+
+1200
+01:08:08,833 --> 01:08:11,916
+Zítra v poledne
+dořešíme potřebné dokumenty.
+
+1201
+01:08:12,833 --> 01:08:13,708
+Dobře.
+
+1202
+01:08:14,458 --> 01:08:16,916
+Podcenila jsem vás, strážníku.
+
+1203
+01:08:17,083 --> 01:08:18,083
+Vskutku.
+
+1204
+01:08:18,250 --> 01:08:21,083
+Zdá se, že vy zdaleka nejste Hňup.
+
+1205
+01:08:21,541 --> 01:08:22,625
+Bravo.
+
+1206
+01:09:01,541 --> 01:09:02,583
+Lily?
+
+1207
+01:09:04,000 --> 01:09:06,958
+Co se tu potuluješ? Jsi v pohodě?
+
+1208
+01:09:07,125 --> 01:09:10,000
+Jo. Jsem víc než v pohodě. Jsem šťastná.
+
+1209
+01:09:10,166 --> 01:09:13,708
+Zatkli Rebeku. Od zítřka bude Caleb
+naším novým pastýřem.
+
+1210
+01:09:13,875 --> 01:09:15,041
+To je báječné.
+
+1211
+01:09:15,208 --> 01:09:19,416
+Všechno popírá,
+ale já mám pravdu a Sebastian ne.
+
+1212
+01:09:20,708 --> 01:09:23,625
+Byla to Rebeka, ne?
+
+1213
+01:09:23,791 --> 01:09:25,041
+Ovšemže byla.
+
+1214
+01:09:25,208 --> 01:09:26,291
+Díky.
+
+1215
+01:09:26,458 --> 01:09:28,333
+Protože jsi ji odhalila.
+
+1216
+01:09:29,125 --> 01:09:29,958
+Cože?
+
+1217
+01:09:30,125 --> 01:09:33,291
+Vždycky odhalíš, kdo je vrah.
+Dřív než příběh skončí.
+
+1218
+01:09:33,458 --> 01:09:34,708
+Věřím ti.
+
+1219
+01:09:34,875 --> 01:09:36,791
+Ale to byly jen příběhy.
+
+1220
+01:09:36,958 --> 01:09:39,541
+Ona je skutečná. Co když se…?
+
+1221
+01:09:39,708 --> 01:09:40,875
+Lily, hele.
+
+1222
+01:09:41,041 --> 01:09:43,791
+Calebova pastvina je tamhle za tím plotem.
+
+1223
+01:09:43,958 --> 01:09:46,583
+Nezajdeme tam seznámit se s novým stádem?
+
+1224
+01:09:47,125 --> 01:09:49,791
+Ale my nikdy na Calebově pastvině nebyli.
+
+1225
+01:09:49,958 --> 01:09:52,666
+Jo, ale ani přes silnici
+jsme dřív nechodili.
+
+1226
+01:09:52,833 --> 01:09:53,875
+Za mnou.
+
+1227
+01:10:04,291 --> 01:10:06,250
+Jako bychom byli v oblacích.
+
+1228
+01:10:06,416 --> 01:10:08,375
+Myslíš, že jsme zabloudili?
+
+1229
+01:10:08,541 --> 01:10:10,125
+Tak to těžko.
+
+1230
+01:10:12,625 --> 01:10:13,875
+Haló?
+
+1231
+01:10:32,833 --> 01:10:34,000
+Nazdar!
+
+1232
+01:10:34,625 --> 01:10:36,791
+Já jsem Lily.
+
+1233
+01:10:36,958 --> 01:10:39,458
+A tohle je Mopple.
+
+1234
+01:10:39,875 --> 01:10:42,083
+Jsme z druhé strany pastviny.
+
+1235
+01:10:43,333 --> 01:10:45,666
+Caleb bude i naším pastýřem.
+
+1236
+01:10:49,958 --> 01:10:51,000
+Co?
+
+1237
+01:10:58,750 --> 01:10:59,791
+Utečte.
+
+1238
+01:10:59,958 --> 01:11:01,958
+Co? Ale…
+
+1239
+01:11:08,041 --> 01:11:12,250
+Možná jsme sem přece jen chodit neměli.
+
+1240
+01:11:12,416 --> 01:11:13,625
+Radši půjdem.
+
+1241
+01:11:13,791 --> 01:11:15,416
+Dobře.
+
+1242
+01:11:15,583 --> 01:11:16,958
+Kudy je zpět?
+
+1243
+01:11:17,125 --> 01:11:18,916
+Myslím, že tudy?
+
+1244
+01:11:23,375 --> 01:11:25,291
+Hele! Světýlko.
+
+1245
+01:11:28,541 --> 01:11:30,916
+To musí být Calebova stodola.
+
+1246
+01:11:31,750 --> 01:11:33,666
+Tady budem v bezpečí.
+
+1247
+01:11:38,375 --> 01:11:41,041
+Já bych neřekl, že je to stodola.
+
+1248
+01:11:42,000 --> 01:11:43,125
+Měli bychom spíš…
+
+1249
+01:11:43,250 --> 01:11:44,250
+Počkej.
+
+1250
+01:11:45,375 --> 01:11:46,625
+Co to je?
+
+1251
+01:11:48,333 --> 01:11:50,500
+Lily, ne. Musíme jít.
+
+1252
+01:11:52,375 --> 01:11:54,000
+{\an8}DENBROOKSKÉ SKOPOVÉ
+
+1253
+01:11:54,166 --> 01:11:56,166
+{\an8}Proč je ta ovce na porce?
+
+1254
+01:11:56,333 --> 01:11:58,750
+{\an8}Co jim to udělali?
+
+1255
+01:12:02,125 --> 01:12:03,333
+Caleb?
+
+1256
+01:12:04,708 --> 01:12:05,708
+On…
+
+1257
+01:12:06,250 --> 01:12:07,250
+On…
+
+1258
+01:12:08,500 --> 01:12:10,583
+Ahoj, pejsci.
+
+1259
+01:12:12,875 --> 01:12:14,208
+Proč jsou takoví?
+
+1260
+01:12:15,916 --> 01:12:17,875
+Vadí jim, že jsme sem vlezli.
+
+1261
+01:12:19,333 --> 01:12:20,666
+Uteč!
+
+1262
+01:12:31,958 --> 01:12:33,125
+Přidej, Lily!
+
+1263
+01:12:33,291 --> 01:12:35,500
+Nemůžu! Brzo mě doženou!
+
+1264
+01:12:47,583 --> 01:12:48,666
+Sebastiane.
+
+1265
+01:13:03,875 --> 01:13:04,708
+Ne!
+
+1266
+01:13:19,500 --> 01:13:20,791
+Sebastiane.
+
+1267
+01:13:20,958 --> 01:13:23,500
+Ještěžes přišel. Už jsem se bála, že nás…
+
+1268
+01:13:25,833 --> 01:13:27,250
+Sebastiane?
+
+1269
+01:13:28,166 --> 01:13:29,708
+Sebastiane, vstaň!
+
+1270
+01:13:32,375 --> 01:13:33,666
+Lily.
+
+1271
+01:13:36,583 --> 01:13:37,916
+To nejde.
+
+1272
+01:13:38,750 --> 01:13:40,208
+Proč ne?
+
+1273
+01:13:40,375 --> 01:13:42,083
+Já to nechápu…
+
+1274
+01:13:47,375 --> 01:13:48,500
+Lily.
+
+1275
+01:13:49,333 --> 01:13:50,708
+On umírá.
+
+1276
+01:13:51,208 --> 01:13:52,375
+Co?
+
+1277
+01:13:52,541 --> 01:13:54,875
+Ne, ovce neumírají.
+
+1278
+01:13:55,041 --> 01:13:56,875
+Měníme se v mraky.
+
+1279
+01:13:57,041 --> 01:14:00,750
+Změň se v obláček, Sebastiane.
+
+1280
+01:14:04,333 --> 01:14:06,041
+Kéž by to šlo.
+
+1281
+01:14:07,125 --> 01:14:09,375
+Neměl ses vracet.
+
+1282
+01:14:09,833 --> 01:14:11,791
+Proč ses vracel?
+
+1283
+01:14:11,958 --> 01:14:13,333
+Musel jsem.
+
+1284
+01:14:14,250 --> 01:14:16,041
+Jste moje stádo.
+
+1285
+01:14:23,250 --> 01:14:24,750
+Já ho vidím.
+
+1286
+01:14:26,666 --> 01:14:28,791
+Vidím George.
+
+1287
+01:14:39,166 --> 01:14:40,250
+Ne.
+
+1288
+01:14:46,250 --> 01:14:47,333
+To je Caleb.
+
+1289
+01:14:47,583 --> 01:14:48,958
+Musíme zmizet.
+
+1290
+01:14:49,125 --> 01:14:50,291
+Jdeme, Lily!
+
+1291
+01:15:01,750 --> 01:15:04,208
+Všichni vstávat!
+
+1292
+01:15:04,500 --> 01:15:06,125
+- Vstávat!
+- Vstávat!
+
+1293
+01:15:06,291 --> 01:15:07,750
+- Vstávat!
+- Vstávat!
+
+1294
+01:15:08,000 --> 01:15:09,041
+A za mnou!
+
+1295
+01:15:09,208 --> 01:15:10,583
+A za ní!
+
+1296
+01:15:10,750 --> 01:15:11,750
+Za ní!
+
+1297
+01:15:11,916 --> 01:15:13,375
+Za ní!
+
+1298
+01:15:20,375 --> 01:15:21,541
+Stát!
+
+1299
+01:15:21,958 --> 01:15:24,833
+Nezastavujte! Musíme pryč! Ihned!
+
+1300
+01:15:25,000 --> 01:15:27,583
+Pryč? Co to povídáš?
+
+1301
+01:15:28,333 --> 01:15:30,250
+Sebastian umřel.
+
+1302
+01:15:30,750 --> 01:15:33,500
+Říkalas, že se měníme na obláčky.
+
+1303
+01:15:33,666 --> 01:15:34,916
+Mýlila jsem se.
+
+1304
+01:15:35,083 --> 01:15:36,416
+Umíráme.
+
+1305
+01:15:36,583 --> 01:15:38,708
+Jako Sebastian.
+
+1306
+01:15:38,875 --> 01:15:42,958
+A když teď neutečeme, umřeme tak jako on.
+
+1307
+01:15:43,750 --> 01:15:45,958
+Caleb totiž ovce porcuje na maso…
+
+1308
+01:15:46,125 --> 01:15:49,458
+Přestaň! Proč říkáš tak ošklivé věci?
+
+1309
+01:15:49,625 --> 01:15:51,625
+Zapomenu, co se tady děje. A hned!
+
+1310
+01:15:51,750 --> 01:15:52,916
+Ne, nesmíš!
+
+1311
+01:15:53,083 --> 01:15:56,125
+Proč bych si měla
+pamatovat něco tak hrozného?
+
+1312
+01:15:56,291 --> 01:15:57,625
+Protože je to pravda!
+
+1313
+01:15:57,791 --> 01:15:59,750
+Není, když si to nepamatuju.
+
+1314
+01:15:59,916 --> 01:16:01,082
+- Raz.
+- Počkej!
+
+1315
+01:16:01,083 --> 01:16:01,916
+Dva.
+
+1316
+01:16:02,041 --> 01:16:04,416
+Drcane, Ducane, prosím. Odvahu.
+
+1317
+01:16:04,583 --> 01:16:05,750
+Tři!
+
+1318
+01:16:08,750 --> 01:16:10,291
+Ahoj, Lily.
+
+1319
+01:16:10,833 --> 01:16:12,333
+Měla bych dotaz.
+
+1320
+01:16:12,541 --> 01:16:13,750
+Co tady děláme?
+
+1321
+01:16:13,916 --> 01:16:16,041
+Asi omyl. Zpátky na pastvinu.
+
+1322
+01:16:16,208 --> 01:16:17,333
+Zpátky na pastvinu.
+
+1323
+01:16:17,750 --> 01:16:21,458
+Ne! Nechoďte tam!
+
+1324
+01:16:24,791 --> 01:16:27,375
+Sebastian se v nás nemýlil.
+
+1325
+01:16:27,541 --> 01:16:31,166
+Jsme jen hloupé ustrašené ovce.
+
+1326
+01:16:32,458 --> 01:16:37,458
+Dneska to nebylo poprvé, co jsem
+viděla nějakou ovci umřít, že ne?
+
+1327
+01:16:37,833 --> 01:16:38,875
+Ne.
+
+1328
+01:16:39,041 --> 01:16:41,250
+Kolikrát jsem na smrt zapomněla?
+
+1329
+01:16:42,583 --> 01:16:44,333
+Víckrát, než jde spočítat.
+
+1330
+01:16:44,958 --> 01:16:49,041
+A tys nesl břímě
+těch zlých vzpomínek? Docela sám?
+
+1331
+01:16:49,750 --> 01:16:50,875
+Ano.
+
+1332
+01:16:51,291 --> 01:16:53,625
+Pamatuju si všechno špatné.
+
+1333
+01:16:54,000 --> 01:16:56,916
+Ale pamatuju si i všechno to dobré.
+
+1334
+01:16:58,375 --> 01:17:01,125
+Třeba tvář svojí maminky.
+
+1335
+01:17:01,291 --> 01:17:04,333
+A svoje staré kamarády, co mě měli rádi.
+
+1336
+01:17:04,500 --> 01:17:07,208
+A ty si budeš pamatovat Sebastiana.
+
+1337
+01:17:09,416 --> 01:17:10,875
+Bolí to.
+
+1338
+01:17:11,041 --> 01:17:13,083
+Vzpomínky bolí.
+
+1339
+01:17:13,625 --> 01:17:14,791
+Já vím.
+
+1340
+01:17:14,958 --> 01:17:20,041
+Ale když zapomeneš, tak ostatní
+nezachráníš a Sebastian umřel zbytečně.
+
+1341
+01:17:20,833 --> 01:17:22,625
+Caleb si pro tebe zítra přijde
+
+1342
+01:17:22,750 --> 01:17:28,166
+a ty za ním půjdeš jako všechny
+ostatní „hloupé ustrašené ovce“.
+
+1343
+01:17:28,666 --> 01:17:31,333
+A pak umřeme.
+
+1344
+01:17:32,958 --> 01:17:35,875
+Mrzí mě to, Lily. Vážně.
+
+1345
+01:17:36,041 --> 01:17:40,000
+Ale ti, které jsme měli rádi,
+mohou žít jen ve vzpomínkách.
+
+1346
+01:18:00,583 --> 01:18:02,750
+Odpusť mi, Sebastiane.
+
+1347
+01:18:03,750 --> 01:18:05,875
+Nejsem tak silná jako ty.
+
+1348
+01:18:08,375 --> 01:18:10,666
+Raz. Dva.
+
+1349
+01:18:10,833 --> 01:18:15,041
+<i>Možná jsi ze všech nejchytřejší,
+ale Mopple je nejmoudřejší.</i>
+
+1350
+01:18:15,208 --> 01:18:17,416
+{\an8}ZÁHADA NA BROCKLEBANKSKÉM MOSTĚ
+
+1351
+01:18:18,875 --> 01:18:20,750
+{\an8}I mně někdo kdysi umřel.
+
+1352
+01:18:21,791 --> 01:18:23,458
+{\an8}Vím, jak to bolí.
+
+1353
+01:18:23,875 --> 01:18:27,500
+Ale čas všechno vyléčí
+a zůstane jen to dobré.
+
+1354
+01:18:28,166 --> 01:18:30,833
+Ty jsi vážně tady?
+
+1355
+01:18:31,291 --> 01:18:32,875
+Jasně že jsem.
+
+1356
+01:18:33,041 --> 01:18:35,458
+Nezapomněla jsi na mě. Tak to funguje.
+
+1357
+01:18:35,791 --> 01:18:39,833
+Ale teď už na tom nesejde. Caleb nás…
+
+1358
+01:18:40,000 --> 01:18:44,250
+Caleb mému stádu nic neudělá,
+protože ty to stádo zachráníš.
+
+1359
+01:18:44,791 --> 01:18:46,000
+Ale jak?
+
+1360
+01:18:46,166 --> 01:18:48,083
+Vždyť už víš jak.
+
+1361
+01:18:48,625 --> 01:18:51,333
+Když odhalíš, kdo je ve skutečnosti vrah,
+
+1362
+01:18:51,500 --> 01:18:54,083
+Rebeka stádo zdědí a vám se nic nestane.
+
+1363
+01:18:54,250 --> 01:18:56,791
+Ale co když skutečného vraha neodhalím?
+
+1364
+01:18:56,958 --> 01:18:59,458
+Těch příběhů jsem vám přečetl tucty.
+
+1365
+01:18:59,583 --> 01:19:01,416
+Chodí to v nich vždycky stejně.
+
+1366
+01:19:01,541 --> 01:19:03,333
+Ale to nám nijak nepomohlo.
+
+1367
+01:19:03,500 --> 01:19:05,291
+Policie ví, že to nebyl tulák.
+
+1368
+01:19:05,416 --> 01:19:07,583
+Na místo činu se mohl vrátit kdokoli.
+
+1369
+01:19:07,708 --> 01:19:09,916
+Rebeka byla ta, koho nikdo nečekal…
+
+1370
+01:19:10,083 --> 01:19:11,208
+A?
+
+1371
+01:19:13,416 --> 01:19:16,458
+Oběť je klíčem k řešení případu.
+
+1372
+01:19:18,791 --> 01:19:21,541
+<i>Skvrna od trávy na jeho ruce.</i>
+
+1373
+01:19:22,250 --> 01:19:24,708
+<i>Krásně barevné.</i>
+
+1374
+01:19:25,000 --> 01:19:26,333
+<i>Vybral špatné jehně.</i>
+
+1375
+01:19:26,500 --> 01:19:28,541
+<i>Já viděl Georgova ducha.</i>
+
+1376
+01:19:30,583 --> 01:19:31,625
+Jsi hlavička.
+
+1377
+01:19:40,083 --> 01:19:42,166
+- Rebeka nevraždila.
+- Lily, počkej.
+
+1378
+01:19:42,291 --> 01:19:44,625
+- Vím, kdo to byl. Když prokážu…
+- Co?
+
+1379
+01:19:44,750 --> 01:19:46,166
+Že ta skvrna nebyla od trávy.
+
+1380
+01:19:46,291 --> 01:19:47,791
+- Ale jak to…?
+- Počkej.
+
+1381
+01:19:47,916 --> 01:19:49,125
+Už vím. Jo!
+
+1382
+01:19:49,250 --> 01:19:51,708
+Ale jsem moc velká. Nevlezu tam.
+
+1383
+01:19:51,833 --> 01:19:54,125
+Já se vejdu všude.
+
+1384
+01:19:55,250 --> 01:19:57,875
+A taky nezapomínám.
+
+1385
+01:20:11,875 --> 01:20:13,791
+Celou nožičku dovnitř.
+
+1386
+01:20:15,916 --> 01:20:19,208
+A druhou nožičku do té druhé.
+
+1387
+01:20:22,833 --> 01:20:25,333
+Tak jo. A teď za mnou.
+
+1388
+01:20:34,291 --> 01:20:36,625
+Vyskoč. A dovnitř.
+
+1389
+01:21:17,833 --> 01:21:20,166
+Tohle je tak divné městečko.
+
+1390
+01:21:21,791 --> 01:21:23,958
+Myslíš, že to vyjde?
+
+1391
+01:21:24,416 --> 01:21:27,500
+To nevím. Musíme počkat.
+
+1392
+01:21:29,875 --> 01:21:34,125
+Co ti George řekl
+to ráno v den, kdy umřel?
+
+1393
+01:21:34,583 --> 01:21:37,250
+Viděla jsem, jak ti něco pošeptal.
+
+1394
+01:21:38,166 --> 01:21:42,583
+Řekl, že zimní beránci jsou nejlepší.
+
+1395
+01:21:56,416 --> 01:21:58,625
+- Hele, Důco.
+- Jo?
+
+1396
+01:21:58,791 --> 01:22:02,458
+Máš někdy pocit,
+jako bys na něco zapomněl?
+
+1397
+01:22:02,625 --> 01:22:05,625
+Jako na něco,
+co se nám včera snažila Lily říct,
+
+1398
+01:22:05,791 --> 01:22:09,125
+ale my to pak zapomněli,
+protože jsme dostali strach?
+
+1399
+01:22:09,375 --> 01:22:11,750
+Strach ne. Rozhodně ne strach.
+
+1400
+01:22:11,916 --> 01:22:13,750
+Ale jo. Tak tak.
+
+1401
+01:22:13,875 --> 01:22:15,375
+Co s tím uděláme, bratře?
+
+1402
+01:22:15,500 --> 01:22:19,250
+Nemám ponětí, ale něco udělat musíme.
+A půjdem do toho hlavou.
+
+1403
+01:22:20,000 --> 01:22:21,083
+Jsi génius.
+
+1404
+01:22:21,250 --> 01:22:23,583
+Tak jdeme? Uděláme:
+
+1405
+01:22:23,750 --> 01:22:26,541
+Berany, berany, duc!
+
+1406
+01:22:39,250 --> 01:22:40,458
+Kdo to udělal?
+
+1407
+01:22:40,833 --> 01:22:43,291
+Jehňátko. Vlezlo sem světlíkem.
+
+1408
+01:22:43,458 --> 01:22:46,458
+Jehňátko sem vlezlo světlíkem?
+
+1409
+01:22:46,708 --> 01:22:47,833
+A to není vše.
+
+1410
+01:22:48,333 --> 01:22:51,125
+Co víc se mohlo asi tak stát?
+
+1411
+01:22:51,833 --> 01:22:53,875
+Vím jistě,
+
+1412
+01:22:54,500 --> 01:22:58,458
+že to jehně poslouchalo pokyny jiné ovce.
+
+1413
+01:23:00,958 --> 01:23:02,125
+Jasně.
+
+1414
+01:23:06,916 --> 01:23:08,166
+Co to znamená?
+
+1415
+01:23:14,500 --> 01:23:16,250
+Znamená to…
+
+1416
+01:23:19,000 --> 01:23:20,250
+Nevím.
+
+1417
+01:23:21,166 --> 01:23:22,458
+Asi nic!
+
+1418
+01:23:22,916 --> 01:23:24,250
+Jsou to ovce.
+
+1419
+01:23:25,416 --> 01:23:26,791
+Jen ovce.
+
+1420
+01:24:09,500 --> 01:24:11,708
+Podepište předání a jedem.
+
+1421
+01:24:11,875 --> 01:24:13,041
+Dobrá.
+
+1422
+01:24:15,083 --> 01:24:16,416
+Nevyšlo to.
+
+1423
+01:24:16,583 --> 01:24:18,291
+Dejte mu chvilku.
+
+1424
+01:24:21,000 --> 01:24:22,041
+Strážníku Derry.
+
+1425
+01:24:23,250 --> 01:24:24,375
+Ten protokol.
+
+1426
+01:24:28,375 --> 01:24:29,833
+PŘEDÁVACÍ PROTOKOL
+
+1427
+01:24:30,333 --> 01:24:31,833
+Nedělej to.
+
+1428
+01:24:33,958 --> 01:24:35,541
+PODPIS
+
+1429
+01:24:59,708 --> 01:25:01,708
+Stát!
+
+1430
+01:25:03,291 --> 01:25:06,000
+Ona to nebyla. Nevraždila!
+
+1431
+01:25:06,708 --> 01:25:08,250
+Ale už vím, kdo to byl.
+
+1432
+01:25:08,416 --> 01:25:10,125
+Kdo zavraždil George Hardyho.
+
+1433
+01:25:15,541 --> 01:25:16,833
+Paní Harbottlová.
+
+1434
+01:25:18,000 --> 01:25:19,166
+Ne!
+
+1435
+01:25:19,375 --> 01:25:24,166
+Ukázalo se, že jsem vskutku Hňup,
+ale možná už nejsem.
+
+1436
+01:25:25,500 --> 01:25:29,958
+Sotva Rebeka Hampsteadová dorazila
+do Denbrooku, byla hlavní podezřelou.
+
+1437
+01:25:30,125 --> 01:25:33,083
+Měla nejsilnější motiv. Navíc lhala.
+
+1438
+01:25:33,250 --> 01:25:35,541
+Byla na Georgově farmě v době vraždy.
+
+1439
+01:25:35,708 --> 01:25:38,125
+A přesně s tím skutečný vrah počítal.
+
+1440
+01:25:38,291 --> 01:25:43,208
+Vrah, který neustále unikal naší
+pozornosti, neboť nebyl ani podezřelý.
+
+1441
+01:25:43,416 --> 01:25:48,750
+Jediný člověk jmenovaný v Georgově závěti,
+který měl alibi.
+
+1442
+01:25:49,000 --> 01:25:50,750
+Dokonalé alibi.
+
+1443
+01:25:50,916 --> 01:25:52,708
+Takové, že nebyl ani přítomen.
+
+1444
+01:25:52,833 --> 01:25:54,333
+- Vy myslíte…
+- Ano.
+
+1445
+01:25:54,500 --> 01:25:55,583
+Peter Van Vuuren.
+
+1446
+01:25:55,750 --> 01:25:57,000
+- Z Jižní Afriky.
+- Z Jižní Afriky.
+
+1447
+01:25:57,166 --> 01:25:59,791
+Rebeko, George vám prý poslal opis závěti.
+
+1448
+01:25:59,958 --> 01:26:03,208
+Vsadím se,
+že tentýž opis poslal vašemu bratrovi.
+
+1449
+01:26:03,375 --> 01:26:07,500
+Který si ho proklepnul a zjistil,
+jaké jmění ve skutečnosti George má,
+
+1450
+01:26:07,666 --> 01:26:12,750
+a rozhodl se, že těch 30 milionů získá,
+i kdyby ho kvůli tomu měl zabít.
+
+1451
+01:26:13,708 --> 01:26:16,333
+Měl však jeden obří problém.
+
+1452
+01:26:16,500 --> 01:26:17,458
+Motiv!
+
+1453
+01:26:17,791 --> 01:26:19,208
+To jsem chtěl zvolat já!
+
+1454
+01:26:19,333 --> 01:26:22,333
+Předtím jste zvolal tak,
+že jsem byla za pachatelku.
+
+1455
+01:26:23,791 --> 01:26:24,791
+Motiv!
+
+1456
+01:26:25,291 --> 01:26:30,208
+Pokud vám oběť vraždy zanechá v závěti
+celé jmění, jste hlavním podezřelým.
+
+1457
+01:26:30,333 --> 01:26:33,875
+Ale pokud ho zanechá vaší sestře
+a ji za váš zločin zavřou…
+
+1458
+01:26:34,000 --> 01:26:35,583
+Zdědí všechny peníze nejbližší
+
+1459
+01:26:35,708 --> 01:26:37,000
+- příbuzný!
+- příbuzný!
+
+1460
+01:26:37,125 --> 01:26:39,458
+Dovolíte? Tohle je mých pět minut slávy!
+
+1461
+01:26:39,583 --> 01:26:40,625
+Odpusťte, prosím.
+
+1462
+01:26:41,000 --> 01:26:42,666
+Příbuzný!
+
+1463
+01:26:43,041 --> 01:26:44,375
+Otázkou zůstává,
+
+1464
+01:26:45,750 --> 01:26:47,291
+kde se schovává?
+
+1465
+01:26:47,458 --> 01:26:49,250
+Koho vlastně hledám?
+
+1466
+01:26:49,416 --> 01:26:52,000
+Někoho, kdo je všem na očích.
+
+1467
+01:26:52,166 --> 01:26:54,333
+Někoho, kdo si změnil jméno.
+
+1468
+01:26:54,958 --> 01:26:58,666
+Například Zlověna Krampusová
+
+1469
+01:26:58,833 --> 01:27:01,083
+je teď Rebeka Hampsteadová.
+
+1470
+01:27:01,250 --> 01:27:02,541
+A Peter Van Vuuren…
+
+1471
+01:27:02,708 --> 01:27:04,666
+A Peter Van Vuuren…
+
+1472
+01:27:06,541 --> 01:27:08,333
+je teď Elliot Matthews.
+
+1473
+01:27:08,500 --> 01:27:09,541
+Ne!
+
+1474
+01:27:11,208 --> 01:27:13,000
+Georgův duch.
+
+1475
+01:27:14,291 --> 01:27:15,958
+Já se nemýlím.
+
+1476
+01:27:17,041 --> 01:27:19,000
+Time, jen se ztrapňujete.
+
+1477
+01:27:19,583 --> 01:27:23,125
+Já nežiju v Jižní Africe.
+Žiju tady a pracuju jako novinář.
+
+1478
+01:27:23,291 --> 01:27:24,291
+Ano.
+
+1479
+01:27:24,416 --> 01:27:29,333
+Hádám, že v naší vlasti žijete
+už delší dobu jako „Elliot Matthews“.
+
+1480
+01:27:29,500 --> 01:27:31,250
+A přetvařujete se.
+
+1481
+01:27:31,541 --> 01:27:35,958
+George vám řekl,
+že sem Rebeka přijede, že?
+
+1482
+01:27:36,541 --> 01:27:39,500
+A pro vás
+to byla příležitost se jí zbavit.
+
+1483
+01:27:39,791 --> 01:27:43,083
+Potřeboval jste jen důvod
+přijet do Denbrooku.
+
+1484
+01:27:43,833 --> 01:27:46,083
+<i>Třeba kulturní festival.</i>
+
+1485
+01:27:46,250 --> 01:27:48,291
+<i>Váš plán byl prostý.</i>
+
+1486
+01:27:48,416 --> 01:27:49,250
+<i>Nejdřív…</i>
+
+1487
+01:27:49,541 --> 01:27:51,875
+udělat scénu, že odjíždíte z Denbrooku.
+
+1488
+01:27:52,125 --> 01:27:55,500
+<i>A pak se kvůli autonehodě vrátit.</i>
+
+1489
+01:27:57,708 --> 01:28:01,375
+<i>Později večer, když Rebeka odešla,</i>
+
+1490
+01:28:01,541 --> 01:28:04,166
+<i>jste přišel spáchat hrozný čin.</i>
+
+1491
+01:28:07,250 --> 01:28:08,333
+Pojď dál.
+
+1492
+01:28:18,291 --> 01:28:19,416
+Na zdraví.
+
+1493
+01:28:19,708 --> 01:28:21,375
+<i>Otrávil jste svého otce</i>
+
+1494
+01:28:23,250 --> 01:28:25,416
+<i>a podstrčil tam tu novou závěť.</i>
+
+1495
+01:28:28,208 --> 01:28:31,000
+<i>Ale váš otec měl tužší kořínek,
+než jste čekal.</i>
+
+1496
+01:28:32,708 --> 01:28:34,083
+Došlo k potyčce.
+
+1497
+01:28:42,458 --> 01:28:45,041
+<i>Ale nakonec jste ho přemohl.</i>
+
+1498
+01:28:45,583 --> 01:28:49,208
+Jediné, co zbývalo,
+bylo dostat vaši sestru za mříže.
+
+1499
+01:28:49,916 --> 01:28:51,875
+Šel jste na to chytře.
+
+1500
+01:28:52,250 --> 01:28:55,875
+Došlo vám, že vás paní Harbottlová
+vyhodí, až bude závěť číst.
+
+1501
+01:28:57,666 --> 01:29:02,083
+<i>Pane Van Vuurene, tady Lydia Harbottlová.
+Slyšíme se?</i>
+
+1502
+01:29:02,416 --> 01:29:04,250
+<i>Ja.</i> Dobré spojení. Děkuji.
+
+1503
+01:29:04,416 --> 01:29:08,583
+Plody tisu červeného jste pak podstrčil
+do Rebečina pokoje už snadno.
+
+1504
+01:29:09,041 --> 01:29:10,583
+<i>Maloměstský hostinec.</i>
+
+1505
+01:29:10,750 --> 01:29:12,125
+<i>Všechny zámky stejné.</i>
+
+1506
+01:29:13,208 --> 01:29:15,250
+Téměř dokonalý zločin, Elliote.
+
+1507
+01:29:15,416 --> 01:29:18,750
+Ale co jste nevěděl
+a co mi až doteď unikalo, bylo,
+
+1508
+01:29:18,916 --> 01:29:20,625
+že jste zanechal stopu.
+
+1509
+01:29:21,416 --> 01:29:23,000
+Georgovy ruce.
+
+1510
+01:29:23,166 --> 01:29:25,125
+Georgovy ruce.
+
+1511
+01:29:26,791 --> 01:29:29,916
+Jedna byla modrá, druhá zelená.
+
+1512
+01:29:30,083 --> 01:29:32,916
+<i>Modrá je jasná.
+Byla od léčiva, na němž zbohatl.</i>
+
+1513
+01:29:33,083 --> 01:29:34,916
+Ale zelená? Proč zelená?
+
+1514
+01:29:35,833 --> 01:29:38,791
+Ale pak jistý druhý tým,
+
+1515
+01:29:39,208 --> 01:29:42,291
+tým velmi dobrých detektivů…
+
+1516
+01:29:45,750 --> 01:29:47,291
+mi dal tip.
+
+1517
+01:29:48,125 --> 01:29:50,000
+Žlutá a modrá.
+
+1518
+01:29:50,166 --> 01:29:53,958
+Smícháním modré a žluté vznikne zelená.
+
+1519
+01:29:54,125 --> 01:29:57,208
+Stejná zelená, jakou měl George na ruce.
+
+1520
+01:29:57,375 --> 01:30:00,625
+Stejná zelená, jaká byla
+na povlaku polštáře v hostinci,
+
+1521
+01:30:00,833 --> 01:30:04,208
+kde jste spal poté,
+co jste zavraždil George!
+
+1522
+01:30:05,500 --> 01:30:09,416
+Ten večer měl George
+obě ruce modré od toho léčiva.
+
+1523
+01:30:09,583 --> 01:30:12,875
+Ale pak chytil někoho za vlasy.
+
+1524
+01:30:14,000 --> 01:30:17,708
+Někoho, kdo si narychlo
+ty vlasy přebarvil levnou barvou,
+
+1525
+01:30:17,875 --> 01:30:19,666
+která se v dešti rozpouští.
+
+1526
+01:30:19,833 --> 01:30:21,541
+<i>Odtud ta zelená skvrna.</i>
+
+1527
+01:30:22,541 --> 01:30:26,125
+Někdo se rychle přebarvil na blond,
+než přijel do Denbrooku,
+
+1528
+01:30:26,291 --> 01:30:29,083
+protože si nepřál, aby kohokoli napadlo,
+
+1529
+01:30:29,250 --> 01:30:32,083
+že je příliš podobný
+své sestře nebo svému otci.
+
+1530
+01:30:32,583 --> 01:30:33,957
+Není to tak, Petere?
+
+1531
+01:30:33,958 --> 01:30:34,791
+Je!
+
+1532
+01:30:34,958 --> 01:30:35,875
+Není!
+
+1533
+01:30:36,291 --> 01:30:39,291
+Ne, je to hloupost a nemáte důkaz.
+
+1534
+01:30:39,458 --> 01:30:42,958
+Pak vám jistě neva, když si vezmu tohle.
+
+1535
+01:30:47,750 --> 01:30:49,250
+Vůbec ne.
+
+1536
+01:30:50,291 --> 01:30:53,000
+Jako uznávám, že nejsem od přírody blond.
+
+1537
+01:30:53,666 --> 01:30:58,625
+I když pak musím i přiznat,
+že si bělím zuby a holím hruď.
+
+1538
+01:30:58,791 --> 01:31:00,916
+O co, že je to vegetarián?
+
+1539
+01:31:01,083 --> 01:31:05,333
+Takže jestli mě chcete obvinit z vraždy
+za to, že si barvím vlasy,
+
+1540
+01:31:05,500 --> 01:31:07,125
+tak u soudu neuspějete.
+
+1541
+01:31:07,291 --> 01:31:09,458
+A zažaluju já vás.
+
+1542
+01:31:13,833 --> 01:31:15,375
+Vy to nechápete.
+
+1543
+01:31:15,541 --> 01:31:17,958
+Já nechci váš vlas kvůli barvě.
+
+1544
+01:31:18,125 --> 01:31:19,583
+Ale kvůli DNA.
+
+1545
+01:31:21,250 --> 01:31:23,708
+Jestli jste syn George Hardyho,
+
+1546
+01:31:23,875 --> 01:31:26,250
+pak jste Peter Van Vuuren
+
+1547
+01:31:26,416 --> 01:31:30,208
+a jste ten, kdo skutečně vraždil.
+
+1548
+01:31:31,208 --> 01:31:32,291
+A má ho.
+
+1549
+01:31:33,375 --> 01:31:34,541
+A mám vás.
+
+1550
+01:31:40,583 --> 01:31:42,083
+Bravo, Time.
+
+1551
+01:31:48,583 --> 01:31:49,583
+Hej!
+
+1552
+01:31:52,833 --> 01:31:53,666
+Lily!
+
+1553
+01:31:53,791 --> 01:31:55,666
+Drcane! Ducane! Jste tu!
+
+1554
+01:31:55,833 --> 01:31:57,125
+Jo!
+
+1555
+01:31:57,500 --> 01:31:58,500
+Proč?
+
+1556
+01:32:00,958 --> 01:32:02,625
+Stát!
+
+1557
+01:32:02,791 --> 01:32:06,500
+Protože teď máte
+legitimní důvod si ducnout.
+
+1558
+01:32:06,666 --> 01:32:07,958
+- Díky.
+- Konečně.
+
+1559
+01:32:08,083 --> 01:32:08,916
+Jo!
+
+1560
+01:32:28,416 --> 01:32:29,583
+Berany?
+
+1561
+01:32:29,750 --> 01:32:32,125
+Jo. Berany.
+
+1562
+01:32:32,291 --> 01:32:33,458
+Duc!
+
+1563
+01:32:37,083 --> 01:32:40,541
+Vydělal miliony. Slyšíte? Dolarů!
+
+1564
+01:32:40,708 --> 01:32:41,833
+Jsem jeho syn.
+
+1565
+01:32:42,000 --> 01:32:44,125
+Ty miliony měly být moje!
+
+1566
+01:32:51,625 --> 01:32:54,125
+Možná je to Američanka, ale nebyla to ona.
+
+1567
+01:32:54,250 --> 01:32:55,583
+Ale jděte.
+
+1568
+01:32:58,291 --> 01:32:59,208
+Poslyšte.
+
+1569
+01:32:59,375 --> 01:33:03,250
+Jménem celého sboru denbrookské policie
+
+1570
+01:33:03,416 --> 01:33:05,583
+se vám upřímně omlouvám.
+
+1571
+01:33:05,750 --> 01:33:08,583
+A je v tom sboru kromě vás ještě někdo?
+
+1572
+01:33:09,083 --> 01:33:10,125
+Ne.
+
+1573
+01:33:11,000 --> 01:33:12,916
+To já se vám chci omluvit.
+
+1574
+01:33:14,583 --> 01:33:15,583
+Díky.
+
+1575
+01:33:24,666 --> 01:33:25,958
+Hele.
+
+1576
+01:33:27,125 --> 01:33:28,250
+To je to jehně?
+
+1577
+01:33:29,625 --> 01:33:31,208
+To ze světlíku.
+
+1578
+01:33:33,000 --> 01:33:35,416
+Myslíte, že se tu ještě trochu zdržíte?
+
+1579
+01:33:35,666 --> 01:33:40,583
+Zrovna mě pustili z vazby,
+musím se z toho trochu oklepat.
+
+1580
+01:33:45,208 --> 01:33:47,166
+Já bych byl rád.
+
+1581
+01:33:47,708 --> 01:33:48,916
+Možná.
+
+1582
+01:33:53,750 --> 01:33:54,833
+Rebeko.
+
+1583
+01:33:55,416 --> 01:33:58,791
+Rebeko. Škoda,
+že se vám nemohu dostatečně omluvit.
+
+1584
+01:34:25,875 --> 01:34:27,416
+Neplaťte.
+
+1585
+01:34:29,166 --> 01:34:30,375
+Díky.
+
+1586
+01:34:34,708 --> 01:34:35,833
+Počkejte.
+
+1587
+01:34:40,416 --> 01:34:42,541
+Moc mě to mrzí.
+
+1588
+01:34:44,833 --> 01:34:46,375
+Vzala jsem to.
+
+1589
+01:34:47,000 --> 01:34:51,625
+Nesla to pošťačka a já nevěděla,
+že jste jeho dcera.
+
+1590
+01:34:51,791 --> 01:34:54,958
+A ten navoněný papír
+jsem mu koupila já, takže…
+
+1591
+01:34:55,375 --> 01:34:56,916
+Snad chápete.
+
+1592
+01:34:57,125 --> 01:34:58,541
+Vy jste ho milovala?
+
+1593
+01:35:00,125 --> 01:35:01,208
+Inu…
+
+1594
+01:35:01,583 --> 01:35:04,166
+A miloval on vás?
+
+1595
+01:35:04,416 --> 01:35:05,833
+Měl mě rád.
+
+1596
+01:35:06,208 --> 01:35:08,958
+Ale George miloval vaši matku.
+
+1597
+01:35:09,166 --> 01:35:12,250
+A pro nikoho jiného
+už ve svém srdci místo neměl.
+
+1598
+01:35:13,250 --> 01:35:15,625
+Říkala jsem si, co na ní vidí?
+
+1599
+01:35:16,000 --> 01:35:17,833
+Ale teď už to chápu.
+
+1600
+01:35:19,333 --> 01:35:21,625
+Kéž bych se ho na ni vyptala víc.
+
+1601
+01:35:23,583 --> 01:35:25,250
+Ani nevím, jak se jmenovala.
+
+1602
+01:35:25,416 --> 01:35:26,583
+Lily.
+
+1603
+01:35:27,250 --> 01:35:28,875
+Jmenovala se Lily.
+
+1604
+01:35:34,916 --> 01:35:38,125
+<i>Ta podvržená závěť samozřejmě není platná.</i>
+
+1605
+01:35:38,291 --> 01:35:40,875
+{\an8}Ale i tak zdědíte jeho ovce a pozemky.
+
+1606
+01:35:41,000 --> 01:35:43,250
+{\an8}- Slečno Hampsteadová.
+- A to je hezké.
+
+1607
+01:35:43,375 --> 01:35:45,083
+Máte minutku?
+
+1608
+01:35:45,500 --> 01:35:49,583
+Tady s panem Sádlem
+se snažíme rozjet nové podnikání.
+
+1609
+01:35:49,750 --> 01:35:51,583
+Už jsme si sehnali financování.
+
+1610
+01:35:52,166 --> 01:35:55,916
+Rádi bychom od vás odkoupili
+pastviny i stádo vašeho otce.
+
+1611
+01:35:56,583 --> 01:35:57,583
+Dva Vrahouni.
+
+1612
+01:35:57,750 --> 01:35:58,916
+Jak prosím?
+
+1613
+01:35:59,083 --> 01:36:02,125
+Můj táta zjistil, že na jeho
+pozemku vraždíte ovce.
+
+1614
+01:36:02,583 --> 01:36:04,541
+Jste ti dva Vrahouni.
+
+1615
+01:36:04,916 --> 01:36:06,416
+Ne, jsme dva byznysmeni.
+
+1616
+01:36:06,583 --> 01:36:09,291
+Kteří vám nabízí dobrou cenu.
+
+1617
+01:36:09,708 --> 01:36:11,541
+A víte vůbec, jak se jmenují?
+
+1618
+01:36:12,500 --> 01:36:14,250
+Prozradil mi jejich jména.
+
+1619
+01:36:14,416 --> 01:36:16,750
+Je tam Lily.
+
+1620
+01:36:18,708 --> 01:36:19,916
+A Mopple.
+
+1621
+01:36:20,083 --> 01:36:23,916
+A ta hebká a huňatá je Vlnka.
+Prý je to trochu primadona.
+
+1622
+01:36:24,083 --> 01:36:27,000
+A ten, co pro vlnu skoro nevidí,
+se jmenuje Emoň,
+
+1623
+01:36:27,125 --> 01:36:30,500
+což mi přišlo trapné. Ale prý
+si mu nikdy nikdo nestěžoval.
+
+1624
+01:36:30,625 --> 01:36:32,708
+- Slečno Hampsteadová…
+- Hardyová.
+
+1625
+01:36:33,166 --> 01:36:34,416
+Rebeka Hardyová.
+
+1626
+01:36:34,583 --> 01:36:35,916
+Měním příjmení.
+
+1627
+01:36:36,083 --> 01:36:37,958
+Změny jmen nedělám.
+
+1628
+01:36:38,125 --> 01:36:40,458
+Bohužel, slečno Hardyová. Hodně štěstí.
+
+1629
+01:36:40,666 --> 01:36:41,666
+Nashle.
+
+1630
+01:36:42,708 --> 01:36:43,708
+Moment.
+
+1631
+01:36:44,166 --> 01:36:46,708
+Co kdybych si chtěla
+těch ovcí pořídit víc?
+
+1632
+01:36:47,125 --> 01:36:49,458
+Sehnala byste mi financování?
+
+1633
+01:36:50,583 --> 01:36:53,708
+Lily, jak jsi na to mohla přijít?
+
+1634
+01:36:53,875 --> 01:36:55,541
+Jasně že na to mohla přijít.
+
+1635
+01:36:55,708 --> 01:36:57,833
+Je to nejchytřejší ovce na světě.
+
+1636
+01:36:58,000 --> 01:37:01,833
+Ale jdi. To jsem si myslela. Ale nejsem.
+
+1637
+01:37:02,000 --> 01:37:03,125
+Mýlila jsem se.
+
+1638
+01:37:03,291 --> 01:37:07,666
+Měla jsem věřit zimnímu beránkovi,
+když tvrdil, že viděl Georgova ducha…
+
+1639
+01:37:16,375 --> 01:37:18,500
+Pojďte, ovečky.
+
+1640
+01:37:28,958 --> 01:37:30,875
+Jak se jmenuješ? Máš sourozence?
+
+1641
+01:37:31,000 --> 01:37:33,916
+Jak dlouho už tady jste?
+Měla bych milion dotazů.
+
+1642
+01:37:34,083 --> 01:37:36,083
+Omlouvám se.
+
+1643
+01:37:38,791 --> 01:37:40,416
+Kde máte obličeje?
+
+1644
+01:37:43,000 --> 01:37:45,041
+Ty máš orf!
+
+1645
+01:37:45,208 --> 01:37:47,208
+I já mám orf!
+
+1646
+01:37:53,458 --> 01:37:54,708
+Lily.
+
+1647
+01:38:22,833 --> 01:38:26,666
+HARDYHO PRŮVODCE CHOVEM OVCÍ
+
+1648
+01:39:08,125 --> 01:39:09,708
+„Kapitola první.
+
+1649
+01:39:11,875 --> 01:39:15,583
+Obecně se věří,
+že ze všech domestikovaných zvířat
+
+1650
+01:39:15,750 --> 01:39:17,583
+jsou ovce zdaleka nejhloupější.
+
+1651
+01:39:21,208 --> 01:39:22,875
+Ale to není pravda.
+
+1652
+01:39:23,750 --> 01:39:27,583
+{\an8}Ovce jsou nejen inteligentní,
+ale též inspirativní.
+
+1653
+01:39:27,750 --> 01:39:30,750
+Jak praví staletí stará říkanka:
+
+1654
+01:39:30,916 --> 01:39:34,708
+Pastýřka ovce ztratila
+a neví, kde je najít,
+
+1655
+01:39:34,875 --> 01:39:37,375
+však ovečky samy, byť zatoulány,
+
+1656
+01:39:38,125 --> 01:39:40,666
+<i>umí se zpět domů vrátit.“</i>
+
+1657
+01:39:47,208 --> 01:39:49,125
+Máš tu moc hezky.
+
+1658
+01:39:49,875 --> 01:39:51,625
+Ale trochu smutno.
+
+1659
+01:39:55,125 --> 01:39:56,375
+Georgi.
+
+1660
+01:39:57,708 --> 01:39:59,375
+Tak se jmenuješ.
+
+1661
+01:40:00,041 --> 01:40:02,458
+Jméno by měla mít každá ovce.
+
+1662
+01:40:04,833 --> 01:40:06,291
+George.
+
+1663
+01:40:16,416 --> 01:40:21,750
+„Stádo roztomilých, huňatých oveček,
+bílých jak sníh.
+
+1664
+01:40:21,916 --> 01:40:24,625
+Lidé si myslí,
+že všechny ovečky jsou stejné.
+
+1665
+01:40:25,208 --> 01:40:27,833
+Avšak každé stádo ovcí je ve skutečnosti
+
+1666
+01:40:28,000 --> 01:40:32,208
+plné jedinečných osobností
+s různými vlastnostmi a náturami.
+
+1667
+01:40:35,458 --> 01:40:39,625
+Ovce mohou být přítulné,
+přátelské, ale i odtažité.
+
+1668
+01:40:39,791 --> 01:40:42,500
+Chytré a bláhové. Stydlivé i nestydaté.“
+
+1669
+01:40:42,625 --> 01:40:45,541
+- Jak se jmenuješ?
+- Já jsem George.
+
+1670
+01:40:45,666 --> 01:40:46,791
+Ahoj, Georgi!
+
+1671
+01:40:46,916 --> 01:40:50,041
+„Tato klidná domácí zvířata měla
+své místo v každé společnosti
+
+1672
+01:40:50,208 --> 01:40:52,750
+a jsou zastoupena v jazyce i symbolice,
+
+1673
+01:40:52,916 --> 01:40:55,375
+kde představují lásku, nevinnost a mír.
+
+1674
+01:40:55,833 --> 01:41:00,458
+{\an8}Neb jako lidé
+si váží sounáležitosti nade vše.
+
+1675
+01:41:01,333 --> 01:41:04,166
+{\an8}Dovolí si, aby patřily nám.
+
+1676
+01:41:04,750 --> 01:41:06,333
+{\an8}Ale nakonec
+
+1677
+01:41:07,291 --> 01:41:09,708
+my patříme jim.“
+
+1678
+01:43:21,625 --> 01:43:24,333
+BÉÉ TEAM NA STOPĚ
+
+1679
+01:48:46,125 --> 01:48:47,458
+<i>Natuty to byla služebná.</i>
+
+1680
+01:48:47,583 --> 01:48:48,583
+České titulky
+Vojtěch Kostiha
+

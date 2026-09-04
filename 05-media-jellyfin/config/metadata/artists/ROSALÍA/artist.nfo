@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2026-08-24 14:22:08</dateadded>
+  <title>ROSALÍA</title>
+  <runtime>148</runtime>
+  <musicbrainzartistid>25f3abd9-63b5-471a-bd25-feb9672dfa11</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/ROSALÍA/folder.jpg</poster>
+    <fanart>/config/metadata/artists/ROSALÍA/backdrop.jpg</fanart>
+  </art>
+</artist>

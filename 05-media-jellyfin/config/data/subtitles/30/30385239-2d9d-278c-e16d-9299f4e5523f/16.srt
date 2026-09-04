@@ -1,0 +1,6994 @@
+1
+00:00:42,291 --> 00:00:48,250
+LAMMASETSIVÄT
+
+2
+00:00:49,416 --> 00:00:50,958
+<i>Rakas Rebekka,</i>
+
+3
+00:00:52,291 --> 00:00:56,124
+<i>sinulla on varmasti paljon kysyttävää.</i>
+
+4
+00:00:56,125 --> 00:01:01,165
+<i>Niin on minullakin. Elämähän on mysteeri.</i>
+
+5
+00:01:01,166 --> 00:01:04,415
+<i>Mutta jos on olemassa
+yksi ratkaisu universumin arvoituksiin,</i>
+
+6
+00:01:04,416 --> 00:01:09,583
+<i>yksi onnellisuuden salaisuus,
+niin se lienee yksinkertaisuudessaan tämä:</i>
+
+7
+00:01:10,666 --> 00:01:12,000
+<i>Lampaat.</i>
+
+8
+00:01:15,125 --> 00:01:16,749
+<i>Ei, ihan totta.</i>
+
+9
+00:01:16,750 --> 00:01:18,208
+<i>Se todella on lampaat.</i>
+
+10
+00:01:20,458 --> 00:01:22,833
+Selvä, täältä tullaan.
+
+11
+00:01:35,291 --> 00:01:38,915
+<i>Viime kirjeessäsi kysyit,
+onko yksikään lampaistani erityinen.</i>
+
+12
+00:01:38,916 --> 00:01:43,624
+<i>Ne ovat kaikki erityisiä.
+Siksi annoin jokaiselle oman nimen.</i>
+
+13
+00:01:43,625 --> 00:01:44,625
+<i>Esimerkiksi:</i>
+
+14
+00:01:45,666 --> 00:01:49,500
+<i>näille rähinöiville pässinpäille
+annoin nimeksi Roni ja Reiska.</i>
+
+15
+00:01:50,041 --> 00:01:53,375
+<i>Ja tässä on ylpeä
+ja arvokas herra Kultalehto.</i>
+
+16
+00:01:54,166 --> 00:01:56,082
+<i>Pilvi on kaikista pöyhein.</i>
+
+17
+00:01:56,083 --> 00:01:58,291
+<i>Ja aikamoinen diiva myös.</i>
+
+18
+00:01:58,750 --> 00:02:01,416
+<i>Sara on uteliain.</i>
+
+19
+00:02:01,833 --> 00:02:04,250
+<i>Mauno on kärsivällisin.</i>
+
+20
+00:02:04,958 --> 00:02:06,791
+<i>Ja Villasilmä…</i>
+
+21
+00:02:07,208 --> 00:02:09,874
+<i>En nyt vain keksinyt parempaakaan nimeä.</i>
+
+22
+00:02:09,875 --> 00:02:14,999
+{\an8}<i>Sanoin toki, että kaikki ovat erityisiä,
+mutta on pakko myöntää,</i>
+
+23
+00:02:15,000 --> 00:02:18,624
+<i>että kaksi niistä on muita erityisempiä.</i>
+
+24
+00:02:18,625 --> 00:02:21,457
+<i>Sebastian. Suurin pässini.</i>
+
+25
+00:02:21,458 --> 00:02:24,499
+<i>Minun tapaani erakkoluonne.</i>
+
+26
+00:02:24,500 --> 00:02:27,207
+<i>Ennen pitkää se aina kuljeksii pois.</i>
+
+27
+00:02:27,208 --> 00:02:31,250
+<i>Ja ennen pitkää se tulee takaisin.</i>
+
+28
+00:02:34,083 --> 00:02:37,207
+<i>Ja viimeisenä, Lili.</i>
+
+29
+00:02:37,208 --> 00:02:38,915
+<i>Lampaistani fiksuin.</i>
+
+30
+00:02:38,916 --> 00:02:44,624
+<i>Se tuntuu aina tietävän, mitä milloinkin
+tuumin ja tunnen sydämessäni.</i>
+
+31
+00:02:44,625 --> 00:02:50,124
+<i>Ennen kaikkea se tuo
+vain paimenen tuntemaa rauhaa.</i>
+
+32
+00:02:50,125 --> 00:02:56,208
+<i>Rauhaa, jonka saa, kun huolehtii
+maailman lempeimmistä olennoista.</i>
+
+33
+00:03:01,458 --> 00:03:03,874
+<i>Päivä alkaa huolehtimalla
+niiden hyvinvoinnista.</i>
+
+34
+00:03:03,875 --> 00:03:05,999
+LAMPAANREHU
+
+35
+00:03:06,000 --> 00:03:08,457
+<i>Annan riittävästi ruokaa,</i>
+
+36
+00:03:08,458 --> 00:03:09,541
+<i>keritsen.</i>
+
+37
+00:03:11,583 --> 00:03:14,499
+<i>Viihdytän niitä parhaani mukaan.</i>
+
+38
+00:03:14,500 --> 00:03:16,165
+<i>Ja kun herään</i>
+
+39
+00:03:16,166 --> 00:03:17,707
+<i>Tiedän että olen</i>
+
+40
+00:03:17,708 --> 00:03:21,083
+<i>Mies joka vierelläsi on</i>
+
+41
+00:03:22,000 --> 00:03:26,332
+<i>Katson, että ne saavat lääkkeensä,
+mistä uskon niiden nauttivan.</i>
+
+42
+00:03:26,333 --> 00:03:27,999
+<i>Osaisivatpa ne vain puhua.</i>
+
+43
+00:03:28,000 --> 00:03:30,832
+Aika ottaa lääke, kaveri. Kas niin.
+
+44
+00:03:30,833 --> 00:03:35,457
+<i>Ja kun päivän askareet on tehty
+ja aurinko painuu mailleen,</i>
+
+45
+00:03:35,458 --> 00:03:37,790
+<i>valitsen kirjan ja luen niille ääneen.</i>
+
+46
+00:03:37,791 --> 00:03:42,249
+<i>Dekkareita, mysteerejä,
+kaikkia lemppareitani.</i>
+
+47
+00:03:42,250 --> 00:03:45,165
+"Tiedän, milloin
+Roope Hollinen murhattiin -
+
+48
+00:03:45,166 --> 00:03:48,540
+ja tiedän kuka sen teki."
+
+49
+00:03:48,541 --> 00:03:51,665
+<i>Tykkään kuvitella,
+että ne pysyvät kärryillä,</i>
+
+50
+00:03:51,666 --> 00:03:54,165
+<i>mutta tiedän sydämessäni,</i>
+
+51
+00:03:54,166 --> 00:03:56,750
+<i>että niin erityisiä kuin ne ovatkin,
+ne ovat vain…</i>
+
+52
+00:03:57,250 --> 00:03:58,916
+<i>…lampaita.</i>
+
+53
+00:03:59,583 --> 00:04:02,874
+Ei enempää. No niin, menkää nyt.
+
+54
+00:04:02,875 --> 00:04:05,125
+Luen sen loppuun huomenna.
+
+55
+00:04:11,875 --> 00:04:13,915
+Miksi se lopetti jännään paikkaan?
+
+56
+00:04:13,916 --> 00:04:16,082
+Murhaaja oli juuri paljastumaisillaan!
+
+57
+00:04:16,083 --> 00:04:19,957
+Mitä piinaa! Eikö se ollutkin sisäkkö?
+- Tietysti oli.
+
+58
+00:04:19,958 --> 00:04:22,915
+<i>Ei, vaan puutarhuri.</i>
+
+59
+00:04:22,916 --> 00:04:25,832
+Leikkasi aina ruohoa,
+muttei koskaan syönyt sitä.
+
+60
+00:04:25,833 --> 00:04:27,290
+Epäilyttävää.
+
+61
+00:04:27,291 --> 00:04:31,040
+Mitä hulluja? Lääkäri sen teki.
+- Eipäs. Vaan se karmiva täti.
+
+62
+00:04:31,041 --> 00:04:33,957
+Karmiva täti oli
+kolme kirjaa sitten, neropatti!
+
+63
+00:04:33,958 --> 00:04:35,790
+Onko meillä muka samat vanhemmat?
+
+64
+00:04:35,791 --> 00:04:37,374
+Taas se alkaa.
+
+65
+00:04:37,375 --> 00:04:38,583
+Aivan.
+
+66
+00:04:39,333 --> 00:04:41,082
+Siinä sitä mennään.
+
+67
+00:04:41,083 --> 00:04:43,832
+Olette kaikki väärässä.
+
+68
+00:04:43,833 --> 00:04:46,957
+Ratkaisin sen kaksi lukua sitten.
+
+69
+00:04:46,958 --> 00:04:48,124
+Sisäkkö, eikö?
+
+70
+00:04:48,125 --> 00:04:49,499
+Ei sisäkkö.
+
+71
+00:04:49,500 --> 00:04:52,665
+Vaan veljenpoika, Perttu Hollinen.
+
+72
+00:04:52,666 --> 00:04:55,124
+Lili, eikö etsivä todistanut,
+
+73
+00:04:55,125 --> 00:04:59,415
+että todisteet Hollista vastaan
+olivat oikean tappajan lavastamia?
+
+74
+00:04:59,416 --> 00:05:00,874
+Täsmälleen.
+
+75
+00:05:00,875 --> 00:05:02,457
+Ettekö tajua?
+
+76
+00:05:02,458 --> 00:05:06,291
+Se väärensi todisteet itse
+päästäkseen pälkähästä.
+
+77
+00:05:08,875 --> 00:05:11,625
+Perttu Hollinen oli oikea murhaaja.
+
+78
+00:05:12,958 --> 00:05:15,125
+Miksi teit noin?
+
+79
+00:05:16,416 --> 00:05:20,416
+Jori lukee tarinan loppuun huomenna.
+Saatte nähdä.
+
+80
+00:05:23,250 --> 00:05:25,124
+Minusta se on silti sisäkkö.
+
+81
+00:05:25,125 --> 00:05:27,749
+<i>"Perttu tunsi läpikotaisin lain,</i>
+
+82
+00:05:27,750 --> 00:05:32,207
+että ketään ei voi syyttää kahdesti
+samasta rikoksesta.
+
+83
+00:05:32,208 --> 00:05:34,790
+Ja niin, välttääkseen tuomion,
+
+84
+00:05:34,791 --> 00:05:36,833
+hän lavasti todisteet itse.
+
+85
+00:05:37,500 --> 00:05:42,125
+Perttu Hollinen oli oikea murhaaja."
+
+86
+00:05:47,416 --> 00:05:52,958
+<i>Lampaat tuntuvat viettävän päivänsä
+joko syöden tai ajatellen syömistä.</i>
+
+87
+00:05:53,541 --> 00:05:57,375
+<i>Mutta kolmella karitsalla
+on rajattomasti virtaa.</i>
+
+88
+00:05:57,958 --> 00:06:02,540
+<i>Nuo iloiset, huolettomat otukset
+olivat syntyneet keväällä.</i>
+
+89
+00:06:02,541 --> 00:06:06,291
+<i>Oikeastaan lähes kaikki lampaat
+syntyvät keväällä.</i>
+
+90
+00:06:06,875 --> 00:06:11,750
+<i>Ja sitten on se yksi,
+joka syntyi talvella.</i>
+
+91
+00:06:12,500 --> 00:06:14,458
+Ai. Hei.
+
+92
+00:06:16,833 --> 00:06:18,290
+Olen Kukka.
+- Oliver.
+
+93
+00:06:18,291 --> 00:06:20,166
+Pikku.
+- Kuka sinä olet?
+
+94
+00:06:20,750 --> 00:06:22,415
+Ei minulla ole nimeä.
+
+95
+00:06:22,416 --> 00:06:24,208
+Tahdotko leikkiä?
+
+96
+00:06:24,666 --> 00:06:27,040
+Ei! Hus!
+
+97
+00:06:27,041 --> 00:06:29,999
+Ette leiki tuon talvilampaan kanssa.
+
+98
+00:06:30,000 --> 00:06:32,625
+Se ei kuulu tähän laumaan.
+
+99
+00:06:33,416 --> 00:06:36,332
+<i>Syistä, jotka vain lammas voi ymmärtää,</i>
+
+100
+00:06:36,333 --> 00:06:39,832
+<i>lauma hyljeksii
+talvella syntynyttä karitsaa.</i>
+
+101
+00:06:39,833 --> 00:06:40,832
+Ei hätää.
+
+102
+00:06:40,833 --> 00:06:44,582
+<i>Vain koska talvilammas on erilainen.</i>
+
+103
+00:06:44,583 --> 00:06:47,125
+Kas niin. Hyvä.
+
+104
+00:06:56,000 --> 00:06:59,915
+Yksi kysymys.
+Miksi Jori on aina niin kiltti tuolle?
+
+105
+00:06:59,916 --> 00:07:04,708
+Jori ei ole lammas.
+Hänelle ei ole kerrottu talvilampaista.
+
+106
+00:07:16,708 --> 00:07:22,374
+<i>Yksi asia vielä. Jos hyväksyt kutsuni,
+asun lähellä kylää nimeltä Notko.</i>
+
+107
+00:07:22,375 --> 00:07:26,165
+{\an8}<i>Täällä asuu monenlaista väkeä.
+Esimerkiksi…</i>
+
+108
+00:07:26,166 --> 00:07:28,832
+Huomenta, Kalle.
+<i>- Kalle. Hänkin on paimen.</i>
+
+109
+00:07:28,833 --> 00:07:30,333
+Huomenta, neidot.
+<i>- En tykkää.</i>
+
+110
+00:07:30,750 --> 00:07:34,374
+<i>Palvi, teurastaja. En todellakaan tykkää.</i>
+
+111
+00:07:34,375 --> 00:07:37,290
+<i>Elli, majatalon emäntä. Ei tykkää minusta.</i>
+
+112
+00:07:37,291 --> 00:07:38,874
+Voisin tappaa sen miehen.
+
+113
+00:07:38,875 --> 00:07:40,832
+{\an8}<i>Tim, poliisi.</i>
+
+114
+00:07:40,833 --> 00:07:42,040
+{\an8}VARO LAMAUTINTA
+
+115
+00:07:42,041 --> 00:07:43,165
+<i>Ääliö.</i>
+
+116
+00:07:43,166 --> 00:07:47,457
+<i>Ja pastori Hillilä,
+joka pitää itseään ihmisten paimenena.</i>
+
+117
+00:07:47,458 --> 00:07:50,374
+<i>Meillä on monimutkainen suhde.</i>
+
+118
+00:07:50,375 --> 00:07:54,583
+Päivän teksti on
+vertaus eksyneestä lampaasta.
+
+119
+00:08:05,291 --> 00:08:06,916
+Jori, liitytkö seuraamme?
+
+120
+00:08:07,791 --> 00:08:10,375
+Kaikki ovat tervetulleita
+herran huoneeseen.
+
+121
+00:08:11,291 --> 00:08:12,500
+Jopa teurastajat?
+
+122
+00:08:19,041 --> 00:08:20,958
+En liity seuraanne.
+
+123
+00:08:21,958 --> 00:08:23,541
+Tulin vain maksamaan velan.
+
+124
+00:08:30,250 --> 00:08:32,250
+Vanha kunnon Jori.
+
+125
+00:08:34,083 --> 00:08:35,540
+Vanha kunnon Jori.
+
+126
+00:08:35,541 --> 00:08:37,625
+<i>Mutta se ihmisistä.</i>
+
+127
+00:08:38,083 --> 00:08:40,415
+<i>Tahdon, että tapaat laumani.</i>
+
+128
+00:08:40,416 --> 00:08:43,624
+<i>Lampaatkin tahtovat nähdä sinut.</i>
+
+129
+00:08:43,625 --> 00:08:45,999
+<i>Kuten minäkin.</i>
+
+130
+00:08:46,000 --> 00:08:48,041
+<i>Tulisit pian.</i>
+
+131
+00:08:50,750 --> 00:08:53,291
+<i>Rakkain terveisin, Jori.</i>
+
+132
+00:08:59,625 --> 00:09:02,499
+Pilvi? Yksi kysymys.
+
+133
+00:09:02,500 --> 00:09:05,332
+Tekeekö voikukat ripsistäni
+yhtä nätit kuin sinun?
+
+134
+00:09:05,333 --> 00:09:10,249
+Ne eivät vaikuta ripsiin,
+mutta ne tekevät ihmeitä villalle.
+
+135
+00:09:10,250 --> 00:09:11,665
+Katso Villasilmää.
+
+136
+00:09:11,666 --> 00:09:13,457
+Se syö pelkästään voikukkia.
+
+137
+00:09:13,458 --> 00:09:16,249
+Ai onko nämä voikukkia?
+
+138
+00:09:16,250 --> 00:09:20,374
+Säästetään osa voikukista Sebastianille.
+Se on ollut pitkään poissa.
+
+139
+00:09:20,375 --> 00:09:21,457
+Ketä kiinnostaa?
+
+140
+00:09:21,458 --> 00:09:24,165
+Siitä asti kun Jori toi sen
+kuka ties mistä,
+
+141
+00:09:24,166 --> 00:09:26,332
+se on kuljeksinut tuonne kylään.
+
+142
+00:09:26,333 --> 00:09:27,582
+Olkoon nälässä vain.
+
+143
+00:09:27,583 --> 00:09:31,749
+Vaikka se ei välitä meistä,
+me voidaan silti välittää siitä.
+
+144
+00:09:31,750 --> 00:09:34,207
+Sebastian kuuluu laumaamme.
+
+145
+00:09:34,208 --> 00:09:36,750
+Katsokaa, Kalle!
+
+146
+00:09:39,583 --> 00:09:41,124
+Koiria!
+
+147
+00:09:41,125 --> 00:09:45,083
+Koiria, koiria, koiria!
+
+148
+00:09:46,750 --> 00:09:49,040
+Kalle! Täällä!
+
+149
+00:09:49,041 --> 00:09:52,207
+Hän tuoksuu aina ihanalle.
+
+150
+00:09:52,208 --> 00:09:54,249
+Johtuu villapaidoista.
+
+151
+00:09:54,250 --> 00:09:57,165
+Niin kauniisti värjätyt.
+
+152
+00:09:57,166 --> 00:09:58,624
+Saako tulla?
+- Mene pois.
+
+153
+00:09:58,625 --> 00:09:59,750
+Eli tulen.
+
+154
+00:10:00,291 --> 00:10:04,375
+Se on uusi ja kaunis ja kiiltävä.
+
+155
+00:10:04,791 --> 00:10:07,207
+Ajatteletko samaa kuin minä?
+
+156
+00:10:07,208 --> 00:10:09,583
+Tahdon puskea sitä!
+- Ja kovaa!
+
+157
+00:10:10,458 --> 00:10:11,666
+Reiska! Roni!
+
+158
+00:10:13,000 --> 00:10:16,832
+Tästä on puhuttu. Me ei pusketa, ellei…
+
+159
+00:10:16,833 --> 00:10:20,124
+Ellei puskemiselle ole perusteltua syytä.
+
+160
+00:10:20,125 --> 00:10:21,374
+Juuri niin.
+
+161
+00:10:21,375 --> 00:10:23,999
+Kalle on jo kolmatta kertaa täällä.
+
+162
+00:10:24,000 --> 00:10:27,124
+Ne voivat puhua vain yhdestä asiasta.
+
+163
+00:10:27,125 --> 00:10:28,374
+Laumojen yhdistämisestä.
+
+164
+00:10:28,375 --> 00:10:30,540
+Laumat yhteen?
+- Uusia lampaita.
+
+165
+00:10:30,541 --> 00:10:32,457
+Laitumia!
+- Koiria?
+
+166
+00:10:32,458 --> 00:10:36,665
+Minähän ajattelen!
+Sait tilaisuuden, mutta valehtelit!
+
+167
+00:10:36,666 --> 00:10:38,416
+Älä tule takaisin.
+
+168
+00:10:45,541 --> 00:10:48,166
+Ei taida tulla laumojen yhdistämistä.
+
+169
+00:10:49,916 --> 00:10:51,290
+Ehdin jo iloita.
+
+170
+00:10:51,291 --> 00:10:54,832
+Ja nyt olen surullinen ja järkyttynyt.
+Haluan unohtaa koko jutun.
+
+171
+00:10:54,833 --> 00:10:58,499
+Ihan totta. Valtava pettymys. Kuulkaa.
+
+172
+00:10:58,500 --> 00:11:02,582
+Me päätetään unohtaa Kallen käynti,
+kun lasken kolmeen.
+
+173
+00:11:02,583 --> 00:11:04,374
+Yksi, kaksi…
+
+174
+00:11:04,375 --> 00:11:07,540
+Entä Mauno? Se ei pysty unohtamaan.
+
+175
+00:11:07,541 --> 00:11:10,165
+Miksei?
+- Mauno-parka.
+
+176
+00:11:10,166 --> 00:11:12,125
+Sillä on syntyjään vakava vaiva.
+
+177
+00:11:12,583 --> 00:11:16,082
+Toisin kuin me muut,
+se ei osaa päättää unohtaa.
+
+178
+00:11:16,083 --> 00:11:17,332
+Ai niin.
+
+179
+00:11:17,333 --> 00:11:21,832
+Mauno, kun me on unohdettu,
+älä muistuta meitä tästä.
+
+180
+00:11:21,833 --> 00:11:24,540
+Oletko varma? Ei se niin paha juttu ollut.
+
+181
+00:11:24,541 --> 00:11:27,833
+Mutta ei hyväkään, joten miksi muistaa?
+
+182
+00:11:28,583 --> 00:11:29,500
+Valmista?
+
+183
+00:11:29,916 --> 00:11:30,833
+Yksi.
+
+184
+00:11:31,416 --> 00:11:32,416
+Kaksi.
+
+185
+00:11:32,833 --> 00:11:34,125
+Kolme.
+
+186
+00:11:36,625 --> 00:11:38,290
+Pilvi?
+
+187
+00:11:38,291 --> 00:11:39,624
+Yksi kysymys.
+
+188
+00:11:39,625 --> 00:11:42,582
+Tekeekö voikukat ripsistäni
+yhtä nätit kuin sinun?
+
+189
+00:11:42,583 --> 00:11:46,749
+Ne eivät vaikuta ripsiin,
+mutta ne tekevät ihmeitä villalle.
+
+190
+00:11:46,750 --> 00:11:48,333
+…ihmeitä villalle.
+
+191
+00:11:58,333 --> 00:11:59,250
+Voin hyvin.
+
+192
+00:12:12,791 --> 00:12:14,915
+Lupaan voida hyvin.
+
+193
+00:12:14,916 --> 00:12:16,416
+Mutta nyt…
+
+194
+00:12:17,041 --> 00:12:18,958
+Enpä tiedä.
+
+195
+00:12:21,916 --> 00:12:26,000
+Toivoin, että asiat muuttuisivat pian.
+
+196
+00:12:26,791 --> 00:12:28,875
+Älä sinä siitä huoli.
+
+197
+00:12:29,541 --> 00:12:30,916
+Pärjäät kyllä.
+
+198
+00:12:32,208 --> 00:12:34,708
+Ja minä pärjään myös.
+
+199
+00:12:57,666 --> 00:12:59,166
+NOTKON KULTTUURIFESTIVAALI
+
+200
+00:13:05,458 --> 00:13:06,624
+Hei vain.
+
+201
+00:13:06,625 --> 00:13:09,624
+Kas, kas. Onko mitään jännää?
+
+202
+00:13:09,625 --> 00:13:13,415
+{\an8}Vain vähän maanantaipostia.
+Laskuja ja mainoksia.
+
+203
+00:13:13,416 --> 00:13:14,374
+JORI HAKA
+
+204
+00:13:14,375 --> 00:13:16,457
+Kenelle Jori lähettää kirjeitä?
+
+205
+00:13:16,458 --> 00:13:19,665
+En saisi kertoa, mutta…
+
+206
+00:13:19,666 --> 00:13:23,041
+Muuan neiti Rebekka Haapalalle.
+Amerikkaan.
+
+207
+00:13:23,666 --> 00:13:26,874
+Oli kuka oli,
+he ovat kirjoitelleet jo kuukausia.
+
+208
+00:13:26,875 --> 00:13:28,457
+Ja…
+
+209
+00:13:28,458 --> 00:13:31,166
+Anna mennä. Haista.
+
+210
+00:13:31,750 --> 00:13:34,665
+Ruusuntuoksuista paperia. Rakkauskirjeitä.
+
+211
+00:13:34,666 --> 00:13:36,082
+Voitko uskoa?
+
+212
+00:13:36,083 --> 00:13:40,624
+Äkäpussi Jori Haka, imelä romantikko.
+
+213
+00:13:40,625 --> 00:13:41,750
+Kuka olisi arvannut?
+
+214
+00:13:43,958 --> 00:13:45,749
+Imelä Jori.
+
+215
+00:13:45,750 --> 00:13:46,749
+Niin.
+
+216
+00:13:46,750 --> 00:13:50,291
+Pärjäile. Hei!
+- Samoin.
+
+217
+00:13:51,375 --> 00:13:52,832
+Terve!
+- No hei!
+
+218
+00:13:52,833 --> 00:13:55,790
+Saavuin juuri kaupungista
+Notkon kulttuurifestivaalille.
+
+219
+00:13:55,791 --> 00:13:57,582
+Suurenmoista.
+
+220
+00:13:57,583 --> 00:14:00,124
+Täällä ne ovat.
+
+221
+00:14:00,125 --> 00:14:01,874
+Tule perässä.
+
+222
+00:14:01,875 --> 00:14:03,750
+Täällä on mitä?
+
+223
+00:14:04,166 --> 00:14:08,333
+Tervetuloa Notkon kulttuurifestivaalille.
+
+224
+00:14:09,958 --> 00:14:11,291
+{\an8}ELLI PANKAN TAIDETTA
+
+225
+00:14:12,083 --> 00:14:13,165
+Pilailet.
+
+226
+00:14:13,166 --> 00:14:16,541
+Mitä? Kylän kulttuuriperintöä.
+
+227
+00:14:18,583 --> 00:14:21,374
+Mikä on <i>Paluu Oziin?</i>
+
+228
+00:14:21,375 --> 00:14:23,666
+{\an8}Kaikkien aikojen paras elokuva.
+
+229
+00:14:24,083 --> 00:14:26,541
+{\an8}Se kuvattiin 60 kilsan päässä täältä.
+
+230
+00:14:26,958 --> 00:14:29,790
+Monien mielestä parempi kuin alkuperäinen.
+
+231
+00:14:29,791 --> 00:14:31,124
+En ole nähnyt.
+
+232
+00:14:31,125 --> 00:14:33,540
+Kuka ei ole nähnyt <i>Paluuta Oziin?</i>
+
+233
+00:14:33,541 --> 00:14:37,707
+Anteeksi. Miksi teillä on
+iso banderolli tästä?
+
+234
+00:14:37,708 --> 00:14:40,500
+Että tulisi ihmisiä.
+Ilman heitä ei ole festaria.
+
+235
+00:14:41,083 --> 00:14:44,415
+Ei tämä ole mikään festivaali.
+
+236
+00:14:44,416 --> 00:14:46,500
+Ei. Muutama pöytä.
+
+237
+00:14:47,708 --> 00:14:49,916
+Yritätkö opettaa minua?
+
+238
+00:14:50,583 --> 00:14:52,083
+En.
+
+239
+00:14:52,583 --> 00:14:54,874
+Totta. Pyydän anteeksi.
+
+240
+00:14:54,875 --> 00:14:56,958
+Lähdimme liikkeelle väärällä jalalla.
+
+241
+00:14:58,500 --> 00:15:02,875
+Olen Eero Mattila. <i>Sanomien</i> toimittaja.
+
+242
+00:15:03,583 --> 00:15:05,125
+Nuorempi toimittaja.
+
+243
+00:15:08,000 --> 00:15:10,165
+Hyvä on. Kirjoitan muistokirjoituksia.
+
+244
+00:15:10,166 --> 00:15:17,166
+Olen etsinyt pitkään oikeata juttua,
+ja toimituspäällikkö antoi minulle tämän.
+
+245
+00:15:18,291 --> 00:15:20,332
+Notkon kulttuurifestivaalin.
+
+246
+00:15:20,333 --> 00:15:23,124
+Unelmapesti.
+- Toki, siisti juttu.
+
+247
+00:15:23,125 --> 00:15:27,541
+Mutten taida saada
+ylennystä tästä, enhän? En.
+
+248
+00:15:27,916 --> 00:15:29,791
+Sääli.
+
+249
+00:15:30,333 --> 00:15:31,874
+Kymppi. Käteisellä.
+
+250
+00:15:31,875 --> 00:15:33,374
+Mistä?
+
+251
+00:15:33,375 --> 00:15:35,125
+Pääsymaksu.
+- Pääsymaksu.
+
+252
+00:15:38,500 --> 00:15:39,749
+Kymppi.
+
+253
+00:15:39,750 --> 00:15:41,083
+Pidä…
+
+254
+00:15:41,750 --> 00:15:42,916
+Pidä kaikki.
+
+255
+00:15:44,083 --> 00:15:45,291
+Ihan…
+
+256
+00:15:46,458 --> 00:15:48,165
+Outo.
+
+257
+00:15:48,166 --> 00:15:50,791
+TERVETULOA NOTKOON
+
+258
+00:16:06,666 --> 00:16:10,040
+Missä Jori on? Missä on meidän iltasatu?
+
+259
+00:16:10,041 --> 00:16:11,291
+Olisi pitänyt tulla jo.
+
+260
+00:16:13,958 --> 00:16:17,415
+Tuota ääntä ei tarvitse pelätä.
+
+261
+00:16:17,416 --> 00:16:18,707
+Herra Kultalehto?
+
+262
+00:16:18,708 --> 00:16:21,790
+Teidän karitsojen on aika kuulla tämä,
+
+263
+00:16:21,791 --> 00:16:25,499
+sillä näin on asiain laita.
+
+264
+00:16:25,500 --> 00:16:30,374
+Pilvet olivat kerran lampaita,
+kuten te ja minä.
+
+265
+00:16:30,375 --> 00:16:33,874
+Ja kun ne huomaavat maan kuivuneen liikaa,
+
+266
+00:16:33,875 --> 00:16:36,290
+ne alkavat tanssia.
+
+267
+00:16:36,291 --> 00:16:40,332
+Jylinä alkaa,
+kun ne polkevat sadetta taivaalta,
+
+268
+00:16:40,333 --> 00:16:43,457
+jotta ruoho ja apila kasvaisi.
+
+269
+00:16:43,458 --> 00:16:45,582
+Tuleeko kaikista lampaista pilviä?
+
+270
+00:16:45,583 --> 00:16:48,415
+Kyllä, Pikku. Meistä kaikista.
+
+271
+00:16:48,416 --> 00:16:50,540
+Minusta tulee joskus pilvi,
+
+272
+00:16:50,541 --> 00:16:52,707
+niin kuin vanhemmistani ennen minua.
+
+273
+00:16:52,708 --> 00:16:54,375
+Vaikkakin…
+
+274
+00:16:55,416 --> 00:17:00,500
+Jostain syystä en muista, millaista oli,
+kun vanhemmistani tuli pilviä.
+
+275
+00:17:01,166 --> 00:17:03,333
+Mauno, sinä muistat kaiken.
+
+276
+00:17:03,750 --> 00:17:06,625
+Eikö se ollutkin ihana päivä?
+
+277
+00:17:12,416 --> 00:17:15,040
+Juu. Tietysti.
+
+278
+00:17:15,041 --> 00:17:18,999
+Jättivät hyvästit
+ja leijuivat iloiten taivaalle -
+
+279
+00:17:19,000 --> 00:17:21,957
+muuttuen pöyheiksi pilviksi,
+
+280
+00:17:21,958 --> 00:17:26,083
+jotka katselevat meitä kaikkia
+rakkaudella.
+
+281
+00:17:27,333 --> 00:17:28,333
+Ikuisesti.
+
+282
+00:17:30,125 --> 00:17:31,500
+Kiitos.
+
+283
+00:17:35,375 --> 00:17:37,040
+Ja siinä se on!
+
+284
+00:17:37,041 --> 00:17:39,500
+Juuri niin kuten kuuluukin.
+
+285
+00:17:41,333 --> 00:17:42,832
+<i>Niin.</i>
+
+286
+00:17:42,833 --> 00:17:45,833
+<i>Kaikki on juuri niin kuin kuuluu.</i>
+
+287
+00:17:55,958 --> 00:17:58,375
+LAHDIN LIHA
+
+288
+00:18:30,416 --> 00:18:32,582
+Mutta hyvä puoli on,
+
+289
+00:18:32,583 --> 00:18:35,500
+että on täydellinen aika päätyä tänne.
+
+290
+00:18:35,958 --> 00:18:38,750
+Nyt on Notkon kulttuurifestivaali!
+
+291
+00:18:39,166 --> 00:18:41,416
+Onnenpekka!
+
+292
+00:18:42,083 --> 00:18:46,499
+Kävin viime viikolla siskoni kanssa,
+ja söimme paikallista juustoa.
+
+293
+00:18:46,500 --> 00:18:51,790
+Niin paljon parempaa kuin mikään,
+mitä saa kaupungin fiineistä juustoloista.
+
+294
+00:18:51,791 --> 00:18:53,207
+Sisareni sanoi, ettei…
+
+295
+00:18:53,208 --> 00:18:55,290
+Näitkö tuon?
+
+296
+00:18:55,291 --> 00:18:56,583
+Ai minkä?
+
+297
+00:18:59,708 --> 00:19:01,208
+TERVETULOA NOTKOON
+
+298
+00:19:34,916 --> 00:19:36,582
+Jee, olet hereillä!
+
+299
+00:19:36,583 --> 00:19:39,707
+Olen kieltänyt tekemästä noin!
+
+300
+00:19:39,708 --> 00:19:40,915
+Me unohdettiin!
+
+301
+00:19:40,916 --> 00:19:42,707
+Me unohdettiin.
+
+302
+00:19:42,708 --> 00:19:43,957
+Niinpä tietysti.
+
+303
+00:19:43,958 --> 00:19:45,124
+Katsokaa!
+
+304
+00:19:45,125 --> 00:19:46,833
+Odota minua!
+- Hidasta vauhtia!
+
+305
+00:20:00,916 --> 00:20:02,999
+Lili? Mitä sinä…?
+
+306
+00:20:03,000 --> 00:20:05,915
+Tämä on kai leikki. Älä liiku.
+
+307
+00:20:05,916 --> 00:20:08,666
+Joka liikkuu ensimmäisenä, häviää.
+
+308
+00:20:21,458 --> 00:20:23,582
+Hän ei leiki.
+
+309
+00:20:23,583 --> 00:20:27,500
+Mitä hän sitten tekee?
+
+310
+00:20:29,625 --> 00:20:31,124
+Lili.
+
+311
+00:20:31,125 --> 00:20:32,957
+Hän on…
+
+312
+00:20:32,958 --> 00:20:34,999
+Hän on kuollut.
+
+313
+00:20:35,000 --> 00:20:37,290
+Jori on kuollut.
+
+314
+00:20:37,291 --> 00:20:40,832
+Miten niin kuollut?
+
+315
+00:20:40,833 --> 00:20:42,374
+Ei se ole totta.
+
+316
+00:20:42,375 --> 00:20:44,791
+Niin käy vain kirjoissa.
+
+317
+00:20:48,208 --> 00:20:49,666
+Ai on totta?
+
+318
+00:20:53,708 --> 00:20:56,166
+Voiko ihminen kuolla?
+
+319
+00:20:57,791 --> 00:21:00,125
+Muuttuuko hän pilveksi?
+
+320
+00:21:01,166 --> 00:21:04,791
+Ei. Vain lampaat muuttuvat.
+
+321
+00:21:33,958 --> 00:21:35,540
+"Kuollut"?
+- "Kuollut"?
+
+322
+00:21:35,541 --> 00:21:39,124
+Voiko niin käydä oikeasti?
+- Siltä vaikuttaa.
+
+323
+00:21:39,125 --> 00:21:41,165
+Voivatko lampaatkin kuolla?
+
+324
+00:21:41,166 --> 00:21:44,249
+Eivät, Pikku, me muutumme pilviksi, mutta…
+
+325
+00:21:44,250 --> 00:21:45,707
+Jori ei voi olla kuollut.
+
+326
+00:21:45,708 --> 00:21:48,374
+Tarvitsen lääkkeeni. Minulla on orf.
+
+327
+00:21:48,375 --> 00:21:49,540
+Mikä on orf?
+
+328
+00:21:49,541 --> 00:21:50,875
+Tämä on orf.
+
+329
+00:21:52,625 --> 00:21:53,832
+Yäk!
+
+330
+00:21:53,833 --> 00:21:56,750
+Ette taida nyt ymmärtää minua.
+
+331
+00:21:57,333 --> 00:21:59,165
+Jori on poissa.
+
+332
+00:21:59,166 --> 00:22:01,082
+Hän ei palaa enää koskaan.
+
+333
+00:22:01,083 --> 00:22:03,999
+Jori oli meidän paimen. Mitä me tehdään?
+
+334
+00:22:04,000 --> 00:22:07,332
+Olet maailman fiksuin lammas, Lili.
+Mitä nyt tehdään?
+
+335
+00:22:07,333 --> 00:22:10,208
+Voimme tehdä vain yhden asian.
+
+336
+00:22:10,791 --> 00:22:12,540
+Meidän pitää unohtaa Jori.
+
+337
+00:22:12,541 --> 00:22:15,457
+Mitä? Lili, kyseessä on Jori. Emme voi…
+
+338
+00:22:15,458 --> 00:22:18,915
+Muistaminen sattuu liikaa.
+En pysty siihen.
+
+339
+00:22:18,916 --> 00:22:22,874
+Totta. Lampaiden ei kuulu tuntea näin.
+
+340
+00:22:22,875 --> 00:22:25,833
+Meidän täytyy päättää unohtaa.
+
+341
+00:22:27,833 --> 00:22:29,665
+Lasken kolmeen.
+
+342
+00:22:29,666 --> 00:22:30,915
+Hetkinen. Älä…
+
+343
+00:22:30,916 --> 00:22:32,124
+Yksi.
+
+344
+00:22:32,125 --> 00:22:34,999
+Ei, kyseessä on Jori.
+- Kaksi.
+
+345
+00:22:35,000 --> 00:22:38,332
+Ette unohda mitään.
+
+346
+00:22:38,333 --> 00:22:39,707
+Sebastian.
+
+347
+00:22:39,708 --> 00:22:40,999
+Luulitteko tosiaan,
+
+348
+00:22:41,000 --> 00:22:44,165
+että antaisin unohtaa
+paimeneni noin helposti?
+
+349
+00:22:44,166 --> 00:22:46,332
+Hän oli meidän paimenemme.
+
+350
+00:22:46,333 --> 00:22:47,790
+Rakastimme häntä.
+
+351
+00:22:47,791 --> 00:22:50,000
+Tuska on liikaa.
+
+352
+00:22:50,541 --> 00:22:52,415
+Joten aiomme unohtaa.
+
+353
+00:22:52,416 --> 00:22:54,582
+Ei, ettepäs.
+
+354
+00:22:54,583 --> 00:22:57,499
+Muistatte hänet, koska se on oikein.
+
+355
+00:22:57,500 --> 00:22:59,040
+Koska niin kuuluu.
+
+356
+00:22:59,041 --> 00:23:00,624
+Mitä kuuluu?
+
+357
+00:23:00,625 --> 00:23:02,791
+Ei, tarkoitin oikeudenmukaista.
+
+358
+00:23:03,750 --> 00:23:04,915
+Oikein mukavaa mitä?
+
+359
+00:23:04,916 --> 00:23:07,499
+Oikeutta.
+
+360
+00:23:07,500 --> 00:23:10,040
+Että paha ei saa turmella hyvää.
+
+361
+00:23:10,041 --> 00:23:12,540
+Vahva ei saa turmella heikkoa.
+
+362
+00:23:12,541 --> 00:23:15,416
+Eikä ystävää saa koskaan unohtaa.
+
+363
+00:23:15,833 --> 00:23:19,124
+Jori osoitti minulle oikeutta.
+
+364
+00:23:19,125 --> 00:23:21,207
+Hän ansaitsee samaa.
+
+365
+00:23:21,208 --> 00:23:24,540
+Totta. Jori oli aina niin kiltti minulle.
+
+366
+00:23:24,541 --> 00:23:28,499
+Teille kaikille.
+Siksi hän halusi teiltä vain villaa.
+
+367
+00:23:28,500 --> 00:23:30,249
+Mitä muuta lampaista voi haluta?
+
+368
+00:23:30,250 --> 00:23:32,624
+Ei muuta syytä. Ihanaa villaa vain.
+
+369
+00:23:32,625 --> 00:23:33,957
+Yksi kysymys.
+
+370
+00:23:33,958 --> 00:23:38,124
+Mikä on ihmiselämän tarkoitus,
+jos se voi loppua silmänräpäyksessä?
+
+371
+00:23:38,125 --> 00:23:41,165
+Ja miksi ihmisiä edes on?
+Kuka ne teki? Ja kuka teki meidät?
+
+372
+00:23:41,166 --> 00:23:43,290
+Mitä on puun sisällä?
+Minne kuu menee päivällä?
+
+373
+00:23:43,291 --> 00:23:45,707
+Ja miksi Jori murhattiin?
+
+374
+00:23:45,708 --> 00:23:48,332
+Miten niin "murhattiin"?
+
+375
+00:23:48,333 --> 00:23:51,332
+Jorin iltasaduissa
+kuolleet on aina murhattu.
+
+376
+00:23:51,333 --> 00:23:52,540
+Ei, Sara.
+
+377
+00:23:52,541 --> 00:23:55,124
+Ne ovat pelkkiä tarinoita. Tämä on totta.
+
+378
+00:23:55,125 --> 00:23:56,249
+Vai mitä, Lili?
+
+379
+00:23:56,250 --> 00:24:00,458
+Täsmälleen. Ei ole syytä uskoa, että Jori…
+
+380
+00:24:01,416 --> 00:24:03,583
+Hänen hattunsa.
+
+381
+00:24:20,375 --> 00:24:22,415
+Toin papereita allekirjoitettavaksi -
+
+382
+00:24:22,416 --> 00:24:24,291
+ja löysin hänet tuosta.
+
+383
+00:24:25,166 --> 00:24:27,625
+Haluatko lausua pari sanaa?
+- En.
+
+384
+00:24:30,875 --> 00:24:32,541
+Kalle.
+
+385
+00:24:34,083 --> 00:24:35,958
+Mitä teurastaja tekee täällä?
+
+386
+00:24:38,041 --> 00:24:40,290
+Viisi.
+
+387
+00:24:40,291 --> 00:24:41,333
+Kuusi.
+
+388
+00:24:42,708 --> 00:24:44,041
+Haluaa lampaat.
+
+389
+00:24:45,833 --> 00:24:47,500
+15.
+
+390
+00:24:49,041 --> 00:24:51,082
+16.
+
+391
+00:24:51,083 --> 00:24:52,665
+Lili. Mitä sinä nyt?
+
+392
+00:24:52,666 --> 00:24:57,707
+Tämä voi olla haihattelua,
+mutta mietin Jorin hattua ja sadetakkia.
+
+393
+00:24:57,708 --> 00:24:59,040
+Mitä hattua ja takkia?
+
+394
+00:24:59,041 --> 00:25:02,499
+Aivan. Miksei hän pukenut niitä myrskyllä?
+
+395
+00:25:02,500 --> 00:25:03,791
+Paitsi jos…
+
+396
+00:25:04,500 --> 00:25:05,916
+Autahan vähän.
+
+397
+00:25:09,333 --> 00:25:10,749
+Mitä?
+
+398
+00:25:10,750 --> 00:25:12,875
+Sanoin, että voisinpa unohtaa tämän.
+
+399
+00:25:16,041 --> 00:25:17,791
+Näkyykö mitään?
+
+400
+00:25:19,666 --> 00:25:22,708
+Näen nyt ihan kaiken.
+
+401
+00:25:37,416 --> 00:25:38,957
+Anteeksi?
+
+402
+00:25:38,958 --> 00:25:40,165
+Huomenta.
+
+403
+00:25:40,166 --> 00:25:42,540
+Mitä teet yhä täällä?
+
+404
+00:25:42,541 --> 00:25:44,457
+Auto hajosi. Kuka tuo on?
+
+405
+00:25:44,458 --> 00:25:47,290
+Nimi on Jori Haka. Paimen.
+
+406
+00:25:47,291 --> 00:25:50,707
+Mitä tapahtui?
+- Luultavasti sydänkohtaus.
+
+407
+00:25:50,708 --> 00:25:53,124
+Ei tästä kyllä lööppejä revitä.
+
+408
+00:25:53,125 --> 00:25:55,874
+Paitsi jos sattuu olemaan
+jotain epätavallista?
+
+409
+00:25:55,875 --> 00:25:58,332
+Ei. Tutkin kaikki paikat.
+
+410
+00:25:58,333 --> 00:26:00,666
+Asuntovaunun ympäriltä.
+
+411
+00:26:01,291 --> 00:26:02,915
+Asuntovaunun alta.
+
+412
+00:26:02,916 --> 00:26:05,458
+Entä asuntovaunun sisältä?
+
+413
+00:26:10,250 --> 00:26:12,083
+No, vilkaistaan.
+
+414
+00:26:12,625 --> 00:26:14,583
+Ehkei kannata…
+
+415
+00:26:15,875 --> 00:26:17,082
+Mitä?
+
+416
+00:26:17,083 --> 00:26:19,957
+Sormenjäljet, eikö?
+
+417
+00:26:19,958 --> 00:26:23,499
+Aivan. Rikospaikkatutkinta.
+
+418
+00:26:23,500 --> 00:26:24,541
+Jep.
+
+419
+00:26:33,375 --> 00:26:35,790
+Kaikki näyttää olevan kunnossa.
+
+420
+00:26:35,791 --> 00:26:37,291
+Hetkinen nyt.
+
+421
+00:26:38,333 --> 00:26:43,457
+Miksi sydänkohtauksen saanut
+nousisi ylös ja kävelisi ulos?
+
+422
+00:26:43,458 --> 00:26:45,332
+Ehkä se tapahtui ulkona.
+
+423
+00:26:45,333 --> 00:26:47,832
+Ei, se tapahtui täällä.
+
+424
+00:26:47,833 --> 00:26:49,583
+Hän kaatoi tuolin.
+
+425
+00:26:53,166 --> 00:26:57,333
+Eikä hän ollut yksin.
+
+426
+00:26:59,000 --> 00:27:00,250
+Anna olla.
+
+427
+00:27:00,833 --> 00:27:02,457
+Se oli sydänkohtaus.
+
+428
+00:27:02,458 --> 00:27:06,457
+Tuntuu, että suljet silmäsi siltä,
+että todisteet viittaavat muuhun.
+
+429
+00:27:06,458 --> 00:27:09,500
+Mitä tarkoitat?
+Että pelkään, että se oli murha?
+
+430
+00:27:09,916 --> 00:27:11,665
+Pelkäätkö?
+
+431
+00:27:11,666 --> 00:27:12,832
+Älä viitsi.
+
+432
+00:27:12,833 --> 00:27:15,165
+Toivon, että Notkossa tapahtuisi murha.
+
+433
+00:27:15,166 --> 00:27:16,624
+Vaikka yksi joka päivä.
+
+434
+00:27:16,625 --> 00:27:18,166
+Olisin onnesta soikea.
+
+435
+00:27:20,125 --> 00:27:24,457
+{\an8}Tarvitset jymyjutun
+toimittajanuraasi varten.
+
+436
+00:27:24,458 --> 00:27:25,875
+{\an8}Mutta valitan…
+
+437
+00:27:29,000 --> 00:27:32,499
+{\an8}Jori Hakaa ei murhattu.
+
+438
+00:27:32,500 --> 00:27:33,958
+Jori Haka murhattiin.
+
+439
+00:27:35,333 --> 00:27:37,874
+Sanoiko poliisi, että se oli murha?
+
+440
+00:27:37,875 --> 00:27:41,165
+Ei, hän sanoi sydänkohtaus.
+Mutta on väärässä.
+
+441
+00:27:41,166 --> 00:27:44,749
+Eli se ei ole oikeasti murha.
+
+442
+00:27:44,750 --> 00:27:48,625
+Vain kotieläimen villi veikkaus.
+
+443
+00:27:50,291 --> 00:27:51,999
+Hyvä on.
+
+444
+00:27:52,000 --> 00:27:53,999
+Jorin luona kävi joku,
+
+445
+00:27:54,000 --> 00:27:56,249
+jonka hän tunsi kyllin hyvin
+tarjotakseen ryypyn.
+
+446
+00:27:56,250 --> 00:27:57,999
+Sitten hän sairastui.
+
+447
+00:27:58,000 --> 00:28:02,957
+Se, että vieras ei hälyttänyt apua,
+viittaa syyllisyyteen -
+
+448
+00:28:02,958 --> 00:28:06,457
+ja haavojen puute viittaa myrkkyyn.
+
+449
+00:28:06,458 --> 00:28:10,749
+Ruohonvihreä tahra kädessä
+viittaa kamppailuun.
+
+450
+00:28:10,750 --> 00:28:12,749
+Tappaja pakeni.
+
+451
+00:28:12,750 --> 00:28:16,583
+Jori tuli myrkytetyksi ja kuoli.
+
+452
+00:28:18,333 --> 00:28:19,583
+En arvaile ikinä.
+
+453
+00:28:20,666 --> 00:28:22,790
+Konstaapeli on täysin toivoton,
+
+454
+00:28:22,791 --> 00:28:24,790
+kuten aina rikostarinoissa.
+
+455
+00:28:24,791 --> 00:28:27,040
+Siksi jonkun muun pitää tutkia -
+
+456
+00:28:27,041 --> 00:28:28,290
+ja ratkaista rikos.
+
+457
+00:28:28,291 --> 00:28:29,457
+Kenen?
+
+458
+00:28:29,458 --> 00:28:31,374
+Jori ruokki meidät.
+
+459
+00:28:31,375 --> 00:28:33,665
+Jori huolehti meistä.
+
+460
+00:28:33,666 --> 00:28:35,999
+Jori rakasti meitä.
+
+461
+00:28:36,000 --> 00:28:37,458
+Olemme hänelle kaiken velkaa.
+
+462
+00:28:37,875 --> 00:28:39,540
+Mitä tarkoitat?
+
+463
+00:28:39,541 --> 00:28:42,374
+Meidän paimenemme on murhattu.
+
+464
+00:28:42,375 --> 00:28:45,625
+Ja me ratkaistaan tämä rikos.
+
+465
+00:28:49,500 --> 00:28:51,333
+Mikä naurattaa?
+
+466
+00:28:53,666 --> 00:28:55,207
+Ensinnäkin…
+
+467
+00:28:55,208 --> 00:28:57,665
+Olette lampaita!
+
+468
+00:28:57,666 --> 00:28:59,165
+Tarkoittaa sinua.
+
+469
+00:28:59,166 --> 00:29:03,665
+Riittääkö teillä muka älyä
+ratkaista rikos?
+
+470
+00:29:03,666 --> 00:29:07,040
+Tiedättekö, miksi ihmiset sanovat tolloja,
+
+471
+00:29:07,041 --> 00:29:08,499
+jotka eivät osaa ajatella?
+
+472
+00:29:08,500 --> 00:29:09,749
+Ankoiksi!
+
+473
+00:29:09,750 --> 00:29:10,665
+Pässeiksi!
+
+474
+00:29:10,666 --> 00:29:13,665
+Ja sinä. "Maailman fiksuin lammas."
+
+475
+00:29:13,666 --> 00:29:16,499
+Missä olet käynyt siinä "maailmassa"?
+
+476
+00:29:16,500 --> 00:29:19,541
+Täällä? Ja tuolla?
+
+477
+00:29:19,916 --> 00:29:21,124
+Ole hyvä.
+
+478
+00:29:21,125 --> 00:29:25,374
+Palaa heinien,
+voikukkien ja nokosten pariin -
+
+479
+00:29:25,375 --> 00:29:28,500
+ja jätä murhajuttujen tutkinta ihmisille.
+
+480
+00:29:29,666 --> 00:29:32,125
+No niin. Aloitetaanko?
+
+481
+00:29:34,250 --> 00:29:37,916
+Etsikää johtolankoja.
+Älkää tärvelkö todisteita.
+
+482
+00:29:40,083 --> 00:29:43,000
+Ei saa syödä rikospaikkaa!
+
+483
+00:29:44,250 --> 00:29:45,707
+Mikäs tämä on?
+
+484
+00:29:45,708 --> 00:29:48,791
+Taidan olla johtolangan sisällä!
+
+485
+00:29:50,291 --> 00:29:52,749
+Jukra. Haloo?
+
+486
+00:29:52,750 --> 00:29:54,915
+Unohdetaan johtolangat.
+
+487
+00:29:54,916 --> 00:29:58,415
+Näkikö kukaan mitään murhailtana?
+
+488
+00:29:58,416 --> 00:30:00,000
+Minä näin.
+
+489
+00:30:01,166 --> 00:30:03,250
+Näin sinut, Sebastian.
+
+490
+00:30:04,250 --> 00:30:05,624
+Sebastian teki sen!
+
+491
+00:30:05,625 --> 00:30:07,125
+Murhamies!
+
+492
+00:30:07,708 --> 00:30:09,832
+Just, minähän se olin.
+
+493
+00:30:09,833 --> 00:30:13,999
+Menin ovesta, josta en mahdu,
+istuin tuolissa, joka ei kestä minua,
+
+494
+00:30:14,000 --> 00:30:16,249
+tapoin paimeneni ilman motiivia -
+
+495
+00:30:16,250 --> 00:30:22,332
+ja puristin myrkkytippoja
+lasiin käyttämällä tätä.
+
+496
+00:30:22,333 --> 00:30:24,124
+Totta.
+- Mitä tapahtuu?
+
+497
+00:30:24,125 --> 00:30:26,500
+Näkikö kukaan teistä ihmisiä?
+
+498
+00:30:27,291 --> 00:30:29,916
+Minä näin Jorin haamun.
+
+499
+00:30:30,291 --> 00:30:32,041
+Etpäs.
+- Näin.
+
+500
+00:30:34,166 --> 00:30:36,499
+Haamu nousi sen ruumiin luota.
+
+501
+00:30:36,500 --> 00:30:40,040
+Tai en nähnyt sitä kovin hyvin pimeässä,
+
+502
+00:30:40,041 --> 00:30:42,457
+mutta se haisi Jorilta ja…
+
+503
+00:30:42,458 --> 00:30:45,416
+Talvilammas, tämä on väärä hetki.
+
+504
+00:30:45,833 --> 00:30:48,540
+Kellot? Ne soivat kaksi päivää sitten.
+
+505
+00:30:48,541 --> 00:30:51,790
+Kelloilla kutsutaan kyläkokouksiin.
+
+506
+00:30:51,791 --> 00:30:53,207
+Tämä koskee Joria.
+
+507
+00:30:53,208 --> 00:30:54,415
+Tietysti!
+
+508
+00:30:54,416 --> 00:30:59,082
+Iltasaduissa on aina kokoontuminen,
+jossa kerrotaan murhasta.
+
+509
+00:30:59,083 --> 00:31:01,124
+Ja tappaja on aina paikalla.
+
+510
+00:31:01,125 --> 00:31:02,541
+Mennään sinne.
+
+511
+00:31:03,250 --> 00:31:05,624
+Uskallatko muka lähteä kotoa?
+
+512
+00:31:05,625 --> 00:31:07,624
+Kukaan teistä ei ole poistunut niityltä.
+
+513
+00:31:07,625 --> 00:31:10,165
+Sorkkanne ovat koskettaneet vain ruohoa.
+
+514
+00:31:10,166 --> 00:31:12,249
+Mitä vaikeata on kotoa lähtemisessä?
+
+515
+00:31:12,250 --> 00:31:13,583
+Meitä ei pelota.
+
+516
+00:31:19,000 --> 00:31:21,124
+Mauno, mikä tuo on?
+- Taitaa olla tie.
+
+517
+00:31:21,125 --> 00:31:22,249
+Mistä se on tehty?
+
+518
+00:31:22,250 --> 00:31:23,665
+Ei ainakaan ruohosta.
+
+519
+00:31:23,666 --> 00:31:24,708
+Lili?
+
+520
+00:31:25,291 --> 00:31:26,457
+Niin!
+
+521
+00:31:26,458 --> 00:31:28,082
+Tuletko?
+
+522
+00:31:28,083 --> 00:31:30,082
+Minä vain…
+
+523
+00:31:30,083 --> 00:31:32,249
+Mene sinä vain.
+
+524
+00:31:32,250 --> 00:31:34,624
+Miksi sinä huudat?
+
+525
+00:31:34,625 --> 00:31:36,875
+Olen tässä ihan lähellä.
+
+526
+00:31:38,666 --> 00:31:40,499
+Mutta kuitenkin niin kaukana.
+
+527
+00:31:40,500 --> 00:31:44,000
+Teidän pitää vain ylittää tie.
+
+528
+00:31:56,666 --> 00:31:59,332
+Ei, en pysty.
+
+529
+00:31:59,333 --> 00:32:00,625
+Mahdotonta.
+
+530
+00:32:15,416 --> 00:32:17,249
+Älä soimaa itseäsi.
+
+531
+00:32:17,250 --> 00:32:18,708
+Minkäs sitä luonnolleen mahtaa.
+
+532
+00:32:21,666 --> 00:32:26,000
+Mitä jos mennään yli yhdessä?
+
+533
+00:32:27,416 --> 00:32:28,708
+Jorin vuoksi?
+
+534
+00:32:30,541 --> 00:32:32,166
+Jorin vuoksi.
+
+535
+00:32:33,125 --> 00:32:34,833
+Yhdessä.
+
+536
+00:32:45,833 --> 00:32:48,166
+Tahdon palata.
+- Samoin. Mutta jatka.
+
+537
+00:32:52,333 --> 00:32:54,707
+Me onnistuimme! Lähdimme kotoa!
+
+538
+00:32:54,708 --> 00:32:57,040
+Näetkö? Lampaat pystyvät kyllä.
+
+539
+00:32:57,041 --> 00:32:59,583
+Pystymme mihin vain!
+
+540
+00:33:01,291 --> 00:33:03,624
+Enää kolme kilsaa jäljellä.
+
+541
+00:33:03,625 --> 00:33:05,915
+Ei ongelmaa.
+
+542
+00:33:05,916 --> 00:33:08,041
+Ja montako kilsaa tuo oli?
+
+543
+00:33:08,666 --> 00:33:10,499
+Pakko myöntää, olen vaikuttunut.
+
+544
+00:33:10,500 --> 00:33:14,957
+Et ratkaise arvoitusta,
+mutta ainakin saat nähdä vähän maailmaa.
+
+545
+00:33:14,958 --> 00:33:17,165
+Tietysti ratkaisen arvoituksen.
+
+546
+00:33:17,166 --> 00:33:19,250
+Ratkaisen sen iltaan mennessä.
+
+547
+00:33:19,666 --> 00:33:22,457
+Jori luki meille kymmenittäin iltasatuja.
+
+548
+00:33:22,458 --> 00:33:25,290
+Niissä on hyvin yksinkertaiset säännöt.
+
+549
+00:33:25,291 --> 00:33:26,583
+Mauno?
+
+550
+00:33:27,333 --> 00:33:29,332
+Häh? Ai, yksi!
+
+551
+00:33:29,333 --> 00:33:31,665
+Murhaaja palaa aina rikospaikalle.
+
+552
+00:33:31,666 --> 00:33:34,790
+Kaksi!
+- Poliisi epäilee aina kulkuria.
+
+553
+00:33:34,791 --> 00:33:37,374
+Aina ne jauhaa kulkureista. Kolme.
+
+554
+00:33:37,375 --> 00:33:40,790
+Odottamaton henkilö saapuu
+ja muuttaa kaiken.
+
+555
+00:33:40,791 --> 00:33:41,749
+Neljä!
+
+556
+00:33:41,750 --> 00:33:44,707
+Uhri on tärkein johtolanka.
+
+557
+00:33:44,708 --> 00:33:47,415
+Varsin yksinkertaista.
+
+558
+00:33:47,416 --> 00:33:49,499
+Mutta saat huomata,
+
+559
+00:33:49,500 --> 00:33:52,665
+että tosimaailma
+on mutkikkaampi kuin kirja.
+
+560
+00:33:52,666 --> 00:33:53,999
+Mistä puheen ollen…
+
+561
+00:33:54,000 --> 00:33:56,665
+Tervetuloa Notkoon.
+
+562
+00:33:56,666 --> 00:33:58,374
+Mikä tuo on?
+
+563
+00:33:58,375 --> 00:34:01,457
+Kirkko, missä henkilö
+nimeltä "Jumala" asuu.
+
+564
+00:34:01,458 --> 00:34:02,624
+Kuka on Jumala?
+
+565
+00:34:02,625 --> 00:34:04,082
+Se on vähän sekava juttu.
+
+566
+00:34:04,083 --> 00:34:05,707
+Jumala on paimen.
+
+567
+00:34:05,708 --> 00:34:07,290
+Voisiko olla meidän paimenemme?
+
+568
+00:34:07,291 --> 00:34:10,040
+Ei, koska hän on myös karitsa.
+
+569
+00:34:10,041 --> 00:34:10,957
+Mitä?
+
+570
+00:34:10,958 --> 00:34:12,832
+Ja lisäksi näkymätön.
+
+571
+00:34:12,833 --> 00:34:14,249
+Ja tehty leivästä.
+
+572
+00:34:14,250 --> 00:34:15,749
+Ja hän tuo valon.
+
+573
+00:34:15,750 --> 00:34:17,874
+Valon? Niin kuin lamppu?
+
+574
+00:34:17,875 --> 00:34:19,040
+Niin.
+
+575
+00:34:19,041 --> 00:34:22,707
+Eli Jumala on
+leivästä tehty karitsalamppu?
+
+576
+00:34:22,708 --> 00:34:24,666
+Niin. Ja hänet syödään sunnuntaisin.
+
+577
+00:34:25,625 --> 00:34:27,249
+Jumala parka.
+
+578
+00:34:27,250 --> 00:34:28,749
+Tiedän, että minun piti palata,
+
+579
+00:34:28,750 --> 00:34:32,499
+mutta taisin törmätä ekaan
+pikkukylän murhamysteeriini.
+
+580
+00:34:32,500 --> 00:34:34,499
+Nyt pitää lopettaa.
+
+581
+00:34:34,500 --> 00:34:36,499
+Tulkaa. Täältä ne ei näe meitä.
+
+582
+00:34:36,500 --> 00:34:39,040
+Näkevät jo, mutta ketään ei kiinnosta.
+
+583
+00:34:39,041 --> 00:34:41,915
+Sadannen kerran, olette lampaita.
+
+584
+00:34:41,916 --> 00:34:44,249
+Notkon asukkaat.
+
+585
+00:34:44,250 --> 00:34:45,874
+Täällä liikkuu huhuja,
+
+586
+00:34:45,875 --> 00:34:48,915
+että Jori Hakan kuolema oli epäilyttävä.
+
+587
+00:34:48,916 --> 00:34:51,457
+Mutta en saa kommentoida myrkytystä,
+
+588
+00:34:51,458 --> 00:34:52,707
+ennen kuin tutkinta on…
+
+589
+00:34:52,708 --> 00:34:54,583
+Onko Jori murhattu?
+
+590
+00:34:55,500 --> 00:34:56,790
+Pahus.
+
+591
+00:34:56,791 --> 00:34:59,124
+Anteeksi, minkälaista myrkkyä?
+
+592
+00:34:59,125 --> 00:35:00,749
+Kuulkaa.
+
+593
+00:35:00,750 --> 00:35:03,290
+Jori sai myrkkyä nimeltä taksiini.
+
+594
+00:35:03,291 --> 00:35:05,332
+Sitä on marjakuusen marjoissa.
+
+595
+00:35:05,333 --> 00:35:07,625
+Kasvaako niitä täällä?
+
+596
+00:35:09,333 --> 00:35:10,166
+Tuossa.
+
+597
+00:35:12,041 --> 00:35:13,790
+Sitten joku meistä tappoi hänet.
+
+598
+00:35:13,791 --> 00:35:15,207
+Ei. Ei, ei.
+
+599
+00:35:15,208 --> 00:35:18,333
+Se oli hyvin varmasti kulkuri.
+
+600
+00:35:22,625 --> 00:35:24,583
+Mikä noita riivaa?
+
+601
+00:35:44,958 --> 00:35:47,040
+Konstaapeli Teeri?
+
+602
+00:35:47,041 --> 00:35:48,583
+Konstaapeli Teeri.
+
+603
+00:35:49,500 --> 00:35:50,915
+Niin.
+
+604
+00:35:50,916 --> 00:35:53,665
+Kyllä, minä olen.
+
+605
+00:35:53,666 --> 00:35:56,415
+Lydia Harjuketo? Harjuketo ja Blom?
+
+606
+00:35:56,416 --> 00:36:00,165
+Puhuimme. Olen edesmenneen
+Jori Hakan asianajaja.
+
+607
+00:36:00,166 --> 00:36:02,832
+Aivan. Te olette?
+
+608
+00:36:02,833 --> 00:36:05,082
+Rebekka Haapala.
+
+609
+00:36:05,083 --> 00:36:06,875
+Jorin tytär.
+
+610
+00:36:07,458 --> 00:36:10,665
+Oliko hänellä tytär?
+- Onko Jorilla tytär?
+
+611
+00:36:10,666 --> 00:36:15,333
+Odottamaton henkilö saapuu
+ja muuttaa kaiken.
+
+612
+00:36:16,416 --> 00:36:19,707
+Puhelinnumerosi on tuossa
+sivun alalaidassa.
+
+613
+00:36:19,708 --> 00:36:21,707
+Niin osasin soittaa sinulle.
+
+614
+00:36:21,708 --> 00:36:23,374
+Etsivä löytää.
+
+615
+00:36:23,375 --> 00:36:25,165
+Vaikket olekaan etsivä?
+
+616
+00:36:25,166 --> 00:36:26,415
+Tiedän…
+
+617
+00:36:26,416 --> 00:36:30,457
+Löysit paperin siis pöydältä
+pikkuriikkisestä asuntovaunusta.
+
+618
+00:36:30,458 --> 00:36:31,749
+Eikö se ole vain huomaamista?
+
+619
+00:36:31,750 --> 00:36:32,832
+No tuota…
+
+620
+00:36:32,833 --> 00:36:34,582
+Huomasitko asiakirjan siis -
+
+621
+00:36:34,583 --> 00:36:37,290
+toisella kerralla, kun kävit
+herra Hakan asuntovaunussa?
+
+622
+00:36:37,291 --> 00:36:38,499
+Aivan.
+
+623
+00:36:38,500 --> 00:36:42,290
+Piti palata tutkimaan paikka
+perusteellisesti.
+
+624
+00:36:42,291 --> 00:36:45,374
+Eristin sen poliisiteipillä.
+Yllättävän tahmeaa.
+
+625
+00:36:45,375 --> 00:36:47,124
+Ei voisi vähempää kiinnostaa.
+
+626
+00:36:47,125 --> 00:36:49,957
+Luitko paperin? Vilkaisitko edes?
+
+627
+00:36:49,958 --> 00:36:52,124
+En. Ei kuulu minulle.
+
+628
+00:36:52,125 --> 00:36:53,708
+Ehdottomasti kuuluu.
+
+629
+00:36:54,208 --> 00:36:56,207
+Luen testamentin iltapäivällä.
+
+630
+00:36:56,208 --> 00:37:00,290
+Seuraavat henkilöt on nimetty,
+joten pidä huoli, että he ovat paikalla.
+
+631
+00:37:00,291 --> 00:37:04,457
+Pastori Hillilä, Kalle Meronen…
+
+632
+00:37:04,458 --> 00:37:05,915
+Kirjoita muistiin.
+
+633
+00:37:05,916 --> 00:37:09,915
+Pastori Hillilä,
+Kalle Meronen, Elli Pankka,
+
+634
+00:37:09,916 --> 00:37:14,582
+Palvi Lahti, sinä ja Rebekka Haapala.
+
+635
+00:37:14,583 --> 00:37:16,708
+Aion yöpyä Majatalossa.
+
+636
+00:37:17,291 --> 00:37:19,999
+Luen testamentin siellä tasan viideltä.
+
+637
+00:37:20,000 --> 00:37:22,290
+Kello 17.00.
+
+638
+00:37:22,291 --> 00:37:25,624
+Kerroin, että Rebekka asuu Amerikassa -
+
+639
+00:37:25,625 --> 00:37:27,790
+ja täällä hän on, Notkossa,
+
+640
+00:37:27,791 --> 00:37:30,999
+samana päivänä,
+kun kerroit isänsä kuolleen.
+
+641
+00:37:31,000 --> 00:37:34,124
+Eli hän oli maassa jo isänsä kuoliniltana.
+
+642
+00:37:34,125 --> 00:37:35,708
+Mutta sitähän sinä et tajunnut?
+
+643
+00:37:37,000 --> 00:37:38,415
+Juu.
+
+644
+00:37:38,416 --> 00:37:40,916
+En. Juu. Toki tajusin.
+
+645
+00:37:41,333 --> 00:37:43,915
+Eikö tämä olekin ensimmäinen murhasi?
+
+646
+00:37:43,916 --> 00:37:45,458
+Mitä?
+
+647
+00:37:46,000 --> 00:37:47,791
+Luuletko, että minä tapoin hänet?
+
+648
+00:37:51,333 --> 00:37:53,291
+Ai…
+
+649
+00:37:54,041 --> 00:37:57,750
+Siis ensimmäinen murhajuttuni.
+
+650
+00:37:58,500 --> 00:38:02,165
+Kaikki lepää nyt harteillasi, konstaapeli.
+
+651
+00:38:02,166 --> 00:38:03,290
+Nähdään viideltä.
+
+652
+00:38:03,291 --> 00:38:05,249
+Nähdään viideltä, neiti Harjuketo.
+
+653
+00:38:05,250 --> 00:38:06,541
+Rouva Harjuketo.
+
+654
+00:38:08,791 --> 00:38:11,290
+Meidän pitää kuulla testamentti.
+
+655
+00:38:11,291 --> 00:38:13,207
+{\an8}Tämä on Majatalo.
+
+656
+00:38:13,208 --> 00:38:15,457
+Syön täällä toisinaan kukkia.
+
+657
+00:38:15,458 --> 00:38:18,915
+Vaikken ymmärrä,
+miten tämä liittyy mihinkään.
+
+658
+00:38:18,916 --> 00:38:21,415
+Iltasaduissa on aina testamentti,
+
+659
+00:38:21,416 --> 00:38:25,291
+ja edunsaajat ovat aina epäiltyjä.
+
+660
+00:38:27,125 --> 00:38:28,624
+Haluan nähdä niiden naamat.
+
+661
+00:38:28,625 --> 00:38:29,540
+Miksi?
+
+662
+00:38:29,541 --> 00:38:33,290
+Koska sen näkee silmistä,
+kun ihminen valehtelee.
+
+663
+00:38:33,291 --> 00:38:34,541
+Täsmälleen.
+
+664
+00:38:36,166 --> 00:38:37,874
+Mauno, yritämme kurkkia tästä.
+
+665
+00:38:37,875 --> 00:38:39,707
+Katso, löytyykö parempaa ikkunaa.
+
+666
+00:38:39,708 --> 00:38:40,791
+Hoidan.
+
+667
+00:38:41,458 --> 00:38:42,791
+Aloitetaanko?
+
+668
+00:38:45,125 --> 00:38:47,540
+Mitä tiedät biologisesta äidistäsi?
+
+669
+00:38:47,541 --> 00:38:51,374
+Isä kirjoitti,
+että äiti kuoli synnytykseeni.
+
+670
+00:38:51,375 --> 00:38:54,250
+Isä oli hyvin nuori, pelokas ja köyhä,
+
+671
+00:38:55,750 --> 00:38:57,708
+joten hän antoi minut adoptoitavaksi.
+
+672
+00:38:58,250 --> 00:38:59,458
+Itse asiassa seurakunnalle.
+
+673
+00:39:02,291 --> 00:39:04,415
+Minullakin on yksi kysymys.
+
+674
+00:39:04,416 --> 00:39:06,166
+Anteeksi, kuoma.
+
+675
+00:39:06,625 --> 00:39:08,290
+Hauska nähdä.
+
+676
+00:39:08,291 --> 00:39:10,166
+Tajusin juuri,
+
+677
+00:39:10,916 --> 00:39:12,290
+ihan itsekseni,
+
+678
+00:39:12,291 --> 00:39:16,290
+ettet voinut ehtiä tänne
+tänään Amerikasta.
+
+679
+00:39:16,291 --> 00:39:19,624
+Joten olit siis jo maassa eilen,
+
+680
+00:39:19,625 --> 00:39:22,708
+kun Jori murhattiin.
+
+681
+00:39:23,166 --> 00:39:26,832
+En syytä sinua mitenkään.
+Mutta eikö totta?
+
+682
+00:39:26,833 --> 00:39:28,874
+Tosi fiksua, etsivä.
+
+683
+00:39:28,875 --> 00:39:31,332
+En ole etsivä.
+
+684
+00:39:31,333 --> 00:39:33,249
+Olen vain konstaapeli,
+
+685
+00:39:33,250 --> 00:39:36,749
+mutta etsivä löytää.
+
+686
+00:39:36,750 --> 00:39:39,750
+Tuota, minä…
+
+687
+00:39:40,541 --> 00:39:41,832
+Olin tässä maassa,
+
+688
+00:39:41,833 --> 00:39:44,041
+mutten ole käynyt Notkossa
+ennen kuin tänään.
+
+689
+00:39:44,625 --> 00:39:46,582
+Jatkokysymys:
+
+690
+00:39:46,583 --> 00:39:49,583
+Onko sinulla poikaystävää?
+
+691
+00:39:50,333 --> 00:39:51,999
+Aika epätoivoista.
+
+692
+00:39:52,000 --> 00:39:54,082
+Mitä? Se on peruskysymys,
+
+693
+00:39:54,083 --> 00:39:57,915
+jonka jokainen tutkija
+kysyisi tässä tilanteessa.
+
+694
+00:39:57,916 --> 00:40:01,041
+Hassua, että kysyit. Erosimme juuri.
+
+695
+00:40:01,583 --> 00:40:02,791
+Voi ei.
+
+696
+00:40:04,125 --> 00:40:05,749
+Näetkö saman kuin minä?
+
+697
+00:40:05,750 --> 00:40:06,957
+Tytär.
+
+698
+00:40:06,958 --> 00:40:09,207
+Kasvoiltaan iloinen.
+
+699
+00:40:09,208 --> 00:40:12,124
+Mutta silmissä on pelkoa.
+
+700
+00:40:12,125 --> 00:40:14,999
+Mihin aikaan tarkalleen saavuit eilen?
+
+701
+00:40:15,000 --> 00:40:17,541
+Iltaseitsemän maissa.
+
+702
+00:40:19,416 --> 00:40:20,333
+Olen pahoillani.
+
+703
+00:40:22,041 --> 00:40:24,915
+Ei mitään.
+- Minun piti tavata isä tänään.
+
+704
+00:40:24,916 --> 00:40:26,291
+Tämä ottaa koville.
+
+705
+00:40:28,125 --> 00:40:30,332
+Kiitos.
+- Jatka vain.
+
+706
+00:40:30,333 --> 00:40:32,290
+Kiitos.
+
+707
+00:40:32,291 --> 00:40:34,125
+Ei tarvitse. Paljon kiitoksia.
+
+708
+00:40:34,625 --> 00:40:38,166
+Ikkuna. Jos olisin ikkuna, missä olisin?
+
+709
+00:40:40,083 --> 00:40:41,374
+Vihanneksia.
+
+710
+00:40:41,375 --> 00:40:44,458
+Hei vain. Pikkuisen porkkanaa!
+
+711
+00:40:45,541 --> 00:40:49,250
+Voi ei. Ei, ei, ei.
+
+712
+00:40:49,666 --> 00:40:53,582
+Hän sanoi myös,
+että minulla on kaksoisveli,
+
+713
+00:40:53,583 --> 00:40:55,665
+joka lähetettiin kai Etelä-Afrikkaan.
+
+714
+00:40:55,666 --> 00:40:58,958
+Kadonnut eteläafrikkalaisveli.
+Silkkaa kultaa.
+
+715
+00:40:59,541 --> 00:41:01,416
+Ja kuka sinä olet?
+
+716
+00:41:01,916 --> 00:41:05,040
+Eero Mattila. Teen lehtijuttua…
+
+717
+00:41:05,041 --> 00:41:06,416
+Ei väliä. Ulos.
+
+718
+00:41:07,708 --> 00:41:09,707
+Oikeastaan toimittajana minulla…
+
+719
+00:41:09,708 --> 00:41:13,125
+Ei ole minkäänlaisia oikeuksia. Häivy.
+
+720
+00:41:13,541 --> 00:41:14,457
+Hyvä on.
+
+721
+00:41:14,458 --> 00:41:16,290
+Eikä kurkita.
+
+722
+00:41:16,291 --> 00:41:18,415
+Menen presidenttisviittiin,
+
+723
+00:41:18,416 --> 00:41:20,999
+nautin kaikesta luksuksesta.
+
+724
+00:41:21,000 --> 00:41:22,208
+Lili!
+
+725
+00:41:22,708 --> 00:41:24,499
+Lili, Sebastian!
+
+726
+00:41:24,500 --> 00:41:25,833
+Apua!
+
+727
+00:41:28,083 --> 00:41:32,707
+Herra Van Vuuren,
+tässä Lydia Harjuketo. Kuuluuko?
+
+728
+00:41:32,708 --> 00:41:34,457
+Jaa. <i>Oikein hyvä yhteys, kiitos.</i>
+
+729
+00:41:34,458 --> 00:41:37,415
+Herra Van Vuuren on herra Hakan poika.
+
+730
+00:41:37,416 --> 00:41:41,999
+Hän asuu Etelä-Afrikassa
+ja osallistuu etänä.
+
+731
+00:41:42,000 --> 00:41:45,457
+Herra Haka lähetti minulle
+testamenttinsa -
+
+732
+00:41:45,458 --> 00:41:47,250
+pari kuukautta sitten.
+
+733
+00:41:48,916 --> 00:41:52,582
+Mutta se ei ole testamentti,
+jonka luen tänään.
+
+734
+00:41:52,583 --> 00:41:53,666
+Hän laati uuden.
+
+735
+00:41:54,083 --> 00:41:55,707
+Löysin sen.
+- Hys.
+
+736
+00:41:55,708 --> 00:41:58,165
+Päivätty kolme päivää ennen kuolemaa.
+
+737
+00:41:58,166 --> 00:42:02,250
+Tietysti. Aina on uusi testamentti.
+
+738
+00:42:02,750 --> 00:42:07,000
+"Tämä on Jori Hakan testamentti.
+
+739
+00:42:07,541 --> 00:42:10,207
+Olen koonnut teidät seitsemän tänne,
+
+740
+00:42:10,208 --> 00:42:14,082
+koska jokaisen kanssa
+on keskeneräisiä asioita.
+
+741
+00:42:14,083 --> 00:42:17,290
+Olen tehnyt vääryyttä joillekin teistä,
+
+742
+00:42:17,291 --> 00:42:20,375
+ja jotkut teistä taas minulle.
+
+743
+00:42:20,875 --> 00:42:24,249
+Joukossanne nyt, tässä huoneessa,
+
+744
+00:42:24,250 --> 00:42:27,832
+on narri, huono paimen,
+
+745
+00:42:27,833 --> 00:42:31,332
+kevätlammas, talvilammas,
+
+746
+00:42:31,333 --> 00:42:33,250
+uhri -
+
+747
+00:42:34,291 --> 00:42:35,707
+ja kaksi murhaajaa."
+
+748
+00:42:35,708 --> 00:42:37,040
+Kaksi murhaajaako?
+
+749
+00:42:37,041 --> 00:42:38,499
+Minäkö muka huono paimen?
+
+750
+00:42:38,500 --> 00:42:39,707
+Ratko nyt sitten tuo.
+
+751
+00:42:39,708 --> 00:42:41,332
+Narri ainakin on selvä.
+
+752
+00:42:41,333 --> 00:42:43,707
+Kasvatan hienoimpia ranskalaisia lampaita.
+
+753
+00:42:43,708 --> 00:42:45,415
+Miten niin uusi uhri?
+
+754
+00:42:45,416 --> 00:42:46,915
+Joku meistä.
+
+755
+00:42:46,916 --> 00:42:48,582
+Joku meistä voi olla murhaaja.
+
+756
+00:42:48,583 --> 00:42:52,666
+Kuulustelisit pelkän flirttailun sijaan.
+
+757
+00:42:53,291 --> 00:42:54,832
+Kaksi murhaajaa?
+
+758
+00:42:54,833 --> 00:42:56,666
+Talvilammas.
+
+759
+00:42:59,708 --> 00:43:01,582
+"Tämän minä jätän teille."
+
+760
+00:43:01,583 --> 00:43:02,666
+Hei! Hei!
+
+761
+00:43:05,083 --> 00:43:08,332
+"Tämän minä jätän teille.
+
+762
+00:43:08,333 --> 00:43:12,457
+Tiedon, että näin keitä todella olette.
+
+763
+00:43:12,458 --> 00:43:15,708
+Ja useimmat teistä eivät muuta saa."
+
+764
+00:43:16,250 --> 00:43:18,624
+Miten niin ei saa muuta?
+
+765
+00:43:18,625 --> 00:43:20,040
+Mitä sitten teen täällä?
+
+766
+00:43:20,041 --> 00:43:23,582
+Istu alas ja ole hiljaa, Palvi.
+- En taatusti.
+
+767
+00:43:23,583 --> 00:43:25,290
+Ei, se on testamentin seuraava rivi.
+
+768
+00:43:25,291 --> 00:43:27,125
+"Istu alas ja ole hiljaa, Palvi."
+
+769
+00:43:28,208 --> 00:43:32,082
+Jori taisi tuntea sinut aika hyvin.
+
+770
+00:43:32,083 --> 00:43:33,582
+Yritä käyttäytyä.
+
+771
+00:43:33,583 --> 00:43:34,957
+Tuki turpasi.
+- Tuki itse.
+
+772
+00:43:34,958 --> 00:43:37,499
+"Pojalleni Peter Van Vuurenille -
+
+773
+00:43:37,500 --> 00:43:41,915
+100 hehtaaria
+Kalle Meroselle vuokrattua maata."
+
+774
+00:43:41,916 --> 00:43:43,457
+<i>Kovin ystävällistä.</i>
+
+775
+00:43:43,458 --> 00:43:45,707
+"Tyttärelleni Rebekka Haapalalle,
+
+776
+00:43:45,708 --> 00:43:49,665
+viereiset sata hehtaaria,
+jota kutsun kodikseni,
+
+777
+00:43:49,666 --> 00:43:55,124
+mukaan lukien asuntovaununi,
+latoni ja lampaani."
+
+778
+00:43:55,125 --> 00:44:00,124
+Aiemmassa testamentissa herra Haka
+jätti loput varansa hyväntekeväisyyteen,
+
+779
+00:44:00,125 --> 00:44:02,000
+Eläintensuojeluyhdistykselle.
+
+780
+00:44:02,833 --> 00:44:06,374
+Mutta uudessa testamentissa lukee näin:
+
+781
+00:44:06,375 --> 00:44:11,749
+"Jätän lopun omaisuuteni
+tyttärelleni Rebekka Haapalalle."
+
+782
+00:44:11,750 --> 00:44:14,374
+Älä innostu liikaa.
+Ukolla ei ollut mitään.
+
+783
+00:44:14,375 --> 00:44:19,290
+Itse asiassa on yksi
+epäkuntoinen lannanlevitin,
+
+784
+00:44:19,291 --> 00:44:22,332
+kolme ennalta ostettua lannoitesäkkiä."
+
+785
+00:44:22,333 --> 00:44:23,915
+Kovin hyödyllisiä.
+
+786
+00:44:23,916 --> 00:44:26,540
+"Ja yksi korkeakorkoinen säästötili,
+
+787
+00:44:26,541 --> 00:44:29,625
+jolle on talletettu noin
+30 miljoonaa dollaria."
+
+788
+00:44:30,625 --> 00:44:32,290
+<i>Sanoiko hän 30 miljoonaa?</i>
+
+789
+00:44:32,291 --> 00:44:35,166
+Siinä siis motiivi.
+
+790
+00:44:35,875 --> 00:44:37,832
+30 miljoonaa? Miten?
+
+791
+00:44:37,833 --> 00:44:44,249
+Kaksi vuotta sitten Jori kehitti lääkkeen
+lammastautiin nimeltä orf.
+
+792
+00:44:44,250 --> 00:44:46,290
+Orf?
+- Orf.
+
+793
+00:44:46,291 --> 00:44:49,124
+Eli se hänen sininen mönjänsäkö
+oli lääkettä?
+
+794
+00:44:49,125 --> 00:44:53,374
+Hän myi patentin
+suurelle maatalouskonsernille ja sai…
+
+795
+00:44:53,375 --> 00:44:55,333
+30 miljoonaa.
+
+796
+00:44:55,791 --> 00:44:56,750
+Orfia vastaan.
+
+797
+00:45:08,916 --> 00:45:10,582
+Joku rymyää tuolla.
+- Tim.
+
+798
+00:45:10,583 --> 00:45:12,916
+Mene nappaamaan. Mene!
+
+799
+00:45:26,000 --> 00:45:28,208
+Hei, hei, hei!
+
+800
+00:45:38,208 --> 00:45:40,041
+Ei hätää.
+
+801
+00:45:41,041 --> 00:45:42,458
+Se palaa!
+
+802
+00:45:57,916 --> 00:45:59,666
+NEITI REBEKKA HAAPALA
+
+803
+00:46:02,291 --> 00:46:03,832
+Aja se ulos!
+
+804
+00:46:03,833 --> 00:46:05,000
+Ulos!
+
+805
+00:46:09,458 --> 00:46:13,041
+Lili, löysin ikkunan.
+
+806
+00:46:14,125 --> 00:46:16,082
+Ole hyvä. Hyvä poika.
+
+807
+00:46:16,083 --> 00:46:17,333
+Kas niin.
+
+808
+00:46:20,625 --> 00:46:24,165
+Lampaat mellastavat,
+jos niillä ei ole paimenta.
+
+809
+00:46:24,166 --> 00:46:25,083
+Varsinkin tuo iso.
+
+810
+00:46:26,625 --> 00:46:28,749
+Jori hankki sen tivolista.
+
+811
+00:46:28,750 --> 00:46:30,583
+Se on käytännössä villi.
+
+812
+00:46:35,708 --> 00:46:39,415
+Tim, haluaisitko antaa lausunnon?
+
+813
+00:46:39,416 --> 00:46:42,207
+En kommentoi. Ja sano konstaapeliksi.
+
+814
+00:46:42,208 --> 00:46:44,332
+Entä johtolangat? Onko niitä?
+
+815
+00:46:44,333 --> 00:46:48,333
+Niitä piisaa. Homma on täysin hallussa.
+
+816
+00:46:49,666 --> 00:46:53,791
+Minä tarvitsen jutun. Sinä pidätyksen.
+
+817
+00:46:54,583 --> 00:46:58,124
+Eikö olisi kiva saada
+kerrankin kunnioitusta?
+
+818
+00:46:58,125 --> 00:47:00,791
+Minua kunnioitetaan.
+
+819
+00:47:02,500 --> 00:47:05,666
+Jos ratkaiset tämän,
+sinusta tulee sankari.
+
+820
+00:47:09,000 --> 00:47:10,750
+Tehdään yhteistyötä.
+
+821
+00:47:12,291 --> 00:47:13,457
+Voin auttaa.
+
+822
+00:47:13,458 --> 00:47:16,290
+Kun hinausauto haki autoni eilen,
+
+823
+00:47:16,291 --> 00:47:19,666
+näin taskulampun valon
+Jorin pellolla noin kello 21.
+
+824
+00:47:20,208 --> 00:47:22,540
+Vai niin.
+
+825
+00:47:22,541 --> 00:47:24,249
+Täsmää.
+
+826
+00:47:24,250 --> 00:47:28,291
+Jori kuoli oikeuslääkärin mukaan
+kello 20 - 23.
+
+827
+00:47:30,541 --> 00:47:33,999
+Etkö ottanutkin kuvia ruumiista?
+Koska minun olisi pitänyt.
+
+828
+00:47:34,000 --> 00:47:38,000
+Otin tosi monta kuvaa.
+Lähetän kaikki sinulle.
+
+829
+00:47:39,875 --> 00:47:41,041
+Mitäs sanot?
+
+830
+00:47:41,666 --> 00:47:43,750
+Konstaapeli Sankari?
+
+831
+00:47:48,791 --> 00:47:52,540
+Sanoi sitten, että narri,
+uhri, kaksi murhaajaa…
+
+832
+00:47:52,541 --> 00:47:54,082
+Epäilen yhä sisäkköä.
+
+833
+00:47:54,083 --> 00:47:55,957
+Ei ole mitään sisäkköä!
+
+834
+00:47:55,958 --> 00:48:00,083
+Sisäkkö ei ollut syyllinen
+edes siinä tarinassa. Unohda sisäköt!
+
+835
+00:48:00,833 --> 00:48:02,082
+Lampaat.
+
+836
+00:48:02,083 --> 00:48:05,957
+Eikö Kalle olekin
+meidän uusi paimen, Lili?
+
+837
+00:48:05,958 --> 00:48:06,915
+Tietysti.
+
+838
+00:48:06,916 --> 00:48:09,874
+Pitää vain odottaa, että mysteeri ratkeaa.
+
+839
+00:48:09,875 --> 00:48:10,957
+Yksi kysymys.
+
+840
+00:48:10,958 --> 00:48:12,999
+Mikset ole ratkaissut sitä, Lili?
+
+841
+00:48:13,000 --> 00:48:15,374
+Ratkaiset aina
+rikostarinoiden mysteeritkin.
+
+842
+00:48:15,375 --> 00:48:21,958
+Tiedän, mutta tosimaailma
+on mutkikkaampi kuin kirja.
+
+843
+00:48:22,625 --> 00:48:24,415
+Kirja.
+
+844
+00:48:24,416 --> 00:48:26,665
+Siinä voisi olla ratkaisu.
+
+845
+00:48:26,666 --> 00:48:29,332
+Pitää vain päästä Jorin asuntovaunuun ja…
+
+846
+00:48:29,333 --> 00:48:30,958
+Katsokaa.
+
+847
+00:48:32,541 --> 00:48:34,958
+Onko tuo Rebekka?
+
+848
+00:48:36,083 --> 00:48:38,000
+Mitä hän etsii?
+
+849
+00:49:04,583 --> 00:49:06,790
+Kukas sinä olet?
+
+850
+00:49:06,791 --> 00:49:08,874
+Onko tuo Jorin tytär?
+
+851
+00:49:08,875 --> 00:49:11,999
+Hän tuoksuu isältään. Muttei näytä tältä.
+
+852
+00:49:12,000 --> 00:49:14,082
+On varmaan syntynyt talvella.
+
+853
+00:49:14,083 --> 00:49:16,332
+Siksi Jori halusi hänestä eroon.
+
+854
+00:49:16,333 --> 00:49:19,999
+Tietysti. Talvilammas. Se todistaa kaiken.
+
+855
+00:49:20,000 --> 00:49:21,249
+Rebekka on syyllinen!
+
+856
+00:49:21,250 --> 00:49:22,457
+Murhaaja!
+
+857
+00:49:22,458 --> 00:49:23,957
+Emme voi tietää!
+
+858
+00:49:23,958 --> 00:49:25,790
+Arvattu!
+- Tietty se oli talvilammas.
+
+859
+00:49:25,791 --> 00:49:28,415
+Epäilin heti Rebekkaa.
+Hän tietää ongelmia.
+
+860
+00:49:28,416 --> 00:49:30,207
+Sanoin sitä alusta asti.
+
+861
+00:49:30,208 --> 00:49:32,083
+Sebastian?
+
+862
+00:49:33,083 --> 00:49:36,707
+Lili, sanoitko jotain
+Jorin asuntovaunusta?
+
+863
+00:49:36,708 --> 00:49:38,791
+Ja kirjasta?
+
+864
+00:49:39,375 --> 00:49:40,540
+{\an8}RIKOSPAIKKA
+
+865
+00:49:40,541 --> 00:49:44,124
+Jorin viimeisenä lukema kirja
+opetti karsimaan epäiltyjä.
+
+866
+00:49:44,125 --> 00:49:47,207
+Kirja pitää toimittaa sille poliisille.
+
+867
+00:49:47,208 --> 00:49:49,790
+Jos käy tuuri,
+hän lukee sen ja oppii jotain.
+
+868
+00:49:49,791 --> 00:49:52,749
+Minä! Minä! Minä!
+- Ei, Sara!
+
+869
+00:49:52,750 --> 00:49:54,832
+Haluan olla etsivä! Anna minun!
+
+870
+00:49:54,833 --> 00:49:58,749
+Hyvä on.
+Etsi siis se Jorin aloittama kirja.
+
+871
+00:49:58,750 --> 00:50:01,040
+Luku keinoista,
+motiivista ja tilaisuudesta.
+
+872
+00:50:01,041 --> 00:50:03,082
+Yksi kysymys. Mikä on luku?
+
+873
+00:50:03,083 --> 00:50:03,999
+Ei väliä.
+
+874
+00:50:04,000 --> 00:50:05,749
+Etsi kirja, jonka kannessa on juna.
+
+875
+00:50:05,750 --> 00:50:07,415
+Yksi kysymys. Mikä on juna?
+
+876
+00:50:07,416 --> 00:50:09,040
+Pitkä jono vaunuja.
+
+877
+00:50:09,041 --> 00:50:10,457
+Yksi kysymys.
+- Hetkinen.
+
+878
+00:50:10,458 --> 00:50:11,874
+Villasilmä, mitä sinä teet?
+
+879
+00:50:11,875 --> 00:50:13,082
+Loitommalle.
+
+880
+00:50:13,083 --> 00:50:15,833
+Etsin kirjan tarkan hajuaistini avulla.
+
+881
+00:50:17,833 --> 00:50:20,791
+Löytyi tomaatteja. Syökää pois.
+
+882
+00:50:22,041 --> 00:50:24,290
+Villasilmä, kaikki luottavat sinuun.
+
+883
+00:50:24,291 --> 00:50:25,874
+Eipäs luoteta.
+
+884
+00:50:25,875 --> 00:50:28,707
+Eli viimeinen kirja, johon Jori koski?
+
+885
+00:50:28,708 --> 00:50:30,124
+Ei, tuo on porkkana.
+
+886
+00:50:30,125 --> 00:50:32,375
+Hyvänen aika.
+- Saatan syödä sen myöhemmin.
+
+887
+00:50:35,916 --> 00:50:37,040
+101 TYHMÄÄ LAMMASVITSIÄ
+
+888
+00:50:37,041 --> 00:50:39,207
+Tätäkö etsitte?
+
+889
+00:50:39,208 --> 00:50:40,207
+Ei!
+
+890
+00:50:40,208 --> 00:50:41,832
+Entäs tämä?
+
+891
+00:50:41,833 --> 00:50:42,832
+MURHA RISTEYKSESSÄ
+
+892
+00:50:42,833 --> 00:50:45,749
+Se on se! Villasilmä, löysit sen!
+
+893
+00:50:45,750 --> 00:50:47,165
+No tietysti.
+
+894
+00:50:47,166 --> 00:50:48,915
+Lili, otaksun?
+
+895
+00:50:48,916 --> 00:50:51,916
+Olenhan kuitenkin lammasetsivä.
+
+896
+00:50:55,375 --> 00:50:56,624
+KUVATODISTEET
+
+897
+00:50:56,625 --> 00:50:58,040
+LÄHETTÄJÄ: EERO MATTILA
+
+898
+00:50:58,041 --> 00:51:00,083
+HEI, TIM, TÄSSÄ OTTAMANI KUVAT.
+
+899
+00:51:09,791 --> 00:51:12,458
+POLIISIASEMA
+
+900
+00:51:25,833 --> 00:51:27,166
+MURHA RISTEYKSESSÄ
+
+901
+00:51:38,125 --> 00:51:40,749
+Täällä on mukavaa.
+
+902
+00:51:40,750 --> 00:51:42,583
+Mutta hieman yksinäistä.
+
+903
+00:51:46,041 --> 00:51:50,333
+Annoin konstaapelille kirjan
+auttamaan tutkinnassa.
+
+904
+00:51:55,583 --> 00:51:57,625
+Mikä on tivoli?
+
+905
+00:51:58,125 --> 00:52:00,708
+Ei mikään. Palaa laumaasi.
+
+906
+00:52:01,375 --> 00:52:03,416
+Meidän laumaamme.
+
+907
+00:52:08,291 --> 00:52:10,499
+Se on musiikkia.
+
+908
+00:52:10,500 --> 00:52:13,541
+Tivoli on musiikkia.
+
+909
+00:52:14,041 --> 00:52:15,208
+Ja huvilaitteita.
+
+910
+00:52:16,666 --> 00:52:21,915
+Lapset silittivät
+ja ruokkivat minua joka päivä.
+
+911
+00:52:21,916 --> 00:52:24,082
+Se oli ihanaa.
+
+912
+00:52:24,083 --> 00:52:26,875
+Kunnes kasvoin liian isoksi.
+
+913
+00:52:27,541 --> 00:52:30,415
+Ja sitten kun tuli yö,
+
+914
+00:52:30,416 --> 00:52:34,083
+tivolin miehet tulivat
+ja johdattivat minut kehään.
+
+915
+00:52:35,666 --> 00:52:39,375
+Ja kehässä oli koira.
+
+916
+00:52:41,291 --> 00:52:43,500
+Meidän piti taistella.
+
+917
+00:52:46,125 --> 00:52:48,500
+Kunnes olin verillä.
+
+918
+00:52:50,541 --> 00:52:52,708
+Sitten yhtenä yönä -
+
+919
+00:52:53,416 --> 00:52:55,333
+<i>Jori löysi minut.</i>
+
+920
+00:53:07,625 --> 00:53:11,583
+Hän maksoi heille ja vei minut pois.
+
+921
+00:53:14,250 --> 00:53:18,583
+Sellainen on tivoli.
+
+922
+00:53:21,458 --> 00:53:24,957
+Miten päädyit niin kamalaan paikkaan?
+
+923
+00:53:24,958 --> 00:53:26,791
+Mikset ollut laumasi luona?
+
+924
+00:53:27,625 --> 00:53:31,750
+Eikö suuri lammasetsivä Lili
+ole jo hoksannut selitystä?
+
+925
+00:53:34,083 --> 00:53:35,790
+Olit siis talvi…
+
+926
+00:53:35,791 --> 00:53:40,791
+Talvilammas haluaa lähteä
+ennemmin tai myöhemmin.
+
+927
+00:53:57,291 --> 00:54:00,000
+Siinähän sinä olet!
+
+928
+00:54:01,500 --> 00:54:03,749
+Toivottavasti sinulla on nälkä, Tim.
+
+929
+00:54:03,750 --> 00:54:05,541
+Onko?
+
+930
+00:54:06,958 --> 00:54:08,749
+Haloo?
+
+931
+00:54:08,750 --> 00:54:14,583
+Aina kun jutussa
+tapahtuu jotain merkittävää,
+
+932
+00:54:15,166 --> 00:54:17,041
+nuo ovat paikalla.
+
+933
+00:54:22,708 --> 00:54:24,208
+Olet seonnut.
+
+934
+00:54:24,750 --> 00:54:27,499
+Pääsemättä puusta pitkään!
+
+935
+00:54:27,500 --> 00:54:31,250
+Jotain olen saanut aikaan.
+
+936
+00:54:32,125 --> 00:54:35,915
+"Kuka tappoi Jorin?"
+
+937
+00:54:35,916 --> 00:54:37,790
+{\an8}Testamentissa nimetään viisi epäiltyä.
+
+938
+00:54:37,791 --> 00:54:41,707
+Jorin tappaja tarvitsi kolme asiaa.
+
+939
+00:54:41,708 --> 00:54:45,749
+Keinon, motiivin ja tilaisuuden.
+
+940
+00:54:45,750 --> 00:54:48,499
+Se toimi! Hän luki kirjan!
+
+941
+00:54:48,500 --> 00:54:51,124
+Käsitellään ne yksitellen.
+
+942
+00:54:51,125 --> 00:54:54,665
+Keino: taksiini marjakuusen marjoista.
+
+943
+00:54:54,666 --> 00:54:57,624
+Marjakuusia on ympäri kirkkomaata.
+
+944
+00:54:57,625 --> 00:54:59,915
+Kaikilla oli keino.
+
+945
+00:54:59,916 --> 00:55:02,624
+{\an8}Motiivi: Miksi surmata Jori?
+
+946
+00:55:02,625 --> 00:55:04,582
+Rebekalla on selkein motiivi.
+
+947
+00:55:04,583 --> 00:55:06,665
+Mutta muillakin voi olla syy.
+
+948
+00:55:06,666 --> 00:55:07,541
+Mitä he salailevat?
+
+949
+00:55:08,125 --> 00:55:11,790
+Tilaisuus: Onko kenelläkään heistä alibia?
+
+950
+00:55:11,791 --> 00:55:15,124
+Keino, motiivi, tilaisuus.
+
+951
+00:55:15,125 --> 00:55:20,833
+Se, jolla on kaikki kolme,
+on Notkon myrkyttäjä.
+
+952
+00:55:22,666 --> 00:55:25,957
+Tim. Tuo oli oikeasti tosi fiksua.
+
+953
+00:55:25,958 --> 00:55:28,666
+Joo, no, se vain tavallaan…
+
+954
+00:55:29,958 --> 00:55:31,333
+…tupsahti minulle yöllä.
+
+955
+00:55:32,791 --> 00:55:36,332
+Selvä, aloitetaan.
+
+956
+00:55:36,333 --> 00:55:37,874
+Palvi.
+
+957
+00:55:37,875 --> 00:55:40,291
+{\an8}<i>Ja kuka sinä olet Jorin testamentista?</i>
+
+958
+00:55:40,833 --> 00:55:42,500
+Varmaankin murhaaja.
+
+959
+00:55:43,625 --> 00:55:46,582
+Hän oli kasvissyöjä.
+
+960
+00:55:46,583 --> 00:55:50,624
+Naisen kohdalla se vielä menee.
+Mutta että mies?
+
+961
+00:55:50,625 --> 00:55:52,499
+Vastenmielistä.
+
+962
+00:55:52,500 --> 00:55:53,957
+Elli.
+
+963
+00:55:53,958 --> 00:55:57,665
+Miksi sinulla oli Jorin kirje Rebekalle?
+
+964
+00:55:57,666 --> 00:56:01,957
+<i>Kenties postilaitos
+teki ensi kertaa historiassa virheen.</i>
+
+965
+00:56:01,958 --> 00:56:04,957
+Ja päivää ennen kuin Jori kuoli…
+
+966
+00:56:04,958 --> 00:56:07,665
+Sanoit, että voisit tappaa sen miehen.
+
+967
+00:56:07,666 --> 00:56:09,374
+En ole tappaja, vaan uhri.
+
+968
+00:56:09,375 --> 00:56:10,707
+Ja muuta en sano.
+
+969
+00:56:10,708 --> 00:56:12,124
+Tiedän oikeuteni.
+
+970
+00:56:12,125 --> 00:56:13,540
+Kalle.
+
+971
+00:56:13,541 --> 00:56:15,290
+Sinä aamuna kun löysit Jorin,
+
+972
+00:56:15,291 --> 00:56:17,707
+olit kuulemma viemässä hänelle papereita.
+
+973
+00:56:17,708 --> 00:56:19,665
+Hän purki vuokrasopimukseni.
+
+974
+00:56:19,666 --> 00:56:22,665
+Olin viemässä hänelle vastatarjousta.
+
+975
+00:56:22,666 --> 00:56:24,625
+Mutta se siitä.
+
+976
+00:56:25,041 --> 00:56:29,707
+{\an8}Hetkinen. Miksi Jori sanoi
+sopimuksenne irti?
+
+977
+00:56:29,708 --> 00:56:33,040
+{\an8}Kuulit testamentin.
+Olen kai sitten huono paimen.
+
+978
+00:56:33,041 --> 00:56:34,665
+Hillilä.
+
+979
+00:56:34,666 --> 00:56:36,540
+Jori ei käynyt koskaan kirkossa,
+
+980
+00:56:36,541 --> 00:56:39,874
+mutta tuli yhtäkkiä
+päivää ennen kuolemaansa -
+
+981
+00:56:39,875 --> 00:56:41,291
+ja teki ison lahjoituksen.
+
+982
+00:56:43,583 --> 00:56:45,124
+Miksi?
+
+983
+00:56:45,125 --> 00:56:46,958
+Miksi olen aina alimmainen?
+
+984
+00:56:48,250 --> 00:56:50,040
+Jori kertoi jokin aika sitten,
+
+985
+00:56:50,041 --> 00:56:53,707
+että hänen lapsensa
+adoptoitiin kirkon kautta.
+
+986
+00:56:53,708 --> 00:56:57,582
+<i>Heti kun hän pääsi jaloilleen,
+hän alkoi etsiä heitä.</i>
+
+987
+00:56:57,583 --> 00:57:00,124
+<i>Kirkko ei paljastanut
+heidän olinpaikkaansa.</i>
+
+988
+00:57:00,125 --> 00:57:02,457
+<i>Ilmeisesti se on käytäntönä.</i>
+
+989
+00:57:02,458 --> 00:57:09,540
+Joten hän kysyi, mitä vaatisi,
+että minä hankkisin tiedot hänelle.
+
+990
+00:57:09,541 --> 00:57:13,124
+Se olisi voinut tietää
+papinkaapuni riisumista.
+
+991
+00:57:13,125 --> 00:57:15,375
+Yäk.
+- Se tarkoittaa potkuja.
+
+992
+00:57:16,583 --> 00:57:18,332
+Raha ei ollut minulle.
+
+993
+00:57:18,333 --> 00:57:20,916
+Kirkko on remontin tarpeessa.
+
+994
+00:57:21,833 --> 00:57:25,875
+Jori tarvitsi apua. Käytin sitä hyväkseni.
+
+995
+00:57:26,541 --> 00:57:29,458
+Kalle ei ole huono paimen.
+
+996
+00:57:31,208 --> 00:57:32,415
+Vaan minä.
+
+997
+00:57:32,416 --> 00:57:34,124
+Ja Rebekka.
+
+998
+00:57:34,125 --> 00:57:35,958
+Neiti Haapala.
+
+999
+00:57:36,791 --> 00:57:39,333
+Nautitko kulttuurifestivaalista?
+
+1000
+00:57:41,166 --> 00:57:43,291
+Täysin rinnoin.
+
+1001
+00:57:44,916 --> 00:57:46,499
+Helppoja kysymyksiä.
+
+1002
+00:57:46,500 --> 00:57:51,707
+Missä olit kello 20 - 23 murhailtana?
+
+1003
+00:57:51,708 --> 00:57:54,040
+Lentokenttähotellissa.
+
+1004
+00:57:54,041 --> 00:57:57,040
+Otin huoneen ja katselin TV:tä.
+
+1005
+00:57:57,041 --> 00:57:59,666
+En saanut unta. Tiedäthän aikaeron?
+
+1006
+00:58:00,166 --> 00:58:02,791
+Mitä katsoit?
+
+1007
+00:58:03,625 --> 00:58:06,125
+Ympärivuorokautista uutiskanavaa.
+
+1008
+00:58:06,875 --> 00:58:10,957
+Ympärivuorokautista uutiskanavaa…
+
+1009
+00:58:10,958 --> 00:58:13,707
+Vastaus kirjattu.
+
+1010
+00:58:13,708 --> 00:58:14,999
+Mukavaa päivää, neiti Haapala.
+
+1011
+00:58:15,000 --> 00:58:17,541
+Samoin. Hei.
+
+1012
+00:58:18,458 --> 00:58:20,000
+Vai pitäisikö sanoa neiti Kramppi?
+
+1013
+00:58:26,166 --> 00:58:30,832
+Marilla Kramppi
+on oikea nimesi, eikö vain?
+
+1014
+00:58:30,833 --> 00:58:35,624
+Miksi ihmeessä joku haluaisi
+luopua nimestä Marilla Kramppi?
+
+1015
+00:58:35,625 --> 00:58:38,540
+Ymmärrän. Mutta tarkistin taustat.
+
+1016
+00:58:38,541 --> 00:58:40,915
+Kävi ilmi, että yhdessä vaiheessa -
+
+1017
+00:58:40,916 --> 00:58:42,957
+pidit yhtä tunnetun rikollisen kanssa.
+
+1018
+00:58:42,958 --> 00:58:44,624
+Useita väärennössyytteitä.
+
+1019
+00:58:44,625 --> 00:58:46,290
+Teillä oli jopa yhteinen pankkitili.
+
+1020
+00:58:46,291 --> 00:58:49,249
+En tiedä ketään,
+joka ei katuisi parisuhdetta.
+
+1021
+00:58:49,250 --> 00:58:51,874
+En edes tiennyt. Ja siitä on kolme vuotta.
+
+1022
+00:58:51,875 --> 00:58:54,415
+Aivan. Ei siis erityisen tuore ero.
+
+1023
+00:58:54,416 --> 00:58:56,624
+Ei oikea nimi.
+- Kuvio hahmottuu.
+
+1024
+00:58:56,625 --> 00:58:58,124
+Kuvio alkaa hahmottua.
+
+1025
+00:58:58,125 --> 00:59:00,457
+Kerrohan.
+
+1026
+00:59:00,458 --> 00:59:02,708
+Oletko käynyt marjakuusten luona kirkolla?
+
+1027
+00:59:03,125 --> 00:59:05,082
+En ikipäivänä.
+
+1028
+00:59:05,083 --> 00:59:09,124
+Entä Jorin tilalla?
+
+1029
+00:59:09,125 --> 00:59:11,166
+Onko tullut käytyä?
+
+1030
+00:59:11,625 --> 00:59:13,291
+Ei ikinä.
+
+1031
+00:59:14,041 --> 00:59:15,790
+Kallella oli vuokrasopimus…
+
+1032
+00:59:15,791 --> 00:59:17,624
+Mutta sitten Elli sanoi…
+
+1033
+00:59:17,625 --> 00:59:18,999
+Miksi Rebekka valehtelee?
+
+1034
+00:59:19,000 --> 00:59:20,749
+Ja mikä on kasvissyöjä?
+
+1035
+00:59:20,750 --> 00:59:22,207
+Miten kaikki nivoutuu?
+
+1036
+00:59:22,208 --> 00:59:24,874
+Mieti, tyhmä lammas, mieti!
+
+1037
+00:59:24,875 --> 00:59:28,249
+Älä mieti niin paljon, Lili.
+Tytär on syyllinen.
+
+1038
+00:59:28,250 --> 00:59:30,582
+Tietysti se oli Rebekka!
+- Totta.
+
+1039
+00:59:30,583 --> 00:59:32,874
+Rebekka on syytön!
+
+1040
+00:59:32,875 --> 00:59:35,415
+Ette tunne häntä. Hän on hyvä.
+
+1041
+00:59:35,416 --> 00:59:39,415
+Tuoksuu ihan Jorilta,
+ja Jori rakasti minua.
+
+1042
+00:59:39,416 --> 00:59:42,415
+Rakasti sinua?
+Kukaan ei rakasta talvilammasta.
+
+1043
+00:59:42,416 --> 00:59:45,040
+Yksi talvilammas puolustaa toista.
+
+1044
+00:59:45,041 --> 00:59:46,624
+Sellaisia ne ovat.
+
+1045
+00:59:46,625 --> 00:59:47,790
+Hetkinen.
+
+1046
+00:59:47,791 --> 00:59:49,207
+Mitä sinä sanoit?
+
+1047
+00:59:49,208 --> 00:59:51,999
+Sanoin, että Jori rakasti minua.
+
+1048
+00:59:52,000 --> 00:59:54,290
+Ei. Ennen sitä.
+
+1049
+00:59:54,291 --> 00:59:57,999
+Sanoit, että Rebekka tuoksuu Jorilta.
+
+1050
+00:59:58,000 --> 01:00:00,249
+Joku sanoi niin aiemmin.
+
+1051
+01:00:00,250 --> 01:00:02,290
+Väärä joku.
+
+1052
+01:00:02,291 --> 01:00:03,208
+Kuka?
+
+1053
+01:00:05,125 --> 01:00:06,415
+Sinä.
+
+1054
+01:00:06,416 --> 01:00:09,749
+Mitä, minäkö? Miten niin minä?
+
+1055
+01:00:09,750 --> 01:00:10,957
+Pilvi teki sen!
+
+1056
+01:00:10,958 --> 01:00:12,832
+Murhaaja!
+
+1057
+01:00:12,833 --> 01:00:16,165
+Ei. Mutta hän on salaillut jotain.
+
+1058
+01:00:16,166 --> 01:00:17,957
+Etkö olekin, Pilvi?
+
+1059
+01:00:17,958 --> 01:00:21,124
+Eilen sanoit,
+että Rebekka tuoksuu Jorilta.
+
+1060
+01:00:21,125 --> 01:00:22,957
+Mutta hän oli niin kaukana,
+
+1061
+01:00:22,958 --> 01:00:25,207
+ettet kerta kaikkiaan
+voinut haistaa häntä.
+
+1062
+01:00:25,208 --> 01:00:28,333
+Paitsi jos Rebekka oli jo ollut täällä.
+
+1063
+01:00:30,458 --> 01:00:33,540
+Mutta se on niin kaunis!
+
+1064
+01:00:33,541 --> 01:00:35,458
+Mikä on kaunis?
+
+1065
+01:00:37,666 --> 01:00:40,416
+Juttu ilman loppua.
+
+1066
+01:00:44,083 --> 01:00:45,332
+Näettekö?
+
+1067
+01:00:45,333 --> 01:00:49,040
+Se on niin kaunis eikä vain pääty koskaan.
+
+1068
+01:00:49,041 --> 01:00:54,082
+Tuntikausia vain tuijottaen
+olen mennyt sitä ympäri ja ympäri.
+
+1069
+01:00:54,083 --> 01:00:55,874
+Pilvi. Pilvi!
+
+1070
+01:00:55,875 --> 01:00:57,833
+Mistä sait sen?
+
+1071
+01:01:00,291 --> 01:01:02,915
+Rebekka oli täällä sinä iltana.
+
+1072
+01:01:02,916 --> 01:01:04,500
+Kun Jori kuoli.
+
+1073
+01:01:07,041 --> 01:01:08,749
+Heräsin nälkäisenä,
+
+1074
+01:01:08,750 --> 01:01:11,207
+joten menin niitylle, ja siellä hän oli.
+
+1075
+01:01:11,208 --> 01:01:12,874
+<i>Hän näki minut ja sanoi:</i>
+
+1076
+01:01:12,875 --> 01:01:14,540
+"Oletpa nätti." Minähän olen.
+
+1077
+01:01:14,541 --> 01:01:16,624
+Olen kaikista kaunein.
+
+1078
+01:01:16,625 --> 01:01:18,332
+Hän silitti minua -
+
+1079
+01:01:18,333 --> 01:01:19,958
+<i>ja juttu putosi maahan, joten…</i>
+
+1080
+01:01:21,250 --> 01:01:25,707
+Päätin, että… Että se kuuluu minulle.
+
+1081
+01:01:25,708 --> 01:01:28,457
+Nytkö meillä on jo juttuja?
+
+1082
+01:01:28,458 --> 01:01:30,832
+Lampailla ei ole juttuja!
+
+1083
+01:01:30,833 --> 01:01:32,790
+Tiedän, mutta…
+
+1084
+01:01:32,791 --> 01:01:34,500
+Sillä ei ole loppua.
+
+1085
+01:01:35,125 --> 01:01:37,124
+Tapaus ratkaistu.
+
+1086
+01:01:37,125 --> 01:01:38,499
+Rebekka on syyllinen.
+
+1087
+01:01:38,500 --> 01:01:39,665
+Murhaaja!
+
+1088
+01:01:39,666 --> 01:01:42,874
+Kimmeltävä hely ei ratkaise mitään.
+
+1089
+01:01:42,875 --> 01:01:45,499
+Ratkaiseepas. Se on todiste.
+
+1090
+01:01:45,500 --> 01:01:48,082
+Todiste mistä?
+
+1091
+01:01:48,083 --> 01:01:50,749
+Hän sanoi poliisille,
+ettei ole käynyt täällä,
+
+1092
+01:01:50,750 --> 01:01:52,624
+vaikka kävi täällä eilen -
+
+1093
+01:01:52,625 --> 01:01:54,832
+ja sinä iltana, kun Jori murhattiin.
+
+1094
+01:01:54,833 --> 01:01:58,332
+Hän on valehtelija, huijari ja talvi…
+
+1095
+01:01:58,333 --> 01:02:00,540
+Mikä?
+
+1096
+01:02:00,541 --> 01:02:01,416
+Sano pois.
+
+1097
+01:02:02,250 --> 01:02:04,374
+Vihasitte häntä alusta asti.
+
+1098
+01:02:04,375 --> 01:02:06,165
+Koko konkkaronkka!
+
+1099
+01:02:06,166 --> 01:02:07,290
+Ja miksi?
+
+1100
+01:02:07,291 --> 01:02:10,041
+Koska hän sattui syntymään talvella.
+
+1101
+01:02:11,333 --> 01:02:14,457
+Mikä karmea rikos!
+
+1102
+01:02:14,458 --> 01:02:15,999
+Etkö ole kuullut?
+
+1103
+01:02:16,000 --> 01:02:17,540
+Kukaan ei kaipaa sinua.
+
+1104
+01:02:17,541 --> 01:02:19,750
+Et ansaitse mitään!
+
+1105
+01:02:21,458 --> 01:02:26,124
+Nämä sanat talvilammas saa kuulla
+kerta toisensa jälkeen, kunnes lopulta -
+
+1106
+01:02:26,125 --> 01:02:29,124
+se alkaa uskoa itsekin, että se on totta.
+
+1107
+01:02:29,125 --> 01:02:31,332
+Sebastian…
+- Rebekka on syytön.
+
+1108
+01:02:31,333 --> 01:02:32,624
+Mistä tiedät?
+
+1109
+01:02:32,625 --> 01:02:35,249
+Koska katsoin häntä silmiin.
+
+1110
+01:02:35,250 --> 01:02:37,790
+Koska se on ilmiselvää.
+
+1111
+01:02:37,791 --> 01:02:39,707
+Vaan ei teille.
+
+1112
+01:02:39,708 --> 01:02:41,082
+Ei.
+
+1113
+01:02:41,083 --> 01:02:43,833
+Ei millekään lammaslaumalle.
+
+1114
+01:02:45,375 --> 01:02:47,708
+Me ollaan sinun lammaslaumasi.
+
+1115
+01:02:48,875 --> 01:02:50,582
+Minähän sanoin.
+
+1116
+01:02:50,583 --> 01:02:52,458
+Minulla ei ole laumaa.
+
+1117
+01:02:54,041 --> 01:02:55,958
+Ei koskaan ole ollutkaan.
+
+1118
+01:02:58,375 --> 01:02:59,625
+Lili.
+
+1119
+01:03:00,333 --> 01:03:03,125
+Mitä tehdään jutulle ilman loppua?
+
+1120
+01:03:06,625 --> 01:03:08,124
+Tietysti!
+
+1121
+01:03:08,125 --> 01:03:09,458
+Autonkuljettaja!
+
+1122
+01:03:13,458 --> 01:03:14,458
+Mitä?
+
+1123
+01:03:17,125 --> 01:03:18,375
+Mitä?
+
+1124
+01:03:20,791 --> 01:03:21,833
+Hei!
+
+1125
+01:03:24,791 --> 01:03:26,250
+Anna se. Hei!
+
+1126
+01:03:28,166 --> 01:03:29,208
+Hei!
+
+1127
+01:03:30,875 --> 01:03:32,624
+Tule takaisin!
+
+1128
+01:03:32,625 --> 01:03:34,500
+Se on minun hattuni!
+
+1129
+01:03:34,958 --> 01:03:36,333
+Seis! Pysähtykää!
+
+1130
+01:04:07,708 --> 01:04:10,083
+Kiitos. Kiitos tästä.
+
+1131
+01:04:13,541 --> 01:04:15,000
+Kiitos kaikille.
+
+1132
+01:04:25,833 --> 01:04:27,708
+Tämä taitaa kuulua sinulle.
+
+1133
+01:04:28,750 --> 01:04:30,708
+Täsmää muihin koruihisi.
+
+1134
+01:04:32,291 --> 01:04:33,624
+Se lienee pudonnut.
+
+1135
+01:04:33,625 --> 01:04:36,249
+Löysin sen Jorin niityltä.
+
+1136
+01:04:36,250 --> 01:04:38,500
+Sieltä, missä et ole koskaan käynyt.
+
+1137
+01:04:40,041 --> 01:04:43,541
+Minulla on lupa tutkia huoneesi.
+
+1138
+01:04:45,000 --> 01:04:45,999
+Mitä etsit?
+
+1139
+01:04:46,000 --> 01:04:48,125
+En tiedä.
+
+1140
+01:04:59,625 --> 01:05:01,540
+Vai et ole ollut lähellä marjakuusia?
+
+1141
+01:05:01,541 --> 01:05:02,707
+Tiesin sen.
+
+1142
+01:05:02,708 --> 01:05:04,999
+En ole ollut.
+
+1143
+01:05:05,000 --> 01:05:07,040
+Tim, sinun täytyy uskoa minua.
+
+1144
+01:05:07,041 --> 01:05:08,875
+Konstaapeli Teeri.
+
+1145
+01:05:09,625 --> 01:05:12,874
+Konstaapeli Teeri, voin vannoa.
+
+1146
+01:05:12,875 --> 01:05:14,957
+En tappanut isääni.
+
+1147
+01:05:14,958 --> 01:05:16,083
+Rebekka Haapala,
+
+1148
+01:05:16,750 --> 01:05:19,333
+sinut on pidätetty Jori Hakan murhasta.
+
+1149
+01:05:26,333 --> 01:05:27,624
+Epäillyn kuulustelu,
+
+1150
+01:05:27,625 --> 01:05:32,083
+Marilla Kramppi, alias Rebekka Haapala.
+
+1151
+01:05:33,000 --> 01:05:37,832
+Neiti Kramppi, vahvistatko,
+että luovut oikeudesta kutsua asianajajan?
+
+1152
+01:05:37,833 --> 01:05:41,290
+Kyllä, ei sillä ole väliä.
+Olen valmis kertomaan kaiken.
+
+1153
+01:05:41,291 --> 01:05:43,624
+Selvä. Aloitetaan sitten tästä.
+
+1154
+01:05:43,625 --> 01:05:48,291
+Olitko Jori Hakan mailla
+hänen murhailtanaan?
+
+1155
+01:05:49,083 --> 01:05:50,374
+Olin.
+
+1156
+01:05:50,375 --> 01:05:53,915
+Eli kaikki ne nätit hymyt -
+
+1157
+01:05:53,916 --> 01:05:55,665
+ja "Oi, miten fiksu etsivä".
+
+1158
+01:05:55,666 --> 01:05:57,999
+Se oli vain esitystä. Eikö?
+
+1159
+01:05:58,000 --> 01:06:00,791
+Et ole puhunut tippaakaan totta
+saapumisestasi asti.
+
+1160
+01:06:01,833 --> 01:06:04,416
+Ne kirjeet. Se oli totta.
+
+1161
+01:06:05,041 --> 01:06:08,999
+Hän kirjoitti etsineensä minua
+yli 20 vuotta -
+
+1162
+01:06:09,000 --> 01:06:11,332
+ja että elämä alkoi olla taas mallillaan.
+
+1163
+01:06:11,333 --> 01:06:13,082
+Lähetti vielä testamenttinsakin.
+
+1164
+01:06:13,083 --> 01:06:14,999
+Sen, missä saat 30 miljoonaa,
+
+1165
+01:06:15,000 --> 01:06:17,499
+vai sen, missä saat lampaita?
+
+1166
+01:06:17,500 --> 01:06:20,000
+Sen, jossa ei puhuttu rahasta.
+
+1167
+01:06:21,458 --> 01:06:23,499
+Hän sanoi haluavansa tavata minut.
+
+1168
+01:06:23,500 --> 01:06:25,000
+Joten…
+
+1169
+01:06:25,583 --> 01:06:31,500
+Lensit tänne ja ajoit farmille
+sinä iltana, kun hän kuoli.
+
+1170
+01:06:32,333 --> 01:06:33,750
+Mitä sitten tapahtui?
+
+1171
+01:06:35,333 --> 01:06:36,582
+Me juteltiin.
+
+1172
+01:06:36,583 --> 01:06:37,708
+Mistä?
+
+1173
+01:06:39,500 --> 01:06:41,207
+Lampaista.
+
+1174
+01:06:41,208 --> 01:06:43,165
+Me juteltiin lampaista.
+
+1175
+01:06:43,166 --> 01:06:45,290
+Ja niiden nimistä.
+
+1176
+01:06:45,291 --> 01:06:48,124
+Hän sanoi,
+että joka lampaalla pitää olla nimi.
+
+1177
+01:06:48,125 --> 01:06:52,165
+Hän valitsi nimet
+katsomalla lampaita silmiin.
+
+1178
+01:06:52,166 --> 01:06:55,375
+Ja halusi jättää lampaat minulle.
+
+1179
+01:06:57,250 --> 01:06:58,416
+Hän valitsi minut.
+
+1180
+01:07:00,083 --> 01:07:03,207
+Mutta en ole tyhmä.
+
+1181
+01:07:03,208 --> 01:07:06,207
+Olin murhailtana
+kahdestaan hänen kanssaan.
+
+1182
+01:07:06,208 --> 01:07:09,124
+Ja uusi testamentti ja ne rahat -
+
+1183
+01:07:09,125 --> 01:07:11,124
+ja värikäs menneisyyteni?
+
+1184
+01:07:11,125 --> 01:07:14,500
+En voinut muuta kuin valehdella.
+
+1185
+01:07:15,583 --> 01:07:17,291
+Sinun täytyy uskoa minua.
+
+1186
+01:07:18,916 --> 01:07:21,875
+"Valehtelin, joten usko minua."
+
+1187
+01:07:22,875 --> 01:07:24,416
+Niinkö?
+
+1188
+01:07:27,250 --> 01:07:31,415
+Aamulla marssit oikeuden eteen -
+
+1189
+01:07:31,416 --> 01:07:35,375
+ja saat virallisesti syytteen
+Jori Hakan murhasta.
+
+1190
+01:07:49,041 --> 01:07:51,166
+Se siis oli hän.
+
+1191
+01:07:54,416 --> 01:07:55,999
+Raha.
+
+1192
+01:07:56,000 --> 01:07:57,250
+Mikään ei ole pyhää.
+
+1193
+01:07:58,458 --> 01:08:02,333
+Jori Haka taisi valita väärän karitsan.
+
+1194
+01:08:03,666 --> 01:08:08,707
+Mistä puheen ollen Van Vuuren myy
+lampaat ja maat Kalle Meroselle.
+
+1195
+01:08:08,708 --> 01:08:11,875
+Teemme kaupat huomenna keskipäivällä.
+
+1196
+01:08:12,791 --> 01:08:13,625
+Hyvä.
+
+1197
+01:08:14,500 --> 01:08:17,124
+Aliarvioin sinut, konstaapeli.
+
+1198
+01:08:17,125 --> 01:08:18,290
+Todellakin.
+
+1199
+01:08:18,291 --> 01:08:21,582
+Et tosiaan ole mikään narri.
+
+1200
+01:08:21,583 --> 01:08:23,291
+Hyvää työtä.
+
+1201
+01:09:01,583 --> 01:09:03,083
+Lili?
+
+1202
+01:09:04,041 --> 01:09:06,999
+Mitä teet täällä? Onko kaikki hyvin?
+
+1203
+01:09:07,000 --> 01:09:10,207
+Paremmin kuin hyvin. Olen tyytyväinen.
+
+1204
+01:09:10,208 --> 01:09:11,624
+Ne pidättivät Rebekan.
+
+1205
+01:09:11,625 --> 01:09:13,665
+Kalle on huomisesta alkaen
+uusi paimenemme.
+
+1206
+01:09:13,666 --> 01:09:15,124
+Mahtavaa.
+
+1207
+01:09:15,125 --> 01:09:16,832
+Rebekka kiistää tietysti kaiken,
+
+1208
+01:09:16,833 --> 01:09:20,041
+mutta minä olen oikeassa
+ja Sebastian väärässä.
+
+1209
+01:09:20,750 --> 01:09:23,665
+Rebekkahan sen teki?
+
+1210
+01:09:23,666 --> 01:09:25,040
+Tietysti teki.
+
+1211
+01:09:25,041 --> 01:09:26,290
+Kiitos.
+
+1212
+01:09:26,291 --> 01:09:28,250
+Kun kerran sanoit niin.
+
+1213
+01:09:28,916 --> 01:09:30,040
+Mitä?
+
+1214
+01:09:30,041 --> 01:09:33,499
+Keksit aina ratkaisun
+ennen kuin arvoitus ehtii ratketa.
+
+1215
+01:09:33,500 --> 01:09:34,915
+Luotan sinuun.
+
+1216
+01:09:34,916 --> 01:09:36,999
+Ne olivat vain tarinoita.
+
+1217
+01:09:37,000 --> 01:09:39,749
+Tämä on oikea ihminen. Entä jos minä…
+
+1218
+01:09:39,750 --> 01:09:40,915
+Lili, katso.
+
+1219
+01:09:40,916 --> 01:09:43,999
+Kallen niitty on aidan toisella puolella.
+
+1220
+01:09:44,000 --> 01:09:46,500
+Mennäänkö tapaamaan meidän uutta laumaa?
+
+1221
+01:09:47,166 --> 01:09:49,832
+Emme ole koskaan käyneet Kallen niityllä.
+
+1222
+01:09:49,833 --> 01:09:52,874
+Ei me aiemmin ylitetty teitäkään.
+
+1223
+01:09:52,875 --> 01:09:53,875
+Tule.
+
+1224
+01:10:04,333 --> 01:10:06,457
+Tuntuu kuin oltaisiin pilven sisällä.
+
+1225
+01:10:06,458 --> 01:10:08,582
+Onkohan tämä väärä paikka?
+
+1226
+01:10:08,583 --> 01:10:10,083
+En usko.
+
+1227
+01:10:12,250 --> 01:10:13,916
+Huhuu?
+
+1228
+01:10:32,875 --> 01:10:34,041
+Hei!
+
+1229
+01:10:34,666 --> 01:10:36,999
+Olen Lili.
+
+1230
+01:10:37,000 --> 01:10:39,915
+Ja tässä on Mauno.
+
+1231
+01:10:39,916 --> 01:10:42,125
+Ollaan niityn toiselta puolelta.
+
+1232
+01:10:43,375 --> 01:10:45,583
+Kallesta tulee myös meidän paimen.
+
+1233
+01:10:49,833 --> 01:10:51,000
+Mitä?
+
+1234
+01:10:58,791 --> 01:10:59,832
+Juoskaa.
+
+1235
+01:10:59,833 --> 01:11:02,625
+Mitä? En minä…
+
+1236
+01:11:08,083 --> 01:11:12,457
+Ehkei olisi sittenkään
+pitänyt tulla tänne.
+
+1237
+01:11:12,458 --> 01:11:13,832
+Häivytään.
+
+1238
+01:11:13,833 --> 01:11:15,624
+Hyvä on.
+
+1239
+01:11:15,625 --> 01:11:18,833
+Missä suunnassa on paluureitti?
+- Varmaan tuolla.
+
+1240
+01:11:23,416 --> 01:11:25,250
+Katso! Tuolla palaa valo.
+
+1241
+01:11:28,583 --> 01:11:31,499
+Tämä lienee Kallen lampola.
+
+1242
+01:11:31,500 --> 01:11:33,708
+Täällä ollaan turvassa.
+
+1243
+01:11:38,416 --> 01:11:40,958
+Ei vaikuta lampolalta.
+
+1244
+01:11:42,083 --> 01:11:43,040
+Pitäisikö meidän…
+
+1245
+01:11:43,041 --> 01:11:45,165
+Odota.
+
+1246
+01:11:45,166 --> 01:11:46,541
+Mikä tuo on?
+
+1247
+01:11:48,041 --> 01:11:50,375
+Lili, älä. Nyt mennään.
+
+1248
+01:11:52,416 --> 01:11:54,207
+{\an8}NOTKON LIHA
+
+1249
+01:11:54,208 --> 01:11:56,207
+{\an8}Miksi lammas on kuvattu noin?
+
+1250
+01:11:56,208 --> 01:11:58,666
+{\an8}Mitä ne tekee niille?
+
+1251
+01:12:01,791 --> 01:12:03,375
+Kalle?
+
+1252
+01:12:04,750 --> 01:12:05,625
+Hän…
+
+1253
+01:12:06,291 --> 01:12:07,125
+Hän…
+
+1254
+01:12:08,541 --> 01:12:10,625
+Hei, hauvat.
+
+1255
+01:12:12,916 --> 01:12:14,125
+Mikä niitä vaivaa?
+
+1256
+01:12:15,791 --> 01:12:17,791
+Meidän ei pitäisi olla täällä.
+
+1257
+01:12:19,208 --> 01:12:20,625
+Pakoon!
+
+1258
+01:12:31,833 --> 01:12:33,332
+Vauhtia, Lili!
+
+1259
+01:12:33,333 --> 01:12:35,541
+En pääse kovempaa! En selviä!
+
+1260
+01:12:47,291 --> 01:12:48,583
+Sebastian.
+
+1261
+01:13:03,750 --> 01:13:04,583
+Ei!
+
+1262
+01:13:19,541 --> 01:13:20,874
+Sebastian.
+
+1263
+01:13:20,875 --> 01:13:23,541
+Onneksi tulit. Luulimme jo, että…
+
+1264
+01:13:25,875 --> 01:13:27,291
+Sebastian?
+
+1265
+01:13:28,208 --> 01:13:29,625
+Sebastian, nouse ylös.
+
+1266
+01:13:32,416 --> 01:13:33,708
+Lili.
+
+1267
+01:13:36,625 --> 01:13:38,457
+En pysty.
+
+1268
+01:13:38,458 --> 01:13:40,415
+Mikset?
+
+1269
+01:13:40,416 --> 01:13:42,750
+En ymmärrä…
+
+1270
+01:13:46,958 --> 01:13:48,541
+Lili.
+
+1271
+01:13:49,375 --> 01:13:51,249
+Hän kuolee.
+
+1272
+01:13:51,250 --> 01:13:52,582
+Mitä?
+
+1273
+01:13:52,583 --> 01:13:55,082
+Ei, lampaat eivät kuole.
+
+1274
+01:13:55,083 --> 01:13:56,915
+Me muutumme pilviksi.
+
+1275
+01:13:56,916 --> 01:14:01,416
+Muutu pilveksi, Sebastian. Muutu pilveksi.
+
+1276
+01:14:04,375 --> 01:14:06,874
+Kunpa voisinkin.
+
+1277
+01:14:06,875 --> 01:14:09,874
+Et olisi saanut palata.
+
+1278
+01:14:09,875 --> 01:14:11,999
+Miksi palasit?
+
+1279
+01:14:12,000 --> 01:14:13,250
+Minun oli pakko.
+
+1280
+01:14:14,291 --> 01:14:16,583
+Olette minun laumani.
+
+1281
+01:14:23,291 --> 01:14:25,333
+Näen hänet.
+
+1282
+01:14:26,708 --> 01:14:29,208
+Näen Jorin.
+
+1283
+01:14:39,208 --> 01:14:41,000
+Ei.
+
+1284
+01:14:46,291 --> 01:14:47,290
+Kalle tulee.
+
+1285
+01:14:47,291 --> 01:14:49,124
+Meidän pitää häipyä.
+
+1286
+01:14:49,125 --> 01:14:50,333
+Nyt, Lili!
+
+1287
+01:15:01,791 --> 01:15:04,207
+Herätys! Kaikki ylös!
+
+1288
+01:15:04,208 --> 01:15:07,707
+Herätys!
+- Herätys!
+
+1289
+01:15:07,708 --> 01:15:09,249
+Seuratkaa minua!
+
+1290
+01:15:09,250 --> 01:15:13,416
+Seuratkaa häntä!
+
+1291
+01:15:20,416 --> 01:15:21,499
+Seis!
+
+1292
+01:15:21,500 --> 01:15:25,040
+Ei saa pysähtyä!
+Meidän pitää häipyä! Heti!
+
+1293
+01:15:25,041 --> 01:15:27,500
+Mitä sinä oikein höpiset?
+
+1294
+01:15:28,375 --> 01:15:30,665
+Sebastian on kuollut.
+
+1295
+01:15:30,666 --> 01:15:33,499
+Sanoit, että me muutumme pilviksi.
+
+1296
+01:15:33,500 --> 01:15:35,124
+Olin väärässä.
+
+1297
+01:15:35,125 --> 01:15:36,624
+Me kuolemme.
+
+1298
+01:15:36,625 --> 01:15:38,915
+Näin Sebastianin kuolevan.
+
+1299
+01:15:38,916 --> 01:15:42,875
+Ja jos ei lähdetä nyt,
+myös me kaikki kuollaan.
+
+1300
+01:15:43,791 --> 01:15:46,165
+Kalle tekee lampaista ruokaa ja…
+
+1301
+01:15:46,166 --> 01:15:49,665
+Älä puhu tuollaisia kauheuksia!
+
+1302
+01:15:49,666 --> 01:15:51,665
+Aion unohtaa tämän. Nyt heti!
+
+1303
+01:15:51,666 --> 01:15:52,957
+Ei, et voi!
+
+1304
+01:15:52,958 --> 01:15:56,165
+Miten niin? Miksi haluaisin
+muistaa kamaluuksia?
+
+1305
+01:15:56,166 --> 01:15:57,707
+Koska se on totta!
+
+1306
+01:15:57,708 --> 01:16:00,624
+Ei ole, jos ei muista. Yksi.
+
+1307
+01:16:00,625 --> 01:16:01,915
+Odota!
+- Kaksi.
+
+1308
+01:16:01,916 --> 01:16:04,457
+Roni, Reiska, kiltit. Olkaa rohkeita.
+
+1309
+01:16:04,458 --> 01:16:05,750
+Kolme!
+
+1310
+01:16:08,791 --> 01:16:10,166
+Hei, Lili.
+
+1311
+01:16:10,875 --> 01:16:12,332
+Yksi kysymys.
+
+1312
+01:16:12,333 --> 01:16:13,957
+Mitä me tehdään täällä?
+
+1313
+01:16:13,958 --> 01:16:16,249
+En tykkää tästä. Palataan niitylle.
+
+1314
+01:16:16,250 --> 01:16:17,208
+Palataan niitylle.
+
+1315
+01:16:17,791 --> 01:16:21,416
+Ei! Ette saa mennä!
+
+1316
+01:16:24,833 --> 01:16:27,582
+Sebastian oli oikeassa meistä.
+
+1317
+01:16:27,583 --> 01:16:31,875
+Olemme vain tyhmiä, pelokkaita lampaita.
+
+1318
+01:16:32,500 --> 01:16:37,499
+Se ei tainnut olla ensimmäinen
+näkemäni kuolema.
+
+1319
+01:16:37,500 --> 01:16:39,082
+Ei.
+
+1320
+01:16:39,083 --> 01:16:41,166
+Montako kertaa olen unohtanut?
+
+1321
+01:16:42,625 --> 01:16:44,250
+Lukemattomia kertoja.
+
+1322
+01:16:45,000 --> 01:16:49,790
+Oletko kantanut taakkaa aivan yksin?
+
+1323
+01:16:49,791 --> 01:16:50,791
+Olen.
+
+1324
+01:16:51,375 --> 01:16:54,040
+Muistan kaikki pahat asiat.
+
+1325
+01:16:54,041 --> 01:16:56,958
+Mutta muistan myös hyvät asiat.
+
+1326
+01:16:58,416 --> 01:17:01,332
+Muistan emoni kasvot.
+
+1327
+01:17:01,333 --> 01:17:04,540
+Muistan vanhat rakkaat ystäväni.
+
+1328
+01:17:04,541 --> 01:17:07,375
+Ja sinäkin muistat Sebastianin.
+
+1329
+01:17:09,458 --> 01:17:11,082
+Se sattuu.
+
+1330
+01:17:11,083 --> 01:17:13,000
+Muistaminen sattuu.
+
+1331
+01:17:13,666 --> 01:17:14,999
+Tiedän.
+
+1332
+01:17:15,000 --> 01:17:18,040
+Mutta jos unohtaa, ei voi pelastaa muita,
+
+1333
+01:17:18,041 --> 01:17:19,958
+ja Sebastian kuoli turhaan.
+
+1334
+01:17:20,875 --> 01:17:22,665
+Kalle tulee huomenna,
+
+1335
+01:17:22,666 --> 01:17:25,124
+ja seuraat uutta paimentasi -
+
+1336
+01:17:25,125 --> 01:17:28,083
+niin kuin muutkin
+"tyhmät, pelokkaat lampaat".
+
+1337
+01:17:28,708 --> 01:17:31,291
+Ja me kaikki kuolemme.
+
+1338
+01:17:33,000 --> 01:17:36,082
+Olen pahoillani, Lili.
+
+1339
+01:17:36,083 --> 01:17:39,916
+Mutta meidän muistomme
+pitää rakkaamme elossa.
+
+1340
+01:18:00,625 --> 01:18:02,791
+Olen pahoillani, Sebastian.
+
+1341
+01:18:03,791 --> 01:18:05,916
+En ole yhtä vahva kuin sinä.
+
+1342
+01:18:08,416 --> 01:18:10,874
+Yksi. Kaksi.
+
+1343
+01:18:10,875 --> 01:18:15,124
+<i>Olet ehkä fiksuin lammas,
+mutta Mauno on viisain.</i>
+
+1344
+01:18:15,125 --> 01:18:17,458
+{\an8}MÄYRÄSILLAN MYSTEERI
+
+1345
+01:18:18,916 --> 01:18:20,791
+{\an8}Minäkin olen menettänyt jonkun.
+
+1346
+01:18:21,833 --> 01:18:23,457
+{\an8}Tiedän, että se sattuu.
+
+1347
+01:18:23,458 --> 01:18:27,416
+Mutta ajan myötä jää vain kaikki hyvä.
+
+1348
+01:18:28,208 --> 01:18:30,832
+Oletko todella täällä?
+
+1349
+01:18:30,833 --> 01:18:33,082
+Tietysti olen.
+
+1350
+01:18:33,083 --> 01:18:35,457
+Koska et unohtanut minua. Niin se toimii.
+
+1351
+01:18:35,458 --> 01:18:39,790
+Mutta ei sillä ole väliä enää.
+Kalle aikoo…
+
+1352
+01:18:39,791 --> 01:18:44,166
+Kalle ei tee laumalleni mitään,
+koska sinä pelastat sen.
+
+1353
+01:18:44,833 --> 01:18:46,040
+Mutta miten?
+
+1354
+01:18:46,041 --> 01:18:48,665
+Tiedät jo.
+
+1355
+01:18:48,666 --> 01:18:51,540
+Jos keksit, kuka sen oikeasti teki,
+
+1356
+01:18:51,541 --> 01:18:54,124
+Rebekka saa lauman ja olette turvassa.
+
+1357
+01:18:54,125 --> 01:18:56,999
+Mutta mitä jos en tiedä, kuka sen teki?
+
+1358
+01:18:57,000 --> 01:18:59,665
+Äläs nyt. Luin teille
+kymmenittäin tarinoita.
+
+1359
+01:18:59,666 --> 01:19:01,290
+Niiden säännöt ovat yksinkertaiset.
+
+1360
+01:19:01,291 --> 01:19:03,415
+Mutta säännöistä ei ole ollut apua.
+
+1361
+01:19:03,416 --> 01:19:05,624
+Poliisi tietää, ettei se ollut kulkuri.
+
+1362
+01:19:05,625 --> 01:19:07,665
+Kuka vain saattoi palata rikospaikalle.
+
+1363
+01:19:07,666 --> 01:19:10,124
+Rebekka oli yllättävä henkilö ja…
+
+1364
+01:19:10,125 --> 01:19:11,125
+Ja?
+
+1365
+01:19:13,458 --> 01:19:16,416
+Uhri on tärkein johtolanka.
+
+1366
+01:19:18,833 --> 01:19:21,583
+<i>Ruohonvihreä tahra kädessä.</i>
+
+1367
+01:19:22,291 --> 01:19:25,040
+<i>Niin kauniisti värjätty.</i>
+
+1368
+01:19:25,041 --> 01:19:26,540
+<i>Valitsi väärän karitsan.</i>
+
+1369
+01:19:26,541 --> 01:19:28,583
+<i>Näin Jorin haamun.</i>
+
+1370
+01:19:30,250 --> 01:19:31,541
+Hyvä tyttö.
+
+1371
+01:19:40,125 --> 01:19:42,124
+Rebekka ei tehnyt sitä!
+- Odota nyt.
+
+1372
+01:19:42,125 --> 01:19:44,999
+Tiedän, kuka se oli. Jos voin todistaa…
+- Mitä?
+
+1373
+01:19:45,000 --> 01:19:46,332
+Se ei ollut ruohotahra.
+
+1374
+01:19:46,333 --> 01:19:47,957
+Mutta miten muka pystyn…?
+- Odota.
+
+1375
+01:19:47,958 --> 01:19:49,290
+Paitsi jos… Kyllä!
+
+1376
+01:19:49,291 --> 01:19:51,874
+Mutta olen liian iso. En mahdu.
+
+1377
+01:19:51,875 --> 01:19:54,166
+Minä mahdun.
+
+1378
+01:19:55,291 --> 01:19:57,791
+Enkä ole unohtanut.
+
+1379
+01:19:59,750 --> 01:20:01,708
+Kasta sinne koko jalkasi.
+
+1380
+01:20:03,500 --> 01:20:06,791
+Laita sitten toinen jalka siihen toiseen.
+
+1381
+01:20:10,708 --> 01:20:13,291
+No niin. Aika mennä.
+
+1382
+01:20:21,541 --> 01:20:24,583
+Juuri noin. Siitä sisään.
+
+1383
+01:21:17,958 --> 01:21:20,500
+Tämä on aivan outo kylä.
+
+1384
+01:21:21,875 --> 01:21:24,624
+Mahtaako se toimia?
+
+1385
+01:21:24,625 --> 01:21:27,708
+En tiedä. Voimme vain odottaa.
+
+1386
+01:21:30,000 --> 01:21:34,665
+Mitä Jori sanoi sinulle
+viimeisenä aamunaan?
+
+1387
+01:21:34,666 --> 01:21:37,291
+Näin hänen kuiskaavan sinulle jotain.
+
+1388
+01:21:38,291 --> 01:21:43,416
+Hän sanoi, että talvilammas
+on paras lammas.
+
+1389
+01:21:56,416 --> 01:21:58,790
+Hei, Roni?
+- No?
+
+1390
+01:21:58,791 --> 01:22:02,624
+Tuntuuko sinusta ikinä,
+että jotain on unohtunut?
+
+1391
+01:22:02,625 --> 01:22:05,790
+Kuten jotain,
+mitä Lili yritti kertoa eilen,
+
+1392
+01:22:05,791 --> 01:22:09,249
+mutta me päätettiin unohtaa se,
+koska meitä pelotti?
+
+1393
+01:22:09,250 --> 01:22:11,957
+No ei nyt pelottanut, ei todellakaan.
+
+1394
+01:22:11,958 --> 01:22:13,957
+Mutta joo, juuri niin.
+
+1395
+01:22:13,958 --> 01:22:15,457
+Mitä pitäisi tehdä, veli?
+
+1396
+01:22:15,458 --> 01:22:19,250
+En tiedä, muttei voi olla tekemättäkään.
+Joten pitää tehdä… jotain.
+
+1397
+01:22:20,083 --> 01:22:21,207
+Nerokasta.
+
+1398
+01:22:21,208 --> 01:22:23,790
+No niin! Ollaanko me nössöjä?
+
+1399
+01:22:23,791 --> 01:22:27,291
+Vai ollaanko pässejä?
+
+1400
+01:22:39,291 --> 01:22:40,582
+Kuka tämän teki?
+
+1401
+01:22:40,583 --> 01:22:46,582
+Ikkunasta tuli sisään karitsa.
+
+1402
+01:22:46,583 --> 01:22:47,833
+Eikä siinä kaikki.
+
+1403
+01:22:48,541 --> 01:22:51,166
+Mikä voi olla pahempaa, kun ikkunakaritsa?
+
+1404
+01:22:51,791 --> 01:22:54,540
+Olen melko varma,
+
+1405
+01:22:54,541 --> 01:22:58,875
+että se sai ohjeita toiselta lampaalta.
+
+1406
+01:23:01,000 --> 01:23:02,166
+Just.
+
+1407
+01:23:06,958 --> 01:23:08,208
+Mitä se tarkoittaa?
+
+1408
+01:23:14,083 --> 01:23:16,291
+Se tarkoittaa…
+
+1409
+01:23:19,041 --> 01:23:20,333
+Ei mitään.
+
+1410
+01:23:21,208 --> 01:23:22,665
+Ei mitään!
+
+1411
+01:23:22,666 --> 01:23:24,291
+Ne ovat lampaita.
+
+1412
+01:23:25,625 --> 01:23:27,541
+Ne ovat lampaita.
+
+1413
+01:24:09,500 --> 01:24:11,915
+Kuittaa siirto, niin voimme lähteä.
+
+1414
+01:24:11,916 --> 01:24:13,083
+Selvä.
+
+1415
+01:24:15,000 --> 01:24:16,624
+Ei toiminut.
+
+1416
+01:24:16,625 --> 01:24:18,375
+Odota hetkinen.
+
+1417
+01:24:21,041 --> 01:24:22,041
+Konstaapeli Teeri.
+
+1418
+01:24:23,291 --> 01:24:24,916
+Kuittaus.
+
+1419
+01:24:28,416 --> 01:24:29,915
+LUOVUTUS KULJETETTAVAKSI
+
+1420
+01:24:29,916 --> 01:24:31,875
+Älä tee sitä.
+
+1421
+01:24:34,000 --> 01:24:35,541
+ALLEKIRJOITUS
+
+1422
+01:24:59,666 --> 01:25:01,833
+Seis! Seis!
+
+1423
+01:25:02,958 --> 01:25:06,041
+Hän on syytön. Hän on syytön.
+
+1424
+01:25:06,750 --> 01:25:08,457
+Mutta tiedän syyllisen.
+
+1425
+01:25:08,458 --> 01:25:10,166
+Tiedän, kuka tappoi Jori Hakan.
+
+1426
+01:25:15,166 --> 01:25:16,833
+Rouva Harjuketo.
+
+1427
+01:25:18,125 --> 01:25:19,290
+Ei, ei, ei!
+
+1428
+01:25:19,291 --> 01:25:24,541
+Alussa olin ehkä narri, mutta en enää.
+
+1429
+01:25:25,541 --> 01:25:28,249
+Siitä hetkestä kun Rebekka saapui tänne,
+
+1430
+01:25:28,250 --> 01:25:30,040
+hän oli pääepäilty.
+
+1431
+01:25:30,041 --> 01:25:33,707
+Hänellä oli vahvin motiivi.
+Ja hän valehteli.
+
+1432
+01:25:33,708 --> 01:25:35,915
+Hän kävi Jorin tilalla murhailtana.
+
+1433
+01:25:35,916 --> 01:25:38,290
+Juuri sen varaan tappaja laski.
+
+1434
+01:25:38,291 --> 01:25:43,332
+Tappaja, jota ei edes osattu harkita,
+koska hän ei koskaan ollut edes epäilty.
+
+1435
+01:25:43,333 --> 01:25:49,040
+Ainoa testamentin edunsaaja,
+jolla oli alibi.
+
+1436
+01:25:49,041 --> 01:25:50,957
+Täydellinen alibi.
+
+1437
+01:25:50,958 --> 01:25:52,832
+Hän ei ollut edes koko maassa.
+
+1438
+01:25:52,833 --> 01:25:54,457
+Et kai tarkoita…
+- Kyllä.
+
+1439
+01:25:54,458 --> 01:25:55,790
+Peter Van Vuuren.
+
+1440
+01:25:55,791 --> 01:25:57,415
+Etelä-Afrikasta.
+
+1441
+01:25:57,416 --> 01:26:00,207
+Rebekka, Jori lähetti
+sinulle testamenttinsa.
+
+1442
+01:26:00,208 --> 01:26:03,624
+Mutta lähetti hän kai sen myös veljellesi,
+
+1443
+01:26:03,625 --> 01:26:07,915
+joka sai selville
+Jorin todellisen omaisuuden -
+
+1444
+01:26:07,916 --> 01:26:10,540
+ja päätti saada ne 30 miljoonaa,
+
+1445
+01:26:10,541 --> 01:26:13,000
+vaikka joutuisi tekemään murhan.
+
+1446
+01:26:13,875 --> 01:26:16,540
+Mutta hänellä oli yksi suuri ongelma.
+
+1447
+01:26:16,541 --> 01:26:17,458
+Motiivi!
+
+1448
+01:26:17,958 --> 01:26:19,415
+Halusin sanoa sen.
+
+1449
+01:26:19,416 --> 01:26:21,916
+Sait minut näyttämään hetken murhaajalta.
+
+1450
+01:26:23,875 --> 01:26:24,874
+Motiivi!
+
+1451
+01:26:24,875 --> 01:26:28,832
+Siitä, jolle murhan uhri
+jättää omaisuutensa,
+
+1452
+01:26:28,833 --> 01:26:30,415
+tulee oitis pääepäilty.
+
+1453
+01:26:30,416 --> 01:26:34,040
+Mutta jos hän jättää sen siskolle,
+joka tuomitaan rikoksesta…
+
+1454
+01:26:34,041 --> 01:26:37,374
+Rahat saa automaattisesti lähin omainen!
+
+1455
+01:26:37,375 --> 01:26:39,540
+Lopettaisit jo. Olen ihan liekeissä.
+
+1456
+01:26:39,541 --> 01:26:40,707
+Olen pahoillani.
+
+1457
+01:26:40,708 --> 01:26:42,915
+Lähin omainen!
+
+1458
+01:26:42,916 --> 01:26:45,208
+Jää vain yksi kysymys…
+
+1459
+01:26:45,708 --> 01:26:47,457
+Missä hän piileksii?
+
+1460
+01:26:47,458 --> 01:26:49,457
+Ketä etsin?
+
+1461
+01:26:49,458 --> 01:26:54,457
+Jotakuta, joka piileksii näkyvillä.
+Joka vaihtoi nimensä.
+
+1462
+01:26:54,458 --> 01:26:58,915
+Kuten esimerkiksi Marilla Krampista -
+
+1463
+01:26:58,916 --> 01:27:01,207
+tuli Rebekka Haapala.
+
+1464
+01:27:01,208 --> 01:27:04,916
+Ja Peter Van Vuurenista…
+- Ja Peter Van Vuurenista…
+
+1465
+01:27:06,791 --> 01:27:08,749
+…tuli Eero Mattila.
+
+1466
+01:27:08,750 --> 01:27:09,791
+Ei!
+
+1467
+01:27:11,208 --> 01:27:13,041
+Jorin haamu.
+
+1468
+01:27:14,541 --> 01:27:16,041
+En arvaa ikinä.
+
+1469
+01:27:17,291 --> 01:27:19,707
+Tim, nolaat itsesi.
+
+1470
+01:27:19,708 --> 01:27:23,040
+En asu Etelä-Afrikassa.
+Asun tässä maassa ja olen töissä lehdessä.
+
+1471
+01:27:23,041 --> 01:27:24,374
+Tiedän.
+
+1472
+01:27:24,375 --> 01:27:29,499
+Oletan, että olet asunut täällä
+jo jonkin aikaa "Eero Mattilana".
+
+1473
+01:27:29,500 --> 01:27:31,582
+Opetellut murretta.
+
+1474
+01:27:31,583 --> 01:27:36,707
+Jori kertoi, että Rebekka
+tulee käymään, eikö?
+
+1475
+01:27:36,708 --> 01:27:39,582
+Täydellinen tilaisuus lavastaa hänet.
+
+1476
+01:27:39,583 --> 01:27:43,125
+Tarvitsit vain tekosyyn tulla Notkoon.
+
+1477
+01:27:44,000 --> 01:27:46,290
+<i>Kuten kulttuurifestivaalin.</i>
+
+1478
+01:27:46,291 --> 01:27:48,624
+<i>Suunnitelmasi oli yksinkertainen.</i>
+
+1479
+01:27:48,625 --> 01:27:51,874
+Ensin lähdit Notkosta näyttävällä tavalla.
+
+1480
+01:27:51,875 --> 01:27:56,458
+<i>Sitten muka kolari pakotti sinut takaisin.</i>
+
+1481
+01:27:57,833 --> 01:28:01,499
+<i>Samana iltana, kun Rebekka oli lähtenyt,</i>
+
+1482
+01:28:01,500 --> 01:28:04,416
+<i>teit sen, mitä tulit tekemään.</i>
+
+1483
+01:28:07,500 --> 01:28:08,333
+Tule, tule, tule.
+
+1484
+01:28:18,541 --> 01:28:19,624
+Kippis.
+
+1485
+01:28:19,625 --> 01:28:21,375
+<i>Myrkytit isäsi -</i>
+
+1486
+01:28:23,166 --> 01:28:25,666
+<i>ja jätit uuden testamentin.</i>
+
+1487
+01:28:28,041 --> 01:28:30,708
+<i>Mutta isäsi oli yllättävän vahva.</i>
+
+1488
+01:28:32,708 --> 01:28:34,166
+Kamppailitte.
+
+1489
+01:28:42,708 --> 01:28:45,207
+<i>Lopulta sinä kuitenkin voitit.</i>
+
+1490
+01:28:45,208 --> 01:28:50,040
+Enää piti varmistaa,
+että siskosi saa syyt niskoilleen.
+
+1491
+01:28:50,041 --> 01:28:52,249
+Olit ovela.
+
+1492
+01:28:52,250 --> 01:28:55,875
+Kun rouva Harjuketo luki testamentin,
+tiesit, että hän ajaisi sinut pois.
+
+1493
+01:28:57,916 --> 01:29:02,207
+<i>Herra Van Vuuren,
+tässä Lydia Harjuketo. Kuuletko?</i>
+
+1494
+01:29:02,208 --> 01:29:04,540
+Oikein hyvä yhteys, kiitos.
+
+1495
+01:29:04,541 --> 01:29:06,124
+Mitä tulee marjoihin,
+
+1496
+01:29:06,125 --> 01:29:09,082
+niiden kätkeminen
+Rebekan huoneeseen oli helppoa.
+
+1497
+01:29:09,083 --> 01:29:10,707
+<i>Vanha majatalo.</i>
+
+1498
+01:29:10,708 --> 01:29:12,125
+<i>Helposti tiirikoitavat lukot.</i>
+
+1499
+01:29:13,375 --> 01:29:15,374
+Se oli lähes täydellistä, Eero.
+
+1500
+01:29:15,375 --> 01:29:18,957
+Mutta mitä et tiennyt
+ja mitä en tajunnut ennen kuin nyt,
+
+1501
+01:29:18,958 --> 01:29:20,666
+on, että jätit jälkeesi johtolangan.
+
+1502
+01:29:21,500 --> 01:29:22,916
+Jorin kädet.
+
+1503
+01:29:23,333 --> 01:29:25,166
+Jorin kädet.
+
+1504
+01:29:26,708 --> 01:29:30,124
+Toinen oli sininen, toinen vihreä.
+
+1505
+01:29:30,125 --> 01:29:33,082
+<i>Sininen oli tietysti ainetta,
+jolla hän rikastui.</i>
+
+1506
+01:29:33,083 --> 01:29:35,874
+Mutta entäs vihreä?
+
+1507
+01:29:35,875 --> 01:29:38,915
+Sitten muutamat ystäväni,
+
+1508
+01:29:38,916 --> 01:29:42,541
+jotka ovat erittäin päteviä etsiviä,
+
+1509
+01:29:45,958 --> 01:29:48,165
+saivat minut tajuamaan.
+
+1510
+01:29:48,166 --> 01:29:50,165
+Sininen ja keltainen.
+
+1511
+01:29:50,166 --> 01:29:54,165
+Kun ne sekoitetaan yhteen tulee vihreää.
+
+1512
+01:29:54,166 --> 01:29:57,124
+Kuten vihreä tahra,
+jonka näin Jorin kädessä.
+
+1513
+01:29:57,125 --> 01:30:00,624
+Kuten myös majatalon
+sinisessä tyynyliinassa,
+
+1514
+01:30:00,625 --> 01:30:04,250
+jolla sinä nukuit murhattuasi Jorin!
+
+1515
+01:30:05,750 --> 01:30:09,832
+Jorin molemmat kädet
+olivat sinä iltana siniset lääkkeestä.
+
+1516
+01:30:09,833 --> 01:30:12,916
+Mutta sitten hän tarttui jonkun hiuksiin.
+
+1517
+01:30:14,000 --> 01:30:17,874
+Joka käytti nopeaa,
+halpaa keltaista hiusväriä,
+
+1518
+01:30:17,875 --> 01:30:19,832
+joka liukenee sateessa.
+
+1519
+01:30:19,833 --> 01:30:22,250
+<i>Se värjäsi Jorin käden vihreäksi.</i>
+
+1520
+01:30:22,791 --> 01:30:26,332
+Joku joka värjäsi hiuksensa
+ennen tuloa Notkoon,
+
+1521
+01:30:26,333 --> 01:30:29,374
+jottei kukaan miettisi hetkeäkään,
+
+1522
+01:30:29,375 --> 01:30:32,083
+että hän muistutti siskoaan tai isäänsä.
+
+1523
+01:30:32,666 --> 01:30:34,040
+Eikö niin, Peter?
+
+1524
+01:30:34,041 --> 01:30:34,957
+Kyllä!
+
+1525
+01:30:34,958 --> 01:30:36,540
+Ei!
+
+1526
+01:30:36,541 --> 01:30:39,707
+Aivan järjetöntä. Et voi todistaa mitään.
+
+1527
+01:30:39,708 --> 01:30:42,958
+Saanhan sitten ottaa tämän?
+
+1528
+01:30:47,916 --> 01:30:49,916
+Kaikin mokomin.
+
+1529
+01:30:50,541 --> 01:30:53,790
+Myönnän, etten ole oikeasti vaalea.
+
+1530
+01:30:53,791 --> 01:30:55,665
+Pitää kai tunnustaa myös,
+
+1531
+01:30:55,666 --> 01:30:58,790
+että valkaisen hampaat ja vahaan rinnan.
+
+1532
+01:30:58,791 --> 01:31:01,040
+Taatusti kasvissyöjä.
+
+1533
+01:31:01,041 --> 01:31:05,749
+Joten jos kehtaat syyttää minua murhasta,
+koska värjäsin tukkani,
+
+1534
+01:31:05,750 --> 01:31:07,374
+minä en päädy oikeuden eteen.
+
+1535
+01:31:07,375 --> 01:31:09,708
+Vaan sinä.
+
+1536
+01:31:13,833 --> 01:31:15,540
+Ymmärsit väärin.
+
+1537
+01:31:15,541 --> 01:31:18,124
+Ei minua hiusvärisi kiinnosta.
+
+1538
+01:31:18,125 --> 01:31:19,875
+Vaan DNA.
+
+1539
+01:31:21,416 --> 01:31:24,040
+Jos olet Jori Hakan poika,
+
+1540
+01:31:24,041 --> 01:31:26,665
+sitten olet Peter Van Vuuren -
+
+1541
+01:31:26,666 --> 01:31:30,541
+ja oikea tappaja.
+
+1542
+01:31:31,291 --> 01:31:32,333
+Kiinni jäit.
+
+1543
+01:31:33,500 --> 01:31:34,791
+Kiinni jäit.
+
+1544
+01:31:40,250 --> 01:31:42,166
+Bravo, Tim.
+
+1545
+01:31:48,333 --> 01:31:49,583
+Hei!
+
+1546
+01:31:52,958 --> 01:31:53,874
+Lili!
+
+1547
+01:31:53,875 --> 01:31:56,082
+Roni! Reiska! Te tulitte!
+
+1548
+01:31:56,083 --> 01:31:57,665
+Juu!
+
+1549
+01:31:57,666 --> 01:31:58,500
+Miksi?
+
+1550
+01:32:00,916 --> 01:32:02,832
+Hei! Seis! Seis!
+
+1551
+01:32:02,833 --> 01:32:06,915
+Koska nyt on perusteltu syy puskemiseen.
+
+1552
+01:32:06,916 --> 01:32:08,374
+Kiitos.
+- Vihdoinkin!
+
+1553
+01:32:08,375 --> 01:32:09,625
+Jee!
+
+1554
+01:32:28,666 --> 01:32:29,874
+Lain koura?
+
+1555
+01:32:29,875 --> 01:32:32,540
+Ei. Vain sorkka.
+
+1556
+01:32:32,541 --> 01:32:33,458
+Jee!
+
+1557
+01:32:37,125 --> 01:32:40,957
+Hänellä oli miljoonia. Miljoonia!
+
+1558
+01:32:40,958 --> 01:32:42,249
+Olen hänen poikansa.
+
+1559
+01:32:42,250 --> 01:32:44,375
+Miljoonat kuuluvat minulle.
+
+1560
+01:32:52,125 --> 01:32:54,374
+Tiesin, että hän on syytön,
+vaikka onkin jenkki.
+
+1561
+01:32:54,375 --> 01:32:55,416
+Etpäs tiennyt.
+
+1562
+01:32:57,750 --> 01:32:59,249
+Kuulehan.
+
+1563
+01:32:59,250 --> 01:33:03,499
+Koko Notkon poliisilaitoksen puolesta,
+
+1564
+01:33:03,500 --> 01:33:05,749
+vilpittömät anteeksipyyntömme.
+
+1565
+01:33:05,750 --> 01:33:08,707
+Kuuluuko siihen muita kuin sinä?
+
+1566
+01:33:08,708 --> 01:33:10,375
+Ei.
+
+1567
+01:33:11,125 --> 01:33:12,958
+Minä pyydän anteeksi.
+
+1568
+01:33:14,750 --> 01:33:15,625
+Kiitos.
+
+1569
+01:33:24,791 --> 01:33:26,208
+Katso.
+
+1570
+01:33:27,250 --> 01:33:28,250
+Ikkunakaritsa?
+
+1571
+01:33:29,625 --> 01:33:31,500
+Ikkunakaritsa.
+
+1572
+01:33:33,208 --> 01:33:35,499
+Aiotko jäädä tänne joksikin aikaa?
+
+1573
+01:33:35,500 --> 01:33:40,833
+Vapauduin juuri vankilasta,
+joten pitää ottaa vähän aikaa.
+
+1574
+01:33:45,333 --> 01:33:47,374
+Toivon, että jäät.
+
+1575
+01:33:47,375 --> 01:33:49,166
+Kenties.
+
+1576
+01:33:53,833 --> 01:33:54,915
+Rebekka.
+
+1577
+01:33:54,916 --> 01:33:58,833
+Haluan vain sanoa,
+että olen kovin pahoillani.
+
+1578
+01:34:26,041 --> 01:34:27,541
+Talo tarjoaa.
+
+1579
+01:34:29,333 --> 01:34:30,458
+Kiitos.
+
+1580
+01:34:34,875 --> 01:34:36,583
+Hetkinen.
+
+1581
+01:34:40,583 --> 01:34:42,791
+Olen pahoillani.
+
+1582
+01:34:45,000 --> 01:34:46,957
+Näin tämän.
+
+1583
+01:34:46,958 --> 01:34:50,082
+Se oli postilaukussa ja…
+
+1584
+01:34:50,083 --> 01:34:52,040
+En tiennyt, että olit Jorin tytär.
+
+1585
+01:34:52,041 --> 01:34:55,082
+Ostin hänelle
+ruusuntuoksuisen paperin, joten…
+
+1586
+01:34:55,083 --> 01:34:57,040
+Voit kuvitella.
+
+1587
+01:34:57,041 --> 01:34:58,583
+Olitko rakastunut häneen?
+
+1588
+01:35:00,208 --> 01:35:01,291
+No…
+
+1589
+01:35:01,833 --> 01:35:04,290
+Ja oliko hän rakastunut…?
+
+1590
+01:35:04,291 --> 01:35:06,457
+Yritti.
+
+1591
+01:35:06,458 --> 01:35:09,082
+Mutta Jori rakasti äitiäsi.
+
+1592
+01:35:09,083 --> 01:35:12,708
+Hänen sydämessään ei ollut tilaa toiselle.
+
+1593
+01:35:13,291 --> 01:35:15,957
+Mietin aina, miltä äitisi näytti.
+
+1594
+01:35:15,958 --> 01:35:18,416
+Mutta nyt tiedän.
+
+1595
+01:35:19,583 --> 01:35:22,708
+Olisinpa kysynyt äidistä enemmän.
+
+1596
+01:35:23,625 --> 01:35:25,207
+En tiedä edes hänen nimeään.
+
+1597
+01:35:25,208 --> 01:35:27,374
+Lili.
+
+1598
+01:35:27,375 --> 01:35:28,958
+Hänen nimensä oli Lili.
+
+1599
+01:35:35,125 --> 01:35:38,332
+<i>Tietenkään väärennetty testamentti ei päde.</i>
+
+1600
+01:35:38,333 --> 01:35:41,415
+{\an8}Mutta saat silti lampaat ja kaiken maan.
+
+1601
+01:35:41,416 --> 01:35:43,624
+Neiti Haapala.
+- Ihan kiva sekin.
+
+1602
+01:35:43,625 --> 01:35:45,749
+Anteeksi, että häiritään.
+
+1603
+01:35:45,750 --> 01:35:49,999
+Palvi ja minä on yritetty
+käynnistää uusi bisnes.
+
+1604
+01:35:50,000 --> 01:35:51,500
+Meillä on hyvä pankki taustalla.
+
+1605
+01:35:52,416 --> 01:35:55,958
+Ja me haluttaisiin ostaa
+isäsi maat ja lampaat sinulta.
+
+1606
+01:35:56,708 --> 01:35:57,665
+Kaksi murhaajaa.
+
+1607
+01:35:57,666 --> 01:35:59,082
+Kuinka?
+
+1608
+01:35:59,083 --> 01:36:02,207
+Isä tiesi, että teurastitte
+lampaita hänen maillaan.
+
+1609
+01:36:02,208 --> 01:36:05,165
+Te olette ne kaksi murhaajaa.
+
+1610
+01:36:05,166 --> 01:36:06,832
+Kaksi liikemiestä.
+
+1611
+01:36:06,833 --> 01:36:09,415
+Jotka tarjoaa hyvää hintaa.
+
+1612
+01:36:09,416 --> 01:36:11,583
+Tiedättekö edes niiden nimiä?
+
+1613
+01:36:12,750 --> 01:36:14,665
+Isä kertoi niiden nimet.
+
+1614
+01:36:14,666 --> 01:36:17,000
+On Lili.
+
+1615
+01:36:18,916 --> 01:36:20,332
+Ja Mauno.
+
+1616
+01:36:20,333 --> 01:36:24,499
+Ja se iso pöyhkeä on Pilvi. Hirveä diiva.
+
+1617
+01:36:24,500 --> 01:36:27,165
+Se, jolla on villaa silmillä,
+on Villasilmä,
+
+1618
+01:36:27,166 --> 01:36:30,540
+mikä on vähän ilmeistä,
+mutta siitä ei kuulemma ollut valitettu.
+
+1619
+01:36:30,541 --> 01:36:32,832
+Neiti Haapala…
+- Haka.
+
+1620
+01:36:32,833 --> 01:36:36,082
+Rebekka Haka. Muutan nimeni.
+
+1621
+01:36:36,083 --> 01:36:38,374
+En hoida nimenmuutoksia.
+
+1622
+01:36:38,375 --> 01:36:40,915
+Valitan, neiti Haka, mutta onnea matkaan.
+
+1623
+01:36:40,916 --> 01:36:42,249
+Hei.
+
+1624
+01:36:42,250 --> 01:36:43,790
+Odota.
+
+1625
+01:36:43,791 --> 01:36:46,915
+Mitä jos haluan vielä lisää lampaita?
+
+1626
+01:36:46,916 --> 01:36:49,875
+Saanko hyvän pankin taakseni?
+
+1627
+01:36:50,625 --> 01:36:53,790
+Lili, miten onnistuit ratkaisemaan sen?
+
+1628
+01:36:53,791 --> 01:36:57,915
+Tietysti hän ratkaisi sen.
+Hän on maailman fiksuin lammas.
+
+1629
+01:36:57,916 --> 01:37:03,415
+Luulin olevani, mutta en ole.
+Tein virheitä.
+
+1630
+01:37:03,416 --> 01:37:08,708
+Olisi pitänyt uskoa talvilammasta,
+kun se näki Jorin haamun, mutta minä…
+
+1631
+01:37:16,333 --> 01:37:19,041
+Tulkaahan nyt.
+
+1632
+01:37:29,250 --> 01:37:30,999
+Mikä sinun nimesi on? Onko sisaruksia?
+
+1633
+01:37:31,000 --> 01:37:34,624
+Kauanko olet ollut täällä?
+Kamalasti kysymyksiä.
+
+1634
+01:37:34,625 --> 01:37:36,958
+Anteeksi vain.
+<i>- Excusez-moi.</i>
+
+1635
+01:37:38,958 --> 01:37:40,375
+Missä naamasi on?
+
+1636
+01:37:43,000 --> 01:37:45,124
+Sinulla on orf.
+
+1637
+01:37:45,125 --> 01:37:47,750
+Minullakin on orf!
+
+1638
+01:37:53,166 --> 01:37:55,166
+Lili.
+
+1639
+01:38:23,375 --> 01:38:27,500
+HAKAN LAMPAIDENKASVATUSOPAS
+
+1640
+01:39:08,208 --> 01:39:10,041
+"Ensimmäinen luku:
+
+1641
+01:39:11,916 --> 01:39:17,500
+Yleisen käsityksen mukaan
+lampaat ovat kotieläimistä tyhmimpiä.
+
+1642
+01:39:21,125 --> 01:39:22,833
+Mutta se ei pidä paikkaansa.
+
+1643
+01:39:23,916 --> 01:39:27,665
+{\an8}Lampaat ovat älykkäitä ja innostavia.
+
+1644
+01:39:27,666 --> 01:39:30,707
+Vanha lastenloru alkaa näin:
+
+1645
+01:39:30,708 --> 01:39:33,082
+<i>Pikku paimen lampaansa hukkas</i>
+
+1646
+01:39:33,083 --> 01:39:34,915
+<i>Eikä niitä löydä</i>
+
+1647
+01:39:34,916 --> 01:39:36,249
+<i>Mutta ihan omillaan</i>
+
+1648
+01:39:36,250 --> 01:39:37,333
+<i>Ne kyllä kotiin palaa</i>
+
+1649
+01:39:38,083 --> 01:39:41,458
+<i>Ja häntää heiluttaa"</i>
+
+1650
+01:39:47,291 --> 01:39:49,458
+Onpa täällä mukavaa.
+
+1651
+01:39:49,916 --> 01:39:52,000
+Mutta vähän yksinäistä.
+
+1652
+01:39:55,125 --> 01:39:56,791
+Jori.
+
+1653
+01:39:57,625 --> 01:40:00,082
+Se olkoon nimesi.
+
+1654
+01:40:00,083 --> 01:40:02,416
+Joka lampaalla tulee olla nimi.
+
+1655
+01:40:05,041 --> 01:40:06,250
+Jori.
+
+1656
+01:40:16,333 --> 01:40:22,332
+"Joukko suloisia, pehmoisia,
+valkoisia lampaita.
+
+1657
+01:40:22,333 --> 01:40:24,583
+Moni ei tahdo erottaa niitä toisistaan.
+
+1658
+01:40:25,750 --> 01:40:28,540
+Mutta joka laumaan kuuluu yksilöitä,
+
+1659
+01:40:28,541 --> 01:40:32,750
+joilla on omat piirteensä ja persoonansa.
+
+1660
+01:40:36,166 --> 01:40:39,749
+On lempeitä, ystävällisiä ja etäisiä.
+
+1661
+01:40:39,750 --> 01:40:43,165
+Fiksuja ja hupsuja. Ujoja ja rehvakkaita."
+
+1662
+01:40:43,166 --> 01:40:46,207
+Hei, mikä nimesi on?
+- Jori.
+
+1663
+01:40:46,208 --> 01:40:47,457
+Hei, Jori.
+
+1664
+01:40:47,458 --> 01:40:50,249
+"Lampailla on ollut paikkansa
+lähes kaikissa kulttuureissa -
+
+1665
+01:40:50,250 --> 01:40:52,957
+sekä kielissä ja kuva-aiheissa -
+
+1666
+01:40:52,958 --> 01:40:55,957
+rakkauden, viattomuuden
+ja rauhan symboleina.
+
+1667
+01:40:55,958 --> 01:41:01,000
+{\an8}Ihmisten tavoin
+nekin haluavat kuulua joukkoon.
+
+1668
+01:41:01,541 --> 01:41:04,375
+{\an8}Ne antavat meidän ottaa ne joukkoomme.
+
+1669
+01:41:04,791 --> 01:41:06,291
+{\an8}Ja niin mekin voimme -
+
+1670
+01:41:07,333 --> 01:41:09,875
+kuulua niiden joukkoon."
+
+1671
+01:43:22,166 --> 01:43:24,875
+LAMMASETSIVÄT
+
+1672
+01:48:46,208 --> 01:48:48,124
+<i>Minusta se oli sittenkin sisäkkö.</i>
+
+1673
+01:48:48,125 --> 01:48:49,666
+Tekstitys: Marko Hartama
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2026-08-24 14:20:43</dateadded>
+  <title>Commodores</title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>900ab237-327b-44e2-87e4-73250bbe025a</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Commodores/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Commodores/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,9 @@
+groups:
+  - name: freellmapi
+    description: FreellmAPI service
+    enabled: true
+    members:
+      - 02-ai-freellmapi-freellmapi-1
+    strategy:
+      blocking: true
+      timeout: 1m

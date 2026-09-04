@@ -1,0 +1,7389 @@
+1
+00:00:42,208 --> 00:00:49,166
+GLENNKILL: EIN SCHAFSKRIMI
+
+2
+00:00:49,333 --> 00:00:50,916
+<i>Liebste Rebecca,</i>
+
+3
+00:00:52,208 --> 00:00:54,875
+<i>ich weiß, du hast viele Fragen.</i>
+
+4
+00:00:56,041 --> 00:00:57,250
+<i>Die habe ich auch.</i>
+
+5
+00:00:57,416 --> 00:01:00,541
+<i>Das Leben ist nun mal ein Geheimnis.</i>
+
+6
+00:01:01,125 --> 00:01:04,166
+<i>Aber wenn es eine Antwort gibt
+auf alle Rätsel im Universum,</i>
+
+7
+00:01:04,333 --> 00:01:06,000
+<i>ein Geheimnis des Glücks,</i>
+
+8
+00:01:06,166 --> 00:01:08,583
+<i>dann wäre es schlicht und ergreifend:</i>
+
+9
+00:01:10,625 --> 00:01:11,708
+<i>Schafe.</i>
+
+10
+00:01:15,041 --> 00:01:16,333
+<i>Also, im Ernst.</i>
+
+11
+00:01:16,666 --> 00:01:18,166
+<i>Es sind wirklich die Schafe.</i>
+
+12
+00:01:20,375 --> 00:01:22,166
+Schon gut. Ich komme.
+
+13
+00:01:35,208 --> 00:01:38,666
+<i>In deinem letzten Brief hast du gefragt,
+ob eins meiner Schafe besonders ist.</i>
+
+14
+00:01:38,833 --> 00:01:43,375
+<i>Nun, sie sind alle besonders.
+Darum habe ich jedem einen Namen gegeben.</i>
+
+15
+00:01:43,541 --> 00:01:44,625
+<i>Zum Beispiel:</i>
+
+16
+00:01:45,583 --> 00:01:49,458
+<i>Die raufenden Zwillingswidder
+habe ich Ronnie und Reggie genannt.</i>
+
+17
+00:01:49,958 --> 00:01:53,291
+<i>Es gibt den sehr stolzen,
+würdevollen Sir Ritchfield.</i>
+
+18
+00:01:54,083 --> 00:01:55,833
+<i>Cloud, das Flauschigste.</i>
+
+19
+00:01:56,000 --> 00:01:57,791
+<i>Unsere kleine Diva.</i>
+
+20
+00:01:58,666 --> 00:02:00,958
+<i>Zora, das Neugierigste.</i>
+
+21
+00:02:01,750 --> 00:02:04,125
+<i>Mopple, das Geduldigste.</i>
+
+22
+00:02:04,875 --> 00:02:06,416
+<i>Und Woll-Auge…</i>
+
+23
+00:02:07,125 --> 00:02:09,750
+<i>Na ja, mir ist kein
+besserer Name eingefallen.</i>
+
+24
+00:02:10,041 --> 00:02:13,000
+{\an8}<i>Und ja, ich weiß,
+ich habe gesagt, sie sind alle besonders,</i>
+
+25
+00:02:13,166 --> 00:02:17,833
+<i>aber ich muss zugeben,
+dass zwei mir besonders am Herzen liegen.</i>
+
+26
+00:02:18,541 --> 00:02:19,625
+<i>Da ist Sebastian.</i>
+
+27
+00:02:19,791 --> 00:02:21,208
+<i>Mein größter Bock.</i>
+
+28
+00:02:21,375 --> 00:02:23,833
+<i>Und wie ich ein Einzelgänger.</i>
+
+29
+00:02:24,416 --> 00:02:27,041
+<i>Früher oder später
+macht er sich davon,</i>
+
+30
+00:02:27,375 --> 00:02:30,458
+<i>und früher oder später
+kommt er wieder zurück.</i>
+
+31
+00:02:34,000 --> 00:02:36,666
+<i>Und zu guter Letzt, Lily.</i>
+
+32
+00:02:37,125 --> 00:02:38,666
+<i>Mein klügstes Schaf.</i>
+
+33
+00:02:38,833 --> 00:02:42,082
+<i>Sie scheint immer zu wissen,
+was in meinem Kopf vorgeht</i>
+
+34
+00:02:42,083 --> 00:02:44,375
+<i>und was ich im Herzen fühle.</i>
+
+35
+00:02:44,541 --> 00:02:47,166
+<i>Mehr als alle andern bringt sie mir</i>
+
+36
+00:02:47,291 --> 00:02:49,875
+<i>diesen Frieden,
+wie ihn nur Schäfer kennen.</i>
+
+37
+00:02:50,041 --> 00:02:51,500
+<i>Den inneren Frieden,</i>
+
+38
+00:02:51,666 --> 00:02:56,125
+<i>wenn man sich um die
+freundlichsten Geschöpfe der Welt kümmert.</i>
+
+39
+00:03:01,416 --> 00:03:03,791
+<i>Jeder Tag startet mit ihrer Gesundheit.</i>
+
+40
+00:03:05,916 --> 00:03:07,666
+<i>Ich füttere sie gut.</i>
+
+41
+00:03:08,416 --> 00:03:09,541
+<i>Ich pflege sie gut.</i>
+
+42
+00:03:11,541 --> 00:03:14,291
+<i>Ich gebe mein Bestes,
+sie zu unterhalten.</i>
+
+43
+00:03:14,458 --> 00:03:17,458
+<i>Wenn ich aufwach,
+dann weiß ich ganz genau,</i>
+
+44
+00:03:17,625 --> 00:03:20,291
+<i>ich bin der Mann,
+der aufwacht neben dir.</i>
+
+45
+00:03:22,000 --> 00:03:26,083
+<i>Und ich gebe ihnen ihre Medizin,
+von der sie sagen würden, sie schmeckt,</i>
+
+46
+00:03:26,250 --> 00:03:27,750
+<i>wenn sie sprechen könnten.</i>
+
+47
+00:03:27,916 --> 00:03:30,708
+Zeit für deine Medizin,
+Kumpel. Bitte schön.
+
+48
+00:03:31,041 --> 00:03:35,208
+<i>Und wenn nach getaner Arbeit
+die Sonne tief am Himmel steht,</i>
+
+49
+00:03:35,375 --> 00:03:37,541
+<i>suche ich ein Buch zum Vorlesen aus.</i>
+
+50
+00:03:37,708 --> 00:03:42,000
+<i>Spannende Krimis, Rätselgeschichten.
+All meine Lieblingsbücher.</i>
+
+51
+00:03:42,166 --> 00:03:44,916
+"Ich weiß, wann
+Rodney Hollingshead ermordet wurde
+
+52
+00:03:45,083 --> 00:03:48,375
+und ich weiß,
+wer der wahre Mörder ist."
+
+53
+00:03:48,625 --> 00:03:51,583
+<i>Ich bilde mir gern ein,
+dass sie alles verstehen.</i>
+
+54
+00:03:52,250 --> 00:03:54,082
+<i>Aber in meinem Herzen weiß ich,</i>
+
+55
+00:03:54,083 --> 00:03:56,666
+<i>so besonders sie auch sein mögen,
+sie sind nur</i>
+
+56
+00:03:57,166 --> 00:03:58,416
+<i>Schafe.</i>
+
+57
+00:03:59,500 --> 00:04:00,791
+So, Schluss für heute.
+
+58
+00:04:01,375 --> 00:04:02,791
+Na, los. Die ganze Bande.
+
+59
+00:04:02,958 --> 00:04:05,083
+Das Ende gibt's morgen.
+
+60
+00:04:11,791 --> 00:04:13,458
+Warum hört er gerade da auf?
+
+61
+00:04:13,625 --> 00:04:15,833
+Genau, wo rauskommt, wer der Mörder ist.
+
+62
+00:04:16,000 --> 00:04:18,041
+Voll unfair.
+Es war die Magd, oder?
+
+63
+00:04:18,208 --> 00:04:19,750
+Natürlich war es die Magd.
+
+64
+00:04:19,916 --> 00:04:22,708
+Nein, nein, nein.
+Es war der Gärtner.
+
+65
+00:04:22,875 --> 00:04:25,583
+Ständig am Mähen,
+aber keinen Grashalm gegessen.
+
+66
+00:04:25,750 --> 00:04:27,083
+Ja, sehr verdächtig.
+
+67
+00:04:27,250 --> 00:04:30,666
+- Seid ihr doof? Der Arzt war's.
+- Nix da. Es war die gruselige Tante.
+
+68
+00:04:30,791 --> 00:04:33,708
+Die war in einer
+anderen Geschichte, du Genie.
+
+69
+00:04:33,875 --> 00:04:35,625
+Haben wir dieselben Eltern?
+
+70
+00:04:35,791 --> 00:04:37,291
+Jetzt geht's wieder los.
+
+71
+00:04:37,458 --> 00:04:38,500
+Genau.
+
+72
+00:04:39,250 --> 00:04:40,833
+Die beiden schon wieder.
+
+73
+00:04:41,000 --> 00:04:43,583
+Ihr liegt alle falsch.
+
+74
+00:04:43,750 --> 00:04:46,333
+Ich hab's schon
+vor zwei Kapiteln durchschaut.
+
+75
+00:04:46,875 --> 00:04:47,916
+Die Magd, oder?
+
+76
+00:04:48,083 --> 00:04:49,250
+Nicht die Magd.
+
+77
+00:04:49,416 --> 00:04:52,458
+Der Neffe, Bertie Hollingshead.
+
+78
+00:04:52,625 --> 00:04:56,791
+Aber Lily, hat der Detektiv nicht gezeigt,
+dass alle Beweise gegen ihn
+
+79
+00:04:56,958 --> 00:04:59,250
+vom wahren Täter gefälscht waren?
+
+80
+00:04:59,416 --> 00:05:00,625
+Ganz genau.
+
+81
+00:05:00,791 --> 00:05:02,208
+Versteht ihr nicht?
+
+82
+00:05:02,375 --> 00:05:06,250
+Um nicht verurteilt zu werden,
+hat er die Beweise selbst gefälscht.
+
+83
+00:05:08,791 --> 00:05:11,583
+Bertie Hollingshead ist der wahre Täter.
+
+84
+00:05:12,875 --> 00:05:14,333
+Wofür war das?
+
+85
+00:05:16,333 --> 00:05:19,750
+George liest uns morgen das Ende vor.
+Ihr werdet schon sehen.
+
+86
+00:05:23,166 --> 00:05:24,958
+Ich bleib dabei, es war die Magd.
+
+87
+00:05:25,291 --> 00:05:27,625
+<i>"Bertie wusste, dass man per Gesetz</i>
+
+88
+00:05:28,000 --> 00:05:31,958
+für dasselbe Verbrechen
+nicht zweimal belangt werden kann.
+
+89
+00:05:32,125 --> 00:05:36,791
+Also fälschte er selbst die Beweise,
+um einer Verurteilung zu entgehen.
+
+90
+00:05:37,416 --> 00:05:41,875
+Bertie Hollingshead
+war der wahre Täter."
+
+91
+00:05:47,333 --> 00:05:50,916
+<i>Die meisten meiner Schafe
+verbringen ihren Tag mit Fressen</i>
+
+92
+00:05:51,083 --> 00:05:52,916
+<i>oder mit Gedanken übers Fressen.</i>
+
+93
+00:05:53,458 --> 00:05:57,333
+<i>Ich habe drei übermütige Lämmer,
+bis oben hin voll mit Energie.</i>
+
+94
+00:05:57,875 --> 00:06:02,083
+<i>Fröhliche, sorglose kleine Geschöpfe,
+die im Frühling geboren wurden.</i>
+
+95
+00:06:02,458 --> 00:06:06,208
+<i>Tatsächlich kommen fast alle Lämmer
+im Frühling zur Welt.</i>
+
+96
+00:06:06,791 --> 00:06:11,000
+<i>Und dann ist da noch mein eines Lamm,
+das im Winter geboren wurde.</i>
+
+97
+00:06:12,416 --> 00:06:14,333
+Oh, hallo.
+
+98
+00:06:16,791 --> 00:06:17,958
+- Ich bin Daisy.
+- Ich Oliver.
+
+99
+00:06:18,125 --> 00:06:20,083
+- Ich bin Pickles.
+- Wie ist dein Name?
+
+100
+00:06:20,666 --> 00:06:22,333
+Ich habe keinen Namen.
+
+101
+00:06:22,500 --> 00:06:24,166
+Willst du mit uns spielen?
+
+102
+00:06:24,583 --> 00:06:26,250
+Nein! Verschwinde!
+
+103
+00:06:26,958 --> 00:06:29,750
+Ihr dürft nicht
+mit dem Winterlamm spielen.
+
+104
+00:06:29,916 --> 00:06:32,541
+Er gehört nicht zu unserer Herde.
+
+105
+00:06:33,333 --> 00:06:36,083
+<i>Aus Gründen,
+die nur Schafe verstehen,</i>
+
+106
+00:06:36,250 --> 00:06:39,583
+<i>wird ein Winterlamm oft
+von der Herde ausgestoßen.</i>
+
+107
+00:06:39,750 --> 00:06:40,583
+Ist ja gut.
+
+108
+00:06:40,750 --> 00:06:44,333
+<i>Nur weil ein Winterlamm anders ist.</i>
+
+109
+00:06:44,500 --> 00:06:47,083
+Na, also. Alles ist gut.
+
+110
+00:06:55,750 --> 00:06:57,041
+Ich habe eine Frage.
+
+111
+00:06:57,166 --> 00:06:59,625
+Warum ist George
+immer so nett zu dem Lamm?
+
+112
+00:06:59,833 --> 00:07:01,541
+George ist kein Schaf.
+
+113
+00:07:01,708 --> 00:07:04,666
+Es hat ihn nie jemand
+über Winterlämmer aufgeklärt.
+
+114
+00:07:16,666 --> 00:07:19,166
+<i>Oh, eins noch.
+Falls du meine Einladung annimmst,</i>
+
+115
+00:07:19,333 --> 00:07:22,250
+<i>ich lebe in der Nähe
+einer Stadt namens Denbrook.</i>
+
+116
+00:07:22,583 --> 00:07:24,750
+{\an8}<i>Sie ist voller schräger Gestalten.</i>
+
+117
+00:07:24,916 --> 00:07:26,000
+{\an8}<i>Beispielsweise…</i>
+
+118
+00:07:26,166 --> 00:07:27,166
+Morgen, Caleb.
+
+119
+00:07:27,291 --> 00:07:28,458
+<i>Caleb, auch ein Schäfer.</i>
+
+120
+00:07:28,583 --> 00:07:29,499
+Guten Morgen, Ladies.
+
+121
+00:07:29,500 --> 00:07:30,333
+<i>Den mag ich nicht.</i>
+
+122
+00:07:30,666 --> 00:07:32,125
+<i>Ham, der Metzger.</i>
+
+123
+00:07:32,291 --> 00:07:34,166
+<i>Den mag ich noch weniger.</i>
+
+124
+00:07:34,333 --> 00:07:35,750
+<i>Beth, die Wirtin.</i>
+
+125
+00:07:35,916 --> 00:07:37,041
+<i>Die mag mich nicht.</i>
+
+126
+00:07:37,208 --> 00:07:38,708
+Ich könnte ihn umbringen!
+
+127
+00:07:38,875 --> 00:07:40,583
+{\an8}<i>Tim, der Polizist.</i>
+
+128
+00:07:41,958 --> 00:07:43,041
+<i>Ein Idiot.</i>
+
+129
+00:07:43,208 --> 00:07:47,000
+<i>Und der Pfarrer Hillcoate,
+der sich für den Hirten der Menschen hält.</i>
+
+130
+00:07:47,166 --> 00:07:50,250
+<i>Wir haben eine komplizierte Beziehung.</i>
+
+131
+00:07:50,416 --> 00:07:54,500
+Und nun die heutige Predigt,
+das Gleichnis vom verlorenen Schaf.
+
+132
+00:08:05,208 --> 00:08:06,916
+George, gesellen Sie sich zu uns?
+
+133
+00:08:07,708 --> 00:08:10,291
+Im Hause des Herrn
+ist jeder willkommen.
+
+134
+00:08:11,208 --> 00:08:12,500
+Metzger inbegriffen, hm?
+
+135
+00:08:18,958 --> 00:08:20,875
+Ich geselle mich nicht zu euch.
+
+136
+00:08:21,875 --> 00:08:23,500
+Ich begleiche meine Schuld.
+
+137
+00:08:30,166 --> 00:08:31,708
+Der gute alte George.
+
+138
+00:08:34,000 --> 00:08:35,375
+Der gute alte George.
+
+139
+00:08:35,708 --> 00:08:37,583
+<i>Aber genug von den Leuten.</i>
+
+140
+00:08:38,000 --> 00:08:40,166
+<i>Ich möchte, dass du
+meine Herde kennenlernst.</i>
+
+141
+00:08:40,333 --> 00:08:42,500
+<i>Sie freuen sich so darauf, dich zu sehen.</i>
+
+142
+00:08:43,541 --> 00:08:45,208
+<i>Genau wie ich.</i>
+
+143
+00:08:45,916 --> 00:08:47,583
+<i>Bitte komm bald.</i>
+
+144
+00:08:50,666 --> 00:08:52,333
+<i>In Liebe, George.</i>
+
+145
+00:08:59,541 --> 00:09:00,625
+Cloud?
+
+146
+00:09:01,041 --> 00:09:02,250
+Ich habe eine Frage.
+
+147
+00:09:02,416 --> 00:09:05,083
+Macht Löwenzahn
+meine Wimpern so schön wie deine?
+
+148
+00:09:05,250 --> 00:09:07,791
+Nein, für die Wimpern
+bringt der nichts.
+
+149
+00:09:07,958 --> 00:09:10,000
+Aber er wirkt Wunder fürs Fell.
+
+150
+00:09:10,166 --> 00:09:11,458
+Sieh dir Woll-Auge an.
+
+151
+00:09:11,625 --> 00:09:13,208
+Der isst nichts anderes.
+
+152
+00:09:13,375 --> 00:09:16,041
+Ach, das ist Löwenzahn? Okay.
+
+153
+00:09:16,208 --> 00:09:18,999
+Wir sollten vom Löwenzahn
+was für Sebastian aufheben.
+
+154
+00:09:19,000 --> 00:09:20,125
+Der ist seit Tagen weg.
+
+155
+00:09:20,291 --> 00:09:23,916
+Wen kümmert's? Seit George ihn
+weiß Gott woher angeschleppt an,
+
+156
+00:09:24,125 --> 00:09:26,125
+wandert er ständig in diese Stadt.
+
+157
+00:09:26,250 --> 00:09:27,500
+Soll er doch hungern.
+
+158
+00:09:27,666 --> 00:09:31,500
+Nur weil er sich nicht um uns kümmert,
+müssen wir es ihm nicht gleichtun.
+
+159
+00:09:31,666 --> 00:09:33,916
+Sebastian gehört zur Herde.
+
+160
+00:09:34,166 --> 00:09:36,666
+Oh, da! Da ist Caleb.
+
+161
+00:09:39,541 --> 00:09:40,875
+Hundies!
+
+162
+00:09:41,041 --> 00:09:45,000
+Hundies, Hundies!
+
+163
+00:09:46,750 --> 00:09:48,791
+Caleb! Hier drüben!
+
+164
+00:09:48,958 --> 00:09:52,000
+Oh, sein Geruch
+begeistert mich immer wieder.
+
+165
+00:09:52,166 --> 00:09:53,708
+Das sind seine Wollpullover.
+
+166
+00:09:54,166 --> 00:09:56,666
+Die sind so schön gefärbt.
+
+167
+00:09:57,083 --> 00:09:58,416
+- Kann ich reinkommen?
+- Hau ab!
+
+168
+00:09:58,541 --> 00:09:59,708
+Ich komme rein.
+
+169
+00:10:00,208 --> 00:10:04,291
+Es ist so neu,
+so wunderschön, so glänzend.
+
+170
+00:10:04,708 --> 00:10:06,791
+Denkst du dasselbe wie ich?
+
+171
+00:10:07,125 --> 00:10:09,541
+- Ich will es rammen!
+- So was von rammen!
+
+172
+00:10:10,416 --> 00:10:11,666
+Reggie! Ronnie!
+
+173
+00:10:12,958 --> 00:10:16,666
+Wie oft denn noch?
+Wir rammen keine Gegenstände, außer?
+
+174
+00:10:16,833 --> 00:10:19,958
+Außer es gibt einen
+berechtigten Anlass zum Rammen.
+
+175
+00:10:20,125 --> 00:10:21,125
+Geht doch.
+
+176
+00:10:21,291 --> 00:10:23,750
+Caleb ist diesen Monat
+zum dritten Mal hier.
+
+177
+00:10:23,916 --> 00:10:26,500
+Es kann nur um eine Sache gehen.
+
+178
+00:10:27,041 --> 00:10:28,208
+Herden zusammenlegen.
+
+179
+00:10:28,375 --> 00:10:30,291
+- Herden zusammenlegen!
+- Neue Schafe.
+
+180
+00:10:30,458 --> 00:10:32,208
+- Neue Wiesen.
+- Hundies?
+
+181
+00:10:32,375 --> 00:10:33,708
+Ich denke darüber nach.
+
+182
+00:10:33,875 --> 00:10:36,458
+Du hattest deine Chance
+und hast mich belogen!
+
+183
+00:10:36,625 --> 00:10:37,791
+Komm nicht noch mal!
+
+184
+00:10:45,458 --> 00:10:48,166
+Ups, wohl doch keine
+zusammengelegten Herden.
+
+185
+00:10:49,833 --> 00:10:52,958
+Ich hab mich so gefreut.
+Und jetzt bin ich traurig und sauer.
+
+186
+00:10:53,083 --> 00:10:54,666
+Ich will das sofort vergessen.
+
+187
+00:10:54,833 --> 00:10:56,833
+Du hast recht, es ist enttäuschend.
+
+188
+00:10:57,000 --> 00:10:58,250
+Okay, alle herhören.
+
+189
+00:10:58,416 --> 00:11:02,333
+Wir vergessen jetzt auf drei,
+dass Caleb vorbeigeschaut hat.
+
+190
+00:11:02,500 --> 00:11:04,166
+Eins, zwei…
+
+191
+00:11:04,333 --> 00:11:07,291
+Aber was ist mit Mopple?
+Er kann nichts vergessen.
+
+192
+00:11:07,458 --> 00:11:08,291
+Warum nicht?
+
+193
+00:11:08,458 --> 00:11:09,916
+Der arme Mopple.
+
+194
+00:11:10,083 --> 00:11:12,125
+Er leidet an einer schlimmen Krankheit.
+
+195
+00:11:12,416 --> 00:11:15,833
+Anders als wir, kann er nicht
+willentlich Dinge vergessen.
+
+196
+00:11:16,000 --> 00:11:17,083
+Ach, ja.
+
+197
+00:11:17,250 --> 00:11:21,750
+Mopple, sobald wir es vergessen haben,
+erwähne bitte nichts mehr davon.
+
+198
+00:11:21,916 --> 00:11:24,375
+Ganz sicher?
+So schlimm war's doch nicht.
+
+199
+00:11:24,541 --> 00:11:27,791
+Nein. Aber toll war's auch nicht.
+Wozu sich erinnern?
+
+200
+00:11:28,500 --> 00:11:29,500
+Bereit?
+
+201
+00:11:29,833 --> 00:11:30,833
+Eins.
+
+202
+00:11:31,333 --> 00:11:32,416
+Zwei.
+
+203
+00:11:32,750 --> 00:11:33,875
+Drei.
+
+204
+00:11:36,541 --> 00:11:37,583
+Cloud?
+
+205
+00:11:38,208 --> 00:11:39,375
+Ich habe eine Frage.
+
+206
+00:11:39,541 --> 00:11:42,333
+Macht Löwenzahn
+meine Wimpern so schön wie deine?
+
+207
+00:11:42,500 --> 00:11:44,833
+Nein, für die Wimpern
+bringt der nichts.
+
+208
+00:11:45,041 --> 00:11:48,208
+- Aber er wirkt Wunder fürs Fell.
+- Aber er wirkt Wunder fürs Fell.
+
+209
+00:11:58,250 --> 00:11:59,250
+Mir geht's gut.
+
+210
+00:12:12,708 --> 00:12:14,666
+Ich komme schon klar. Versprochen.
+
+211
+00:12:14,833 --> 00:12:15,875
+Es ist nur…
+
+212
+00:12:16,958 --> 00:12:18,250
+Ich weiß auch nicht.
+
+213
+00:12:21,833 --> 00:12:25,458
+Ich hatte gehofft,
+dass hier bald alles anders wird.
+
+214
+00:12:26,708 --> 00:12:28,416
+Aber kein Grund zur Sorge.
+
+215
+00:12:29,458 --> 00:12:30,833
+Dir wird's gutgehen.
+
+216
+00:12:32,125 --> 00:12:34,083
+Und ich komme auch klar.
+
+217
+00:12:57,625 --> 00:12:59,166
+DENBROOK
+KULTURFESTIVAL
+
+218
+00:13:05,375 --> 00:13:06,375
+Hi.
+
+219
+00:13:06,541 --> 00:13:09,416
+Oh, hallo, hallo.
+Irgendwas Spannendes?
+
+220
+00:13:09,583 --> 00:13:13,916
+{\an8}Kaum Post für einen Montag.
+Nur Rechnungen und Reklame.
+
+221
+00:13:14,291 --> 00:13:16,208
+Wem schickt George denn Briefe?
+
+222
+00:13:16,375 --> 00:13:19,291
+Also, das darf ich
+ja nicht sagen, aber…
+
+223
+00:13:19,583 --> 00:13:23,000
+An eine Miss Rebecca Hampstead.
+In Amerika.
+
+224
+00:13:23,583 --> 00:13:26,791
+Wer immer sie ist,
+die schreiben sich schon seit Monaten.
+
+225
+00:13:27,166 --> 00:13:28,291
+Und…
+
+226
+00:13:28,458 --> 00:13:29,625
+Nur zu.
+
+227
+00:13:30,041 --> 00:13:31,125
+Riech mal dran.
+
+228
+00:13:31,666 --> 00:13:33,166
+Papier mit Rosenduft.
+
+229
+00:13:33,458 --> 00:13:34,583
+Das sind Liebesbriefe.
+
+230
+00:13:34,750 --> 00:13:35,833
+Wer hätte das gedacht?
+
+231
+00:13:36,000 --> 00:13:39,958
+Griesgram George Hardy,
+ein schnulziger Romantiker.
+
+232
+00:13:40,541 --> 00:13:41,750
+Also echt.
+
+233
+00:13:43,875 --> 00:13:45,458
+Der schnulzige George.
+
+234
+00:13:45,666 --> 00:13:46,666
+Ja.
+
+235
+00:13:47,041 --> 00:13:48,416
+- Mach's gut.
+- Du auch.
+
+236
+00:13:48,541 --> 00:13:49,583
+Bis dann.
+
+237
+00:13:51,291 --> 00:13:52,583
+- Hallo. Hi.
+- Oh, hallo.
+
+238
+00:13:52,750 --> 00:13:55,708
+Ich komme wegen des
+Denbrook Kulturfestivals.
+
+239
+00:13:55,875 --> 00:13:57,458
+Oh, wunderbar.
+
+240
+00:13:57,791 --> 00:13:59,208
+Sie sind mitten drin.
+
+241
+00:14:00,041 --> 00:14:01,333
+Folgen Sie mir.
+
+242
+00:14:01,791 --> 00:14:03,666
+Mitten drin in was?
+
+243
+00:14:04,083 --> 00:14:07,791
+Willkommen beim
+Denbrook Kulturfestival.
+
+244
+00:14:12,000 --> 00:14:13,041
+Sie machen Witze.
+
+245
+00:14:13,208 --> 00:14:15,958
+Wieso? Das ist
+das kulturelle Erbe unserer Stadt.
+
+246
+00:14:18,541 --> 00:14:21,250
+Was soll das?
+"Rückkehr nach Oz"?
+
+247
+00:14:21,583 --> 00:14:23,583
+{\an8}Der beste Film aller Zeiten.
+
+248
+00:14:24,000 --> 00:14:26,500
+{\an8}Und er wurde hier ums Eck gedreht.
+
+249
+00:14:26,875 --> 00:14:29,666
+Viele meinen,
+er ist besser als das Original.
+
+250
+00:14:30,041 --> 00:14:31,041
+Nie gesehen.
+
+251
+00:14:31,208 --> 00:14:33,333
+Wer kennt denn nicht
+"Rückkehr nach Oz"?
+
+252
+00:14:33,500 --> 00:14:37,458
+Verzeihen Sie, aber wozu
+so ein riesiges Banner? Für das hier?
+
+253
+00:14:37,625 --> 00:14:40,500
+Damit die Leute kommen.
+Ohne Leute kein Festival.
+
+254
+00:14:41,000 --> 00:14:44,166
+Oh, nein. Das ist
+alles andere als ein Festival.
+
+255
+00:14:44,333 --> 00:14:46,458
+Nein. Das sind nur ein paar Tische.
+
+256
+00:14:47,625 --> 00:14:49,875
+Wollen Sie mir
+in mein Geschäft reinreden?
+
+257
+00:14:50,500 --> 00:14:51,500
+Nein.
+
+258
+00:14:52,500 --> 00:14:54,208
+Sie haben recht. Tut mir leid.
+
+259
+00:14:54,958 --> 00:14:56,916
+Das war kein optimaler Start.
+
+260
+00:14:58,416 --> 00:15:01,500
+Mein Name ist Elliot Matthews.
+Ich bin Reporter für die Gazette.
+
+261
+00:15:03,500 --> 00:15:05,041
+Junior-Reporter.
+
+262
+00:15:07,916 --> 00:15:10,083
+Gut. Ich mache
+die Todesanzeigen.
+
+263
+00:15:10,250 --> 00:15:13,291
+Aber ich suche schon so lange
+nach einer guten Geschichte,
+
+264
+00:15:13,458 --> 00:15:17,458
+und mein Ressortleiter
+hat mir das hier empfohlen.
+
+265
+00:15:18,208 --> 00:15:20,083
+Das Denbrook Kulturfestival.
+
+266
+00:15:20,250 --> 00:15:23,000
+- Und? Klingt doch traumhaft.
+- Ja, verdammt cool.
+
+267
+00:15:23,166 --> 00:15:27,500
+Ich kriege sicher keine Beförderung,
+wenn ich hierüber schreibe, oder? Nein.
+
+268
+00:15:27,833 --> 00:15:29,291
+Was für ein Jammer.
+
+269
+00:15:30,250 --> 00:15:31,708
+Zehn. Bar.
+
+270
+00:15:32,083 --> 00:15:33,166
+Für was?
+
+271
+00:15:33,333 --> 00:15:35,083
+- Eintrittspreis.
+- Eintrittspreis.
+
+272
+00:15:38,416 --> 00:15:39,500
+Zehn.
+
+273
+00:15:39,666 --> 00:15:41,000
+Be…
+
+274
+00:15:41,666 --> 00:15:42,875
+Behalten Sie alles.
+
+275
+00:15:44,000 --> 00:15:45,250
+Ach, Mann.
+
+276
+00:15:46,375 --> 00:15:47,541
+Spinner.
+
+277
+00:15:48,125 --> 00:15:49,958
+WILLKOMMEN
+IN DENBROOK
+
+278
+00:16:06,625 --> 00:16:09,791
+Wo ist George?
+Und unsere Gutenachtgeschichte?
+
+279
+00:16:09,958 --> 00:16:11,291
+Er müsste längst hier sein.
+
+280
+00:16:13,875 --> 00:16:17,166
+Och, vor dem Geräusch
+müsst ihr keine Angst haben.
+
+281
+00:16:17,333 --> 00:16:18,458
+Sir Ritchfield?
+
+282
+00:16:18,625 --> 00:16:21,666
+Ja, ihr sollt es nun erfahren,
+ihr kleinen Lämmer,
+
+283
+00:16:21,958 --> 00:16:25,250
+denn so ist der Lauf der Welt.
+
+284
+00:16:25,416 --> 00:16:30,125
+All die Wolken waren einst Schafe,
+genau wie ihr und ich.
+
+285
+00:16:30,291 --> 00:16:33,625
+Und wenn sie sehen,
+dass der Boden ausgetrocknet ist,
+
+286
+00:16:33,791 --> 00:16:36,041
+beginnen sie zu tanzen.
+
+287
+00:16:36,208 --> 00:16:40,166
+Laut und donnernd schleudern sie
+den Regen aus dem Himmel herab,
+
+288
+00:16:40,333 --> 00:16:43,250
+damit Gras und Klee wachsen können.
+
+289
+00:16:43,416 --> 00:16:45,458
+Werden alle Schafe Wolken?
+
+290
+00:16:45,625 --> 00:16:48,166
+Ja, Pickles. Wir alle.
+
+291
+00:16:48,333 --> 00:16:52,583
+Ich werde eines Tages auch eine Wolke,
+genau wie meine Eltern vor mir.
+
+292
+00:16:52,916 --> 00:16:54,291
+Wobei ich mich
+
+293
+00:16:55,333 --> 00:16:57,875
+aus irgendeinem Grund
+nicht mehr erinnere,
+
+294
+00:16:58,041 --> 00:17:00,416
+wie meine Eltern zu Wolken wurden.
+
+295
+00:17:01,083 --> 00:17:03,291
+Mopple, du vergisst doch nie was.
+
+296
+00:17:03,666 --> 00:17:06,541
+Das war bestimmt
+ein herrlicher Tag, oder?
+
+297
+00:17:12,333 --> 00:17:14,791
+Also, ja. Natürlich.
+
+298
+00:17:14,958 --> 00:17:18,750
+Sie sagten Lebwohl und schwebten
+voller Freude in den Himmel.
+
+299
+00:17:18,916 --> 00:17:21,708
+Zwei wunderschön flauschige Wolken,
+
+300
+00:17:21,875 --> 00:17:24,500
+die nun von hoch oben
+über uns wachen.
+
+301
+00:17:24,750 --> 00:17:26,000
+Voller Liebe.
+
+302
+00:17:27,250 --> 00:17:28,333
+Für immer.
+
+303
+00:17:30,041 --> 00:17:31,208
+Danke.
+
+304
+00:17:35,291 --> 00:17:36,875
+Und schon geschieht es.
+
+305
+00:17:37,250 --> 00:17:39,416
+So wie es sein soll.
+
+306
+00:17:41,250 --> 00:17:42,416
+<i>Ja.</i>
+
+307
+00:17:42,750 --> 00:17:45,750
+<i>Alles ist, wie es sein soll.</i>
+
+308
+00:17:55,916 --> 00:17:58,375
+GILYARD FLEISCHERZEUGNISSE
+
+309
+00:18:30,583 --> 00:18:32,166
+Positiv betrachtet
+
+310
+00:18:32,500 --> 00:18:35,458
+haben Sie den besten Zeitpunkt gewählt
+für einen Besuch.
+
+311
+00:18:35,875 --> 00:18:38,666
+Zum Denbrook Kulturfestival.
+
+312
+00:18:39,083 --> 00:18:40,666
+Sie Glückspilz.
+
+313
+00:18:42,208 --> 00:18:46,250
+Ich war mit meiner Schwester dort
+und wir hatten Käse aus der Region.
+
+314
+00:18:46,416 --> 00:18:48,416
+Und er war um Klassen besser
+
+315
+00:18:48,583 --> 00:18:51,541
+als alles aus diesen
+schicken Käseläden in der Stadt.
+
+316
+00:18:51,708 --> 00:18:52,958
+Meine Schwester hat gesagt…
+
+317
+00:18:53,125 --> 00:18:54,458
+Haben Sie das gesehen?
+
+318
+00:18:55,208 --> 00:18:56,500
+Was gesehen?
+
+319
+00:19:34,833 --> 00:19:36,375
+Jippie! Du bist wach!
+
+320
+00:19:36,541 --> 00:19:39,250
+Ich hab dich so oft gebeten,
+das nicht zu tun.
+
+321
+00:19:39,666 --> 00:19:40,666
+Haben wir vergessen!
+
+322
+00:19:40,833 --> 00:19:42,500
+Haben wir vergessen.
+
+323
+00:19:42,666 --> 00:19:43,708
+War ja klar.
+
+324
+00:19:43,916 --> 00:19:44,916
+Schaut mal da!
+
+325
+00:19:45,041 --> 00:19:46,750
+- Wartet auf mich!
+- Nicht so schnell…
+
+326
+00:19:50,958 --> 00:19:52,208
+<i>Wenn ich aufwach…</i>
+
+327
+00:19:54,458 --> 00:19:57,166
+<i>Ich bin der Mann,
+der aufwacht neben dir…</i>
+
+328
+00:20:00,833 --> 00:20:02,708
+Lily? Was machst…
+
+329
+00:20:03,250 --> 00:20:05,750
+Ich glaube, es ist ein Spiel.
+Nicht bewegen.
+
+330
+00:20:05,916 --> 00:20:08,666
+Der erste, der sich bewegt, verliert.
+
+331
+00:20:21,458 --> 00:20:23,416
+Er spielt kein Spiel.
+
+332
+00:20:23,583 --> 00:20:26,791
+Na ja, aber was macht er dann?
+
+333
+00:20:29,625 --> 00:20:30,791
+Lily.
+
+334
+00:20:31,125 --> 00:20:32,250
+Er ist…
+
+335
+00:20:33,083 --> 00:20:34,541
+Er ist tot.
+
+336
+00:20:35,000 --> 00:20:36,875
+George ist tot.
+
+337
+00:20:37,333 --> 00:20:39,791
+Was? Wie jetzt, tot?
+
+338
+00:20:40,833 --> 00:20:42,208
+Das gibt's nicht wirklich.
+
+339
+00:20:42,375 --> 00:20:44,250
+Das steht nur in Büchern.
+
+340
+00:20:48,208 --> 00:20:49,666
+Das passiert wirklich?
+
+341
+00:20:53,708 --> 00:20:55,583
+Menschen sterben?
+
+342
+00:20:57,791 --> 00:21:00,083
+Verwandelt er sich in eine Wolke?
+
+343
+00:21:01,166 --> 00:21:04,416
+Nein. Das machen nur Schafe.
+
+344
+00:21:34,000 --> 00:21:35,416
+- Tot?
+- Tot?
+
+345
+00:21:35,583 --> 00:21:36,916
+Das gibt's echt?
+
+346
+00:21:37,375 --> 00:21:38,958
+Sieht so aus.
+
+347
+00:21:39,125 --> 00:21:41,000
+Sterben Schafe dann auch?
+
+348
+00:21:41,166 --> 00:21:44,083
+Nein, Pickles.
+Wir werden zu Wolken, aber…
+
+349
+00:21:44,250 --> 00:21:45,541
+George darf nicht tot sein.
+
+350
+00:21:45,708 --> 00:21:48,250
+Ich brauche meine Medizin.
+Ich habe Orf.
+
+351
+00:21:48,416 --> 00:21:49,416
+Was ist Orf?
+
+352
+00:21:49,583 --> 00:21:50,875
+Das ist Orf.
+
+353
+00:21:52,625 --> 00:21:53,666
+Ekelhaft.
+
+354
+00:21:53,833 --> 00:21:56,750
+Ich glaube, ihr versteht nicht,
+was ich sage.
+
+355
+00:21:57,333 --> 00:21:59,000
+George ist weg.
+
+356
+00:21:59,166 --> 00:22:00,958
+Er kommt niemals wieder.
+
+357
+00:22:01,125 --> 00:22:03,833
+Aber George war unser Schäfer.
+Was wird aus uns?
+
+358
+00:22:04,000 --> 00:22:07,208
+Du bist das klügste Schaf der Welt, Lily.
+Was machen wir jetzt?
+
+359
+00:22:07,375 --> 00:22:09,666
+Uns bleibt eigentlich nur eins übrig.
+
+360
+00:22:10,791 --> 00:22:12,375
+Wir müssen George vergessen.
+
+361
+00:22:12,541 --> 00:22:15,291
+Was? Aber Lily, wir können
+George nicht einfach…
+
+362
+00:22:15,458 --> 00:22:18,791
+Die Erinnerung an ihn tut so weh.
+Ich kann das nicht.
+
+363
+00:22:18,958 --> 00:22:22,708
+Sie hat recht. Schafe sind nicht
+dafür gemacht, so etwas zu fühlen.
+
+364
+00:22:22,875 --> 00:22:25,833
+Wir müssen uns
+entscheiden, zu vergessen.
+
+365
+00:22:27,833 --> 00:22:29,500
+Ich zähle bis drei.
+
+366
+00:22:29,666 --> 00:22:30,791
+Aber warte mal. Nicht…
+
+367
+00:22:30,958 --> 00:22:31,958
+Eins.
+
+368
+00:22:32,125 --> 00:22:33,500
+Nein, bitte nicht!
+Es ist George!
+
+369
+00:22:33,875 --> 00:22:34,916
+Zwei.
+
+370
+00:22:35,083 --> 00:22:37,583
+Nichts werdet ihr vergessen.
+
+371
+00:22:38,541 --> 00:22:39,541
+Sebastian.
+
+372
+00:22:39,708 --> 00:22:44,125
+Dachtet ihr, ich lasse euch einfach so
+meinen Schäfer vergessen?
+
+373
+00:22:44,291 --> 00:22:46,166
+Er war auch unser Schäfer.
+
+374
+00:22:46,333 --> 00:22:47,750
+Wir haben ihn alle geliebt.
+
+375
+00:22:48,041 --> 00:22:50,000
+Es tut zu sehr weh.
+
+376
+00:22:50,541 --> 00:22:52,250
+Und jetzt vergessen wir ihn.
+
+377
+00:22:52,416 --> 00:22:54,416
+Nein, werdet ihr nicht.
+
+378
+00:22:54,583 --> 00:22:57,333
+Ihr werdet euch an ihn erinnern.
+Weil es richtig ist.
+
+379
+00:22:57,500 --> 00:22:58,958
+Weil es rechtens ist.
+
+380
+00:22:59,291 --> 00:23:00,458
+Rechts?
+
+381
+00:23:00,625 --> 00:23:02,833
+Nicht rechts…
+Ich meine gerecht.
+
+382
+00:23:03,750 --> 00:23:04,791
+Wer wird gerächt?
+
+383
+00:23:04,958 --> 00:23:07,333
+Ge-recht. Gerechtigkeit.
+
+384
+00:23:07,500 --> 00:23:09,875
+Gutes darf nicht
+durch das Böse verletzt werden.
+
+385
+00:23:10,041 --> 00:23:12,375
+Die Schwachen nicht
+durch die Starken.
+
+386
+00:23:12,541 --> 00:23:15,416
+Und ein Freund
+sollte niemals vergessen werden.
+
+387
+00:23:15,833 --> 00:23:18,791
+George hat mir mal
+Gerechtigkeit erwiesen.
+
+388
+00:23:19,125 --> 00:23:21,083
+Er verdient das Gleiche.
+
+389
+00:23:21,250 --> 00:23:24,500
+Es stimmt.
+George war immer so gut zu mir.
+
+390
+00:23:24,666 --> 00:23:25,666
+Zu euch allen.
+
+391
+00:23:25,833 --> 00:23:28,333
+Darum hat er euch
+nur wegen eurer Wolle gehalten.
+
+392
+00:23:28,500 --> 00:23:30,125
+Wozu sollte man sonst Schafe halten?
+
+393
+00:23:30,250 --> 00:23:32,500
+Nur für die Wolle. Die schöne Wolle.
+
+394
+00:23:32,625 --> 00:23:33,916
+Ich habe eine Frage.
+
+395
+00:23:34,208 --> 00:23:38,000
+Was bedeutet menschliches Leben,
+wenn es einfach so vorbei sein kann?
+
+396
+00:23:38,125 --> 00:23:39,625
+Warum gibt's Menschen überhaupt?
+
+397
+00:23:39,750 --> 00:23:41,041
+Und wer hat sie gemacht?
+Und uns?
+
+398
+00:23:41,166 --> 00:23:43,250
+Woraus besteht ein Baum?
+Und wo ist der Mond am Tag?
+
+399
+00:23:43,375 --> 00:23:45,041
+Und warum wurde George ermordet?
+
+400
+00:23:45,791 --> 00:23:48,250
+Ermordet?
+Was meinst du mit ermordet?
+
+401
+00:23:48,416 --> 00:23:51,166
+In den Geschichten
+sterben Menschen immer durch Mord.
+
+402
+00:23:51,333 --> 00:23:52,416
+Nein, nein, Zora.
+
+403
+00:23:52,583 --> 00:23:54,958
+Die sind nur erfunden. Das ist echt.
+
+404
+00:23:55,125 --> 00:23:56,208
+Stimmt doch, oder Lily?
+
+405
+00:23:56,375 --> 00:23:59,750
+Ja, genau. Es deutet
+nichts darauf hin, dass George…
+
+406
+00:24:01,416 --> 00:24:02,916
+Seine Mütze.
+
+407
+00:24:20,375 --> 00:24:23,875
+Ich wollte ihm Unterlagen bringen
+und fand ihn so vor.
+
+408
+00:24:25,166 --> 00:24:26,666
+Möchtest du ein paar Worte sagen?
+
+409
+00:24:26,833 --> 00:24:27,666
+Nein.
+
+410
+00:24:30,875 --> 00:24:32,000
+Caleb.
+
+411
+00:24:34,083 --> 00:24:35,958
+Was macht der Metzger hier?
+
+412
+00:24:38,166 --> 00:24:39,375
+Fünf.
+
+413
+00:24:40,291 --> 00:24:41,333
+Sechs.
+
+414
+00:24:42,708 --> 00:24:44,083
+Er will die Schafe.
+
+415
+00:24:45,875 --> 00:24:47,500
+Fünfzehn.
+
+416
+00:24:49,041 --> 00:24:50,583
+Sechzehn.
+
+417
+00:24:51,083 --> 00:24:52,500
+Lily, was hast du vor?
+
+418
+00:24:52,666 --> 00:24:54,375
+Vielleicht irre ich mich, aber
+
+419
+00:24:54,541 --> 00:24:57,541
+Georges Mütze und Regenmantel
+lassen mir keine Ruhe.
+
+420
+00:24:57,708 --> 00:24:58,875
+Mütze und Regenmantel?
+
+421
+00:24:59,041 --> 00:25:02,333
+Genau. Er ging im Sturm raus.
+Warum hatte er sie nicht an?
+
+422
+00:25:02,500 --> 00:25:03,791
+Es sei denn…
+
+423
+00:25:04,500 --> 00:25:05,875
+Hilf mir hoch.
+
+424
+00:25:09,333 --> 00:25:10,375
+Was?
+
+425
+00:25:10,750 --> 00:25:12,916
+Ich sagte, vergessen wäre jetzt toll.
+
+426
+00:25:16,041 --> 00:25:17,791
+Kannst du was sehen?
+
+427
+00:25:19,708 --> 00:25:22,208
+Ich sehe alles.
+
+428
+00:25:37,416 --> 00:25:38,791
+Entschuldigung!
+
+429
+00:25:38,958 --> 00:25:40,000
+Morgen.
+
+430
+00:25:40,166 --> 00:25:42,375
+Was machen Sie
+denn noch in der Stadt?
+
+431
+00:25:42,541 --> 00:25:44,375
+Autopanne. Wer ist das?
+
+432
+00:25:44,750 --> 00:25:47,208
+Sein Name ist George Hardy.
+Er ist Schäfer.
+
+433
+00:25:47,541 --> 00:25:48,875
+Was ist passiert?
+
+434
+00:25:49,041 --> 00:25:50,541
+Vermutlich ein Herzinfarkt.
+
+435
+00:25:50,708 --> 00:25:53,041
+Keine große Story für Sie, leider.
+
+436
+00:25:53,416 --> 00:25:56,208
+Außer es ist irgendwas
+ungewöhnlich, oder?
+
+437
+00:25:56,375 --> 00:25:58,166
+Nee. Ich hab alles abgesucht.
+
+438
+00:25:58,333 --> 00:26:00,250
+Rund um den Wohnwagen.
+
+439
+00:26:01,291 --> 00:26:02,833
+Unter dem Wohnwagen.
+
+440
+00:26:03,000 --> 00:26:04,958
+Und auch im Wohnwagen?
+
+441
+00:26:10,250 --> 00:26:11,750
+Ist 'nen Versuch wert.
+
+442
+00:26:12,625 --> 00:26:14,583
+Ich würde vielleicht nicht…
+
+443
+00:26:15,875 --> 00:26:16,916
+Was?
+
+444
+00:26:17,083 --> 00:26:18,875
+Fingerabdrücke, oder?
+
+445
+00:26:19,958 --> 00:26:22,833
+Richtig. Spurensicherung.
+
+446
+00:26:23,500 --> 00:26:24,541
+Jupp.
+
+447
+00:26:33,375 --> 00:26:35,625
+Tja. Wirkt alles unauffällig.
+
+448
+00:26:35,791 --> 00:26:37,291
+Moment. Halt, halt.
+
+449
+00:26:38,333 --> 00:26:43,125
+Warum würde ein Mann mit Herzinfarkt
+aufstehen und einfach rausgehen?
+
+450
+00:26:43,458 --> 00:26:45,166
+Ist wohl draußen passiert.
+
+451
+00:26:45,333 --> 00:26:47,166
+Nein, nein. Es ist hier passiert.
+
+452
+00:26:47,833 --> 00:26:49,583
+Er hat den Stuhl umgestoßen.
+
+453
+00:26:53,416 --> 00:26:54,916
+Und er war nicht allein.
+
+454
+00:26:55,208 --> 00:26:56,875
+Und er war nicht allein.
+
+455
+00:26:59,000 --> 00:27:00,250
+Kommen Sie, Mann.
+
+456
+00:27:00,833 --> 00:27:02,291
+Es war ein Herzinfarkt.
+
+457
+00:27:02,458 --> 00:27:04,416
+Sie ignorieren absichtlich Indizien,
+
+458
+00:27:04,541 --> 00:27:06,333
+die auf was anderes hindeuten.
+
+459
+00:27:06,458 --> 00:27:09,541
+Was soll das heißen?
+Dass ich Angst vor 'nem Mord hab?
+
+460
+00:27:09,916 --> 00:27:10,750
+Ist es so?
+
+461
+00:27:11,666 --> 00:27:12,666
+Also bitte.
+
+462
+00:27:12,833 --> 00:27:14,916
+Ich wünschte,
+es gäbe einen Mord in Denbrook.
+
+463
+00:27:15,208 --> 00:27:16,458
+Einen pro Tag, bitte.
+
+464
+00:27:16,625 --> 00:27:18,208
+Nichts würde mich glücklicher machen.
+
+465
+00:27:20,125 --> 00:27:24,291
+{\an8}Hören Sie, ich weiß, Sie brauchen
+eine Story für Ihre Reporterkarriere.
+
+466
+00:27:24,458 --> 00:27:25,875
+{\an8}Aber so leid es mir tut,
+
+467
+00:27:29,000 --> 00:27:31,708
+{\an8}George Hardy wurde nicht ermordet.
+
+468
+00:27:32,500 --> 00:27:34,000
+George Hardy wurde ermordet.
+
+469
+00:27:35,333 --> 00:27:37,708
+Der Polizist hat gesagt,
+es war ein Mord?
+
+470
+00:27:37,875 --> 00:27:41,125
+Nein. Er meinte, ein Herzinfarkt.
+Aber er liegt falsch.
+
+471
+00:27:41,291 --> 00:27:44,583
+Oh. Also ist es wohl
+doch kein echter Mord.
+
+472
+00:27:44,750 --> 00:27:48,625
+Nur eine wilde Spekulation,
+zusammengereimt von einem Stalltier.
+
+473
+00:27:50,291 --> 00:27:51,333
+Na schön.
+
+474
+00:27:52,000 --> 00:27:56,083
+George hatte Besuch von jemandem,
+den er gut genug kannte für einen Drink.
+
+475
+00:27:56,250 --> 00:27:57,833
+Dann wurde ihm schlecht.
+
+476
+00:27:58,000 --> 00:28:02,791
+Dass sein Gast niemanden alarmiert hat,
+legt nahe, dass er selbst der Täter ist.
+
+477
+00:28:02,958 --> 00:28:06,375
+Und das Fehlen äußerer Verletzungen
+lässt auf Gift schließen.
+
+478
+00:28:06,708 --> 00:28:10,666
+Der grünliche Grasfleck auf seiner Hand
+spricht für einen Kampf.
+
+479
+00:28:10,875 --> 00:28:12,583
+Der Mörder konnte fliehen.
+
+480
+00:28:12,750 --> 00:28:16,041
+George erlag dem Gift und starb.
+
+481
+00:28:18,458 --> 00:28:19,625
+Ich spekuliere nie.
+
+482
+00:28:20,666 --> 00:28:24,625
+Der Polizist ist ein Totalausfall.
+Wie in den Gutenachtgeschichten.
+
+483
+00:28:24,791 --> 00:28:28,166
+Deshalb muss jemand anderes
+das Verbrechen aufklären.
+
+484
+00:28:28,333 --> 00:28:29,416
+Wer?
+
+485
+00:28:29,708 --> 00:28:31,208
+George hat uns gefüttert.
+
+486
+00:28:31,375 --> 00:28:33,500
+George hat sich um uns gekümmert.
+
+487
+00:28:33,666 --> 00:28:35,541
+George hat uns geliebt.
+
+488
+00:28:36,000 --> 00:28:37,458
+Wir verdanken ihm alles.
+
+489
+00:28:37,875 --> 00:28:39,500
+Worauf willst du hinaus?
+
+490
+00:28:39,666 --> 00:28:42,208
+Unser Schäfer wurde ermordet.
+
+491
+00:28:42,375 --> 00:28:45,125
+Und wir werden
+das Verbrechen aufklären.
+
+492
+00:28:49,500 --> 00:28:50,500
+Was ist so lustig?
+
+493
+00:28:50,666 --> 00:28:52,833
+Oh, wow.
+
+494
+00:28:53,666 --> 00:28:55,041
+Zuerst einmal…
+
+495
+00:28:55,208 --> 00:28:57,541
+ihr seid Schafe!
+
+496
+00:28:57,875 --> 00:28:59,000
+Er meint dich.
+
+497
+00:28:59,166 --> 00:29:03,500
+Haltet ihr euch für schlau genug,
+um einen Mordfall zu lösen?
+
+498
+00:29:03,666 --> 00:29:07,207
+Wisst ihr, wie Menschen Leute nennen,
+die zu dumm sind,
+
+499
+00:29:07,208 --> 00:29:08,416
+um selbständig zu denken?
+
+500
+00:29:08,750 --> 00:29:09,583
+Enten!
+
+501
+00:29:09,750 --> 00:29:10,665
+Schafe!
+
+502
+00:29:10,666 --> 00:29:13,541
+Und du.
+Das "schlauste Schaf der Welt"?
+
+503
+00:29:13,708 --> 00:29:16,458
+Wo warst du denn schon in der Welt?
+
+504
+00:29:16,750 --> 00:29:19,541
+Mal hier? Und mal dort?
+
+505
+00:29:19,916 --> 00:29:20,958
+Ich bitte dich.
+
+506
+00:29:21,125 --> 00:29:25,208
+Geh zurück zu deinem Heu und
+deinem Löwenzahn und deinen Nickerchen,
+
+507
+00:29:25,375 --> 00:29:28,125
+und überlass
+die Mordfälle den Menschen.
+
+508
+00:29:29,666 --> 00:29:32,125
+Also. Legen wir los?
+
+509
+00:29:34,250 --> 00:29:37,916
+Sucht nach Spuren.
+Keine Beweismittel vernichten.
+
+510
+00:29:40,083 --> 00:29:43,000
+Und nicht den Tatort auffuttern!
+
+511
+00:29:44,250 --> 00:29:45,541
+Hey, was ist das?
+
+512
+00:29:45,708 --> 00:29:48,791
+Leute! Vielleicht
+stecke ich in einer Spur!
+
+513
+00:29:50,291 --> 00:29:52,625
+Au, Backe. Hallo?
+
+514
+00:29:52,750 --> 00:29:54,750
+Na gut, lassen wir das
+mit den Spuren.
+
+515
+00:29:54,916 --> 00:29:58,375
+Hat jemand in der Tatnacht
+was Auffälliges bemerkt?
+
+516
+00:29:58,541 --> 00:30:00,000
+Ja, ich.
+
+517
+00:30:01,166 --> 00:30:03,208
+Ich hab dich gesehen, Sebastian.
+
+518
+00:30:04,250 --> 00:30:05,458
+Sebastian war's!
+
+519
+00:30:05,625 --> 00:30:07,166
+Du Mörder!
+
+520
+00:30:07,708 --> 00:30:09,666
+Genau. Ich war's.
+
+521
+00:30:09,833 --> 00:30:13,833
+Die Tür ist zu eng für mich
+und der Stuhl viel zu klein. Aber egal.
+
+522
+00:30:14,000 --> 00:30:16,083
+Ich habe grundlos
+meinen Schäfer getötet,
+
+523
+00:30:16,250 --> 00:30:20,166
+indem ich vorsichtig
+Gift ist sein Glas tröpfelte.
+
+524
+00:30:20,416 --> 00:30:22,166
+Mit dem Ding hier.
+
+525
+00:30:22,333 --> 00:30:24,041
+- Da ist was dran.
+- Was ist los?
+
+526
+00:30:24,208 --> 00:30:26,541
+Hat jemand <i>Menschen</i> gesehen?
+
+527
+00:30:27,291 --> 00:30:29,375
+Ich hab Georges Geist gesehen.
+
+528
+00:30:30,291 --> 00:30:32,083
+- Nein, hast du nicht.
+- Doch.
+
+529
+00:30:34,166 --> 00:30:36,333
+Der Geist stand
+von seinem Körper auf.
+
+530
+00:30:36,500 --> 00:30:39,875
+Na ja, ich konnte ihn
+nicht so genau sehen im Dunkeln.
+
+531
+00:30:40,041 --> 00:30:42,333
+Aber er roch nach George und…
+
+532
+00:30:42,500 --> 00:30:45,375
+Bitte, Winterlamm.
+Das ist der falsche Moment.
+
+533
+00:30:45,833 --> 00:30:48,500
+Glocken? Es hat doch schon
+vor zwei Tagen geläutet.
+
+534
+00:30:48,833 --> 00:30:51,625
+Mit den Glocken läuten sie
+Versammlungen ein.
+
+535
+00:30:51,791 --> 00:30:53,041
+Es geht um George.
+
+536
+00:30:53,208 --> 00:30:54,250
+Natürlich!
+
+537
+00:30:54,416 --> 00:30:58,916
+In den Geschichten wird der Mord
+immer bei einer Versammlung verkündet.
+
+538
+00:30:59,083 --> 00:31:01,000
+Und der Mörder
+ist immer unter ihnen.
+
+539
+00:31:01,166 --> 00:31:02,541
+Wir müssen da hin.
+
+540
+00:31:03,250 --> 00:31:05,458
+Traut ihr euch,
+euer Zuhause zu verlassen?
+
+541
+00:31:05,625 --> 00:31:07,458
+Ihr habt noch nie
+diese Wiese verlassen.
+
+542
+00:31:07,625 --> 00:31:10,083
+Eure Hufe kennen nichts außer Gras.
+
+543
+00:31:10,250 --> 00:31:12,083
+Was soll daran so schwer sein?
+
+544
+00:31:12,250 --> 00:31:13,625
+Wir haben keine Angst.
+
+545
+00:31:19,000 --> 00:31:21,000
+- Mopple, was ist das?
+- Eine Straße?
+
+546
+00:31:21,125 --> 00:31:23,541
+- Woraus besteht die?
+- Nicht Gras, das ist sicher.
+
+547
+00:31:23,666 --> 00:31:24,750
+Lily?
+
+548
+00:31:25,291 --> 00:31:26,291
+Ja!
+
+549
+00:31:26,458 --> 00:31:27,916
+Kommst du?
+
+550
+00:31:28,083 --> 00:31:29,750
+Ich bin nur…
+
+551
+00:31:30,083 --> 00:31:32,125
+Geh du schon mal vor.
+
+552
+00:31:32,291 --> 00:31:34,458
+Warum schreist du so?
+
+553
+00:31:34,625 --> 00:31:36,916
+Ich bin nur
+einen Katzensprung entfernt.
+
+554
+00:31:38,666 --> 00:31:40,333
+Aber es kommt mir so weit vor.
+
+555
+00:31:40,500 --> 00:31:44,000
+Du musst nichts weiter tun,
+als die Straße zu überqueren.
+
+556
+00:31:56,666 --> 00:31:59,166
+Nein. Nein, ich kann nicht.
+
+557
+00:31:59,333 --> 00:32:00,625
+Es ist unmöglich.
+
+558
+00:32:15,416 --> 00:32:17,083
+Es liegt nicht an dir.
+
+559
+00:32:17,250 --> 00:32:18,750
+Wir sind, wer wir sind.
+
+560
+00:32:21,666 --> 00:32:25,541
+Vielleicht, wenn du und ich
+zusammen rübergehen?
+
+561
+00:32:27,416 --> 00:32:28,708
+Für George?
+
+562
+00:32:30,541 --> 00:32:32,125
+Für George.
+
+563
+00:32:33,125 --> 00:32:34,458
+Zusammen.
+
+564
+00:32:45,833 --> 00:32:48,208
+- Ich will zurück.
+- Ich auch. Geh weiter.
+
+565
+00:32:52,333 --> 00:32:54,541
+Wir haben's geschafft!
+Wir sind ausgerissen!
+
+566
+00:32:54,708 --> 00:32:56,875
+Siehst du? Schafe können doch was!
+
+567
+00:32:57,041 --> 00:32:59,583
+Wir sind sogar zu allem fähig.
+
+568
+00:32:59,750 --> 00:33:01,125
+Na, großartig.
+
+569
+00:33:01,291 --> 00:33:03,458
+Nur noch drei Kilometer.
+
+570
+00:33:03,625 --> 00:33:05,291
+Kein Problem.
+
+571
+00:33:05,916 --> 00:33:08,000
+Wie viele Kilometer waren das?
+
+572
+00:33:08,666 --> 00:33:10,333
+Ich gebe zu, ich bin beeindruckt.
+
+573
+00:33:10,500 --> 00:33:12,457
+Du wirst den Fall nicht lösen,
+
+574
+00:33:12,458 --> 00:33:14,791
+aber wenigstens
+siehst du was von der Welt.
+
+575
+00:33:14,958 --> 00:33:17,000
+Klar werde ich den Fall lösen.
+
+576
+00:33:17,166 --> 00:33:19,250
+Und zwar bis heute Abend.
+
+577
+00:33:19,666 --> 00:33:22,291
+George hat uns zig
+dieser Geschichten vorgelesen.
+
+578
+00:33:22,458 --> 00:33:25,208
+Sie folgen sehr einfachen Regeln.
+
+579
+00:33:25,375 --> 00:33:26,583
+Mopple?
+
+580
+00:33:27,333 --> 00:33:29,166
+Hm? Oh. Erstens.
+
+581
+00:33:29,333 --> 00:33:31,500
+Der Mörder kehrt immer
+zum Tatort zurück.
+
+582
+00:33:31,666 --> 00:33:32,582
+Zweitens.
+
+583
+00:33:32,583 --> 00:33:34,625
+Für die Polizei ist es immer
+ein Landstreicher.
+
+584
+00:33:34,791 --> 00:33:36,457
+Immer ein Landstreicher…
+
+585
+00:33:36,458 --> 00:33:37,291
+Drittens.
+
+586
+00:33:37,416 --> 00:33:40,625
+Eine unerwartete Person taucht auf
+und verändert alles.
+
+587
+00:33:40,791 --> 00:33:41,625
+Viertens!
+
+588
+00:33:41,791 --> 00:33:44,625
+Das Opfer ist
+die allerwichtigste Spur.
+
+589
+00:33:44,958 --> 00:33:47,250
+Na, das ist ja ein Kinderspiel.
+
+590
+00:33:47,416 --> 00:33:49,540
+Ihr werdet feststellen,
+dass die echte Welt
+
+591
+00:33:49,541 --> 00:33:52,500
+ein bisschen komplizierter ist
+als ein Buch.
+
+592
+00:33:52,666 --> 00:33:53,833
+Apropos…
+
+593
+00:33:54,000 --> 00:33:56,125
+Willkommen in Denbrook.
+
+594
+00:33:56,958 --> 00:33:58,208
+Was ist das?
+
+595
+00:33:58,375 --> 00:34:01,291
+Die Kirche.
+Da wohnt jemand namens Gott.
+
+596
+00:34:01,458 --> 00:34:02,458
+Wer ist Gott?
+
+597
+00:34:02,625 --> 00:34:03,958
+Es ist etwas verwirrend.
+
+598
+00:34:04,125 --> 00:34:05,541
+Gott ist ein Schäfer.
+
+599
+00:34:05,708 --> 00:34:07,125
+Könnte er unserer sein?
+
+600
+00:34:07,291 --> 00:34:09,916
+Nein. Er ist nämlich auch ein Lamm.
+
+601
+00:34:10,041 --> 00:34:10,957
+Was?
+
+602
+00:34:10,958 --> 00:34:12,666
+Und unsichtbar ist er auch.
+
+603
+00:34:12,833 --> 00:34:15,625
+Und er ist aus Brot.
+Und er verdammt Dinge.
+
+604
+00:34:15,750 --> 00:34:17,708
+Verdammt? Wie ein Biber?
+
+605
+00:34:17,875 --> 00:34:18,875
+Ja.
+
+606
+00:34:19,041 --> 00:34:22,541
+Gott ist also ein großer,
+unsichtbarer Lamm-Biber aus Brot?
+
+607
+00:34:22,708 --> 00:34:24,666
+Ja. Und sie essen ihn immer sonntags.
+
+608
+00:34:25,625 --> 00:34:26,916
+Armer Gott.
+
+609
+00:34:27,250 --> 00:34:32,416
+Ich weiß, ich bin zu spät, aber das könnte
+mein erster Kleinstadt-Mordfall sein.
+
+610
+00:34:32,541 --> 00:34:34,333
+Ich muss los. Ich muss los.
+
+611
+00:34:34,500 --> 00:34:36,333
+Kommt. Hier sehen sie uns nicht.
+
+612
+00:34:36,500 --> 00:34:38,875
+Haben sie schon.
+Und es juckt niemanden.
+
+613
+00:34:39,041 --> 00:34:41,458
+Zum hundertsten Mal, wir sind Schafe.
+
+614
+00:34:41,916 --> 00:34:43,875
+Bürger und Bürgerinnen von Denbrook.
+
+615
+00:34:44,291 --> 00:34:48,791
+Ich weiß von den Gerüchten,
+an George Hardys Tod wäre etwas faul.
+
+616
+00:34:48,958 --> 00:34:52,583
+Aber über das Gift darf ich
+nichts sagen, bis die Ermittlung…
+
+617
+00:34:52,708 --> 00:34:54,625
+Was? George wurde ermordet?
+
+618
+00:34:55,500 --> 00:34:56,625
+Oh, Mist.
+
+619
+00:34:56,791 --> 00:34:59,041
+Entschuldigung, was für ein Gift?
+
+620
+00:34:59,208 --> 00:35:00,208
+Na schön.
+
+621
+00:35:00,750 --> 00:35:03,250
+George starb durch
+ein Gift namens Taxin.
+
+622
+00:35:03,541 --> 00:35:07,666
+- Aus den Beeren des Eibenbaums.
+- Und diese Bäume, wachsen die hier?
+
+623
+00:35:09,375 --> 00:35:10,208
+Genau dort.
+
+624
+00:35:12,041 --> 00:35:13,625
+Dann hat ihn
+einer von uns getötet?
+
+625
+00:35:13,791 --> 00:35:15,083
+Nein. Nein. Nein.
+
+626
+00:35:15,250 --> 00:35:18,333
+Bitte. Höchstwahrscheinlich
+war es ein Landstreicher.
+
+627
+00:35:22,833 --> 00:35:24,250
+Was ist mit denen los?
+
+628
+00:35:44,958 --> 00:35:46,416
+Wachtmeister Derry?
+
+629
+00:35:47,291 --> 00:35:48,583
+Wachtmeister Derry!
+
+630
+00:35:49,500 --> 00:35:50,583
+Ja?
+
+631
+00:35:50,916 --> 00:35:53,500
+Was? Äh, das bin ich.
+
+632
+00:35:53,666 --> 00:35:56,375
+Lydia Harbottle?
+Harbottle und Bloom?
+
+633
+00:35:56,625 --> 00:36:00,125
+Wir haben telefoniert.
+Ich bin George Hardys Anwältin.
+
+634
+00:36:00,291 --> 00:36:02,750
+Gut. Und Sie sind?
+
+635
+00:36:02,958 --> 00:36:04,916
+Ich bin Rebecca Hampstead.
+
+636
+00:36:05,083 --> 00:36:06,875
+Ich bin Georges Tochter.
+
+637
+00:36:07,458 --> 00:36:10,166
+- Seine Tochter?
+- Er hatte eine Tochter?
+
+638
+00:36:10,666 --> 00:36:15,291
+Eine unerwartete Person taucht auf
+und verändert alles.
+
+639
+00:36:16,708 --> 00:36:19,541
+Unten auf der Seite
+steht Ihre Telefonnummer.
+
+640
+00:36:19,708 --> 00:36:21,541
+Daher wusste ich,
+wen ich anrufen muss.
+
+641
+00:36:21,708 --> 00:36:23,291
+Bin immer auf Spurensuche.
+
+642
+00:36:23,458 --> 00:36:25,125
+Aber kein Spürhund, oder?
+
+643
+00:36:25,291 --> 00:36:26,291
+Ich weiß, aber…
+
+644
+00:36:26,416 --> 00:36:30,333
+Sie haben in diesem Mini-Wohnwagen
+ein Dokument auf dem Tisch gefunden.
+
+645
+00:36:30,458 --> 00:36:31,708
+Echte Glanzleistung.
+
+646
+00:36:31,875 --> 00:36:32,708
+Nun ja.
+
+647
+00:36:32,833 --> 00:36:37,250
+Sie fanden es auch erst beim
+zweiten Besuch in Mister Hardys Wohnwagen.
+
+648
+00:36:37,416 --> 00:36:38,333
+Richtig.
+
+649
+00:36:38,500 --> 00:36:41,708
+Also, ich musste zurück
+für eine zweite Untersuchung.
+
+650
+00:36:42,125 --> 00:36:45,250
+Hab das Polizeiband angebracht.
+Klebriger als erwartet.
+
+651
+00:36:45,375 --> 00:36:47,000
+Interessiert mich kein Stück.
+
+652
+00:36:47,125 --> 00:36:49,791
+Haben Sie's gelesen?
+Haben Sie nicht reingeschaut?
+
+653
+00:36:49,958 --> 00:36:51,958
+Nein. Geht mich nichts an.
+
+654
+00:36:52,125 --> 00:36:53,708
+Doch, ganz ausdrücklich.
+
+655
+00:36:54,208 --> 00:36:56,166
+Ich verlese das Testament
+heute Nachmittag.
+
+656
+00:36:56,333 --> 00:36:58,082
+Die folgenden Personen sind benannt.
+
+657
+00:36:58,083 --> 00:37:00,125
+Stellen Sie sicher,
+dass sie anwesend sind.
+
+658
+00:37:00,291 --> 00:37:04,291
+Pfarrer Hillcoate, Caleb Merrow.
+
+659
+00:37:04,458 --> 00:37:05,875
+Schreiben Sie's auf.
+
+660
+00:37:06,041 --> 00:37:09,791
+Pfarrer Hillcoate,
+Caleb Merrow, Beth Pennock,
+
+661
+00:37:09,958 --> 00:37:14,416
+Ham Gilyard, Sie,
+und Rebecca Hampstead.
+
+662
+00:37:14,583 --> 00:37:16,708
+Ich wohne im Partridge Inn.
+
+663
+00:37:17,291 --> 00:37:19,875
+Die Verlesung ist dort,
+um Punkt fünf.
+
+664
+00:37:20,041 --> 00:37:22,125
+Punkt fünf. 17 Uhr.
+
+665
+00:37:22,291 --> 00:37:23,166
+Wissen Sie noch?
+
+666
+00:37:23,625 --> 00:37:27,874
+Ich sagte Ihnen, Rebecca lebt in Amerika?
+Und doch ist sie hier.
+
+667
+00:37:27,875 --> 00:37:30,833
+Genau an dem Tag,
+als Sie mir sagten, ihr Vater sei tot.
+
+668
+00:37:31,000 --> 00:37:33,833
+Will heißen, sie war
+in der Tatnacht bereits hier.
+
+669
+00:37:34,000 --> 00:37:35,750
+Das ist Ihnen entgangen, oder?
+
+670
+00:37:37,000 --> 00:37:38,083
+Ja.
+
+671
+00:37:38,416 --> 00:37:40,916
+Nein. Ja. Natürlich nicht.
+
+672
+00:37:41,333 --> 00:37:43,750
+Das ist ihr erster Mord, hab ich recht?
+
+673
+00:37:43,916 --> 00:37:44,958
+Was?
+
+674
+00:37:46,000 --> 00:37:47,833
+Sie denken, ich war das?
+
+675
+00:37:51,333 --> 00:37:53,291
+Oh. Oh.
+
+676
+00:37:54,041 --> 00:37:57,541
+Ja, Sie meinten,
+mein erster Mordfall.
+
+677
+00:37:58,500 --> 00:38:01,833
+Jetzt liegt alles an Ihnen,
+Wachtmeister Derry.
+
+678
+00:38:02,166 --> 00:38:03,250
+Wir sehen uns um fünf.
+
+679
+00:38:03,416 --> 00:38:05,083
+Bis um fünf, Miss Harbottle.
+
+680
+00:38:05,250 --> 00:38:06,541
+Madam Harbottle.
+
+681
+00:38:08,791 --> 00:38:10,916
+Wir müssen zur
+Testamentsverlesung.
+
+682
+00:38:11,500 --> 00:38:13,083
+{\an8}Das ist das Partridge Inn.
+
+683
+00:38:13,250 --> 00:38:15,291
+Hier esse ich gelegentlich Blumen.
+
+684
+00:38:15,458 --> 00:38:18,750
+Wobei ich nicht verstehe,
+wie uns das weiterbringen soll.
+
+685
+00:38:18,916 --> 00:38:21,291
+In den Geschichten
+gibt's immer ein Testament.
+
+686
+00:38:21,458 --> 00:38:24,625
+Und alle, die drin stehen,
+sind immer die Tatverdächtigen.
+
+687
+00:38:27,125 --> 00:38:28,458
+Ich brauche Gesichter.
+
+688
+00:38:28,625 --> 00:38:29,540
+Warum?
+
+689
+00:38:29,541 --> 00:38:33,125
+Weil Menschen oft lügen,
+und das sieht man an ihren Augen.
+
+690
+00:38:33,291 --> 00:38:34,541
+Ganz genau.
+
+691
+00:38:36,166 --> 00:38:39,541
+Mopple, wir nehmen das Fenster,
+schau du, ob's ein besseres gibt.
+
+692
+00:38:39,708 --> 00:38:40,791
+Wird gemacht.
+
+693
+00:38:41,458 --> 00:38:42,791
+Wollen wir?
+
+694
+00:38:45,208 --> 00:38:47,416
+Was wissen Sie über
+Ihre leibliche Mutter.
+
+695
+00:38:47,583 --> 00:38:51,250
+Laut seinen Briefen ist sie
+bei meiner Geburt gestorben.
+
+696
+00:38:51,416 --> 00:38:54,333
+Er war wohl sehr jung,
+sehr ängstlich und sehr arm.
+
+697
+00:38:55,791 --> 00:38:57,750
+Und hat mich
+zur Adoption freigegeben.
+
+698
+00:38:58,291 --> 00:39:00,250
+Durch die Kirche, übrigens.
+
+699
+00:39:02,375 --> 00:39:04,291
+Ich habe auch eine Frage.
+
+700
+00:39:04,458 --> 00:39:05,791
+Wenn Sie gestatten.
+
+701
+00:39:06,791 --> 00:39:08,291
+Schön, Sie zu sehen.
+
+702
+00:39:08,458 --> 00:39:10,208
+Mir ging gerade auf,
+
+703
+00:39:10,958 --> 00:39:12,208
+ganz von selbst,
+
+704
+00:39:12,375 --> 00:39:16,208
+dass Sie nicht heute aus Amerika
+angereist sein können. Richtig?
+
+705
+00:39:16,375 --> 00:39:19,500
+Das heißt, Sie waren letzte Nacht
+schon in diesem Land,
+
+706
+00:39:19,666 --> 00:39:22,750
+als George getötet wurde.
+
+707
+00:39:23,208 --> 00:39:26,500
+Ich will Sie nicht beschuldigen,
+aber trifft das zu?
+
+708
+00:39:26,875 --> 00:39:28,791
+So ein schlauer Detektiv.
+
+709
+00:39:28,958 --> 00:39:31,208
+Nein, ich bin kein Detektiv.
+
+710
+00:39:31,375 --> 00:39:33,125
+Nur ein Polizist,
+
+711
+00:39:33,291 --> 00:39:36,125
+der immer auf Spurensuche ist.
+
+712
+00:39:36,625 --> 00:39:39,750
+Nun, ich… Ich…
+
+713
+00:39:40,541 --> 00:39:41,749
+Ich war schon im Land,
+
+714
+00:39:41,750 --> 00:39:44,083
+aber ich war
+noch nie in Denbrook, bis heute.
+
+715
+00:39:44,625 --> 00:39:46,500
+Anschlussfrage:
+
+716
+00:39:46,666 --> 00:39:48,166
+Haben Sie
+
+717
+00:39:48,333 --> 00:39:49,583
+einen Freund?
+
+718
+00:39:50,583 --> 00:39:51,875
+Ist das unangenehm.
+
+719
+00:39:52,041 --> 00:39:53,916
+Was denn?
+Das ist eine normale Frage,
+
+720
+00:39:54,083 --> 00:39:57,833
+die jeder Ermittler
+in so einer Situation stellen würde.
+
+721
+00:39:58,000 --> 00:40:01,083
+Lustig, dass Sie das fragen.
+Wir haben gerade Schluss gemacht.
+
+722
+00:40:01,583 --> 00:40:02,791
+Oh, nein.
+
+723
+00:40:04,166 --> 00:40:05,583
+Siehst du, was ich sehe?
+
+724
+00:40:05,750 --> 00:40:06,791
+Die Tochter.
+
+725
+00:40:06,958 --> 00:40:09,125
+Ihr Gesicht ist fröhlich…
+
+726
+00:40:09,291 --> 00:40:12,000
+Aber ihre Augen haben Angst.
+
+727
+00:40:12,166 --> 00:40:14,833
+Also, wann genau sind Sie
+letzte Nacht angekommen?
+
+728
+00:40:15,000 --> 00:40:17,583
+Ich kam so gegen 19:00 Uhr an und…
+
+729
+00:40:19,416 --> 00:40:20,416
+Tut mir leid.
+
+730
+00:40:22,083 --> 00:40:24,750
+- Schon gut.
+- Wir waren für heute verabredet und…
+
+731
+00:40:24,916 --> 00:40:26,333
+Ich bin so überfordert.
+
+732
+00:40:28,375 --> 00:40:30,250
+- Oh, danke.
+- Weiter. Weiter.
+
+733
+00:40:30,416 --> 00:40:31,875
+Oh, danke.
+
+734
+00:40:32,291 --> 00:40:34,166
+Reicht schon. Vielen Dank.
+
+735
+00:40:34,625 --> 00:40:38,166
+Fenster, Fenster, Fenster.
+Wo wäre ich, wenn ich eins wäre?
+
+736
+00:40:40,083 --> 00:40:41,250
+Gemüse.
+
+737
+00:40:41,458 --> 00:40:44,458
+Hallo. Nur eine kleine Karotte.
+
+738
+00:40:45,541 --> 00:40:49,291
+Oh. Oh, nein. Oh, nein, nein, nein.
+
+739
+00:40:49,666 --> 00:40:53,416
+Er sagte mir auch, ich hätte
+einen Bruder, einen Zwilling sogar.
+
+740
+00:40:53,583 --> 00:40:55,500
+Der kam wohl nach Südafrika.
+
+741
+00:40:55,666 --> 00:40:59,041
+Ein unbekannter südafrikanischer Zwilling.
+Das ist pures Gold.
+
+742
+00:40:59,541 --> 00:41:01,166
+Und wer sind Sie?
+
+743
+00:41:01,916 --> 00:41:04,875
+Ich bin Elliot Matthews.
+Ich recherchiere für die…
+
+744
+00:41:05,041 --> 00:41:06,458
+Mir egal. Raus.
+
+745
+00:41:07,708 --> 00:41:09,583
+Also, als Journalist habe ich…
+
+746
+00:41:09,708 --> 00:41:13,166
+Überhaupt kein Recht. Gar keins.
+Raus mit Ihnen.
+
+747
+00:41:13,541 --> 00:41:14,457
+Gut.
+
+748
+00:41:14,458 --> 00:41:16,208
+Und nicht herumlungern.
+
+749
+00:41:16,375 --> 00:41:20,875
+Ich bin in der "Präsidenten-Suite"
+und gönne mir den puren Luxus.
+
+750
+00:41:21,041 --> 00:41:22,208
+Lily!
+
+751
+00:41:22,708 --> 00:41:24,333
+Lily, Sebastian!
+
+752
+00:41:24,500 --> 00:41:25,833
+Hilfe.
+
+753
+00:41:28,166 --> 00:41:32,583
+Mister Van Vuuren.
+Hier ist Lydia Harbottle. Hören Sie mich?
+
+754
+00:41:32,750 --> 00:41:34,375
+<i>Ja, sehr gut Verbindung. Danke.</i>
+
+755
+00:41:34,541 --> 00:41:37,250
+Mister Van Vuuren
+ist Mister Hardys Sohn.
+
+756
+00:41:37,416 --> 00:41:41,833
+Er lebt in Südafrika und ist uns daher
+per Telefon zugeschaltet.
+
+757
+00:41:42,000 --> 00:41:45,374
+Nun, Mister Hardy
+schickte mir eine Kopie seines Testaments,
+
+758
+00:41:45,375 --> 00:41:47,250
+vor ungefähr zwei Monaten.
+
+759
+00:41:48,916 --> 00:41:52,416
+Aber dieses Testament
+werde ich heute nicht verlesen.
+
+760
+00:41:52,583 --> 00:41:53,750
+Es gibt ein neues.
+
+761
+00:41:54,083 --> 00:41:55,666
+- Hab ich gefunden.
+- Ruhe.
+
+762
+00:41:55,833 --> 00:41:58,083
+Datiert auf drei Tage vor seinem Tod.
+
+763
+00:41:58,250 --> 00:42:02,291
+War ja klar.
+Es gibt immer ein neues Testament.
+
+764
+00:42:02,750 --> 00:42:07,041
+"Dies ist der letzte Wille
+und das Testament von Mister George Hardy.
+
+765
+00:42:07,541 --> 00:42:10,041
+Ich habe euch sieben
+zusammengerufen,
+
+766
+00:42:10,208 --> 00:42:14,083
+weil ich mit jedem von euch
+noch etwas zu klären habe.
+
+767
+00:42:14,250 --> 00:42:17,125
+Einigen von euch
+habe ich unrecht getan,
+
+768
+00:42:17,291 --> 00:42:20,416
+und einige von euch
+haben mir unrecht getan.
+
+769
+00:42:20,875 --> 00:42:24,083
+Unter euch,
+versammelt in diesem Raum,
+
+770
+00:42:24,250 --> 00:42:27,750
+sitzen ein Idiot, ein schlechter Schäfer,
+
+771
+00:42:27,916 --> 00:42:31,333
+ein Frühlingslamm, ein Winterlamm,
+
+772
+00:42:31,500 --> 00:42:32,833
+ein Opfer
+
+773
+00:42:34,291 --> 00:42:35,625
+sowie zwei Mörder."
+
+774
+00:42:35,791 --> 00:42:37,000
+Zwei Mörder?
+
+775
+00:42:37,166 --> 00:42:38,375
+Ich ein schlechter Schäfer?
+
+776
+00:42:38,541 --> 00:42:41,250
+- Wie soll ich das aufklären?
+- Wenigstens steht der Idiot fest.
+
+777
+00:42:41,416 --> 00:42:43,541
+Ich züchte französische Schafe.
+Die beste Rasse.
+
+778
+00:42:43,708 --> 00:42:45,250
+Und was soll das mit dem Opfer?
+
+779
+00:42:45,416 --> 00:42:46,750
+Einer von uns ist der Nächste.
+
+780
+00:42:46,916 --> 00:42:48,458
+Einer von uns ist der Mörder!
+
+781
+00:42:48,583 --> 00:42:52,250
+Warum stellst du keine Fragen,
+anstatt zu flirten?
+
+782
+00:42:53,291 --> 00:42:54,666
+Zwei Mörder?
+
+783
+00:42:54,833 --> 00:42:56,708
+Ein Winterlamm.
+
+784
+00:42:59,791 --> 00:43:01,416
+"Ich vermache euch Folgendes."
+
+785
+00:43:01,583 --> 00:43:02,708
+Hey! Hey!
+
+786
+00:43:05,208 --> 00:43:07,583
+"Ich vermache euch Folgendes.
+
+787
+00:43:08,333 --> 00:43:11,583
+Das Wissen, dass ich
+euer wahres Ich erkannt habe.
+
+788
+00:43:12,458 --> 00:43:15,750
+Und für die meisten von euch
+ist das alles, was ihr kriegt."
+
+789
+00:43:16,250 --> 00:43:20,041
+Wie jetzt, das ist alles, was wir kriegen?
+Was mache ich hier noch?
+
+790
+00:43:20,208 --> 00:43:21,666
+Setzen und Klappe halten, Ham.
+
+791
+00:43:22,375 --> 00:43:23,416
+Das werde ich nicht.
+
+792
+00:43:23,583 --> 00:43:27,166
+Nein, das steht hier so.
+"Setzen und Klappe halten, Ham."
+
+793
+00:43:28,208 --> 00:43:31,708
+George kannte Sie wohl ziemlich gut.
+
+794
+00:43:32,333 --> 00:43:33,416
+Zeig mal mehr Anstand.
+
+795
+00:43:33,583 --> 00:43:34,875
+- Klappe.
+- Selber Klappe.
+
+796
+00:43:35,041 --> 00:43:37,333
+"Meinem Sohn, Peter Van Vuuren,
+
+797
+00:43:37,500 --> 00:43:39,124
+vermache ich die 120 Hektar,
+
+798
+00:43:39,125 --> 00:43:41,750
+die derzeit
+an Caleb Merrow verpachtet sind."
+
+799
+00:43:41,916 --> 00:43:43,333
+<i>Oh, das ist ja nett.</i>
+
+800
+00:43:43,500 --> 00:43:45,541
+"An meine Tochter, Rebecca Hampstead,
+
+801
+00:43:45,708 --> 00:43:49,500
+gehen die angrenzenden 120 Hektar,
+die ich mein Zuhause nenne,
+
+802
+00:43:49,666 --> 00:43:51,415
+inklusive meines Wohnwagens,
+
+803
+00:43:51,416 --> 00:43:54,958
+der Scheune samt Inhalt
+und meiner Schafe."
+
+804
+00:43:55,125 --> 00:43:59,041
+Im vorherigen Testament ging
+Mister Hardys restliches Vermögen an
+
+805
+00:43:59,208 --> 00:44:02,083
+den Tierschutzverein
+"Gesellschaft zum Schutz der Tiere".
+
+806
+00:44:02,833 --> 00:44:06,208
+Im neuen Testament jedoch
+lautet dieser Absatz wie folgt:
+
+807
+00:44:06,375 --> 00:44:11,583
+"Ich vermache den Rest meines Vermögens
+an meine Tochter Rebecca Hampstead."
+
+808
+00:44:11,750 --> 00:44:14,208
+Nicht zu früh freuen.
+Der Mann hatte nichts.
+
+809
+00:44:14,375 --> 00:44:19,166
+Nun, es gibt tatsächlich einen
+reparaturbedürftigen Mist-Streuer,
+
+810
+00:44:19,333 --> 00:44:22,166
+drei vorab gekaufte
+große Säcke Dünger.
+
+811
+00:44:22,333 --> 00:44:23,750
+Überaus nützlich.
+
+812
+00:44:23,916 --> 00:44:28,291
+Und ein Tagesgeldkonto
+mit Einlagen im Wert von etwa
+
+813
+00:44:28,458 --> 00:44:29,708
+30 Millionen Dollar.
+
+814
+00:44:30,666 --> 00:44:32,125
+<i>Hat sie 30 Millionen gesagt?</i>
+
+815
+00:44:32,291 --> 00:44:35,166
+Und schon haben wir unser Motiv.
+
+816
+00:44:35,958 --> 00:44:37,666
+30 Millionen? Wie?
+
+817
+00:44:37,833 --> 00:44:40,791
+Vor zwei Jahren entwickelte
+George Hardy ein Heilmittel
+
+818
+00:44:40,958 --> 00:44:44,250
+gegen eine Schafkrankheit,
+bekannt als "Orf".
+
+819
+00:44:44,416 --> 00:44:46,166
+- Orf?
+- Orf.
+
+820
+00:44:46,333 --> 00:44:49,125
+Dann war der blaue Schleim,
+den er angerührt hat, Medizin?
+
+821
+00:44:49,250 --> 00:44:52,332
+Er verkaufte das Patent
+einem großen Agrarkonzern
+
+822
+00:44:52,333 --> 00:44:53,250
+für die Summe von…
+
+823
+00:44:53,375 --> 00:44:54,666
+30 Millionen?
+
+824
+00:44:55,791 --> 00:44:56,791
+Für Orf.
+
+825
+00:45:08,958 --> 00:45:10,583
+- Da draußen ist jemand.
+- Tim.
+
+826
+00:45:10,750 --> 00:45:12,958
+Sieh nach, wer das ist. Los, los.
+
+827
+00:45:26,041 --> 00:45:27,958
+Hey, hey! Hey!
+
+828
+00:45:38,291 --> 00:45:40,083
+Nichts passiert. Alles gut.
+
+829
+00:45:41,083 --> 00:45:41,916
+Es kommt zurück!
+
+830
+00:46:02,291 --> 00:46:03,750
+Raus damit!
+
+831
+00:46:03,916 --> 00:46:05,000
+Raus!
+
+832
+00:46:09,458 --> 00:46:13,041
+Lily, ich hab das Fenster gefunden.
+
+833
+00:46:14,125 --> 00:46:15,916
+Alles gut. Braver Junge.
+
+834
+00:46:16,083 --> 00:46:17,333
+So ist gut.
+
+835
+00:46:20,625 --> 00:46:23,916
+Ohne Schäfer drehen diese Schafe
+noch vollkommen durch, klar?
+
+836
+00:46:24,166 --> 00:46:25,166
+Besonders das große.
+
+837
+00:46:26,625 --> 00:46:28,666
+George hat es von einem Jahrmarkt.
+
+838
+00:46:29,000 --> 00:46:30,583
+Es ist praktisch wild.
+
+839
+00:46:35,708 --> 00:46:39,250
+Warten Sie, Tim! Möchten Sie
+eine Stellungnahme abgeben?
+
+840
+00:46:39,416 --> 00:46:42,041
+Nein, nein. Kein Kommentar.
+Und Wachtmeister, bitte.
+
+841
+00:46:42,208 --> 00:46:44,166
+Was ist mit Spuren?
+Haben Sie welche?
+
+842
+00:46:44,333 --> 00:46:48,333
+Ja. Ja, haufenweise sogar.
+Ich hab alles unter Kontrolle.
+
+843
+00:46:49,666 --> 00:46:53,791
+Hören Sie. Ich brauche eine Story,
+Sie brauchen eine Festnahme.
+
+844
+00:46:54,583 --> 00:46:57,958
+Wäre es nicht nett,
+ausnahmsweise mal respektiert zu werden?
+
+845
+00:46:58,125 --> 00:47:00,791
+Hey. Die Menschen respektieren mich.
+
+846
+00:47:02,500 --> 00:47:05,708
+Wenn Sie den Fall lösen,
+wären Sie ein echter Held.
+
+847
+00:47:09,000 --> 00:47:10,750
+Tun wir uns zusammen.
+
+848
+00:47:12,291 --> 00:47:13,291
+Ich könnte helfen.
+
+849
+00:47:13,458 --> 00:47:16,125
+Gestern Nacht,
+als mein Auto abgeschleppt wurde,
+
+850
+00:47:16,291 --> 00:47:19,250
+sah ich gegen 21:00 Uhr
+eine Taschenlampe auf Georges Wiese.
+
+851
+00:47:20,208 --> 00:47:22,000
+Na gut. Na gut.
+
+852
+00:47:22,541 --> 00:47:23,958
+Das passt.
+
+853
+00:47:24,250 --> 00:47:27,708
+Laut Pathologe starb George
+zwischen 20:00 und 23:00 Uhr.
+
+854
+00:47:30,541 --> 00:47:33,833
+Sie haben den Körper fotografiert, oder?
+Ich hab das verschwitzt.
+
+855
+00:47:34,000 --> 00:47:38,083
+Ich hab haufenweise Fotos.
+Ich schicke sie Ihnen rüber.
+
+856
+00:47:39,875 --> 00:47:41,083
+Was sagst du,
+
+857
+00:47:41,666 --> 00:47:43,333
+Wachtmeister Held?
+
+858
+00:47:48,791 --> 00:47:52,416
+Und dann sagte sie,
+ein Idiot, ein Opfer, zwei Mörder…
+
+859
+00:47:52,583 --> 00:47:54,000
+Ich bleibe bei der Magd.
+
+860
+00:47:54,166 --> 00:47:55,791
+Es gibt keine Magd!
+
+861
+00:47:55,958 --> 00:48:00,083
+Das war 'ne Geschichte, und selbst da
+war sie's nicht. Keine Mägde mehr!
+
+862
+00:48:00,833 --> 00:48:02,000
+Schafe.
+
+863
+00:48:02,166 --> 00:48:05,791
+Caleb wird unser neuer Schäfer.
+Oder nicht, Lily?
+
+864
+00:48:05,958 --> 00:48:09,708
+Natürlich. Wir müssen nur warten,
+bis das Rätsel gelöst wurde.
+
+865
+00:48:09,875 --> 00:48:10,875
+Ich habe eine Frage.
+
+866
+00:48:11,041 --> 00:48:12,833
+Warum hast du das Rätsel
+noch nicht gelöst, Lily?
+
+867
+00:48:13,000 --> 00:48:15,375
+In den Geschichten
+löst du es immer gleich.
+
+868
+00:48:15,541 --> 00:48:19,250
+Ich weiß, aber die echte Welt
+ist ein bisschen komplizierter
+
+869
+00:48:19,416 --> 00:48:21,958
+als ein Buch.
+
+870
+00:48:22,625 --> 00:48:24,000
+Ein Buch.
+
+871
+00:48:24,666 --> 00:48:26,500
+Das könnte die Lösung sein.
+
+872
+00:48:26,666 --> 00:48:29,166
+Ich muss nur
+in Georges Wohnwagen und…
+
+873
+00:48:29,333 --> 00:48:30,416
+Dort!
+
+874
+00:48:32,541 --> 00:48:34,291
+Ist das Rebecca?
+
+875
+00:48:36,083 --> 00:48:38,000
+Was sucht sie denn?
+
+876
+00:49:04,583 --> 00:49:06,291
+Wie heißt du?
+
+877
+00:49:06,791 --> 00:49:08,708
+Das ist Georges Tochter?
+
+878
+00:49:08,875 --> 00:49:11,916
+Sie riecht wie er.
+Aber sie sieht ihm nicht ähnlich.
+
+879
+00:49:12,083 --> 00:49:13,916
+Ich wette, sie wurde im Winter geboren.
+
+880
+00:49:14,083 --> 00:49:16,250
+Darum wollte George
+sie nicht um sich haben.
+
+881
+00:49:16,416 --> 00:49:19,833
+Natürlich! Ein Winterlamm.
+Das ist der Beweis.
+
+882
+00:49:20,000 --> 00:49:21,083
+Rebecca war's!
+
+883
+00:49:21,250 --> 00:49:22,375
+Mörderin!
+
+884
+00:49:22,541 --> 00:49:23,833
+Das wissen wir nicht.
+
+885
+00:49:24,000 --> 00:49:26,041
+- Ich wusste es!
+- Hab ich doch gesagt.
+
+886
+00:49:26,208 --> 00:49:28,250
+Ich wusste es:
+"Rebecca macht Ärger!"
+
+887
+00:49:28,416 --> 00:49:30,041
+Sag ich doch von Anfang an.
+
+888
+00:49:30,208 --> 00:49:31,541
+Sebastian?
+
+889
+00:49:33,083 --> 00:49:36,541
+Lily? Was war jetzt
+mit Georges Wohnwagen?
+
+890
+00:49:36,708 --> 00:49:38,333
+Und dem Buch?
+
+891
+00:49:39,416 --> 00:49:40,416
+{\an8}TATORT
+
+892
+00:49:40,541 --> 00:49:44,000
+Im letzten Buch von George
+ging's um das Eingrenzen des Täters.
+
+893
+00:49:44,125 --> 00:49:47,041
+Ich muss das Buch finden
+und dem Polizisten bringen.
+
+894
+00:49:47,208 --> 00:49:49,875
+Mit etwas Glück
+liest er es und ist dann schlauer.
+
+895
+00:49:50,458 --> 00:49:52,583
+- Lass mich! Lass mich!
+- Nein, nein. Zora!
+
+896
+00:49:52,750 --> 00:49:54,708
+Ich will der Detektiv sein! Lass mich!
+
+897
+00:49:54,875 --> 00:49:58,583
+Gut. Na schön. Dann such mir
+das letzte vorgelesene Buch.
+
+898
+00:49:58,708 --> 00:50:00,958
+Das Kapitel über
+Mittel, Motive und Gelegenheit.
+
+899
+00:50:01,125 --> 00:50:02,958
+Ich habe eine Frage.
+Was ist ein Kapitel?
+
+900
+00:50:03,125 --> 00:50:05,666
+Unwichtig.
+Finde das Buch mit einem Zug drauf.
+
+901
+00:50:05,833 --> 00:50:08,916
+- Ich habe eine Frage. Was ist ein Zug?
+- Eine Reihe von Anhängern.
+
+902
+00:50:09,083 --> 00:50:11,833
+- Ich habe eine Frage.
+- Was machst du, Woll-Auge?
+
+903
+00:50:11,958 --> 00:50:15,833
+Alle zurückbleiben. Ich spüre das Buch
+mit meinem Geruchsinn auf.
+
+904
+00:50:17,833 --> 00:50:20,833
+Oh, ein paar Tomaten.
+Die könnt ihr haben.
+
+905
+00:50:22,041 --> 00:50:24,291
+Los, Woll-Auge.
+Alle zählen auf dich.
+
+906
+00:50:24,458 --> 00:50:25,708
+Nein, tun wir nicht.
+
+907
+00:50:25,875 --> 00:50:28,541
+Das letzte Buch,
+das George angefasst hat?
+
+908
+00:50:28,708 --> 00:50:29,958
+Das hier? War 'ne Karotte.
+
+909
+00:50:30,125 --> 00:50:32,458
+- Unfassbar.
+- Die hole ich mir später.
+
+910
+00:50:34,666 --> 00:50:35,791
+Ha, ha!
+
+911
+00:50:35,958 --> 00:50:36,916
+101 DUMME
+SCHAFWITZE
+
+912
+00:50:37,041 --> 00:50:39,125
+Ist es das, was du suchst?
+
+913
+00:50:39,291 --> 00:50:40,291
+Nein.
+
+914
+00:50:40,458 --> 00:50:41,708
+Oh. Und das?
+
+915
+00:50:41,833 --> 00:50:42,833
+MORD AM BAHNÜBERGANG
+
+916
+00:50:43,000 --> 00:50:45,583
+Das ist es!
+Woll-Auge, du hast es gefunden!
+
+917
+00:50:45,750 --> 00:50:47,000
+Natürlich hab ich das.
+
+918
+00:50:47,166 --> 00:50:48,750
+Lily, nehme ich an?
+
+919
+00:50:48,916 --> 00:50:51,500
+Immerhin bin ich
+ein Schafdetektiv.
+
+920
+00:51:38,125 --> 00:51:40,166
+Ist schön hier oben.
+
+921
+00:51:40,750 --> 00:51:42,541
+Aber ein bisschen einsam.
+
+922
+00:51:46,041 --> 00:51:50,333
+Oh, ich hab dem Polizisten ein Buch
+gegeben, um ihm auf die Sprünge zu helfen.
+
+923
+00:51:55,583 --> 00:51:57,208
+Was ist ein Jahrmarkt?
+
+924
+00:51:58,125 --> 00:52:00,708
+Nichts. Geh zurück zu deiner Herde.
+
+925
+00:52:01,375 --> 00:52:02,958
+Unsere Herde.
+
+926
+00:52:08,291 --> 00:52:09,750
+Musik.
+
+927
+00:52:10,500 --> 00:52:13,041
+Auf dem Jahrmarkt spielt Musik.
+
+928
+00:52:14,041 --> 00:52:15,250
+Es gibt Karussells.
+
+929
+00:52:16,666 --> 00:52:21,416
+Jeden Tag kamen Kinder vorbei
+und haben mich gestreichelt und gefüttert.
+
+930
+00:52:21,916 --> 00:52:23,833
+Das habe ich so geliebt.
+
+931
+00:52:24,083 --> 00:52:26,416
+Bis ich zu groß wurde.
+
+932
+00:52:27,541 --> 00:52:30,250
+Und dann, mit Einbruch der Nacht,
+
+933
+00:52:30,416 --> 00:52:34,125
+kamen die Männer vom Jahrmarkt
+und zogen mich in einen Kreis.
+
+934
+00:52:35,666 --> 00:52:39,416
+Und in dem Kreis war ein Hund.
+
+935
+00:52:41,541 --> 00:52:43,541
+Und sie zwangen mich, zu kämpfen.
+
+936
+00:52:46,125 --> 00:52:48,541
+Kämpfen, bis aufs Blut.
+
+937
+00:52:50,541 --> 00:52:52,416
+Dann, eines Abends,
+
+938
+00:52:53,416 --> 00:52:54,833
+<i>hat er mich gefunden.</i>
+
+939
+00:53:07,625 --> 00:53:09,458
+Er hat bezahlt und
+
+940
+00:53:10,291 --> 00:53:11,625
+mich mitgenommen.
+
+941
+00:53:14,250 --> 00:53:18,083
+Und das ist ein Jahrmarkt.
+
+942
+00:53:21,458 --> 00:53:24,791
+Aber wie bist du
+an so einem schrecklichen Ort gelandet?
+
+943
+00:53:24,958 --> 00:53:26,833
+Wo war denn deine Herde?
+
+944
+00:53:27,625 --> 00:53:31,791
+Hat Lily, die große Schafdetektivin,
+das nicht längst herausgefunden?
+
+945
+00:53:34,083 --> 00:53:35,666
+Du warst ein Winter…
+
+946
+00:53:35,791 --> 00:53:37,208
+Früher oder später
+
+947
+00:53:37,666 --> 00:53:40,208
+möchte ein Winterlamm weggehen.
+
+948
+00:53:57,291 --> 00:53:59,583
+Da ist er! Ja.
+
+949
+00:54:01,500 --> 00:54:03,666
+Ich hoffe, du hast Hunger, Tim.
+
+950
+00:54:03,833 --> 00:54:05,125
+Also?
+
+951
+00:54:06,958 --> 00:54:08,125
+Hallo?
+
+952
+00:54:08,875 --> 00:54:14,166
+Jedes Mal, wenn dieser Fall
+eine interessante Wendung nimmt,
+
+953
+00:54:15,166 --> 00:54:16,625
+tauchen die da auf.
+
+954
+00:54:22,708 --> 00:54:24,250
+Du drehst durch.
+
+955
+00:54:24,750 --> 00:54:27,416
+Komplett irre.
+Und du hast nichts getan, Tim.
+
+956
+00:54:27,583 --> 00:54:31,250
+Nicht komplett nichts.
+
+957
+00:54:32,333 --> 00:54:35,750
+Wer ermordete George?
+
+958
+00:54:35,916 --> 00:54:37,791
+{\an8}Fünf Verdächtige aus dem Testament.
+
+959
+00:54:38,041 --> 00:54:41,541
+Wer immer George getötet hat,
+brauchte dreierlei Dinge.
+
+960
+00:54:41,708 --> 00:54:45,750
+Mittel, Motiv, Gelegenheit.
+
+961
+00:54:46,000 --> 00:54:48,416
+Es hat geklappt.
+Er hat das Buch gelesen.
+
+962
+00:54:48,583 --> 00:54:51,000
+Gehen wir alles durch, ja?
+
+963
+00:54:51,166 --> 00:54:54,541
+Mittel:
+Taxin aus der Beere eines Eibenbaums.
+
+964
+00:54:54,708 --> 00:54:57,458
+Eiben gibt es
+auf dem ganzen Kirchengelände.
+
+965
+00:54:57,625 --> 00:54:59,750
+Alle hatten die Mittel.
+
+966
+00:54:59,916 --> 00:55:02,458
+{\an8}Motiv:
+Wieso George umbringen?
+
+967
+00:55:02,625 --> 00:55:04,458
+Rebeccas Motiv ist am klarsten.
+
+968
+00:55:04,625 --> 00:55:07,625
+Aber alle könnten eins haben.
+Was verstecken sie?
+
+969
+00:55:08,125 --> 00:55:11,708
+Gelegenheit:
+Hat irgendjemand von ihnen ein Alibi?
+
+970
+00:55:11,875 --> 00:55:15,041
+Mittel, Motiv, Gelegenheit.
+
+971
+00:55:15,208 --> 00:55:20,000
+Finde die Person mit allen dreien,
+und schnappe den Denbrook Giftmörder.
+
+972
+00:55:22,750 --> 00:55:25,833
+Tim. Das ist tatsächlich wirklich gut.
+
+973
+00:55:26,000 --> 00:55:28,666
+Ja, na ja. Das kam mir
+
+974
+00:55:29,958 --> 00:55:31,375
+einfach so über Nacht.
+
+975
+00:55:32,791 --> 00:55:36,291
+Gut. Dann lass uns loslegen.
+
+976
+00:55:36,458 --> 00:55:37,791
+Ham.
+
+977
+00:55:37,958 --> 00:55:40,333
+{\an8}<i>Und wer bist du
+in Georges Testament?</i>
+
+978
+00:55:40,833 --> 00:55:42,541
+Wahrscheinlich der Mörder.
+
+979
+00:55:43,625 --> 00:55:46,250
+Er war Vegetarier.
+
+980
+00:55:46,583 --> 00:55:50,166
+Einer Frau kann ich das verzeihen.
+Aber einem Mann?
+
+981
+00:55:50,625 --> 00:55:52,416
+Ekelerregend.
+
+982
+00:55:52,583 --> 00:55:53,708
+Beth.
+
+983
+00:55:54,083 --> 00:55:57,250
+Georges Brief an Rebecca.
+Warum hattest du den?
+
+984
+00:55:57,541 --> 00:56:01,833
+<i>Ein Fehler der Post vielleicht?
+Zum allerersten Mal in der Geschichte.</i>
+
+985
+00:56:02,000 --> 00:56:04,791
+Und am Tag vor Georges Tod
+
+986
+00:56:04,958 --> 00:56:07,541
+sagtest du:
+"Ich könnte ihn umbringen!"
+
+987
+00:56:07,708 --> 00:56:10,583
+Ich war's nicht. Ich bin das Opfer.
+Mehr sage ich nicht.
+
+988
+00:56:10,750 --> 00:56:12,083
+Ich kenne meine Rechte!
+
+989
+00:56:12,250 --> 00:56:13,416
+Caleb.
+
+990
+00:56:13,583 --> 00:56:17,583
+Als du George gefunden hast,
+wolltest du ihm Unterlagen bringen?
+
+991
+00:56:17,708 --> 00:56:19,500
+Ja, er hatte den Pachtvertrag gekündigt.
+
+992
+00:56:19,666 --> 00:56:22,500
+Ich brachte ihm einen Vorschlag,
+um ihn umzustimmen.
+
+993
+00:56:22,666 --> 00:56:23,958
+So viel dazu.
+
+994
+00:56:25,041 --> 00:56:29,333
+{\an8}Sekunde. George hat
+deinen Pachtvertrag gekündigt? Wieso?
+
+995
+00:56:29,708 --> 00:56:32,958
+{\an8}Du hast das Testament gehört.
+Ich bin wohl 'n schlechter Schäfer.
+
+996
+00:56:33,125 --> 00:56:34,541
+Hillcoate.
+
+997
+00:56:34,708 --> 00:56:36,416
+George hat die Kirche gemieden.
+
+998
+00:56:36,583 --> 00:56:39,791
+Und plötzlich taucht er
+am Tag vor seinem Tod auf
+
+999
+00:56:39,958 --> 00:56:41,375
+und spendet eine große Summe.
+
+1000
+00:56:43,875 --> 00:56:44,708
+Wieso?
+
+1001
+00:56:44,958 --> 00:56:46,958
+Warum bin ich immer unten?
+
+1002
+00:56:48,250 --> 00:56:49,875
+George sagte mir neulich,
+
+1003
+00:56:50,041 --> 00:56:53,541
+dass die Kirche seine Kinder
+zur Adoption vermittelt hat.
+
+1004
+00:56:53,708 --> 00:56:57,416
+<i>Sobald es ihm besserging,
+fing er an, nach ihnen zu suchen.</i>
+
+1005
+00:56:57,583 --> 00:56:59,958
+<i>Die Kirche gab aber nichts preis.</i>
+
+1006
+00:57:00,125 --> 00:57:02,291
+<i>Strenge Vorschrift, offenbar.</i>
+
+1007
+00:57:02,458 --> 00:57:04,666
+Also fragte er, was es kosten würde,
+
+1008
+00:57:04,833 --> 00:57:09,458
+wenn ich ihm
+diese Information beschaffe.
+
+1009
+00:57:09,625 --> 00:57:13,041
+Hätte die Kirche das rausgefunden,
+wäre ich nackt dagestanden.
+
+1010
+00:57:13,208 --> 00:57:15,375
+- Igitt.
+- Er meint gefeuert.
+
+1011
+00:57:16,625 --> 00:57:18,250
+Aber das Geld war nicht für mich.
+
+1012
+00:57:18,416 --> 00:57:20,958
+Die Kirche ist wirklich baufällig.
+
+1013
+00:57:21,833 --> 00:57:25,916
+George kam zu mir in Not,
+und ich habe es ausgenutzt.
+
+1014
+00:57:26,541 --> 00:57:28,750
+Caleb ist nicht der schlechte Schäfer.
+
+1015
+00:57:31,125 --> 00:57:32,333
+Der bin ich.
+
+1016
+00:57:32,500 --> 00:57:33,833
+Und Rebecca.
+
+1017
+00:57:34,166 --> 00:57:35,000
+Miss Hampstead.
+
+1018
+00:57:36,708 --> 00:57:39,375
+Gefällt Ihnen
+das Denbrook Kulturfestival?
+
+1019
+00:57:41,083 --> 00:57:43,333
+Ja. Ausgesprochen gut.
+
+1020
+00:57:44,833 --> 00:57:46,250
+Leichte, leichte Fragen.
+
+1021
+00:57:46,416 --> 00:57:51,458
+Wo waren Sie in der Mordnacht
+zwischen 20:00 und 23:00 Uhr?
+
+1022
+00:57:51,625 --> 00:57:53,791
+Im Hotel in der Nähe vom Flughafen.
+
+1023
+00:57:53,958 --> 00:57:56,791
+Ich habe eingecheckt
+und dann ferngesehen.
+
+1024
+00:57:56,958 --> 00:57:59,125
+Konnte nicht schlafen.
+Jetlag und so.
+
+1025
+00:58:00,083 --> 00:58:02,125
+Was haben Sie sich angesehen?
+
+1026
+00:58:03,541 --> 00:58:05,750
+Den 24-Stunden-Nachrichtensender.
+
+1027
+00:58:06,791 --> 00:58:10,875
+- 24-Stunden-Nachrichtensender.
+- 24-Stunden-Nachrichtensender.
+
+1028
+00:58:11,041 --> 00:58:15,000
+Gut, das wäre geklärt.
+Einen schönen Tag noch, Miss Hampstead.
+
+1029
+00:58:15,166 --> 00:58:17,458
+Sie auch. Tschüss.
+
+1030
+00:58:18,375 --> 00:58:20,083
+Oder sollte ich sagen Miss Crampfs?
+
+1031
+00:58:26,083 --> 00:58:30,583
+Chastity Crampfs
+ist Ihr richtiger Name, oder nicht?
+
+1032
+00:58:30,750 --> 00:58:32,333
+Ist es nachvollziehbar,
+
+1033
+00:58:32,500 --> 00:58:35,375
+dass man den Namen
+Chastity Crampfs ändern möchte?
+
+1034
+00:58:35,541 --> 00:58:38,500
+Ja, schon. Aber ich habe
+Sie genauer durchleuchtet.
+
+1035
+00:58:38,750 --> 00:58:42,916
+Und wie sich herausstellt, hatten Sie
+mal mit einem Kriminellen zu tun.
+
+1036
+00:58:43,083 --> 00:58:44,541
+Mehrfacher Urkundenbetrug.
+
+1037
+00:58:44,708 --> 00:58:46,250
+Sie hatten sogar
+ein gemeinsames Konto.
+
+1038
+00:58:46,416 --> 00:58:49,166
+Okay. Wir alle
+haben Beziehungen, die wir bereuen.
+
+1039
+00:58:49,333 --> 00:58:51,791
+Ich wusste davon nichts.
+Und das ist drei Jahre her.
+
+1040
+00:58:51,958 --> 00:58:54,416
+Also doch nicht erst
+kürzlich Schluss gemacht?
+
+1041
+00:58:54,666 --> 00:58:56,500
+- Kein echter Name.
+- Ein Muster.
+
+1042
+00:58:56,666 --> 00:58:58,125
+Bisschen ein Muster, ja.
+
+1043
+00:58:58,291 --> 00:59:00,000
+Also, sagen Sie mir eins.
+
+1044
+00:59:00,375 --> 00:59:02,791
+Waren Sie bei der Eibe
+auf dem Kirchengelände?
+
+1045
+00:59:03,041 --> 00:59:04,833
+Nein, auf keinen Fall.
+
+1046
+00:59:05,000 --> 00:59:08,583
+Und was ist mit Georges Farm?
+
+1047
+00:59:09,041 --> 00:59:10,500
+Waren Sie da mal?
+
+1048
+00:59:11,541 --> 00:59:12,666
+Noch nie.
+
+1049
+00:59:13,875 --> 00:59:15,458
+Caleb hatte den Pachtvertrag.
+
+1050
+00:59:15,625 --> 00:59:17,291
+Aber dann sagte Beth…
+
+1051
+00:59:17,458 --> 00:59:18,875
+Warum lügt Rebecca?
+
+1052
+00:59:19,041 --> 00:59:20,416
+Und was ist ein Vegetarier?
+
+1053
+00:59:20,583 --> 00:59:21,875
+Wie passt alles zusammen?
+
+1054
+00:59:22,041 --> 00:59:24,750
+Denk nach, du dummes Schaf. Denk!
+
+1055
+00:59:24,916 --> 00:59:27,916
+Quäl dich nicht, Lily.
+Es war eindeutig die Tochter.
+
+1056
+00:59:28,083 --> 00:59:30,250
+- Klar war's Rebecca.
+- Sie hat recht.
+
+1057
+00:59:30,416 --> 00:59:32,041
+Nein, war sie nicht.
+
+1058
+00:59:32,916 --> 00:59:35,208
+Ihr kennt sie nicht. Sie ist gut.
+
+1059
+00:59:35,375 --> 00:59:39,291
+Sie riecht genau wie George.
+Und George hat mich geliebt.
+
+1060
+00:59:39,458 --> 00:59:42,083
+Dich geliebt?
+Niemand liebt ein Winterlamm.
+
+1061
+00:59:42,250 --> 00:59:46,291
+Winterlämmer schützen sich gegenseitig.
+So sind sie nun mal gestrickt.
+
+1062
+00:59:46,458 --> 00:59:47,458
+Moment.
+
+1063
+00:59:47,625 --> 00:59:49,083
+Was hast du gesagt?
+
+1064
+00:59:49,250 --> 00:59:51,875
+Ich hab gesagt,
+George hat mich geliebt.
+
+1065
+00:59:52,041 --> 00:59:53,958
+Nein. Das davor.
+
+1066
+00:59:54,125 --> 00:59:57,666
+Du hast gesagt,
+Rebecca riecht genau wie George?
+
+1067
+00:59:57,833 --> 01:00:00,083
+Das hat schon mal jemamd gesagt.
+
+1068
+01:00:00,250 --> 01:00:01,958
+Der falsche jemand.
+
+1069
+01:00:02,125 --> 01:00:03,291
+Wer?
+
+1070
+01:00:04,958 --> 01:00:06,291
+Du.
+
+1071
+01:00:06,458 --> 01:00:09,416
+Was, ich? Was meinst du damit?
+
+1072
+01:00:09,583 --> 01:00:10,625
+Cloud war's!
+
+1073
+01:00:10,791 --> 01:00:12,708
+Mörderin!
+
+1074
+01:00:12,875 --> 01:00:16,083
+Nein. Aber sie hat
+etwas geheim gehalten.
+
+1075
+01:00:16,250 --> 01:00:17,625
+Nicht wahr, Cloud?
+
+1076
+01:00:17,791 --> 01:00:21,000
+Gestern Nacht hast du gesagt,
+Rebecca riecht genau wie George.
+
+1077
+01:00:21,166 --> 01:00:25,125
+Aber sie war so weit weg,
+du hättest sie niemals riechen können.
+
+1078
+01:00:25,291 --> 01:00:28,375
+Es sei denn, Rebecca
+ist schon mal hier gewesen.
+
+1079
+01:00:30,458 --> 01:00:33,208
+Aber es ist so wunderschön.
+
+1080
+01:00:33,375 --> 01:00:35,291
+Was ist wunderschön?
+
+1081
+01:00:37,625 --> 01:00:39,625
+Das Ding ohne Ende.
+
+1082
+01:00:43,916 --> 01:00:45,208
+Seht ihr?
+
+1083
+01:00:45,375 --> 01:00:48,708
+Es ist einfach zu schön.
+Und es hat kein Ende.
+
+1084
+01:00:48,875 --> 01:00:53,666
+Ich hab's stundenlang angesehen.
+Rundherum, im Kreis und im Kreis.
+
+1085
+01:00:53,916 --> 01:00:55,541
+Cloud. Cloud!
+
+1086
+01:00:55,708 --> 01:00:57,666
+Wo hast du das her?
+
+1087
+01:01:00,208 --> 01:01:02,458
+Rebecca war hier in der Nacht.
+
+1088
+01:01:02,750 --> 01:01:04,541
+In der George ermordet wurde.
+
+1089
+01:01:06,875 --> 01:01:11,125
+Ich bin aufgewacht und hatte Hunger,
+also bin ich auf die Wiese und da war sie.
+
+1090
+01:01:11,291 --> 01:01:12,791
+<i>Sie sah mich und sagte:</i>
+
+1091
+01:01:12,958 --> 01:01:16,291
+"Du bist aber hübsch."
+Das bin ich ja auch. Die Schönste.
+
+1092
+01:01:16,458 --> 01:01:18,208
+Und sie hat mein Fell gestreichelt,
+
+1093
+01:01:18,375 --> 01:01:20,041
+<i>und das Ding fiel runter, und…</i>
+
+1094
+01:01:21,208 --> 01:01:22,958
+Ich entschied,
+
+1095
+01:01:23,541 --> 01:01:25,583
+dass es mir gehören sollte.
+
+1096
+01:01:25,750 --> 01:01:28,125
+So, so. Wir besitzen nun also Dinge.
+
+1097
+01:01:28,291 --> 01:01:30,500
+Schafe besitzen keine Dinge.
+
+1098
+01:01:30,666 --> 01:01:32,166
+Ich weiß, aber…
+
+1099
+01:01:32,625 --> 01:01:34,333
+Es hat kein Ende.
+
+1100
+01:01:34,958 --> 01:01:36,791
+Dann ist der Fall gelöst.
+
+1101
+01:01:36,958 --> 01:01:38,166
+Rebecca war es.
+
+1102
+01:01:38,333 --> 01:01:39,333
+Mörderin.
+
+1103
+01:01:39,500 --> 01:01:42,541
+Ein bisschen glänzendes Metall
+löst überhaupt nichts.
+
+1104
+01:01:42,708 --> 01:01:45,166
+Klar tut es das.
+Das ist der Beweis.
+
+1105
+01:01:45,333 --> 01:01:48,000
+Beweis, hm? Wofür denn bitte?
+
+1106
+01:01:48,166 --> 01:01:50,583
+Sie hat gesagt,
+sie sei nie hier gewesen.
+
+1107
+01:01:50,750 --> 01:01:54,333
+Aber letzte Nacht war sie hier.
+Und in der Mordnacht von George.
+
+1108
+01:01:54,666 --> 01:01:57,583
+Sie lügt, sie ist falsch
+und sie ist ein Winter…
+
+1109
+01:01:58,166 --> 01:01:59,916
+Was ist sie?
+
+1110
+01:02:00,375 --> 01:02:01,458
+Sag es.
+
+1111
+01:02:02,166 --> 01:02:04,125
+Du hast sie von Anfang an gehasst.
+
+1112
+01:02:04,291 --> 01:02:05,375
+Ihr alle.
+
+1113
+01:02:05,666 --> 01:02:06,958
+Und warum?
+
+1114
+01:02:07,125 --> 01:02:10,083
+Weil sie zufällig
+im Winter geboren wurde.
+
+1115
+01:02:11,250 --> 01:02:14,125
+Das schlimmste Verbrechen überhaupt.
+
+1116
+01:02:14,291 --> 01:02:15,666
+Hast du es nicht gehört?
+
+1117
+01:02:15,833 --> 01:02:17,333
+Niemand will dich.
+
+1118
+01:02:17,500 --> 01:02:19,583
+Du bist nichts wert.
+
+1119
+01:02:21,375 --> 01:02:26,083
+Das kriegt ein Winterlamm zu hören.
+Immer und immer wieder, bis es eines Tages
+
+1120
+01:02:26,458 --> 01:02:29,124
+selbst daran glaubt.
+
+1121
+01:02:29,125 --> 01:02:29,958
+Sebastian.
+
+1122
+01:02:30,083 --> 01:02:31,208
+Sie war's nicht.
+
+1123
+01:02:31,375 --> 01:02:32,541
+Aber woher weißt du das?
+
+1124
+01:02:32,708 --> 01:02:35,000
+Weil ich ihr
+in die Augen gesehen habe.
+
+1125
+01:02:35,166 --> 01:02:37,291
+Weil es offensichtlich ist.
+
+1126
+01:02:37,708 --> 01:02:39,375
+Aber nicht für dich.
+
+1127
+01:02:39,625 --> 01:02:40,833
+Nein.
+
+1128
+01:02:41,000 --> 01:02:43,833
+Nicht für eine gewisse Schafherde.
+
+1129
+01:02:45,291 --> 01:02:47,625
+Wir sind <i>deine</i> Schafherde.
+
+1130
+01:02:48,791 --> 01:02:50,333
+Wie schon gesagt,
+
+1131
+01:02:50,500 --> 01:02:52,500
+ich habe keine Herde.
+
+1132
+01:02:53,958 --> 01:02:55,666
+Hatte ich nie.
+
+1133
+01:02:58,458 --> 01:02:59,541
+Lily.
+
+1134
+01:03:00,250 --> 01:03:03,041
+Was machen wir
+mit dem Ding ohne Ende?
+
+1135
+01:03:06,541 --> 01:03:07,875
+Aber natürlich.
+
+1136
+01:03:08,041 --> 01:03:09,375
+Der Chauffeur.
+
+1137
+01:03:13,375 --> 01:03:14,500
+Was?
+
+1138
+01:03:17,041 --> 01:03:18,291
+Was ist?
+
+1139
+01:03:20,708 --> 01:03:21,750
+Hey!
+
+1140
+01:03:24,708 --> 01:03:26,166
+Komm schon. Hey!
+
+1141
+01:03:28,083 --> 01:03:29,125
+Hey!
+
+1142
+01:03:30,791 --> 01:03:32,208
+Komm zurück!
+
+1143
+01:03:32,541 --> 01:03:34,041
+Das ist meine Mütze!
+
+1144
+01:03:34,875 --> 01:03:36,375
+Halt! Stehenbleiben!
+
+1145
+01:04:07,625 --> 01:04:10,000
+Danke. Danke dafür.
+
+1146
+01:04:13,458 --> 01:04:15,000
+Danke euch allen.
+
+1147
+01:04:25,791 --> 01:04:27,750
+Ich habe was von Ihnen gefunden.
+
+1148
+01:04:28,666 --> 01:04:30,625
+Passt zu Ihren anderen.
+
+1149
+01:04:32,333 --> 01:04:36,000
+- Den muss ich verloren haben, danke.
+- Ich fand ihn auf Georges Wiese.
+
+1150
+01:04:36,166 --> 01:04:38,541
+Sie wissen schon,
+wo Sie noch nie waren.
+
+1151
+01:04:39,958 --> 01:04:42,916
+Ich habe einen Durchsuchungsbefehl.
+
+1152
+01:04:45,208 --> 01:04:46,750
+Wonach suchen Sie?
+
+1153
+01:04:46,916 --> 01:04:48,166
+Weiß ich auch nicht.
+
+1154
+01:04:59,583 --> 01:05:01,291
+Bei den Eiben waren Sie auch noch nie?
+
+1155
+01:05:01,458 --> 01:05:02,458
+Ich wusste es.
+
+1156
+01:05:02,625 --> 01:05:04,750
+War ich nicht. Ich würde nie…
+
+1157
+01:05:04,916 --> 01:05:06,958
+Tim, Tim. Sie müssen mir glauben.
+
+1158
+01:05:07,125 --> 01:05:08,875
+Wachtmeister Derry.
+
+1159
+01:05:09,541 --> 01:05:12,625
+Wachtmeister Derry,
+ich schwöre es Ihnen.
+
+1160
+01:05:12,791 --> 01:05:14,708
+Ich habe meinen Vater nicht getötet.
+
+1161
+01:05:14,875 --> 01:05:16,083
+Rebecca Hampstead,
+
+1162
+01:05:16,750 --> 01:05:19,375
+ich verhafte Sie unter dem Verdacht
+des Mordes an George Hardy.
+
+1163
+01:05:26,250 --> 01:05:27,625
+<i>Vernehmung der Verdächtigen.</i>
+
+1164
+01:05:27,791 --> 01:05:32,125
+Chastity Crampfs,
+alias Rebecca Hampstead.
+
+1165
+01:05:32,916 --> 01:05:37,500
+Miss Crampfs, bestätigen Sie,
+dass Sie auf einen Anwalt verzichten?
+
+1166
+01:05:37,750 --> 01:05:41,208
+Ja. Ist mir egal.
+Ich bin bereit, alles zu erzählen.
+
+1167
+01:05:41,375 --> 01:05:43,583
+Gut. Dann fangen wir hiermit an.
+
+1168
+01:05:43,958 --> 01:05:48,333
+Waren Sie in der Mordnacht
+auf George Hardys Grundstück?
+
+1169
+01:05:49,000 --> 01:05:50,291
+Ja.
+
+1170
+01:05:50,625 --> 01:05:55,416
+Toll. Ihr hübsches Lächeln und
+"Sie sind ein schlauer Detektiv"…
+
+1171
+01:05:55,583 --> 01:05:57,750
+Das war alles gespielt, oder?
+
+1172
+01:05:57,916 --> 01:06:00,875
+Noch kein wahres Wort von Ihnen,
+seit Sie hier sind.
+
+1173
+01:06:01,750 --> 01:06:04,458
+Das mit den Briefen ist wahr.
+
+1174
+01:06:04,958 --> 01:06:08,750
+Er schrieb, dass er mich
+über 20 Jahre gesucht hatte, und dass er
+
+1175
+01:06:08,916 --> 01:06:10,915
+seinen Nachlass regeln wollte.
+
+1176
+01:06:10,916 --> 01:06:13,000
+Er schickte sogar
+eine Kopie des Testaments.
+
+1177
+01:06:13,166 --> 01:06:14,999
+Die Version mit den 30 Millionen,
+
+1178
+01:06:15,000 --> 01:06:17,375
+oder die, in der Sie
+ein paar Schafe kriegen?
+
+1179
+01:06:17,541 --> 01:06:19,916
+Nein, die ohne das Geld.
+
+1180
+01:06:21,375 --> 01:06:23,458
+Er sagte, er wollte mich kennenlernen.
+
+1181
+01:06:23,666 --> 01:06:24,916
+Also…
+
+1182
+01:06:25,666 --> 01:06:26,791
+Sie fliegen her
+
+1183
+01:06:26,958 --> 01:06:31,416
+und dann fahren Sie zu seiner Farm
+in der Nacht des Mordes.
+
+1184
+01:06:32,250 --> 01:06:33,791
+Und was ist dann passiert?
+
+1185
+01:06:35,250 --> 01:06:36,541
+Wir haben geredet.
+
+1186
+01:06:36,708 --> 01:06:37,750
+Worüber?
+
+1187
+01:06:39,416 --> 01:06:40,708
+Schafe.
+
+1188
+01:06:41,125 --> 01:06:42,916
+Wir unterhielten uns über Schafe.
+
+1189
+01:06:43,083 --> 01:06:45,041
+Und ihre Namen.
+
+1190
+01:06:45,208 --> 01:06:48,083
+Er meinte, jedes Schaf
+sollte einen Namen haben.
+
+1191
+01:06:48,250 --> 01:06:52,125
+Und er hat sie für sie ausgesucht,
+indem er ihnen in die Augen sah.
+
+1192
+01:06:52,541 --> 01:06:55,291
+Und er wollte, dass sie
+eines Tages an mich gehen.
+
+1193
+01:06:57,166 --> 01:06:58,458
+Er hat mich ausgesucht.
+
+1194
+01:07:00,000 --> 01:07:02,791
+Aber ich verstehe schon.
+Ich bin nicht dumm.
+
+1195
+01:07:03,125 --> 01:07:05,958
+Ich war in seiner Mordnacht
+allein mit ihm.
+
+1196
+01:07:06,125 --> 01:07:10,875
+Und das neue Testament, das furchtbar
+viele Geld und meine Vergangenheit?
+
+1197
+01:07:11,041 --> 01:07:14,416
+Ich hatte keine
+andere Wahl als zu lügen.
+
+1198
+01:07:15,500 --> 01:07:17,333
+Sie müssen mir glauben.
+
+1199
+01:07:18,833 --> 01:07:21,375
+"Ich lüge, also glaube mir."
+
+1200
+01:07:22,791 --> 01:07:23,666
+Ist doch so?
+
+1201
+01:07:27,333 --> 01:07:31,166
+Morgen früh werden Sie
+zum Bezirksgericht gebracht
+
+1202
+01:07:31,333 --> 01:07:35,291
+und offiziell angeklagt wegen
+des vorsätzlichen Mordes an George Hardy.
+
+1203
+01:07:48,958 --> 01:07:51,208
+Also war sie es doch.
+
+1204
+01:07:54,333 --> 01:07:55,583
+Geld.
+
+1205
+01:07:55,916 --> 01:07:57,291
+Wozu Menschen fähig sind.
+
+1206
+01:07:58,375 --> 01:08:02,250
+Offenbar entschied sich George Hardy
+für das falsche Lamm.
+
+1207
+01:08:03,583 --> 01:08:05,915
+Van Vuuren hat übrigens zugestimmt,
+
+1208
+01:08:05,916 --> 01:08:08,625
+seine Schafe und Land
+an Caleb Merrow zu verkaufen.
+
+1209
+01:08:08,791 --> 01:08:11,875
+Erledigen wir Papierkram
+gleich morgen. Mittags?
+
+1210
+01:08:12,791 --> 01:08:13,666
+Gut.
+
+1211
+01:08:14,416 --> 01:08:16,875
+Ich habe Sie unterschätzt, Wachtmeister.
+
+1212
+01:08:17,041 --> 01:08:18,041
+In der Tat.
+
+1213
+01:08:18,208 --> 01:08:21,041
+Sie sind offensichtlich
+doch nicht der Idiot.
+
+1214
+01:08:21,500 --> 01:08:22,583
+Gute Arbeit.
+
+1215
+01:09:01,500 --> 01:09:02,541
+Lily?
+
+1216
+01:09:03,958 --> 01:09:06,916
+Was machst du hier draußen?
+Geht's dir gut?
+
+1217
+01:09:07,083 --> 01:09:09,958
+Ja. Mehr als gut, sogar.
+Ich bin glücklich.
+
+1218
+01:09:10,125 --> 01:09:13,666
+Rebecca wurde festgenommen.
+Morgen wird Caleb unser neuer Schäfer.
+
+1219
+01:09:13,833 --> 01:09:15,000
+Das ist wunderbar.
+
+1220
+01:09:15,166 --> 01:09:19,375
+Natürlich bestreitet sie alles.
+Aber ich lag richtig und Sebastian falsch.
+
+1221
+01:09:20,666 --> 01:09:23,583
+Rebecca war es doch, oder?
+
+1222
+01:09:23,750 --> 01:09:25,000
+Klar war sie es.
+
+1223
+01:09:25,166 --> 01:09:26,250
+Danke.
+
+1224
+01:09:26,416 --> 01:09:28,291
+Weil du es so gesagt hast.
+
+1225
+01:09:29,083 --> 01:09:29,916
+Was?
+
+1226
+01:09:30,083 --> 01:09:33,250
+Du kennst das Ende doch immer,
+bevor die Geschichte endet.
+
+1227
+01:09:33,416 --> 01:09:34,666
+Ich vertraue dir.
+
+1228
+01:09:34,833 --> 01:09:36,750
+Aber das waren nur Geschichten.
+
+1229
+01:09:36,916 --> 01:09:39,500
+Das ist ein echter Mensch.
+Was, wenn ich…
+
+1230
+01:09:39,666 --> 01:09:40,833
+Lily, schau.
+
+1231
+01:09:41,000 --> 01:09:43,750
+Calebs Wiese
+ist direkt hinter diesem Zaun.
+
+1232
+01:09:43,916 --> 01:09:46,541
+Gehen wir unsere
+neue Herde kennenlernen?
+
+1233
+01:09:47,083 --> 01:09:49,750
+Aber wir waren doch
+noch nie auf Calebs Wiese.
+
+1234
+01:09:49,916 --> 01:09:52,625
+Na ja, wir haben vorher
+auch noch nie Straßen überquert.
+
+1235
+01:09:52,791 --> 01:09:53,833
+Komm mit.
+
+1236
+01:10:04,250 --> 01:10:06,208
+Es ist, als wären wir in einer Wolke.
+
+1237
+01:10:06,375 --> 01:10:08,333
+Glaubst du,
+wir haben uns verlaufen?
+
+1238
+01:10:08,500 --> 01:10:10,083
+Ich glaube nicht.
+
+1239
+01:10:12,583 --> 01:10:13,833
+Hallo?
+
+1240
+01:10:32,791 --> 01:10:33,958
+Hallo!
+
+1241
+01:10:34,583 --> 01:10:36,750
+Äh, ich heiße Lily.
+
+1242
+01:10:36,916 --> 01:10:39,416
+Und das ist Mopple.
+
+1243
+01:10:39,833 --> 01:10:42,041
+Wir sind von der Nachbarwiese.
+
+1244
+01:10:43,291 --> 01:10:45,625
+Caleb wird jetzt auch unser Schäfer.
+
+1245
+01:10:49,916 --> 01:10:50,958
+Was?
+
+1246
+01:10:58,708 --> 01:10:59,750
+Rennt.
+
+1247
+01:10:59,916 --> 01:11:01,916
+Was? Aber ich…
+
+1248
+01:11:08,000 --> 01:11:12,208
+Vielleicht war das doch
+keine gute Idee, herzukommen.
+
+1249
+01:11:12,375 --> 01:11:13,583
+Wir sollten gehen.
+
+1250
+01:11:13,750 --> 01:11:15,375
+Äh, gut.
+
+1251
+01:11:15,541 --> 01:11:16,916
+Wo geht's zurück?
+
+1252
+01:11:17,083 --> 01:11:18,875
+Da drüben vielleicht?
+
+1253
+01:11:23,333 --> 01:11:25,250
+Guck! Da ist ein Licht.
+
+1254
+01:11:28,500 --> 01:11:30,875
+Das muss Calebs Scheune sein.
+
+1255
+01:11:31,708 --> 01:11:33,625
+Hier sind wir sicher.
+
+1256
+01:11:38,333 --> 01:11:41,000
+Ich glaube, das ist
+überhaupt keine Scheune.
+
+1257
+01:11:42,000 --> 01:11:43,041
+Vielleicht sollten wir…
+
+1258
+01:11:43,208 --> 01:11:44,208
+Warte.
+
+1259
+01:11:45,333 --> 01:11:46,583
+Was ist das?
+
+1260
+01:11:48,291 --> 01:11:50,458
+Lily, nicht. Lass uns gehen.
+
+1261
+01:11:52,333 --> 01:11:53,958
+{\an8}DENBROOK
+FLEISCHERZEUGNISSE
+
+1262
+01:11:54,125 --> 01:11:56,125
+{\an8}Was ist mit dem Schaf passiert?
+
+1263
+01:11:56,291 --> 01:11:58,708
+{\an8}Was machen sie mit ihnen?
+
+1264
+01:12:02,083 --> 01:12:03,291
+Caleb?
+
+1265
+01:12:04,666 --> 01:12:05,666
+Er…
+
+1266
+01:12:06,208 --> 01:12:07,208
+Er…
+
+1267
+01:12:08,458 --> 01:12:10,541
+Oh. Hallo, Hundies.
+
+1268
+01:12:12,833 --> 01:12:14,166
+Was haben die denn?
+
+1269
+01:12:15,875 --> 01:12:17,833
+Wir dürfen nicht hier sein.
+
+1270
+01:12:19,291 --> 01:12:20,625
+Renn!
+
+1271
+01:12:31,916 --> 01:12:33,083
+Schneller, Lily!
+
+1272
+01:12:33,250 --> 01:12:35,458
+Ich kann nicht!
+Ich schaff's nicht.
+
+1273
+01:12:47,541 --> 01:12:48,625
+Sebastian.
+
+1274
+01:13:03,833 --> 01:13:04,666
+Nein!
+
+1275
+01:13:19,458 --> 01:13:20,750
+Sebastian.
+
+1276
+01:13:20,916 --> 01:13:23,458
+Zum Glück bist du da.
+Ich dachte schon, wir…
+
+1277
+01:13:25,791 --> 01:13:27,208
+Sebastian?
+
+1278
+01:13:28,125 --> 01:13:29,666
+Sebastian, steh auf.
+
+1279
+01:13:32,333 --> 01:13:33,625
+Lily.
+
+1280
+01:13:36,541 --> 01:13:37,875
+Ich kann nicht.
+
+1281
+01:13:38,708 --> 01:13:40,166
+Warum nicht?
+
+1282
+01:13:40,333 --> 01:13:42,041
+Ich, ich verstehe ni…
+
+1283
+01:13:47,333 --> 01:13:48,458
+Lily.
+
+1284
+01:13:49,291 --> 01:13:50,666
+Er stirbt.
+
+1285
+01:13:51,166 --> 01:13:52,333
+Was?
+
+1286
+01:13:52,500 --> 01:13:54,833
+Nein, Schafe sterben nicht.
+
+1287
+01:13:55,000 --> 01:13:56,833
+Wir werden zu Wolken.
+
+1288
+01:13:57,000 --> 01:14:00,708
+Werd zu einer Wolke, Sebastian.
+Werde zu einer Wolke.
+
+1289
+01:14:04,291 --> 01:14:06,000
+Ich wünschte, ich könnte.
+
+1290
+01:14:07,083 --> 01:14:09,333
+Du hättest nicht
+zurückkommen sollen.
+
+1291
+01:14:09,791 --> 01:14:11,750
+Warum bist du zurückgekommen?
+
+1292
+01:14:11,916 --> 01:14:13,291
+Ich musste es.
+
+1293
+01:14:14,208 --> 01:14:16,000
+Ihr seid meine Herde.
+
+1294
+01:14:23,208 --> 01:14:24,708
+Ich sehe ihn.
+
+1295
+01:14:26,625 --> 01:14:28,750
+Ich sehe George.
+
+1296
+01:14:39,125 --> 01:14:40,208
+Nein.
+
+1297
+01:14:46,208 --> 01:14:47,291
+Das ist Caleb.
+
+1298
+01:14:47,541 --> 01:14:48,916
+Wir müssen hier weg.
+
+1299
+01:14:49,083 --> 01:14:50,250
+Jetzt, Lily!
+
+1300
+01:15:01,708 --> 01:15:04,166
+Wacht auf! Alle sofort aufwachen!
+
+1301
+01:15:04,458 --> 01:15:06,083
+- Aufwachen!
+- Aufwachen!
+
+1302
+01:15:06,250 --> 01:15:07,708
+- Aufwachen!
+- Aufwachen!
+
+1303
+01:15:07,958 --> 01:15:09,000
+Folgt mir!
+
+1304
+01:15:09,166 --> 01:15:10,541
+Folgt ihr!
+
+1305
+01:15:10,708 --> 01:15:11,708
+Folgt ihr!
+
+1306
+01:15:11,875 --> 01:15:13,333
+Folgt ihr!
+
+1307
+01:15:20,333 --> 01:15:21,500
+Halt!
+
+1308
+01:15:21,916 --> 01:15:24,791
+Nicht anhalten!
+Wir müssen weg! Sofort!
+
+1309
+01:15:24,958 --> 01:15:27,541
+Weg? Was redest du denn da?
+
+1310
+01:15:28,291 --> 01:15:30,208
+Sebastian ist tot.
+
+1311
+01:15:30,708 --> 01:15:33,458
+Du hast doch gesagt,
+wir werden zu Wolken.
+
+1312
+01:15:33,625 --> 01:15:34,875
+Ich habe mich geirrt.
+
+1313
+01:15:35,041 --> 01:15:36,375
+Wir sterben.
+
+1314
+01:15:36,541 --> 01:15:38,666
+Ich habe Sebastian sterben sehen.
+
+1315
+01:15:38,833 --> 01:15:42,916
+Und wenn wir heute Nacht nicht weggehen,
+dann sterben wir auch alle.
+
+1316
+01:15:43,708 --> 01:15:45,916
+Caleb macht aus Schafen Essen.
+
+1317
+01:15:46,083 --> 01:15:49,416
+Hör auf! Hör auf,
+so furchtbare Sachen zu sagen.
+
+1318
+01:15:49,583 --> 01:15:51,583
+Ich vergesse das alles. Jetzt sofort.
+
+1319
+01:15:51,708 --> 01:15:52,875
+Nein, das geht nicht.
+
+1320
+01:15:53,041 --> 01:15:56,083
+Warum? Warum soll ich mich
+an so was Schreckliches erinnern?
+
+1321
+01:15:56,250 --> 01:15:57,583
+Weil es wahr ist!
+
+1322
+01:15:57,750 --> 01:15:59,708
+Nicht, wenn ich es vergesse.
+
+1323
+01:15:59,875 --> 01:16:00,958
+- Eins.
+- Warte!
+
+1324
+01:16:01,083 --> 01:16:01,999
+Zwei.
+
+1325
+01:16:02,000 --> 01:16:04,375
+Ronnie, Reggie, bitte.
+Seid tapfer.
+
+1326
+01:16:04,541 --> 01:16:05,708
+Drei!
+
+1327
+01:16:08,708 --> 01:16:10,250
+Oh. Hallo, Lily.
+
+1328
+01:16:10,791 --> 01:16:12,291
+Ich habe eine Frage.
+
+1329
+01:16:12,500 --> 01:16:13,708
+Was machen wir hier?
+
+1330
+01:16:13,875 --> 01:16:16,000
+Das gefällt mir nicht.
+Zurück zur Wiese.
+
+1331
+01:16:16,166 --> 01:16:17,291
+Zurück zur Wiese.
+
+1332
+01:16:17,708 --> 01:16:21,416
+Nein! Nicht! Bitte nicht!
+
+1333
+01:16:24,750 --> 01:16:27,333
+Sebastian hatte recht,
+was uns betrifft.
+
+1334
+01:16:27,500 --> 01:16:31,125
+Wir sind nur dumme, ängstliche Schafe.
+
+1335
+01:16:32,416 --> 01:16:37,416
+Heute Nacht war nicht das erste Mal,
+dass ich ein Schaf sterben sah, oder?
+
+1336
+01:16:37,791 --> 01:16:38,833
+Nein.
+
+1337
+01:16:39,000 --> 01:16:41,208
+Wie oft habe ich es schon vergessen?
+
+1338
+01:16:42,541 --> 01:16:44,291
+Mehr als ich zählen kann.
+
+1339
+01:16:44,916 --> 01:16:49,000
+Du hast das allein mit dir
+herumgetragen? Die ganze Zeit?
+
+1340
+01:16:49,708 --> 01:16:50,833
+Ja.
+
+1341
+01:16:51,250 --> 01:16:53,583
+Ich erinnere mich
+an all das Schlechte.
+
+1342
+01:16:53,958 --> 01:16:56,875
+Aber ich erinnere mich
+auch an das Gute.
+
+1343
+01:16:58,333 --> 01:17:01,083
+Ich erinnere mich
+an das Gesicht meiner Mutter.
+
+1344
+01:17:01,250 --> 01:17:04,291
+An meine alten Freunde
+und wie sie mich geliebt haben.
+
+1345
+01:17:04,458 --> 01:17:07,166
+Und du wirst dich
+an Sebastian erinnern.
+
+1346
+01:17:09,375 --> 01:17:10,833
+Es tut weh.
+
+1347
+01:17:11,000 --> 01:17:13,041
+Erinnerungen tun weh.
+
+1348
+01:17:13,583 --> 01:17:14,750
+Ich weiß.
+
+1349
+01:17:14,916 --> 01:17:16,166
+Aber wenn du vergisst,
+
+1350
+01:17:16,666 --> 01:17:20,000
+kannst du die anderen nicht retten,
+und Sebastian starb vergeblich.
+
+1351
+01:17:20,791 --> 01:17:22,416
+Caleb wird euch morgen holen
+
+1352
+01:17:22,583 --> 01:17:24,750
+und du wirst deinem neuen Schäfer folgen.
+
+1353
+01:17:25,000 --> 01:17:28,125
+Wie die anderen dummen,
+ängstlichen Schafe.
+
+1354
+01:17:28,625 --> 01:17:31,291
+Und wir werden alle sterben.
+
+1355
+01:17:32,916 --> 01:17:35,833
+Es tut mir leid, Lily. Wirklich.
+
+1356
+01:17:36,000 --> 01:17:39,958
+Aber es sind Erinnerungen,
+die unsere Liebsten am Leben halten.
+
+1357
+01:18:00,541 --> 01:18:02,708
+Es tut mir leid, Sebastian.
+
+1358
+01:18:03,708 --> 01:18:05,833
+Ich bin nicht so stark wie du.
+
+1359
+01:18:08,333 --> 01:18:10,625
+Eins. Zwei.
+
+1360
+01:18:10,791 --> 01:18:15,000
+<i>Du magst das schlauste Schaf sein,
+aber Mopple ist das weiseste.</i>
+
+1361
+01:18:18,833 --> 01:18:20,708
+{\an8}Ich hab auch jemanden verloren.
+
+1362
+01:18:21,750 --> 01:18:23,416
+{\an8}Ich weiß, das tut weh.
+
+1363
+01:18:23,833 --> 01:18:27,458
+Aber mit der Zeit
+bleibt nur das Gute übrig.
+
+1364
+01:18:28,125 --> 01:18:30,791
+Bist du… Bist du wirklich hier?
+
+1365
+01:18:31,250 --> 01:18:32,833
+Klar bin ich das.
+
+1366
+01:18:33,000 --> 01:18:35,416
+Weil du mich nicht vergessen hast.
+Verstehst du?
+
+1367
+01:18:35,750 --> 01:18:39,791
+Ja, aber es ist zu spät.
+Weil Caleb uns alle…
+
+1368
+01:18:39,958 --> 01:18:44,208
+Caleb wird meiner Herde nichts antun,
+weil du sie retten wirst.
+
+1369
+01:18:44,750 --> 01:18:45,958
+Aber wie?
+
+1370
+01:18:46,125 --> 01:18:48,041
+Das weißt du bereits.
+
+1371
+01:18:48,583 --> 01:18:51,291
+Wenn du den wahren Täter findest, Lily,
+
+1372
+01:18:51,458 --> 01:18:54,041
+geht die Herde an Rebecca
+und ihr seid sicher.
+
+1373
+01:18:54,208 --> 01:18:56,750
+Aber was, wenn ich
+nicht dahinterkomme?
+
+1374
+01:18:56,916 --> 01:18:59,416
+Ich habe euch hunderte
+dieser Bücher vorgelesen.
+
+1375
+01:18:59,583 --> 01:19:01,208
+Sie folgen einfachen Regeln.
+
+1376
+01:19:01,375 --> 01:19:03,291
+Aber die haben nicht geholfen.
+
+1377
+01:19:03,458 --> 01:19:05,375
+Die Polizei weiß,
+es war kein Landstreicher.
+
+1378
+01:19:05,541 --> 01:19:07,416
+Jeder hätte zum Tatort zurück können.
+
+1379
+01:19:07,583 --> 01:19:09,875
+Rebecca war
+die unerwartete Person und…
+
+1380
+01:19:10,041 --> 01:19:11,166
+Und?
+
+1381
+01:19:13,375 --> 01:19:16,416
+Und das Opfer ist
+die allerwichtigste Spur.
+
+1382
+01:19:18,750 --> 01:19:21,500
+<i>Der grünliche Grasfleck
+auf seiner Hand…</i>
+
+1383
+01:19:22,208 --> 01:19:24,666
+<i>…so schön gefärbt.</i>
+
+1384
+01:19:24,958 --> 01:19:26,291
+<i>…das falsche Lamm.</i>
+
+1385
+01:19:26,458 --> 01:19:28,500
+<i>Ich hab Georges Geist gesehen.</i>
+
+1386
+01:19:30,541 --> 01:19:31,583
+Gutes Mädchen.
+
+1387
+01:19:40,041 --> 01:19:42,125
+- Rebecca war's nicht!
+- Warte, Lily.
+
+1388
+01:19:42,250 --> 01:19:44,791
+- Ich hab's! Wenn ich beweisen kann…
+- Was beweisen?
+
+1389
+01:19:44,916 --> 01:19:46,125
+Es war kein Grasfleck.
+
+1390
+01:19:46,250 --> 01:19:47,750
+- Aber wie soll ich…
+- Warte!
+
+1391
+01:19:47,875 --> 01:19:49,083
+Es sei denn… Ja!
+
+1392
+01:19:49,208 --> 01:19:51,666
+Oh, ich bin zu groß.
+Ich komm nicht rein.
+
+1393
+01:19:51,791 --> 01:19:54,083
+Ich komm überall rein.
+
+1394
+01:19:55,208 --> 01:19:57,833
+Und ich hab's nicht vergessen.
+
+1395
+01:19:59,833 --> 01:20:01,750
+Tu dein ganzes Bein rein.
+
+1396
+01:20:03,875 --> 01:20:07,166
+Und dein anderes Bein da rein.
+
+1397
+01:20:10,791 --> 01:20:13,291
+Gut. Dann mal los.
+
+1398
+01:20:22,250 --> 01:20:24,583
+Prima. Und jetzt rein.
+
+1399
+01:21:17,916 --> 01:21:20,250
+Schon merkwürdig, diese Stadt.
+
+1400
+01:21:21,875 --> 01:21:24,041
+Glaubst du, es funktioniert?
+
+1401
+01:21:24,500 --> 01:21:27,583
+Ich weiß nicht.
+Jetzt können wir nur abwarten.
+
+1402
+01:21:29,958 --> 01:21:34,208
+Was hat George zu dir gesagt,
+an dem Morgen, bevor er starb?
+
+1403
+01:21:34,666 --> 01:21:37,333
+Er hat dir irgendwas ins Ohr geflüstert.
+
+1404
+01:21:38,250 --> 01:21:42,666
+Er hat gesagt,
+ein Winterlamm ist das beste Lamm.
+
+1405
+01:21:56,500 --> 01:21:58,708
+- Hey, Ronnie.
+- Ja?
+
+1406
+01:21:58,875 --> 01:22:02,541
+Hast du manchmal das Gefühl,
+dass du was vergessen hast?
+
+1407
+01:22:02,708 --> 01:22:05,708
+Meinst du, was Lily
+uns gestern sagen wollte,
+
+1408
+01:22:05,875 --> 01:22:09,208
+und was wir lieber vergessen haben,
+weil wir Angst hatten?
+
+1409
+01:22:09,458 --> 01:22:11,833
+Na ja, nicht Angst. Auf keinen Fall.
+
+1410
+01:22:12,000 --> 01:22:13,833
+Aber ja. Das meine ich.
+
+1411
+01:22:14,000 --> 01:22:15,375
+Was sollen wir tun, Bruder?
+
+1412
+01:22:15,541 --> 01:22:19,333
+Kein Plan, aber jedenfalls
+nicht nichts. Also irgendwas!
+
+1413
+01:22:20,083 --> 01:22:21,166
+Genial.
+
+1414
+01:22:21,333 --> 01:22:23,666
+Na, dann los!
+Sind wir Lämmer?
+
+1415
+01:22:23,833 --> 01:22:26,625
+Oder sind wir Böcke?
+
+1416
+01:22:39,333 --> 01:22:40,541
+Wer war das?
+
+1417
+01:22:40,916 --> 01:22:43,375
+Ein Lämmchen kam durchs Lichtfenster.
+
+1418
+01:22:43,541 --> 01:22:46,541
+Ein Lämmchen kam durchs Lichtfenster.
+
+1419
+01:22:46,791 --> 01:22:47,916
+Es kommt noch schlimmer.
+
+1420
+01:22:48,416 --> 01:22:51,208
+Schlimmer als ein Lichtfenster-Lämmchen?
+
+1421
+01:22:51,916 --> 01:22:53,958
+Ich bin mir ziemlich sicher,
+
+1422
+01:22:54,583 --> 01:22:58,541
+das Lämmchen hat Anweisungen
+von einem anderen Schaf bekommen.
+
+1423
+01:23:01,041 --> 01:23:02,208
+Genau.
+
+1424
+01:23:07,000 --> 01:23:08,250
+Was soll das bedeuten?
+
+1425
+01:23:14,583 --> 01:23:16,333
+Es bedeutet…
+
+1426
+01:23:19,083 --> 01:23:20,333
+Nichts.
+
+1427
+01:23:21,250 --> 01:23:22,541
+Nichts.
+
+1428
+01:23:23,000 --> 01:23:24,333
+Sie sind Schafe.
+
+1429
+01:23:25,500 --> 01:23:26,875
+Sie sind Schafe.
+
+1430
+01:24:09,583 --> 01:24:11,791
+Eine Unterschrift, dann sind wir weg.
+
+1431
+01:24:11,958 --> 01:24:13,125
+Ja, gut.
+
+1432
+01:24:15,166 --> 01:24:16,500
+Es hat nicht geklappt.
+
+1433
+01:24:16,666 --> 01:24:18,375
+Gib ihm 'ne Sekunde.
+
+1434
+01:24:21,083 --> 01:24:22,125
+Wachtmeister Derry.
+
+1435
+01:24:23,333 --> 01:24:24,458
+Das Formular.
+
+1436
+01:24:28,458 --> 01:24:29,916
+ÜBERFÜHRUNG
+
+1437
+01:24:30,416 --> 01:24:31,916
+Unterschreib nicht.
+
+1438
+01:24:34,041 --> 01:24:35,625
+ÜBERSTELLENDER
+BEAMTER
+
+1439
+01:24:59,791 --> 01:25:01,791
+Halt! Halt!
+
+1440
+01:25:03,375 --> 01:25:06,083
+Sie war's nicht. Sie war's nicht.
+
+1441
+01:25:06,791 --> 01:25:08,333
+Aber ich weiß, wer es war.
+
+1442
+01:25:08,500 --> 01:25:10,208
+Ich weiß,
+wer George Hardy getötet hat.
+
+1443
+01:25:15,625 --> 01:25:16,916
+Mrs. Harbottle.
+
+1444
+01:25:18,083 --> 01:25:19,250
+Nein, nein, nein!
+
+1445
+01:25:19,458 --> 01:25:24,250
+Wie sich herausstellt, war ich der Idiot.
+Aber damit ist jetzt Schluss.
+
+1446
+01:25:25,583 --> 01:25:30,041
+Seit Rebecca Hampstead in Denbrook ist,
+ist sie die Hauptverdächtige.
+
+1447
+01:25:30,208 --> 01:25:33,166
+Sie hatte das stärkste Motiv.
+Dazu hat sie gelogen.
+
+1448
+01:25:33,333 --> 01:25:35,625
+Sie war auf Georges Farm
+in der Mordnacht.
+
+1449
+01:25:35,791 --> 01:25:38,208
+Genau darauf hatte
+der Täter spekuliert.
+
+1450
+01:25:38,375 --> 01:25:43,291
+Ein Täter, den wir nie erwogen haben,
+weil er nie als Verdächtiger galt.
+
+1451
+01:25:43,500 --> 01:25:48,833
+Die einzige Person in Georges Testament,
+die ein Alibi hatte.
+
+1452
+01:25:49,083 --> 01:25:50,833
+Ein wasserdichtes Alibi.
+
+1453
+01:25:51,000 --> 01:25:52,750
+Ein "Nicht mal im Land"-Alibi.
+
+1454
+01:25:52,916 --> 01:25:54,416
+- Meinen Sie…
+- Ja.
+
+1455
+01:25:54,583 --> 01:25:55,666
+Peter Van Vuuren.
+
+1456
+01:25:55,833 --> 01:25:57,083
+- Aus Südafrika.
+- Aus Südafrika.
+
+1457
+01:25:57,250 --> 01:25:59,875
+Rebecca, George hatte Ihnen
+sein Testament geschickt.
+
+1458
+01:26:00,041 --> 01:26:03,291
+Aber ich wette,
+Ihr Bruder bekam auch eine Kopie.
+
+1459
+01:26:03,458 --> 01:26:07,583
+Der dann nachforschte und herausfand,
+wie vermögend George wirklich war.
+
+1460
+01:26:07,750 --> 01:26:12,833
+Und der beschloss, sich die 30 Millionen
+zu holen, auch wenn er dafür töten müsste.
+
+1461
+01:26:13,791 --> 01:26:16,416
+Aber er hatte ein immenses Problem.
+
+1462
+01:26:16,583 --> 01:26:17,541
+Motiv!
+
+1463
+01:26:17,958 --> 01:26:19,250
+Ich wollte das sagen.
+
+1464
+01:26:19,416 --> 01:26:22,000
+Na ja, Sie haben mich
+als Mörderin dargestellt.
+
+1465
+01:26:23,875 --> 01:26:24,875
+Motiv!
+
+1466
+01:26:25,375 --> 01:26:28,790
+Hinterlässt dir ein Mordopfer
+im Testament ein Vermögen,
+
+1467
+01:26:28,791 --> 01:26:30,416
+bist du der Hauptverdächtige.
+
+1468
+01:26:30,583 --> 01:26:33,916
+Aber geht es an deine Schwester
+und sie wird verurteilt…
+
+1469
+01:26:34,083 --> 01:26:35,625
+Dann geht das Vermögen an…
+
+1470
+01:26:35,791 --> 01:26:37,083
+Den nächsten Verwandten!
+
+1471
+01:26:37,208 --> 01:26:39,458
+Kommen Sie.
+Das ist mein großer Auftritt.
+
+1472
+01:26:39,625 --> 01:26:40,708
+Es tut mir leid.
+
+1473
+01:26:41,083 --> 01:26:42,750
+Der nächste Verwandte!
+
+1474
+01:26:43,125 --> 01:26:44,458
+Bleibt nur die Frage,
+
+1475
+01:26:45,833 --> 01:26:47,375
+wo versteckt er sich?
+
+1476
+01:26:47,541 --> 01:26:49,333
+Nach wem suche ich?
+
+1477
+01:26:49,500 --> 01:26:52,083
+Jemand, der sich
+vor aller Augen versteckt.
+
+1478
+01:26:52,250 --> 01:26:54,416
+Jemand, der seinen Namen geändert hat?
+
+1479
+01:26:55,041 --> 01:26:58,750
+Zum Beispiel, Chastity Crampfs.
+
+1480
+01:26:58,916 --> 01:27:01,166
+Sie wurde Rebecca Hampstead.
+
+1481
+01:27:01,333 --> 01:27:02,625
+Und Peter Van Vuuren…
+
+1482
+01:27:02,791 --> 01:27:04,750
+Und Peter Van Vuuren
+
+1483
+01:27:06,625 --> 01:27:08,416
+wurde Elliot Matthews.
+
+1484
+01:27:08,583 --> 01:27:09,625
+Nein!
+
+1485
+01:27:11,291 --> 01:27:13,083
+Georges Geist.
+
+1486
+01:27:14,375 --> 01:27:16,041
+Ich spekuliere nie.
+
+1487
+01:27:17,125 --> 01:27:19,083
+Mach dich nicht lächerlich, Tim.
+
+1488
+01:27:19,666 --> 01:27:23,208
+Ich wohne nicht in Südafrika,
+sondern hier. Und ich arbeite für…
+
+1489
+01:27:23,375 --> 01:27:24,375
+Ich weiß.
+
+1490
+01:27:24,500 --> 01:27:29,416
+Du wohnst bestimmt schon eine Weile
+in diesem Land als "Elliot Matthews".
+
+1491
+01:27:29,583 --> 01:27:31,333
+Hast unseren Akzent angenommen.
+
+1492
+01:27:31,625 --> 01:27:36,041
+George hat dir gesagt,
+dass Rebecca zu Besuch kommt. Richtig?
+
+1493
+01:27:36,625 --> 01:27:39,583
+Wie gemacht dafür,
+es ihr in die Schuhe zu schieben.
+
+1494
+01:27:39,875 --> 01:27:43,166
+Du brauchtest nur einen Grund,
+nach Denbrook zu kommen.
+
+1495
+01:27:43,916 --> 01:27:46,166
+<i>Wie ein Kulturfestival.</i>
+
+1496
+01:27:46,333 --> 01:27:48,375
+<i>Dein Plan war einfach.</i>
+
+1497
+01:27:48,500 --> 01:27:49,333
+<i>Zuerst…</i>
+
+1498
+01:27:49,625 --> 01:27:51,875
+Einen Abgang
+aus Denbrook inszenieren.
+
+1499
+01:27:52,208 --> 01:27:55,583
+<i>Dann brachte dich
+eine praktische Autopanne zurück.</i>
+
+1500
+01:27:57,791 --> 01:28:01,458
+<i>Später in derselben Nacht,
+nachdem Rebecca gegangen war,</i>
+
+1501
+01:28:01,625 --> 01:28:04,250
+<i>hast du getan,
+wofür du gekommen warst.</i>
+
+1502
+01:28:07,333 --> 01:28:08,416
+Komm, komm, komm.
+
+1503
+01:28:18,375 --> 01:28:19,500
+Prost.
+
+1504
+01:28:19,791 --> 01:28:21,458
+<i>Du hast deinen Vater vergiftet</i>
+
+1505
+01:28:23,333 --> 01:28:25,500
+<i>und das neue Testament platziert.</i>
+
+1506
+01:28:28,416 --> 01:28:30,791
+<i>Aber dein Vater
+war stärker als erwartet.</i>
+
+1507
+01:28:32,791 --> 01:28:34,166
+Es kam zu einem Kampf.
+
+1508
+01:28:42,541 --> 01:28:45,125
+<i>Doch am Ende hast du gewonnen.</i>
+
+1509
+01:28:45,666 --> 01:28:49,291
+Jetzt musstest du nur noch
+deine Schwester dafür büßen lassen.
+
+1510
+01:28:50,000 --> 01:28:51,958
+Du warst sehr schlau.
+
+1511
+01:28:52,333 --> 01:28:55,916
+Du wusstest, dass dich
+Mrs. Harbottle rausschmeißen würde.
+
+1512
+01:28:57,750 --> 01:29:02,166
+<i>Mister Van Vuuren.
+Hier ist Lydia Harbottle. Hören Sie mich?</i>
+
+1513
+01:29:02,500 --> 01:29:04,333
+Ja, sehr gute Verbindung. Danke.
+
+1514
+01:29:04,500 --> 01:29:08,666
+Die Eibenbeeren in Rebeccas Zimmer,
+die waren im Nu platziert.
+
+1515
+01:29:09,125 --> 01:29:10,666
+<i>Kleinstadt-Pension.</i>
+
+1516
+01:29:10,833 --> 01:29:12,208
+<i>Leicht knackbare Schlösser.</i>
+
+1517
+01:29:13,291 --> 01:29:15,333
+Es war fast perfekt, Elliot.
+
+1518
+01:29:15,500 --> 01:29:18,833
+Aber was du nicht wusstest,
+und ich auch nicht, bis jetzt,
+
+1519
+01:29:19,000 --> 01:29:20,708
+du hast eine Spur hinterlassen.
+
+1520
+01:29:21,500 --> 01:29:23,083
+Georges Hände.
+
+1521
+01:29:23,250 --> 01:29:25,208
+Georges Hände.
+
+1522
+01:29:26,875 --> 01:29:30,000
+Eine war blau, die andere grün.
+
+1523
+01:29:30,166 --> 01:29:33,000
+<i>Die blaue ergab Sinn.
+Seine lukrative Medizin.</i>
+
+1524
+01:29:33,166 --> 01:29:35,000
+Aber grün? Wieso grün?
+
+1525
+01:29:35,916 --> 01:29:38,875
+Und dann brachten mich
+ein paar Freunde,
+
+1526
+01:29:39,291 --> 01:29:42,375
+Freunde, die super Detektive sind,
+
+1527
+01:29:45,833 --> 01:29:47,375
+zum Nachdenken.
+
+1528
+01:29:48,208 --> 01:29:50,083
+Blau und gelb.
+
+1529
+01:29:50,250 --> 01:29:54,041
+Blau und gelb ergeben zusammen grün.
+
+1530
+01:29:54,208 --> 01:29:57,291
+Wie der grüne Fleck
+an Georges Hand.
+
+1531
+01:29:57,458 --> 01:30:00,625
+Wie der grüne Fleck
+auf einem Kissenbezug der Pension,
+
+1532
+01:30:00,916 --> 01:30:04,291
+auf dem du geschlafen hast,
+nachdem du George ermordet hast.
+
+1533
+01:30:05,583 --> 01:30:09,500
+Beide von Georges Händen waren
+von dem Medikament blau verfärbt.
+
+1534
+01:30:09,666 --> 01:30:12,958
+Aber dann packte er
+jemanden am Haar.
+
+1535
+01:30:14,083 --> 01:30:17,791
+Jemand, der so eine billige
+gelbe Haarfarbe benutzt,
+
+1536
+01:30:17,958 --> 01:30:19,750
+die im Regen verläuft
+
+1537
+01:30:19,916 --> 01:30:21,625
+<i>und Georges Hand grün färbt.</i>
+
+1538
+01:30:22,625 --> 01:30:26,208
+Jemand, der hastig blond wurde,
+bevor er nach Denbrook kam,
+
+1539
+01:30:26,375 --> 01:30:29,166
+damit niemand auch nur
+für eine Sekunde denkt,
+
+1540
+01:30:29,333 --> 01:30:32,166
+er sähe aus wie
+seine Schwester oder sein Vater.
+
+1541
+01:30:32,666 --> 01:30:33,958
+War es so, Peter?
+
+1542
+01:30:34,083 --> 01:30:34,916
+Ja!
+
+1543
+01:30:35,041 --> 01:30:35,958
+Nein!
+
+1544
+01:30:36,375 --> 01:30:39,375
+Nein, das ist Unfug
+und absolut nicht zu beweisen.
+
+1545
+01:30:39,541 --> 01:30:43,041
+Dann wird es dich nicht stören,
+wenn ich mir das nehme.
+
+1546
+01:30:47,833 --> 01:30:49,333
+Nicht im Geringsten.
+
+1547
+01:30:50,375 --> 01:30:53,083
+Zugegeben, ich bin
+nicht von Natur aus blond.
+
+1548
+01:30:53,750 --> 01:30:55,415
+Aber ich muss auch gestehen,
+
+1549
+01:30:55,416 --> 01:30:58,708
+ich bleiche mir die Zähne
+und wachse meine Brust.
+
+1550
+01:30:58,875 --> 01:31:01,000
+Jede Wette, der ist Vegetarier.
+
+1551
+01:31:01,166 --> 01:31:05,416
+Du erdreistest dich, mich wegen
+meiner Haare für Mord anzuklagen?
+
+1552
+01:31:05,583 --> 01:31:07,208
+Viel Glück vor Gericht.
+
+1553
+01:31:07,375 --> 01:31:09,541
+Ich werde dich anzeigen.
+
+1554
+01:31:13,916 --> 01:31:15,458
+Du verstehst nicht.
+
+1555
+01:31:15,625 --> 01:31:18,041
+Es geht nicht um dein gefärbtes Haar,
+
+1556
+01:31:18,208 --> 01:31:19,666
+sondern deine DNA.
+
+1557
+01:31:21,333 --> 01:31:23,791
+Wenn du George Hardys Sohn bist,
+
+1558
+01:31:23,958 --> 01:31:26,333
+dann bist du Peter Van Vuuren.
+
+1559
+01:31:26,500 --> 01:31:30,291
+Und auch der wahre Mörder.
+
+1560
+01:31:31,291 --> 01:31:32,375
+Hab dich.
+
+1561
+01:31:33,458 --> 01:31:34,625
+Hab dich.
+
+1562
+01:31:40,666 --> 01:31:42,166
+Bravo, Tim.
+
+1563
+01:31:48,666 --> 01:31:49,666
+Hey!
+
+1564
+01:31:52,958 --> 01:31:53,874
+Lily!
+
+1565
+01:31:53,875 --> 01:31:55,750
+Ronnie, Reggie.
+Ihr seid gekommen.
+
+1566
+01:31:55,916 --> 01:31:57,208
+Jupp!
+
+1567
+01:31:57,583 --> 01:31:58,583
+Warum?
+
+1568
+01:32:01,041 --> 01:32:02,708
+Hey! Halt! Halt!
+
+1569
+01:32:02,875 --> 01:32:06,583
+Weil es einen berechtigten Anlass gibt
+zum Rammen.
+
+1570
+01:32:06,750 --> 01:32:08,041
+- Danke.
+- Endlich!
+
+1571
+01:32:08,166 --> 01:32:09,000
+Jawohl!
+
+1572
+01:32:28,500 --> 01:32:29,666
+Gerechtigkeit?
+
+1573
+01:32:29,833 --> 01:32:32,208
+Nee. Aber gerächt.
+
+1574
+01:32:32,375 --> 01:32:33,541
+Yeah!
+
+1575
+01:32:37,166 --> 01:32:40,625
+Er hatte Millionen!
+Hört ihr? Millionen!
+
+1576
+01:32:40,791 --> 01:32:41,916
+Ich bin sein Sohn.
+
+1577
+01:32:42,083 --> 01:32:44,208
+Die Millionen hätten
+mir gehören sollen.
+
+1578
+01:32:51,958 --> 01:32:54,208
+Ich wusste,
+die Amerikanerin war's nicht.
+
+1579
+01:32:54,333 --> 01:32:55,500
+Das sehe ich anders.
+
+1580
+01:32:58,375 --> 01:32:59,291
+Also.
+
+1581
+01:32:59,458 --> 01:33:03,333
+Im Namen des gesamten
+Polizeireviers Denbrook
+
+1582
+01:33:03,500 --> 01:33:05,666
+unsere aufrichtige Entschuldigung.
+
+1583
+01:33:05,833 --> 01:33:08,666
+Ist da noch jemand außer dir?
+
+1584
+01:33:09,166 --> 01:33:10,208
+Nein.
+
+1585
+01:33:11,083 --> 01:33:13,000
+Ich möchte mich entschuldigen.
+
+1586
+01:33:14,666 --> 01:33:15,666
+Danke.
+
+1587
+01:33:24,750 --> 01:33:26,041
+Guck mal.
+
+1588
+01:33:27,208 --> 01:33:28,333
+Lichtfenster-Lämmchen?
+
+1589
+01:33:29,708 --> 01:33:31,291
+Lichtfenster-Lämmchen.
+
+1590
+01:33:33,083 --> 01:33:35,500
+Hast du vor,
+ein Weile hier zu bleiben?
+
+1591
+01:33:35,750 --> 01:33:38,166
+Naja, ich bin gerade erst
+aus dem Gefängnis raus. Ich muss
+
+1592
+01:33:39,041 --> 01:33:40,666
+erst mal zu mir kommen.
+
+1593
+01:33:45,291 --> 01:33:47,250
+Ich hoffe, du bleibst.
+
+1594
+01:33:47,791 --> 01:33:49,000
+Schon möglich.
+
+1595
+01:33:53,833 --> 01:33:54,916
+Rebecca.
+
+1596
+01:33:55,500 --> 01:33:58,875
+Rebecca, ich möchte
+mich bei Ihnen entschuldigen.
+
+1597
+01:34:25,958 --> 01:34:27,500
+Geht aufs Haus.
+
+1598
+01:34:29,250 --> 01:34:30,458
+Danke.
+
+1599
+01:34:34,791 --> 01:34:35,916
+Warten Sie.
+
+1600
+01:34:40,500 --> 01:34:42,625
+Es tut mir sehr leid.
+
+1601
+01:34:44,916 --> 01:34:46,458
+Ich habe ihn gelesen.
+
+1602
+01:34:47,083 --> 01:34:51,708
+Er war im Postsack, und ich wusste nicht,
+dass Sie seine Tochter sind.
+
+1603
+01:34:51,875 --> 01:34:55,041
+Und ich hab ihm das Papier
+mit Rosenduft geschenkt.
+
+1604
+01:34:55,458 --> 01:34:57,000
+Können Sie sich ja vorstellen.
+
+1605
+01:34:57,208 --> 01:34:58,625
+Sie waren in ihn verliebt?
+
+1606
+01:35:00,208 --> 01:35:01,291
+Tja.
+
+1607
+01:35:01,666 --> 01:35:04,250
+Und war er auch verliebt in…
+
+1608
+01:35:04,500 --> 01:35:05,916
+Er hat's versucht.
+
+1609
+01:35:06,291 --> 01:35:09,041
+Aber George liebte Ihre Mutter.
+
+1610
+01:35:09,250 --> 01:35:12,333
+In seinem Herzen war
+kein Platz für jemand anderen.
+
+1611
+01:35:13,333 --> 01:35:15,708
+Ich fragte mich oft, wie sie aussah.
+
+1612
+01:35:16,083 --> 01:35:17,916
+Aber das hat sich jetzt erübrigt.
+
+1613
+01:35:19,416 --> 01:35:21,708
+Ich hätte ihn mehr
+über sie fragen sollen.
+
+1614
+01:35:23,666 --> 01:35:25,208
+Ich weiß nicht mal ihren Namen.
+
+1615
+01:35:25,500 --> 01:35:26,666
+Lily.
+
+1616
+01:35:27,333 --> 01:35:28,958
+Sie hieß Lily.
+
+1617
+01:35:35,000 --> 01:35:38,208
+<i>Das gefälschte Testament
+ist natürlich nicht gültig.</i>
+
+1618
+01:35:38,375 --> 01:35:41,333
+{\an8}Aber Sie bekommen noch
+seine Schafe und das Land.
+
+1619
+01:35:41,500 --> 01:35:43,291
+- Miss Hampstead.
+- Ist doch auch was.
+
+1620
+01:35:43,458 --> 01:35:45,166
+Entschuldigen Sie die Störung.
+
+1621
+01:35:45,583 --> 01:35:49,666
+Also, Ham und ich, wir wollen
+ein neues Geschäft starten.
+
+1622
+01:35:49,833 --> 01:35:51,583
+Eine Bank finanziert uns.
+
+1623
+01:35:52,250 --> 01:35:56,000
+Und wir möchten Ihnen die Schafe
+und das Land Ihres Vaters abkaufen.
+
+1624
+01:35:56,666 --> 01:35:57,666
+Zwei Mörder.
+
+1625
+01:35:57,833 --> 01:35:59,000
+Wie bitte?
+
+1626
+01:35:59,166 --> 01:36:02,208
+Mein Vater wusste, dass Sie
+auf seinem Land Schafe schlachten.
+
+1627
+01:36:02,666 --> 01:36:04,625
+Sie sind die zwei Mörder.
+
+1628
+01:36:05,000 --> 01:36:06,500
+Zwei Geschäftsmänner.
+
+1629
+01:36:06,666 --> 01:36:09,375
+Die einen guten Preis anbieten.
+
+1630
+01:36:09,791 --> 01:36:11,625
+Kennen Sie überhaupt ihre Namen?
+
+1631
+01:36:12,583 --> 01:36:14,333
+Er hat mir ihre Namen gesagt.
+
+1632
+01:36:14,500 --> 01:36:16,833
+Da ist Lily.
+
+1633
+01:36:18,791 --> 01:36:20,000
+Und Mopple.
+
+1634
+01:36:20,166 --> 01:36:24,166
+Und das große fluffige ist Cloud.
+Er sagte, sie sei 'ne Diva.
+
+1635
+01:36:24,333 --> 01:36:27,041
+Und das mit der Wolle in den Augen
+nannte er Woll-Auge.
+
+1636
+01:36:27,208 --> 01:36:30,458
+Nicht so originell, aber es hat sich
+wohl noch niemand beklagt.
+
+1637
+01:36:30,625 --> 01:36:32,791
+- Hören Sie, Miss Hampstead.
+- Hardy.
+
+1638
+01:36:33,250 --> 01:36:34,500
+Rebecca Hardy.
+
+1639
+01:36:34,666 --> 01:36:36,000
+Ich ändere ihn.
+
+1640
+01:36:36,166 --> 01:36:38,041
+Namensänderungen mache ich nicht.
+
+1641
+01:36:38,208 --> 01:36:40,541
+Tut mir leid, aber viel Glück Ihnen.
+
+1642
+01:36:40,750 --> 01:36:41,750
+Wiedersehen.
+
+1643
+01:36:42,791 --> 01:36:43,791
+Warten Sie.
+
+1644
+01:36:44,250 --> 01:36:46,791
+Was, wenn ich
+noch mehr Schafe möchte?
+
+1645
+01:36:47,208 --> 01:36:49,541
+Finanziert mich auch eine Bank?
+
+1646
+01:36:50,583 --> 01:36:53,708
+Lily, du hast den Fall
+tatsächlich gelöst.
+
+1647
+01:36:53,875 --> 01:36:55,541
+War doch so was von klar.
+
+1648
+01:36:55,708 --> 01:36:57,833
+Sie ist das schlauste Schaf der Welt.
+
+1649
+01:36:58,000 --> 01:37:01,833
+Ach, ja. Das dachte ich früher auch,
+aber ich bin es nicht.
+
+1650
+01:37:02,000 --> 01:37:04,207
+Ich habe Fehler gemacht.
+Ich hätte hinhören sollen,
+
+1651
+01:37:04,208 --> 01:37:07,666
+als das Winterlamm
+Georges Geist erwähnt hat.
+
+1652
+01:37:16,375 --> 01:37:18,500
+Mir nach, meine Freunde. Los.
+
+1653
+01:37:29,291 --> 01:37:30,833
+Wie heißt du?
+Hast du Brüder?
+
+1654
+01:37:31,000 --> 01:37:33,916
+Wie lang bist du hier?
+Ich habe 1.000 Fragen.
+
+1655
+01:37:34,083 --> 01:37:36,083
+- Oh, 'tschuldigung.
+- Excusez-moi.
+
+1656
+01:37:38,791 --> 01:37:40,416
+Wo ist euer Gesicht?
+
+1657
+01:37:43,000 --> 01:37:45,041
+Ihr habt Orf.
+
+1658
+01:37:45,208 --> 01:37:47,208
+Ich habe Orf.
+
+1659
+01:37:53,458 --> 01:37:54,708
+Lily.
+
+1660
+01:38:22,833 --> 01:38:26,666
+HARDYS RATGEBER
+ZUR SCHAFZUCHT
+
+1661
+01:39:08,125 --> 01:39:09,708
+"Kapitel eins:
+
+1662
+01:39:11,875 --> 01:39:15,583
+Es ist eine weitverbreitete Ansicht,
+dass von allen Nutztieren
+
+1663
+01:39:15,750 --> 01:39:17,541
+Schafe die allerdümmsten sind.
+
+1664
+01:39:21,208 --> 01:39:22,875
+Doch das stimmt gar nicht.
+
+1665
+01:39:23,750 --> 01:39:27,583
+{\an8}Schafe sind nicht nur intelligent,
+sie sind inspirierend.
+
+1666
+01:39:27,750 --> 01:39:30,750
+Ein uralter Kinderreim
+lautet wie folgt:
+
+1667
+01:39:30,916 --> 01:39:34,708
+Little Bo Beep verlor ihre Schäflein,
+wo können sie nur sein?
+
+1668
+01:39:34,875 --> 01:39:37,375
+Lass sie allein
+und sie kommen schon heim,
+
+1669
+01:39:38,125 --> 01:39:40,666
+<i>mit wackelnden
+Stummelschwänzlein."</i>
+
+1670
+01:39:47,208 --> 01:39:49,125
+Es ist schön hier oben.
+
+1671
+01:39:49,875 --> 01:39:51,625
+Aber ein bisschen einsam.
+
+1672
+01:39:55,125 --> 01:39:56,375
+George.
+
+1673
+01:39:57,708 --> 01:39:59,375
+Das ist dein Name.
+
+1674
+01:40:00,041 --> 01:40:02,458
+Jedes Schaf sollte einen Namen haben.
+
+1675
+01:40:04,833 --> 01:40:06,291
+George.
+
+1676
+01:40:16,416 --> 01:40:21,750
+"Eine Gruppe lieber, wolliger,
+niedlicher, schneeweißer Schafe.
+
+1677
+01:40:21,916 --> 01:40:24,625
+Häufig nimmt man an,
+alle Schafen seien gleich.
+
+1678
+01:40:25,208 --> 01:40:27,833
+In Wahrheit aber
+vereint schon eine Herde
+
+1679
+01:40:28,000 --> 01:40:32,208
+Tiere mit den
+verschiedensten Persönlichkeiten.
+
+1680
+01:40:35,458 --> 01:40:39,625
+Es gibt sanfte, freundliche
+und auch distanzierte.
+
+1681
+01:40:39,791 --> 01:40:42,500
+Schlaue und dumme.
+Zurückhaltende und Angeber."
+
+1682
+01:40:42,625 --> 01:40:45,541
+- Wie heißt du?
+- Ich bin George.
+
+1683
+01:40:45,666 --> 01:40:46,791
+Hi, George.
+
+1684
+01:40:46,916 --> 01:40:50,041
+"Nahezu jede menschliche Kultur
+kannte diese sanften Tiere.
+
+1685
+01:40:50,208 --> 01:40:52,832
+In der Sprache und der Kunst
+
+1686
+01:40:52,833 --> 01:40:55,375
+symbolisieren sie Liebe,
+Unschuld und Frieden.
+
+1687
+01:40:55,833 --> 01:41:00,458
+{\an8}Denn wie wir Menschen schätzen auch sie
+Verbundenheit über alles.
+
+1688
+01:41:01,333 --> 01:41:04,166
+{\an8}Sie erlauben sich,
+zu uns zu gehören.
+
+1689
+01:41:04,750 --> 01:41:06,333
+{\an8}Und so stellen wir fest,
+
+1690
+01:41:07,291 --> 01:41:09,708
+auch wir gehören zu ihnen."
+
+1691
+01:43:21,625 --> 01:43:24,333
+GLENNKILL: EIN SCHAFSKRIMI
+
+1692
+01:48:46,125 --> 01:48:47,458
+<i>Ich bleib dabei, es war die Magd.</i>
+
+1693
+01:48:47,583 --> 01:48:49,583
+Untertitel von: Gandalf Bartholomäus
+

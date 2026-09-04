@@ -1,0 +1,16 @@
+#!/bin/bash
+# pre-commit hook for the ~/dev monorepo — delegates to 01-core-infra's
+# validation suite whenever infra-relevant files are staged.
+set -uo pipefail
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+INFRA="$REPO_ROOT/01-core-infra"
+HOOK="$INFRA/.husky/pre-commit"
+
+if [[ -x "$HOOK" ]]; then
+    bash "$HOOK"
+    exit $?
+fi
+
+# No infra hook present (or 01-core-infra absent) — allow commit.
+exit 0

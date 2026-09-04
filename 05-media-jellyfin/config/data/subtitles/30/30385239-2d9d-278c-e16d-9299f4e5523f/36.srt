@@ -1,0 +1,6634 @@
+1
+00:00:42,291 --> 00:00:49,291
+AITAS IZMEKLĒTĀJAS
+
+2
+00:00:49,416 --> 00:00:50,916
+<i>Dārgā Rebeka!</i>
+
+3
+00:00:52,291 --> 00:00:54,958
+<i>Zinu, ka Tev ir daudz jautājumu.</i>
+
+4
+00:00:56,125 --> 00:00:57,375
+<i>Man arī.</i>
+
+5
+00:00:58,000 --> 00:01:00,625
+<i>Dzīve nudien ir noslēpumu pilna.</i>
+
+6
+00:01:01,166 --> 00:01:05,208
+<i>Pat ja visām Visuma mīklām
+būtu viens atminējums,</i>
+
+7
+00:01:05,333 --> 00:01:07,000
+<i>viens laimes noslēpums,</i>
+
+8
+00:01:07,125 --> 00:01:08,583
+<i>man tas skanētu šādi:</i>
+
+9
+00:01:10,666 --> 00:01:11,958
+<i>aitiņas.</i>
+
+10
+00:01:15,125 --> 00:01:18,166
+<i>Nē, nopietni. Tiešām aitiņas.</i>
+
+11
+00:01:20,458 --> 00:01:22,250
+Eju jau eju!
+
+12
+00:01:35,291 --> 00:01:39,541
+<i>Pēdējā vēstulē Tu vaicāji,
+vai man ir kādas īpašas aitiņas.</i>
+
+13
+00:01:39,666 --> 00:01:43,708
+<i>Redz, visas ir īpašas.
+Tālab katrai es esmu devis vārdu.</i>
+
+14
+00:01:43,833 --> 00:01:44,666
+<i>Piemēram.</i>
+
+15
+00:01:45,875 --> 00:01:49,458
+<i>Dauzoņas aunu dvīņus
+esmu nosaucis par Roniju un Redžiju.</i>
+
+16
+00:01:49,583 --> 00:01:53,416
+<i>Lepno stepju aunu - par seru Ričfīldu.</i>
+
+17
+00:01:54,166 --> 00:01:57,875
+<i>Pūka ir kā spalvu mākonītis.
+Īsta zvaigzne.</i>
+
+18
+00:01:58,750 --> 00:02:01,041
+<i>Zora ir pati ziņkārīgākā.</i>
+
+19
+00:02:01,833 --> 00:02:04,208
+<i>Mapls ir vispacietīgākais.</i>
+
+20
+00:02:04,958 --> 00:02:06,750
+<i>Vēl ir Vilnacis.</i>
+
+21
+00:02:06,875 --> 00:02:09,750
+<i>Nekas labāks neienāca prātā.</i>
+
+22
+00:02:09,875 --> 00:02:13,625
+{\an8}<i>Jā, es teicu, ka visas ir īpašas,</i>
+
+23
+00:02:13,750 --> 00:02:18,500
+<i>tomēr ir jāatzīst,
+ka divas aitiņas ir sevišķi īpašas.</i>
+
+24
+00:02:18,625 --> 00:02:19,666
+<i>Sebastjans.</i>
+
+25
+00:02:19,791 --> 00:02:21,333
+<i>Visbrangākais auns.</i>
+
+26
+00:02:21,458 --> 00:02:23,916
+<i>Tāpat kā es, arī viņš ir vienpatis.</i>
+
+27
+00:02:24,500 --> 00:02:27,083
+<i>Šad tad viņš kaut kur aiziet.</i>
+
+28
+00:02:27,208 --> 00:02:30,541
+<i>Tomēr allaž atgriežas.</i>
+
+29
+00:02:34,083 --> 00:02:37,083
+<i>Un, visbeidzot, Lilija.</i>
+
+30
+00:02:37,208 --> 00:02:38,791
+<i>Mana gudriniece.</i>
+
+31
+00:02:38,916 --> 00:02:41,916
+<i>Šķiet, vienmēr nolasa,
+kādas domas man ir prātā</i>
+
+32
+00:02:42,041 --> 00:02:44,500
+<i>un kādas jūtas sirdī.</i>
+
+33
+00:02:44,625 --> 00:02:50,000
+<i>Viņa labāk par citām dāvā man
+tikai ganiem pazīstamo mieru.</i>
+
+34
+00:02:50,125 --> 00:02:51,541
+<i>Mieru, kas pārņem,</i>
+
+35
+00:02:51,666 --> 00:02:56,208
+<i>rūpējoties par labsirdīgākajiem
+kustoņiem pasaulē.</i>
+
+36
+00:03:01,458 --> 00:03:04,708
+<i>Katra diena sākas
+ar rūpēm par viņu veselību.</i>
+
+37
+00:03:05,541 --> 00:03:07,750
+<i>Es tās labi baroju…</i>
+
+38
+00:03:08,458 --> 00:03:09,500
+<i>apcērpu.</i>
+
+39
+00:03:11,583 --> 00:03:14,375
+<i>Cenšos izklaidēt, cik nu varēdams.</i>
+
+40
+00:03:14,500 --> 00:03:17,583
+<i>Pamodies es zināšu</i>
+
+41
+00:03:17,708 --> 00:03:20,375
+<i>Ka būšu modies līdzās tev</i>
+
+42
+00:03:22,000 --> 00:03:26,208
+<i>Es dodu tām zāles,
+kas noteikti izpelnītos uzslavas,</i>
+
+43
+00:03:26,333 --> 00:03:27,875
+<i>ja vien aitas mācētu runāt.</i>
+
+44
+00:03:28,000 --> 00:03:30,708
+Nu ir laiks zālēm, brāl. Malacis.
+
+45
+00:03:30,833 --> 00:03:34,833
+<i>Kad visi darbi ir galā
+un saule jau laižas uz rietu,</i>
+
+46
+00:03:34,958 --> 00:03:37,666
+<i>es izvēlos grāmatu,
+ko palasīt tām priekšā.</i>
+
+47
+00:03:37,791 --> 00:03:42,125
+<i>Detektīvromānus, kaut ko mistisku -
+visu, kas ļoti patīk man pašam.</i>
+
+48
+00:03:42,250 --> 00:03:45,041
+"Es zinu,
+kad nogalināts Rodnijs Holingsheds,
+
+49
+00:03:45,166 --> 00:03:48,458
+un zinu, kurš ir īstais slepkava."
+
+50
+00:03:48,875 --> 00:03:51,541
+<i>Man labpatīk domāt, ka tās seko sižetam,</i>
+
+51
+00:03:51,666 --> 00:03:56,750
+<i>taču es saprotu -
+lai vai cik brīnišķīgas, tās ir tikai…</i>
+
+52
+00:03:57,250 --> 00:03:58,500
+<i>aitas.</i>
+
+53
+00:03:59,583 --> 00:04:00,750
+Nē, pietiek.
+
+54
+00:04:01,458 --> 00:04:02,750
+Ejiet pastaigāties!
+
+55
+00:04:02,875 --> 00:04:05,083
+Par atrisinājumu lasīsim rīt.
+
+56
+00:04:11,875 --> 00:04:13,583
+Kāpēc viņš pārtrauca?
+
+57
+00:04:13,708 --> 00:04:15,958
+Tūlīt būtu nosaukts slepkava.
+
+58
+00:04:16,083 --> 00:04:18,166
+Ņirgājas! Tā ir kalpone, vai ne?
+
+59
+00:04:18,291 --> 00:04:19,833
+Protams, kalpone.
+
+60
+00:04:19,958 --> 00:04:22,791
+<i>Nē, nē, slepkava bija dārznieks.</i>
+
+61
+00:04:22,916 --> 00:04:25,708
+Mūždien pļauj zāli, bet nekad to neēd.
+
+62
+00:04:25,833 --> 00:04:27,166
+Aizdomīgi.
+
+63
+00:04:27,291 --> 00:04:31,125
+- Pat muļķim skaidrs. Vainīgs ir dakteris.
+- Nu nē. Baisā tante.
+
+64
+00:04:31,250 --> 00:04:34,166
+Baisā tante
+bija iepriekšējā romānā, ģēnij.
+
+65
+00:04:34,291 --> 00:04:35,666
+Tiešām esam brāļi?
+
+66
+00:04:35,791 --> 00:04:37,250
+O, sākas.
+
+67
+00:04:37,375 --> 00:04:38,583
+Jā!
+
+68
+00:04:39,333 --> 00:04:40,958
+Ak vai, atkal villojas.
+
+69
+00:04:41,083 --> 00:04:43,708
+Jūs visi kļūdāties.
+
+70
+00:04:43,833 --> 00:04:46,416
+Es uzminēju jau pirms divām nodaļām.
+
+71
+00:04:46,958 --> 00:04:48,000
+Kalpone?
+
+72
+00:04:48,125 --> 00:04:49,375
+Tad nē jau!
+
+73
+00:04:49,500 --> 00:04:52,541
+Krustdēls Bērtijs Holingsheds.
+
+74
+00:04:52,666 --> 00:04:57,500
+Lilij, detektīvs secināja,
+ka pierādījumus pret Bērtiju Holingshedu
+
+75
+00:04:57,625 --> 00:04:59,291
+safabricējis īstais slepkava.
+
+76
+00:04:59,416 --> 00:05:02,333
+Tieši tā! Tas taču acīmredzams.
+
+77
+00:05:02,458 --> 00:05:06,250
+Lai izvairītos no apsūdzības,
+viņš pats viltoja pierādījumus.
+
+78
+00:05:08,458 --> 00:05:11,666
+Bērtijs Holingsheds ir īstais slepkava.
+
+79
+00:05:12,958 --> 00:05:14,416
+Klau, nav godīgi!
+
+80
+00:05:16,416 --> 00:05:19,833
+Rīt Džordžs pabeigs lasīt romānu,
+tad arī uzzināsiet.
+
+81
+00:05:23,250 --> 00:05:25,000
+Manuprāt, vainīga kalpone.
+
+82
+00:05:25,500 --> 00:05:27,625
+<i>"Bērtijs lieliski zināja likumu -</i>
+
+83
+00:05:27,750 --> 00:05:32,208
+par vienu noziegumu nevar sodīt divreiz.
+
+84
+00:05:32,333 --> 00:05:36,875
+Tālab, lai izvairītos no apsūdzības,
+viņš pats safabricēja pierādījumus.
+
+85
+00:05:37,625 --> 00:05:42,208
+Bērtijs Holingsheds
+tad arī bija īstais slepkava."
+
+86
+00:05:47,541 --> 00:05:51,166
+<i>Vairums manu aitiņu
+vada dienu vai nu ēdot,</i>
+
+87
+00:05:51,291 --> 00:05:52,958
+<i>vai arī domājot par ēdienu.</i>
+
+88
+00:05:53,083 --> 00:05:57,375
+<i>Taču ir trīs draiskulīgi
+un nenokausējami jēriņi.</i>
+
+89
+00:05:58,083 --> 00:06:02,541
+<i>Līksmi, bezrūpīgi pavasarī dzimuši mazuļi.</i>
+
+90
+00:06:02,666 --> 00:06:06,250
+<i>Teju visi jēri dzimst pavasarī.</i>
+
+91
+00:06:06,375 --> 00:06:11,208
+<i>Tomēr ir viens ziemā dzimis jēriņš.</i>
+
+92
+00:06:12,625 --> 00:06:14,458
+Ai! Sveiks!
+
+93
+00:06:16,833 --> 00:06:18,208
+- Deizija.
+- Olivers.
+
+94
+00:06:18,333 --> 00:06:20,125
+- Čiepa.
+- Kā sauc tevi?
+
+95
+00:06:20,250 --> 00:06:22,291
+Man nav vārda.
+
+96
+00:06:22,416 --> 00:06:24,166
+Vai nāksi ar mums spēlēties?
+
+97
+00:06:24,291 --> 00:06:26,458
+Nē! Prom!
+
+98
+00:06:27,166 --> 00:06:30,000
+Tā ka lai nerotaļātos ar ziemas jēru!
+
+99
+00:06:30,125 --> 00:06:32,583
+Neiederas mūsu ganāmpulkā.
+
+100
+00:06:33,541 --> 00:06:36,291
+<i>Aitām vien saprotamu iemeslu dēļ</i>
+
+101
+00:06:36,833 --> 00:06:39,833
+<i>ganāmpulks bieži atstumj ziemas jērus.</i>
+
+102
+00:06:39,958 --> 00:06:40,833
+Nāc nu.
+
+103
+00:06:40,958 --> 00:06:44,583
+<i>Laikam tādēļ, ka ziemas jēri ir citādi.</i>
+
+104
+00:06:44,708 --> 00:06:47,125
+Ļoti labi. Ēd nu.
+
+105
+00:06:53,083 --> 00:06:55,416
+Ziemas jērs ir vislabākais jērs.
+
+106
+00:06:55,541 --> 00:06:57,291
+Man ir jautājums.
+
+107
+00:06:57,416 --> 00:06:59,916
+Kāpēc Džordžs ar viņu tā auklējas?
+
+108
+00:07:00,041 --> 00:07:01,791
+Džordžs jau nav auns.
+
+109
+00:07:01,916 --> 00:07:04,750
+Viņam nav paskaidrots par ziemas jēriem.
+
+110
+00:07:16,708 --> 00:07:20,125
+<i>Un, visbeidzot,
+ja Tu pieņemsi uzaicinājumu, -</i>
+
+111
+00:07:20,250 --> 00:07:22,666
+{\an8}<i>es dzīvoju netālu no Denbrukas.</i>
+
+112
+00:07:22,791 --> 00:07:24,875
+{\an8}<i>Šeit ir daži īpaši tipāži.</i>
+
+113
+00:07:25,000 --> 00:07:26,041
+{\an8}<i>Piemēram…</i>
+
+114
+00:07:26,166 --> 00:07:27,250
+Labrīt, Keileb.
+
+115
+00:07:27,375 --> 00:07:28,540
+<i>Keilebs, arī gans.</i>
+
+116
+00:07:28,541 --> 00:07:29,457
+Labrītiņ.
+
+117
+00:07:29,458 --> 00:07:30,291
+<i>Viņu neciešu.</i>
+
+118
+00:07:30,416 --> 00:07:32,250
+<i>Miesnieks Hems.</i>
+
+119
+00:07:32,375 --> 00:07:34,250
+<i>Viņu neciešu nu it nemaz.</i>
+
+120
+00:07:34,375 --> 00:07:37,166
+<i>Viesu nama saimniece Beta.
+Viņa necieš mani.</i>
+
+121
+00:07:37,291 --> 00:07:38,750
+Varētu šo nosist!
+
+122
+00:07:38,875 --> 00:07:40,708
+{\an8}<i>Policists Tims.</i>
+
+123
+00:07:42,041 --> 00:07:43,041
+<i>Muļķītis.</i>
+
+124
+00:07:43,166 --> 00:07:47,125
+<i>Un mācītājs Hilkots,
+kurš uzskata sevi par ļaužu ganu.</i>
+
+125
+00:07:47,250 --> 00:07:50,250
+<i>Mums ir sarežģītas attiecības.</i>
+
+126
+00:07:50,375 --> 00:07:54,541
+Šodien mēs lasīsim
+līdzību par noklīdušo avi.
+
+127
+00:08:04,958 --> 00:08:07,666
+Džordž, esat nolēmis piebiedroties?
+
+128
+00:08:07,791 --> 00:08:10,333
+Tā Kunga namā ir vieta ikvienam.
+
+129
+00:08:11,291 --> 00:08:12,458
+Pat miesniekiem?
+
+130
+00:08:19,041 --> 00:08:20,958
+Man šeit nekas nav darāms.
+
+131
+00:08:21,958 --> 00:08:23,500
+Esmu atnācis atdot parādu.
+
+132
+00:08:30,250 --> 00:08:31,791
+Vecais zēns Džordžs.
+
+133
+00:08:34,083 --> 00:08:35,416
+Vecais zēns Džordžs.
+
+134
+00:08:35,541 --> 00:08:37,583
+<i>Bet nu pietiek par cilvēkiem.</i>
+
+135
+00:08:37,708 --> 00:08:40,291
+<i>Es gribu Tev parādīt ganāmpulku.</i>
+
+136
+00:08:40,416 --> 00:08:42,583
+<i>Viņas ilgojas Tevi satikt.</i>
+
+137
+00:08:43,625 --> 00:08:45,291
+<i>Es arī.</i>
+
+138
+00:08:46,000 --> 00:08:47,666
+<i>Brauc drīzāk šurp.</i>
+
+139
+00:08:50,750 --> 00:08:52,333
+<i>Mīlu, Džordžs.</i>
+
+140
+00:08:59,625 --> 00:09:01,000
+Pūka?
+
+141
+00:09:01,125 --> 00:09:05,208
+Jautājums: ja ēdīšu pienenes,
+vai arī man būs skaistas skropstas?
+
+142
+00:09:05,333 --> 00:09:07,916
+Nē, skropstām tās neder.
+
+143
+00:09:08,041 --> 00:09:10,125
+Toties ar vilnu dara brīnumus.
+
+144
+00:09:10,250 --> 00:09:11,541
+Paskat, Vilnacis.
+
+145
+00:09:11,666 --> 00:09:13,333
+Viņš ēd tikai pienenes.
+
+146
+00:09:13,458 --> 00:09:16,125
+Ak re, kā tās sauc? Skaidrs.
+
+147
+00:09:16,250 --> 00:09:20,250
+Dažas jāpietaupa Sebastjanam.
+Viņš jau nedēļu klīst apkārt.
+
+148
+00:09:20,375 --> 00:09:24,041
+Nu un? Tiklīdz Džordžs
+viņu nez no kurienes atveda,
+
+149
+00:09:24,166 --> 00:09:26,208
+tā šis sāka piestaigāt uz pilsētu.
+
+150
+00:09:26,333 --> 00:09:27,458
+Lai dzīvo badā.
+
+151
+00:09:27,583 --> 00:09:31,625
+Mēs viņam nerūpam,
+tomēr mums par viņu jārūpējas.
+
+152
+00:09:31,750 --> 00:09:34,083
+Sebastjans ir mūsu ganāmpulkā.
+
+153
+00:09:34,208 --> 00:09:36,750
+Ai, paskat! Keilebs!
+
+154
+00:09:39,583 --> 00:09:45,958
+Sunīši! Sunīši! Sunīši!
+
+155
+00:09:46,750 --> 00:09:48,916
+Keileb! Nāc šurp!
+
+156
+00:09:49,041 --> 00:09:52,083
+Ak, viņa smarža man laupa prātu.
+
+157
+00:09:52,208 --> 00:09:54,125
+Vilnas džemperu smarža.
+
+158
+00:09:54,250 --> 00:09:56,958
+Un tik skaisti krāsoti!
+
+159
+00:09:57,083 --> 00:09:58,166
+- Esi mājās?
+- Iekšā!
+
+160
+00:09:58,291 --> 00:09:59,708
+Lieliski.
+
+161
+00:10:00,583 --> 00:10:04,333
+Tik jauna, skaista un spoža!
+
+162
+00:10:04,458 --> 00:10:07,083
+Vai tev prātā tas pats, kas man?
+
+163
+00:10:07,208 --> 00:10:09,541
+- Gribu iebadīt!
+- Es arī! Nevaru nociesties!
+
+164
+00:10:10,458 --> 00:10:11,625
+Redžij! Ronij!
+
+165
+00:10:13,000 --> 00:10:16,708
+Jūs noteikumus zināt.
+Mēs badāmies tikai tad, ja…
+
+166
+00:10:16,833 --> 00:10:20,000
+Ja ir dibināts iemesls badīties.
+
+167
+00:10:20,125 --> 00:10:21,250
+Tieši tā.
+
+168
+00:10:21,375 --> 00:10:23,875
+Keilebs šomēnes atbraucis trešo reizi.
+
+169
+00:10:24,000 --> 00:10:26,583
+Viņam var būt tikai viens nolūks.
+
+170
+00:10:27,125 --> 00:10:28,250
+Apvienot ganāmpulkus.
+
+171
+00:10:28,375 --> 00:10:30,416
+- Apvienot ganāmpulkus?
+- Jaunas aitas!
+
+172
+00:10:30,541 --> 00:10:32,333
+- Jaunas pļavas!
+- Un sunīši?
+
+173
+00:10:32,458 --> 00:10:33,833
+Es vēl apdomāju.
+
+174
+00:10:33,958 --> 00:10:36,541
+Devu iespēju, bet tu mani pievīli, Keileb!
+
+175
+00:10:36,666 --> 00:10:37,875
+Nerādies šeit!
+
+176
+00:10:45,541 --> 00:10:48,125
+Ganāmpulkus laikam neapvienos.
+
+177
+00:10:49,916 --> 00:10:53,333
+Es ļoti priecājos,
+bet nu bēdājos un sadrūvējos.
+
+178
+00:10:53,458 --> 00:10:54,708
+Gribas to aizmirst.
+
+179
+00:10:54,833 --> 00:10:56,958
+Piekrītu. Viena vienīga vilšanās.
+
+180
+00:10:57,083 --> 00:10:58,375
+Paklau, draugi.
+
+181
+00:10:58,500 --> 00:11:02,458
+Pie "trīs" mēs aizmirsīsim
+Keileba apciemojumu.
+
+182
+00:11:02,583 --> 00:11:04,250
+Viens, divi…
+
+183
+00:11:04,375 --> 00:11:07,416
+Kas būs ar Maplu? Viņš neprot aizmirst.
+
+184
+00:11:07,541 --> 00:11:08,416
+Kāpēc?
+
+185
+00:11:08,541 --> 00:11:12,083
+Nabaga Maplam
+kopš dzimšanas ir briesmīga kaite.
+
+186
+00:11:12,208 --> 00:11:15,958
+Atšķirībā no mums
+viņam nav spējas kaut ko aizmirst.
+
+187
+00:11:16,083 --> 00:11:17,208
+O jā.
+
+188
+00:11:17,333 --> 00:11:21,708
+Mapl, kad būsim aizmirsušas,
+lūdzu, par to neatgādini.
+
+189
+00:11:21,833 --> 00:11:24,416
+Skaidri zini? Nav jau murgs.
+
+190
+00:11:24,541 --> 00:11:27,791
+Nu, nekā patīkama arī nav. Tā būs labāk.
+
+191
+00:11:28,583 --> 00:11:29,458
+Gatavas?
+
+192
+00:11:29,583 --> 00:11:30,791
+Viens.
+
+193
+00:11:30,916 --> 00:11:32,375
+Divi.
+
+194
+00:11:32,500 --> 00:11:34,083
+Trīs!
+
+195
+00:11:36,791 --> 00:11:38,166
+- Pūka?
+- Nu?
+
+196
+00:11:38,291 --> 00:11:42,458
+Jautājums: ja ēdīšu pienenes,
+vai arī man būs skaistas skropstas?
+
+197
+00:11:42,583 --> 00:11:44,791
+Nē, skropstām tās neder.
+
+198
+00:11:44,916 --> 00:11:48,291
+Toties ar vilnu dara brīnumus.
+
+199
+00:11:58,333 --> 00:11:59,208
+Viss ir labi.
+
+200
+00:12:12,791 --> 00:12:14,791
+Viss būs labi, es apsolu.
+
+201
+00:12:14,916 --> 00:12:15,958
+Tikai…
+
+202
+00:12:17,041 --> 00:12:18,333
+Nudien nezinu.
+
+203
+00:12:22,083 --> 00:12:25,541
+Es biju cerējis uz drīzām pārmaiņām.
+
+204
+00:12:27,250 --> 00:12:28,500
+Neraizējies.
+
+205
+00:12:29,541 --> 00:12:31,375
+Jums viss būs labi.
+
+206
+00:12:32,208 --> 00:12:33,958
+Un man arī.
+
+207
+00:12:57,666 --> 00:12:59,125
+DENBRUKAS KULTŪRAS FESTIVĀLS
+
+208
+00:13:05,458 --> 00:13:06,500
+Sveikiņi!
+
+209
+00:13:06,625 --> 00:13:09,500
+Skat, kas atnācis! Vai ir kas interesants?
+
+210
+00:13:09,625 --> 00:13:13,291
+{\an8}Maz sūtījumu, lai gan ir pirmdiena.
+
+211
+00:13:13,416 --> 00:13:14,250
+Rēķini un reklāma.
+
+212
+00:13:14,375 --> 00:13:16,333
+Džordžs. Kam sūta vēstulītes?
+
+213
+00:13:16,458 --> 00:13:18,666
+Es nedrīkstu stāstīt, bet…
+
+214
+00:13:19,666 --> 00:13:23,000
+Rebekai Hempstedas jaunkundzei Amerikā.
+
+215
+00:13:23,666 --> 00:13:26,750
+Viņš ar šo būtni sarakstās
+jau vairākus mēnešus.
+
+216
+00:13:26,875 --> 00:13:28,333
+Un…
+
+217
+00:13:28,458 --> 00:13:30,000
+Droši.
+
+218
+00:13:30,125 --> 00:13:31,125
+Pasmaržo.
+
+219
+00:13:32,000 --> 00:13:33,166
+Smaržo pēc rozēm.
+
+220
+00:13:33,291 --> 00:13:34,541
+Mīlestības vēstules.
+
+221
+00:13:34,666 --> 00:13:35,958
+Iedomājies?
+
+222
+00:13:36,083 --> 00:13:39,875
+Mūsu īgņa Džordžs Hārdijs
+patiesībā ir romantiķis.
+
+223
+00:13:40,625 --> 00:13:41,708
+Kas to būtu domājis.
+
+224
+00:13:43,958 --> 00:13:46,625
+- Ir nu gan tas Džordžs!
+- Vai ne?
+
+225
+00:13:46,750 --> 00:13:48,500
+- Lai veicas!
+- Tev arī.
+
+226
+00:13:48,625 --> 00:13:49,666
+Atā!
+
+227
+00:13:51,375 --> 00:13:52,708
+- Sveiki!
+- Sveiks!
+
+228
+00:13:52,833 --> 00:13:55,666
+Atbraucu no galvaspilsētas
+uz Denbrukas festivālu.
+
+229
+00:13:55,791 --> 00:13:57,458
+Burvīgi.
+
+230
+00:13:57,583 --> 00:13:59,291
+Tas ir šeit.
+
+231
+00:14:00,125 --> 00:14:01,750
+Nāciet.
+
+232
+00:14:01,875 --> 00:14:03,708
+Šeit? Kā tas jāsaprot?
+
+233
+00:14:03,833 --> 00:14:07,875
+Laipni lūdzam
+Denbrukas kultūras festivālā.
+
+234
+00:14:09,958 --> 00:14:11,250
+{\an8}Betas Penokas mākslas darbs
+
+235
+00:14:12,083 --> 00:14:13,041
+Vai tas ir joks?
+
+236
+00:14:13,166 --> 00:14:16,041
+Tas ir mūsu kultūras mantojums.
+
+237
+00:14:16,375 --> 00:14:17,250
+Ko?
+
+238
+00:14:18,583 --> 00:14:21,250
+Vai "Atgriešanās Ozā"?
+
+239
+00:14:21,375 --> 00:14:23,625
+{\an8}Labākā filma pasaulē!
+
+240
+00:14:23,750 --> 00:14:26,500
+{\an8}Uzņemta tepat vien 60 kilometrus tālāk.
+
+241
+00:14:26,625 --> 00:14:29,666
+Skatītāju vērtējumā
+labāka nekā pirmā daļa.
+
+242
+00:14:29,791 --> 00:14:31,000
+Neesmu redzējis.
+
+243
+00:14:31,125 --> 00:14:33,416
+Kā? Šo meistardarbu redzējuši visi.
+
+244
+00:14:33,541 --> 00:14:37,583
+Piedodiet, kāpēc jāizkarina milzu lozungs
+tikai šī klāsta dēļ?
+
+245
+00:14:37,708 --> 00:14:40,500
+Lai nāktu cilvēki.
+Bez cilvēkiem nav festivāla.
+
+246
+00:14:41,708 --> 00:14:44,958
+Tas nu galīgi nav festivāls!
+
+247
+00:14:45,083 --> 00:14:46,541
+Tikai galdi zem nojumes.
+
+248
+00:14:47,708 --> 00:14:49,875
+Mācīsiet, kā nodarboties ar biznesu?
+
+249
+00:14:50,583 --> 00:14:51,583
+Nē.
+
+250
+00:14:52,583 --> 00:14:54,291
+Jums taisnība. Piedodiet.
+
+251
+00:14:54,875 --> 00:14:56,916
+Mēs nelāgi iesākām.
+
+252
+00:14:58,500 --> 00:15:01,458
+Mani sauc Eliots Metjūss.
+Esmu "Ziņu" reportieris.
+
+253
+00:15:03,583 --> 00:15:05,083
+Jaunākais reportieris.
+
+254
+00:15:08,000 --> 00:15:10,041
+Patiesībā es saceru nekrologus.
+
+255
+00:15:10,166 --> 00:15:12,708
+Taču ilgi esmu meklējis īstu notikumu.
+
+256
+00:15:12,833 --> 00:15:17,541
+Redaktors man uzticēja aprakstīt…
+
+257
+00:15:18,291 --> 00:15:20,208
+Denbrukas kultūras festivālu.
+
+258
+00:15:20,333 --> 00:15:23,000
+- Tas taču ir ideāli.
+- Jā, vareni.
+
+259
+00:15:23,125 --> 00:15:26,791
+Raksts par šo pārpratumu
+man paaugstinājumu nesagādās.
+
+260
+00:15:26,916 --> 00:15:29,375
+- Skaidrs?
+- Žēl gan.
+
+261
+00:15:30,333 --> 00:15:31,750
+Desmit. Skaidrā naudā.
+
+262
+00:15:31,875 --> 00:15:33,250
+Par ko?
+
+263
+00:15:33,375 --> 00:15:35,083
+- Ieeja par maksu.
+- Par maksu.
+
+264
+00:15:38,083 --> 00:15:41,083
+Desmit. Kaut vai visu!
+
+265
+00:15:41,750 --> 00:15:42,875
+Ņemiet visu.
+
+266
+00:15:44,083 --> 00:15:45,250
+Ir nu gan…
+
+267
+00:15:46,458 --> 00:15:47,625
+Ķertais.
+
+268
+00:15:48,166 --> 00:15:50,041
+LAIPNI LŪGTI DENBRUKĀ
+
+269
+00:16:06,666 --> 00:16:09,916
+Kur Džordžs kavējas?
+Kas lasīs vakara romānu?
+
+270
+00:16:10,041 --> 00:16:11,875
+Nu jau vajadzēja būt klāt.
+
+271
+00:16:13,958 --> 00:16:17,291
+Šī skaņa it nemaz nav biedējoša.
+
+272
+00:16:17,416 --> 00:16:18,583
+Ser Ričfīld?
+
+273
+00:16:18,708 --> 00:16:21,666
+Jā, nu ir laiks pastāstīt jums, jēriņi,
+
+274
+00:16:21,791 --> 00:16:25,375
+jo tāds ir dabas likums.
+
+275
+00:16:25,500 --> 00:16:30,250
+Tie mākoņi reiz ir bijuši aitas,
+tāpat kā mēs.
+
+276
+00:16:30,375 --> 00:16:33,333
+Līdzko pamana, ka zeme izkaltusi,
+
+277
+00:16:33,458 --> 00:16:36,166
+tā tie laižas dejā.
+
+278
+00:16:36,291 --> 00:16:40,583
+Debesis dārd,
+kad aitas no tām izspārda lietu,
+
+279
+00:16:40,708 --> 00:16:43,333
+lai augtu zāle un auzas.
+
+280
+00:16:43,458 --> 00:16:45,458
+Vai visas aitas pārvēršas par mākoņiem?
+
+281
+00:16:45,583 --> 00:16:48,291
+Jā, Čiepa. Visas.
+
+282
+00:16:48,416 --> 00:16:52,583
+Reiz arī es kļūšu par mākoni,
+tāpat kā mani vecāki pirms manis.
+
+283
+00:16:52,708 --> 00:16:54,375
+Lai gan…
+
+284
+00:16:55,416 --> 00:16:57,208
+nez kāpēc es neatceros dienu,
+
+285
+00:16:57,333 --> 00:17:00,500
+kad mani vecāki kļuva par mākoņiem.
+
+286
+00:17:01,166 --> 00:17:03,291
+Mapl, tu taču atceries visu.
+
+287
+00:17:03,416 --> 00:17:06,583
+Tā bija burvīga diena, vai ne?
+
+288
+00:17:12,416 --> 00:17:15,125
+Nujā, protams.
+
+289
+00:17:15,250 --> 00:17:19,333
+Viņi atvadījās
+un priecīgi devās uz debesīm,
+
+290
+00:17:19,458 --> 00:17:22,291
+kur kļuva par brīnišķīgiem mākoņiem,
+
+291
+00:17:22,416 --> 00:17:24,708
+kas noraudzīsies lejup uz mums
+
+292
+00:17:24,833 --> 00:17:26,083
+ar mīlestību.
+
+293
+00:17:27,333 --> 00:17:28,291
+Mūžīgi.
+
+294
+00:17:30,125 --> 00:17:31,458
+Paldies.
+
+295
+00:17:35,375 --> 00:17:36,916
+Lietus ir klāt!
+
+296
+00:17:37,041 --> 00:17:39,500
+Tieši tā, kā tam jābūt.
+
+297
+00:17:41,333 --> 00:17:42,708
+<i>Jā.</i>
+
+298
+00:17:42,833 --> 00:17:45,833
+<i>Viss ir tieši tā, kā tam jābūt.</i>
+
+299
+00:17:55,958 --> 00:17:58,333
+GILJARDA GAĻA
+
+300
+00:18:30,416 --> 00:18:35,458
+Ir arī gaišā puse.
+Esat šeit iestrēdzis īstajā brīdī.
+
+301
+00:18:35,583 --> 00:18:38,708
+Notiek Denbrukas kultūras festivāls.
+
+302
+00:18:38,833 --> 00:18:40,750
+Jūs esat laimes luteklis!
+
+303
+00:18:42,666 --> 00:18:46,666
+Nedēļas nogalē abas ar māsu
+saēdāmies tur vietējo sieru.
+
+304
+00:18:46,791 --> 00:18:48,500
+Daudz labāks par tirgotajiem
+
+305
+00:18:48,625 --> 00:18:51,666
+smalkajos siera veikalos galvaspilsētā.
+
+306
+00:18:51,791 --> 00:18:53,083
+Māsa teica…
+
+307
+00:18:53,208 --> 00:18:54,541
+Vai jūs to redzējāt?
+
+308
+00:18:55,291 --> 00:18:56,666
+Ko tad?
+
+309
+00:18:59,708 --> 00:19:01,166
+LAIPNI LŪGTI DENBRUKĀ
+
+310
+00:19:34,916 --> 00:19:36,458
+Urā! Tu esi pamodies!
+
+311
+00:19:36,583 --> 00:19:39,583
+Cik reižu esmu lūdzis tā nedarīt?
+
+312
+00:19:39,708 --> 00:19:40,791
+Aizmirsām!
+
+313
+00:19:40,916 --> 00:19:42,583
+Mēs aizmirsām.
+
+314
+00:19:42,708 --> 00:19:43,833
+Nu saprotams.
+
+315
+00:19:43,958 --> 00:19:45,000
+Paskat! Aši šurp!
+
+316
+00:19:45,125 --> 00:19:46,791
+- Pagaidi!
+- Es jums līdzi!
+
+317
+00:19:50,916 --> 00:19:52,458
+<i>Pamodies es zināšu</i>
+
+318
+00:19:54,458 --> 00:19:57,166
+<i>Ka būšu modies līdzās…</i>
+
+319
+00:20:00,500 --> 00:20:02,875
+- Lilij? Ko tu…
+- Kuš!
+
+320
+00:20:03,000 --> 00:20:05,791
+Šķiet, tā ir spēle. Nekusties.
+
+321
+00:20:05,916 --> 00:20:08,625
+Kurš pirmais pakustēsies, tas zaudēs.
+
+322
+00:20:21,458 --> 00:20:23,458
+Viņš nespēlējas kopā ar mums.
+
+323
+00:20:23,583 --> 00:20:27,166
+Ko tad viņš dara?
+
+324
+00:20:32,958 --> 00:20:35,125
+Viņš ir miris.
+
+325
+00:20:35,250 --> 00:20:37,166
+Džordžs ir nomiris.
+
+326
+00:20:37,291 --> 00:20:40,041
+Ko? Ko nozīmē nomiris?
+
+327
+00:20:41,083 --> 00:20:44,750
+Tā nenotiek. Tā ir tikai grāmatās.
+
+328
+00:20:48,458 --> 00:20:49,625
+Vai tomēr notiek?
+
+329
+00:20:53,958 --> 00:20:55,833
+Cilvēki nomirst?
+
+330
+00:20:58,041 --> 00:21:00,083
+Vai viņš pārvērtīsies par mākoni?
+
+331
+00:21:01,416 --> 00:21:04,750
+Nē. Pārvēršas tikai aitas.
+
+332
+00:21:33,958 --> 00:21:35,416
+- Nomiris?
+- Nomiris?
+
+333
+00:21:35,541 --> 00:21:36,875
+Vai tā mēdz būt?
+
+334
+00:21:37,625 --> 00:21:39,000
+Laikam gan.
+
+335
+00:21:39,125 --> 00:21:41,041
+Tad jau arī aitas var nomirt?
+
+336
+00:21:41,166 --> 00:21:44,125
+Nē, Čiepa, mēs pārvēršamies mākoņos.
+
+337
+00:21:44,250 --> 00:21:45,833
+Džordžs nedrīkst nomirt!
+
+338
+00:21:45,958 --> 00:21:48,250
+Kas man dos zāles? Man ir bakas!
+
+339
+00:21:48,375 --> 00:21:49,416
+Kādas bakas?
+
+340
+00:21:49,541 --> 00:21:50,833
+Lūk, šīs.
+
+341
+00:21:52,875 --> 00:21:53,708
+Šausmas!
+
+342
+00:21:53,833 --> 00:21:57,208
+Vai jūs maz sapratāt, ko es teicu?
+
+343
+00:21:57,333 --> 00:21:59,291
+Džordža vairs nav.
+
+344
+00:21:59,416 --> 00:22:00,958
+Viņš nekad neatgriezīsies.
+
+345
+00:22:01,083 --> 00:22:04,125
+Džordžs taču ir mūsu gans.
+Ko lai mēs darām?
+
+346
+00:22:04,250 --> 00:22:07,208
+Tu esi visgudrākā pasaulē.
+Lilij, saki, ko darīt!
+
+347
+00:22:07,333 --> 00:22:09,708
+Ir tikai viens risinājums.
+
+348
+00:22:10,958 --> 00:22:12,666
+Mums Džordžs ir jāaizmirst.
+
+349
+00:22:12,791 --> 00:22:15,583
+Ko? Lilij, tas taču ir Džordžs.
+Mēs nevaram…
+
+350
+00:22:15,708 --> 00:22:18,791
+Ir pārāk sāpīgi viņu atcerēties.
+Es neizturēšu.
+
+351
+00:22:18,916 --> 00:22:23,000
+Taisnība. Aitas nav lemtas ciešanām.
+
+352
+00:22:23,125 --> 00:22:25,791
+Būs pareizi viņu aizmirst.
+
+353
+00:22:28,083 --> 00:22:29,541
+Pie "trīs".
+
+354
+00:22:29,666 --> 00:22:30,791
+Pag, nevajag…
+
+355
+00:22:30,916 --> 00:22:32,000
+Viens.
+
+356
+00:22:32,125 --> 00:22:34,040
+Nē, nevajag! Tas taču Džordžs!
+
+357
+00:22:34,041 --> 00:22:34,875
+Divi.
+
+358
+00:22:35,000 --> 00:22:38,208
+Jūs viņu neaizmirsīsiet.
+
+359
+00:22:38,333 --> 00:22:39,791
+Sebastjans.
+
+360
+00:22:39,916 --> 00:22:44,416
+Vai tiešām domājāt,
+ka ļaušu jums aizmirst manu ganu?
+
+361
+00:22:44,541 --> 00:22:46,458
+Viņš bija arī mūsu gans.
+
+362
+00:22:46,583 --> 00:22:47,666
+Visi viņu mīlējām.
+
+363
+00:22:47,791 --> 00:22:49,958
+Tomēr šīs sāpes nav izturamas.
+
+364
+00:22:50,791 --> 00:22:52,541
+Mēs nolemjam aizmirst.
+
+365
+00:22:52,666 --> 00:22:54,708
+Tikai ne Džordžu.
+
+366
+00:22:54,833 --> 00:22:58,916
+Jūs viņu atcerēsieties tāpēc,
+ka viņš jāceļ godā.
+
+367
+00:22:59,041 --> 00:23:00,500
+Jāceļ podā?
+
+368
+00:23:00,625 --> 00:23:02,750
+Tad nē jau. Viņš ir jāpiemin.
+
+369
+00:23:03,958 --> 00:23:04,791
+Ar kāju?
+
+370
+00:23:04,916 --> 00:23:07,625
+Jāpiemin ar cieņu. Tas ir mūsu pienākums.
+
+371
+00:23:07,750 --> 00:23:10,666
+Nedrīkst pieļaut ļaunuma uzvaru pār labo.
+
+372
+00:23:10,791 --> 00:23:12,666
+Stiprie nedrīkst apspiest vājos.
+
+373
+00:23:12,791 --> 00:23:15,375
+Un draugus nedrīkst aizmirst.
+
+374
+00:23:16,083 --> 00:23:18,416
+Džordžs man bija uzticams draugs.
+
+375
+00:23:19,375 --> 00:23:21,083
+Es palikšu viņam uzticīgs.
+
+376
+00:23:21,208 --> 00:23:24,416
+Es piekrītu.
+Džordžs pret mani allaž bija laipns.
+
+377
+00:23:24,541 --> 00:23:25,958
+Pret jums visiem.
+
+378
+00:23:26,083 --> 00:23:28,375
+Tālab jūs turēja tikai vilnai.
+
+379
+00:23:28,500 --> 00:23:30,375
+Kamdēļ tad vēl jātur aitas?
+
+380
+00:23:30,500 --> 00:23:32,750
+Nekam citam, tikai labai vilnai.
+
+381
+00:23:32,875 --> 00:23:33,833
+Jautājums!
+
+382
+00:23:33,958 --> 00:23:38,166
+Kāda jēga cilvēka dzīvei,
+ja tā var aprauties vienā mirklī?
+
+383
+00:23:38,291 --> 00:23:41,291
+Kam vajadzīgi cilvēki?
+Kas viņus radījis? Un mūs?
+
+384
+00:23:41,416 --> 00:23:43,166
+Kas iekšā kokam? Kur dienā mēness?
+
+385
+00:23:43,291 --> 00:23:44,833
+Un kāpēc nogalināja Džordžu?
+
+386
+00:23:45,708 --> 00:23:48,208
+Nogalināja? Ko ar to gribi teikt?
+
+387
+00:23:48,333 --> 00:23:51,458
+Viņa romānos
+mirušie vienmēr bija nogalināti.
+
+388
+00:23:51,583 --> 00:23:52,416
+Nē, Zora.
+
+389
+00:23:52,541 --> 00:23:55,291
+Tā ir izdoma, bet nu ir īstenība.
+
+390
+00:23:55,416 --> 00:23:57,458
+- Vai tiesa, Lilij?
+- Protams.
+
+391
+00:23:57,583 --> 00:23:59,666
+Nav iemesla uzskatīt, ka Džordžu…
+
+392
+00:24:01,416 --> 00:24:03,000
+Viņa naģene.
+
+393
+00:24:20,625 --> 00:24:23,875
+Es atbraucu parakstīt līgumu
+un atradu viņu šeit.
+
+394
+00:24:25,291 --> 00:24:27,583
+- Vai vēlaties teikt dažus vārdus?
+- Nē.
+
+395
+00:24:31,125 --> 00:24:32,250
+Keileb!
+
+396
+00:24:34,333 --> 00:24:35,916
+Ko te dara miesnieks?
+
+397
+00:24:38,041 --> 00:24:39,500
+Piecas.
+
+398
+00:24:40,291 --> 00:24:41,291
+Sešas.
+
+399
+00:24:42,958 --> 00:24:44,000
+Grib pievākt aitas.
+
+400
+00:24:45,833 --> 00:24:47,750
+Piecpadsmit.
+
+401
+00:24:49,291 --> 00:24:50,958
+Sešpadsmit.
+
+402
+00:24:51,083 --> 00:24:53,458
+- Lilij, kas tev padomā?
+- Varbūt nieki vien,
+
+403
+00:24:53,583 --> 00:24:57,833
+bet man visu laiku prātā
+ir Džordža naģene un lietusmētelis.
+
+404
+00:24:57,958 --> 00:24:59,666
+- Nav uzvilcis.
+- Tur tā lieta.
+
+405
+00:24:59,791 --> 00:25:02,625
+Viņš izgāja ārā negaisā. Kāpēc neuzvilka?
+
+406
+00:25:02,750 --> 00:25:03,916
+Ja nu vienīgi…
+
+407
+00:25:04,500 --> 00:25:05,875
+Pacel mani.
+
+408
+00:25:07,958 --> 00:25:09,083
+Ir nu gan…
+
+409
+00:25:09,208 --> 00:25:10,791
+Ko?
+
+410
+00:25:10,916 --> 00:25:12,833
+Žēl, nespēšu šo te aizmirst.
+
+411
+00:25:16,208 --> 00:25:18,041
+Vai tu ko redzi?
+
+412
+00:25:19,666 --> 00:25:22,666
+Es redzu visu un pat vairāk.
+
+413
+00:25:37,666 --> 00:25:39,083
+Atvainojiet!
+
+414
+00:25:39,208 --> 00:25:40,208
+Labrīt.
+
+415
+00:25:40,333 --> 00:25:42,416
+Piedodiet, joprojām esat pilsētā?
+
+416
+00:25:42,541 --> 00:25:44,333
+Remontēju auto. Kas viņš ir?
+
+417
+00:25:45,000 --> 00:25:47,166
+Viņu sauca Džordžs Hārdijs. Gans.
+
+418
+00:25:47,291 --> 00:25:48,916
+Kas atgadījās?
+
+419
+00:25:49,041 --> 00:25:50,833
+Acīmredzot infarkts.
+
+420
+00:25:50,958 --> 00:25:53,000
+Skandalozs raksts jums nesanāks.
+
+421
+00:25:53,125 --> 00:25:55,958
+Vai neko savādu neesat manījis?
+
+422
+00:25:56,083 --> 00:25:58,166
+Nē. Es visu apskatīju.
+
+423
+00:25:58,291 --> 00:26:00,208
+Ap furgonu.
+
+424
+00:26:01,250 --> 00:26:02,791
+Arī zem furgona.
+
+425
+00:26:02,916 --> 00:26:04,708
+Bet furgona iekšpusi?
+
+426
+00:26:10,208 --> 00:26:11,750
+Var jau uzmest aci.
+
+427
+00:26:12,583 --> 00:26:14,541
+Ar roku nevajadzētu.
+
+428
+00:26:15,833 --> 00:26:18,833
+- Ko tad?
+- Tur ir pirkstu nospiedumi.
+
+429
+00:26:19,916 --> 00:26:22,791
+Kā tad! Kriminālistika.
+
+430
+00:26:23,458 --> 00:26:24,500
+Jā.
+
+431
+00:26:33,333 --> 00:26:35,625
+Šķiet, viss ir kārtībā.
+
+432
+00:26:35,750 --> 00:26:37,250
+Pag, pag!
+
+433
+00:26:38,291 --> 00:26:43,291
+Cilvēku ir ķēris infarkts,
+bet viņš pieceļas un iziet laukā?
+
+434
+00:26:43,416 --> 00:26:45,250
+Varbūt infarkts ķēra laukā?
+
+435
+00:26:45,375 --> 00:26:47,125
+Nē, tas notika šeit.
+
+436
+00:26:48,083 --> 00:26:49,833
+Viņš apgāza krēslu.
+
+437
+00:26:53,166 --> 00:26:54,875
+Un viņš nebija viens.
+
+438
+00:26:55,000 --> 00:26:57,125
+Viņš nebija viens.
+
+439
+00:26:59,250 --> 00:27:00,208
+Iesim prom.
+
+440
+00:27:00,958 --> 00:27:02,333
+Viņam bija infarkts.
+
+441
+00:27:02,458 --> 00:27:06,416
+- Šķiet, tīšām ignorējat pierādījumus.
+- Ko, ko?
+
+442
+00:27:06,541 --> 00:27:07,791
+Uz ko jūs tēmējat?
+
+443
+00:27:07,916 --> 00:27:10,708
+- Baidos, ka tā ir slepkavība?
+- Vai baidāties?
+
+444
+00:27:11,916 --> 00:27:15,000
+Apžēliņ, es gribu slepkavības Denbrukā.
+
+445
+00:27:15,125 --> 00:27:18,125
+Pa vienai slepkavībai dienā.
+Nepiepildīts sapnis.
+
+446
+00:27:20,375 --> 00:27:24,583
+{\an8}Klau, es zinu -
+reportiera karjerai vajadzīgs skandāls.
+
+447
+00:27:24,708 --> 00:27:26,125
+{\an8}Tomēr piedodiet…
+
+448
+00:27:29,250 --> 00:27:31,958
+{\an8}Džordžu Hārdiju nenogalināja.
+
+449
+00:27:32,500 --> 00:27:33,958
+Džordžu Hārdiju nogalināja.
+
+450
+00:27:35,583 --> 00:27:37,750
+Policists teica, ka slepkavība?
+
+451
+00:27:37,875 --> 00:27:41,041
+Nē, policists teica, ka infarkts.
+Taču viņš kļūdās.
+
+452
+00:27:41,166 --> 00:27:45,125
+Ak tā. Proti, slepkavības fakta nav,
+
+453
+00:27:45,250 --> 00:27:48,583
+bet ir kāda pārnadža minējumi.
+
+454
+00:27:50,541 --> 00:27:51,583
+Nu labi.
+
+455
+00:27:52,250 --> 00:27:56,291
+Ciemos bija kāds paziņa,
+jo Džordžs viņam piedāvāja iedzert.
+
+456
+00:27:56,416 --> 00:27:58,125
+Un viņam kļuva slikti.
+
+457
+00:27:58,250 --> 00:28:03,083
+Tā kā viesis neizsauca palīdzību,
+tas liecina par viņa vainu,
+
+458
+00:28:03,208 --> 00:28:06,333
+bet ārēju ievainojumu neesamība
+liecina par indi.
+
+459
+00:28:06,458 --> 00:28:10,625
+Zaļais traips uz delnas
+liecina par cīniņu zālē.
+
+460
+00:28:10,750 --> 00:28:12,875
+Slepkava aizbēga.
+
+461
+00:28:13,000 --> 00:28:16,541
+Džordžs nespēja pretoties indei un nomira.
+
+462
+00:28:18,333 --> 00:28:19,541
+Man viss skaidrs.
+
+463
+00:28:20,916 --> 00:28:24,791
+Policists ir pilnīga nulle,
+kā jau allaž detektīvstāstos.
+
+464
+00:28:24,916 --> 00:28:28,166
+Tāpēc kādam citam ir jāiejaucas
+un jāatklāj šis noziegums.
+
+465
+00:28:28,291 --> 00:28:29,333
+Kam?
+
+466
+00:28:29,458 --> 00:28:31,500
+Džordžs mūs baroja.
+
+467
+00:28:31,625 --> 00:28:33,791
+Džordžs mūs aprūpēja.
+
+468
+00:28:33,916 --> 00:28:36,125
+Džordžs mūs mīlēja.
+
+469
+00:28:36,250 --> 00:28:38,000
+Esam viņam pateicību parādā.
+
+470
+00:28:38,125 --> 00:28:39,416
+Varētu konkrētāk?
+
+471
+00:28:39,541 --> 00:28:42,375
+Mūsu gans tika nogalināts.
+
+472
+00:28:42,500 --> 00:28:45,375
+Un mēs šo noziegumu atklāsim.
+
+473
+00:28:49,750 --> 00:28:52,833
+- Par ko tu smejies?
+- Nudien burvīgi.
+
+474
+00:28:53,916 --> 00:28:57,541
+Vispirms jau jūs esat aitas!
+
+475
+00:28:57,666 --> 00:28:59,291
+Dzirdēji? Tu esi aita.
+
+476
+00:28:59,416 --> 00:29:03,791
+Kāpēc gan iedomājaties,
+ka jums pietiks prāta atklāt slepkavību?
+
+477
+00:29:03,916 --> 00:29:08,375
+Kā cilvēki sauc savus sugasbrāļus,
+kas nav spējīgi domāt?
+
+478
+00:29:08,500 --> 00:29:09,625
+Pīles!
+
+479
+00:29:09,750 --> 00:29:10,750
+Aitas!
+
+480
+00:29:10,875 --> 00:29:13,541
+Un tu, "visgudrākā aita pasaulē",
+
+481
+00:29:13,666 --> 00:29:16,375
+kur tu šajā pasaulē esi pabijusi?
+
+482
+00:29:17,000 --> 00:29:19,500
+Šeit? Un tur?
+
+483
+00:29:20,166 --> 00:29:25,416
+Lūdzu, ejiet atpakaļ pie siena,
+pienenēm un pusdienas snaudas.
+
+484
+00:29:25,541 --> 00:29:28,458
+Lai slepkavības izmeklē cilvēki.
+
+485
+00:29:29,750 --> 00:29:32,375
+Nu ko? Sāksim izpēti?
+
+486
+00:29:34,083 --> 00:29:37,833
+Meklējiet norādes.
+Pierādījumus neaiztieciet.
+
+487
+00:29:40,333 --> 00:29:43,250
+Un neēdiet nozieguma vietu!
+
+488
+00:29:44,500 --> 00:29:45,833
+Kas tas tāds?
+
+489
+00:29:45,958 --> 00:29:48,875
+Draugi! Es esmu iekšā norādē!
+
+490
+00:29:50,541 --> 00:29:51,958
+Esmu ķezā.
+
+491
+00:29:52,083 --> 00:29:54,875
+- Labi, par norādēm aizmirstam.
+- Klau, draugi!
+
+492
+00:29:55,000 --> 00:29:58,291
+Varbūt kāds no jums
+slepkavības naktī kaut ko redzējis?
+
+493
+00:29:58,416 --> 00:30:00,250
+Es redzēju.
+
+494
+00:30:01,250 --> 00:30:03,208
+Es redzēju tevi, Sebastjan.
+
+495
+00:30:04,875 --> 00:30:07,083
+- Tas bija Sebastjans!
+- Slepkava!
+
+496
+00:30:07,958 --> 00:30:09,708
+Jā, tas biju es.
+
+497
+00:30:09,833 --> 00:30:13,875
+Iespraucos pa šaurajām durvīm,
+apsēdos manu svaru neturošā krēslā
+
+498
+00:30:14,000 --> 00:30:16,208
+un tāpat vien nogalināju ganu.
+
+499
+00:30:16,333 --> 00:30:20,291
+Slepšus iepilinājis viņa glāzē indi
+
+500
+00:30:20,416 --> 00:30:22,208
+ar šo te nagu.
+
+501
+00:30:22,333 --> 00:30:24,000
+- Loģiski.
+- Kas notiek?
+
+502
+00:30:24,125 --> 00:30:26,458
+Es jautāju, vai kāds redzējis cilvēkus.
+
+503
+00:30:27,541 --> 00:30:29,625
+Es redzēju Džordža rēgu.
+
+504
+00:30:30,291 --> 00:30:32,000
+- Blēņas.
+- Nav vis.
+
+505
+00:30:34,166 --> 00:30:36,625
+No viņa ķermeņa pacēlās rēgs.
+
+506
+00:30:36,750 --> 00:30:40,166
+Tumsā es nevarēju to skaidri saskatīt,
+
+507
+00:30:40,291 --> 00:30:42,333
+taču tam bija Džordža smarža un…
+
+508
+00:30:42,458 --> 00:30:45,375
+Ziemas jērs, mums joki nav prātā.
+
+509
+00:30:46,083 --> 00:30:48,416
+Zvana? Zvanīja jau aizvakar.
+
+510
+00:30:49,083 --> 00:30:51,916
+Zvana, lai sapulcinātu pilsētas ļaudis.
+
+511
+00:30:52,041 --> 00:30:54,291
+- Džordža dēļ.
+- Kā tad!
+
+512
+00:30:54,416 --> 00:30:59,000
+Romānos cilvēkus allaž sapulcina,
+lai pavēstītu par slepkavību.
+
+513
+00:30:59,125 --> 00:31:01,000
+Un viņu vidū allaž ir slepkava.
+
+514
+00:31:01,125 --> 00:31:02,791
+Mums ir jāiet turp.
+
+515
+00:31:03,500 --> 00:31:05,666
+Jums būs drosme aiziet no mājām?
+
+516
+00:31:05,791 --> 00:31:07,666
+Neesat bijuši tālāk par pļavu.
+
+517
+00:31:07,791 --> 00:31:10,041
+Jūsu nagi ir mīdījuši tikai zāli.
+
+518
+00:31:10,166 --> 00:31:12,375
+Aiziet no mājām ir gaužām vienkārši.
+
+519
+00:31:12,500 --> 00:31:13,541
+Mēs nebaidāmies.
+
+520
+00:31:19,000 --> 00:31:21,250
+- Mapl, kas tas ir?
+- Laikam ceļš.
+
+521
+00:31:21,375 --> 00:31:23,708
+- No kā tas ir?
+- No zāles noteikti nav.
+
+522
+00:31:23,833 --> 00:31:24,666
+Lilij?
+
+523
+00:31:25,541 --> 00:31:28,208
+- Jā!
+- Vai jūs nāksiet?
+
+524
+00:31:28,333 --> 00:31:29,875
+Es tikai…
+
+525
+00:31:30,666 --> 00:31:32,125
+Ej tu pa priekšu!
+
+526
+00:31:32,250 --> 00:31:34,750
+Kāpēc tu kliedz?
+
+527
+00:31:34,875 --> 00:31:36,833
+Es tepat vien esmu.
+
+528
+00:31:38,916 --> 00:31:40,458
+Tomēr šķiet tik tālu.
+
+529
+00:31:40,583 --> 00:31:43,958
+Jums ir tikai jāpāriet ceļš.
+
+530
+00:31:56,916 --> 00:31:59,333
+Nē, es nevaru.
+
+531
+00:31:59,458 --> 00:32:00,875
+Tas nav iespējams.
+
+532
+00:32:15,666 --> 00:32:17,375
+Nav tava vaina.
+
+533
+00:32:17,500 --> 00:32:19,333
+Mēs esam tādi, kādi esam.
+
+534
+00:32:21,916 --> 00:32:25,958
+Varbūt pāriesim ceļu kopā?
+
+535
+00:32:27,625 --> 00:32:28,958
+Džordža dēļ.
+
+536
+00:32:30,666 --> 00:32:32,125
+Džordža dēļ.
+
+537
+00:32:33,375 --> 00:32:34,791
+Kopā.
+
+538
+00:32:45,916 --> 00:32:48,125
+- Gribu iet atpakaļ.
+- Es arī. Ejam tālāk.
+
+539
+00:32:52,333 --> 00:32:54,625
+Izdevās! Aizgājām no mājām!
+
+540
+00:32:54,750 --> 00:32:56,875
+Redzi? Aitas ir spējīgas.
+
+541
+00:32:57,000 --> 00:32:59,875
+Pareizāk sakot, spējīgas uz visu.
+
+542
+00:33:00,000 --> 00:33:01,416
+Ak vai, vai!
+
+543
+00:33:01,541 --> 00:33:03,750
+Atlikuši tikai trīs kilometri.
+
+544
+00:33:03,875 --> 00:33:05,541
+Nieks vien.
+
+545
+00:33:06,166 --> 00:33:08,000
+Cik kilometru bija šeit?
+
+546
+00:33:08,916 --> 00:33:10,625
+Atzīšos, tas ir iespaidīgi.
+
+547
+00:33:10,750 --> 00:33:14,833
+Slepkavību tu neatklāsi,
+toties esi izrāvusies plašajā pasaulē.
+
+548
+00:33:14,958 --> 00:33:17,291
+Skaidrs, ka es atklāšu slepkavību.
+
+549
+00:33:17,416 --> 00:33:19,208
+Līdz vakaram tikšu galā.
+
+550
+00:33:19,916 --> 00:33:23,416
+Džordžs ir mums lasījis
+desmitiem detektīvromānu.
+
+551
+00:33:23,541 --> 00:33:25,166
+Tajos noteikumi vienkārši.
+
+552
+00:33:25,291 --> 00:33:26,833
+Mapl?
+
+553
+00:33:27,583 --> 00:33:29,208
+Ko? Nujā. Pirmais.
+
+554
+00:33:29,333 --> 00:33:31,541
+Slepkava atgriežas nozieguma vietā.
+
+555
+00:33:31,666 --> 00:33:34,666
+- Otrais.
+- Policija vaino iebraucēju.
+
+556
+00:33:34,791 --> 00:33:36,541
+Šie necieš iebraucējus.
+
+557
+00:33:36,666 --> 00:33:40,916
+- Trešais.
+- Ierodas negaidīta persona, viss mainās.
+
+558
+00:33:41,041 --> 00:33:44,583
+- Ceturtais!
+- Upuris ir pati svarīgākā norāde.
+
+559
+00:33:44,708 --> 00:33:47,541
+Jā, patiešām vienkārši.
+
+560
+00:33:47,666 --> 00:33:52,708
+Tomēr tu redzēsi,
+ka īstenībā ir sarežģītāk nekā grāmatās.
+
+561
+00:33:52,833 --> 00:33:56,541
+Starp citu, laipni lūgti Denbrukā.
+
+562
+00:33:57,208 --> 00:33:58,333
+Kas tas ir?
+
+563
+00:33:58,458 --> 00:34:01,583
+Baznīca, kur dzīvo kāds,
+ko sauc par Dievu.
+
+564
+00:34:01,708 --> 00:34:03,958
+- Kas viņš ir?
+- Tur ir juceklis.
+
+565
+00:34:04,083 --> 00:34:05,833
+Dievs ir gans.
+
+566
+00:34:05,958 --> 00:34:07,416
+Var ganīt arī mūs?
+
+567
+00:34:07,541 --> 00:34:10,166
+Nē, jo viņš ir arī jērs.
+
+568
+00:34:10,291 --> 00:34:12,958
+- Ko?
+- Turklāt neredzams.
+
+569
+00:34:13,083 --> 00:34:15,750
+Miesa viņam ir no maizes.
+Un viņam patīk eglītes.
+
+570
+00:34:15,875 --> 00:34:18,000
+Patīk eglītes? Kā bebram?
+
+571
+00:34:18,125 --> 00:34:19,166
+Jā.
+
+572
+00:34:19,291 --> 00:34:22,833
+Tātad Dievs ir neredzams jērbebrs,
+taisīts no maizes?
+
+573
+00:34:22,958 --> 00:34:24,625
+Jā. Un svētdienās viņu ēd.
+
+574
+00:34:25,875 --> 00:34:27,125
+Nabaga Dievs.
+
+575
+00:34:27,250 --> 00:34:29,000
+Jā, vienas dienas komandējums,
+
+576
+00:34:29,125 --> 00:34:32,375
+bet laikam esmu uzgājis
+savu pirmo slepkavības lietu.
+
+577
+00:34:32,500 --> 00:34:34,625
+- Viss, jābeidz runāt.
+- Labdien.
+
+578
+00:34:34,750 --> 00:34:36,625
+Nāciet šurp. Te mūs neredzēs.
+
+579
+00:34:36,750 --> 00:34:39,166
+Redzēs, neredzēs. Kam tevi vajag?
+
+580
+00:34:39,291 --> 00:34:42,458
+- Saku simto reizi. Tu esi aita.
+- Kuš!
+
+581
+00:34:42,583 --> 00:34:44,125
+Denbrukas ļaudis!
+
+582
+00:34:44,250 --> 00:34:48,791
+Klīst runas, ka Džordža Hārdija nāve
+bijusi aizdomīga.
+
+583
+00:34:48,916 --> 00:34:53,166
+Taču es nekomentēšu indēšanu,
+iekams izmeklēšana…
+
+584
+00:34:53,291 --> 00:34:54,541
+Tātad Džordžu nogalināja?
+
+585
+00:34:55,750 --> 00:34:57,250
+Nu velns.
+
+586
+00:34:57,375 --> 00:34:59,000
+Vai indi noteicāt?
+
+587
+00:34:59,125 --> 00:35:00,458
+Vārdu sakot…
+
+588
+00:35:01,000 --> 00:35:03,166
+nāves cēlonis ir viela taksīns.
+
+589
+00:35:03,291 --> 00:35:05,291
+Tas atrodams īves ogās.
+
+590
+00:35:05,416 --> 00:35:07,583
+Vai tās aug šajā apkārtnē?
+
+591
+00:35:09,333 --> 00:35:10,208
+Lūk, tur.
+
+592
+00:35:12,041 --> 00:35:13,666
+Viņu nogalinājis kāds no mums?
+
+593
+00:35:13,791 --> 00:35:15,083
+Nē, nē.
+
+594
+00:35:15,208 --> 00:35:18,583
+Mieru! Tas noteikti bijis iebraucējs.
+
+595
+00:35:22,625 --> 00:35:24,541
+Kas tām lēcies?
+
+596
+00:35:45,208 --> 00:35:46,916
+Konstebls Derijs?
+
+597
+00:35:47,041 --> 00:35:48,541
+Konstebl Derij!
+
+598
+00:35:49,750 --> 00:35:50,958
+Jā.
+
+599
+00:35:51,083 --> 00:35:53,541
+Nujā… Es būšu tas konstebls.
+
+600
+00:35:53,666 --> 00:35:56,291
+Lidija Hārbotla. No "Hārbotla un Blūms".
+
+601
+00:35:56,416 --> 00:36:00,041
+Mēs sazvanījāmies.
+Nelaiķa Džordža Hārdija advokāte.
+
+602
+00:36:00,166 --> 00:36:02,708
+Jā. Un jūs, jaunkundz?
+
+603
+00:36:02,833 --> 00:36:05,208
+Rebeka Hempsteda.
+
+604
+00:36:05,333 --> 00:36:06,833
+Džordža meita.
+
+605
+00:36:10,916 --> 00:36:15,291
+Ierodas negaidīta persona, un viss mainās.
+
+606
+00:36:16,958 --> 00:36:19,583
+Jūsu numurs bija lapas beigās.
+
+607
+00:36:19,708 --> 00:36:21,750
+Tā es jūs atradu.
+
+608
+00:36:21,875 --> 00:36:23,250
+Detektīva nojauta.
+
+609
+00:36:23,375 --> 00:36:25,041
+Jūs neesat detektīvs.
+
+610
+00:36:25,166 --> 00:36:26,541
+Es zinu, bet…
+
+611
+00:36:26,666 --> 00:36:30,208
+Jūs tikai pamanījāt dokumentu
+uz galda nelielā furgonā.
+
+612
+00:36:30,333 --> 00:36:31,625
+Diez vai "nojauta"?
+
+613
+00:36:31,750 --> 00:36:32,958
+Nu…
+
+614
+00:36:33,083 --> 00:36:37,166
+Turklāt dokumentu pamanījāt,
+tikai otrreiz aizgājis uz furgonu.
+
+615
+00:36:37,291 --> 00:36:38,625
+Nujā.
+
+616
+00:36:38,750 --> 00:36:41,625
+Es atgriezos visu pamatīgi izpētīt.
+
+617
+00:36:42,375 --> 00:36:45,500
+Norobežoju ar policijas lenti.
+Tā ir ļoti lipīga.
+
+618
+00:36:45,625 --> 00:36:47,791
+Nav svarīgi. Dokumentu izlasījāt?
+
+619
+00:36:49,000 --> 00:36:50,375
+Kaut ar acīm pārskrējāt?
+
+620
+00:36:50,500 --> 00:36:52,000
+Nē, nav mans uzdevums.
+
+621
+00:36:52,125 --> 00:36:53,666
+Te nu jūs kļūdāties.
+
+622
+00:36:54,458 --> 00:36:56,791
+Pēcpusdienā es nolasīšu testamentu.
+
+623
+00:36:56,916 --> 00:37:00,416
+Te ir personu saraksts.
+Lūdzu nodrošināt viņu klātbūtni.
+
+624
+00:37:00,541 --> 00:37:04,583
+Mācītājs Hilkots, Keilebs Merovs…
+
+625
+00:37:04,708 --> 00:37:05,791
+Pierakstiet.
+
+626
+00:37:05,916 --> 00:37:09,791
+Mācītājs Hilkots,
+Keilebs Merovs, Beta Penoka,
+
+627
+00:37:09,916 --> 00:37:14,708
+Hems Giljards, jūs un Rebeka Hempsteda.
+
+628
+00:37:14,833 --> 00:37:16,666
+Esmu apmetusies viesu namā "Irbe".
+
+629
+00:37:17,166 --> 00:37:19,875
+Testamentu nolasīšu tieši pulksten piecos.
+
+630
+00:37:20,000 --> 00:37:22,416
+Pulksten piecos. 17.00.
+
+631
+00:37:22,541 --> 00:37:25,416
+Es jums teicu, ka Rebeka dzīvo Amerikā.
+
+632
+00:37:25,541 --> 00:37:28,250
+Te pēkšņi viņa ir Denbrukā.
+
+633
+00:37:28,375 --> 00:37:30,875
+Dienā, kad man pateicāt
+par viņas tēva nāvi.
+
+634
+00:37:31,000 --> 00:37:33,958
+Tātad viņa ieradusies
+jau viņa slepkavības vakarā.
+
+635
+00:37:34,083 --> 00:37:35,666
+Taču jūs to neņēmāt vērā?
+
+636
+00:37:37,250 --> 00:37:38,541
+Ņēmu gan.
+
+637
+00:37:38,666 --> 00:37:40,875
+Nē. Jā, protams, ņēmu vērā.
+
+638
+00:37:41,583 --> 00:37:44,041
+Jūsu pirmā slepkavība, vai tiesa?
+
+639
+00:37:44,166 --> 00:37:45,208
+Ko?
+
+640
+00:37:46,250 --> 00:37:47,750
+Jūsuprāt, nogalināju es?
+
+641
+00:37:51,583 --> 00:37:53,541
+Ak jā…
+
+642
+00:37:54,291 --> 00:37:57,708
+Proti, mana pirmā slepkavības lieta.
+
+643
+00:37:58,750 --> 00:38:02,291
+Nu tā ir jūsu atbildība, konstebl Derij.
+
+644
+00:38:02,416 --> 00:38:05,250
+- Tiksimies piecos.
+- Piecos, Hārbotlas jaunkundz.
+
+645
+00:38:05,375 --> 00:38:06,500
+Hārbotlas kundze.
+
+646
+00:38:09,041 --> 00:38:11,166
+Mums ir jātiek uz nolasīšanu.
+
+647
+00:38:11,291 --> 00:38:13,083
+{\an8}Lūk, viesu nams "Irbe".
+
+648
+00:38:13,208 --> 00:38:15,375
+Šad tad es te ēdu puķes.
+
+649
+00:38:15,500 --> 00:38:19,041
+Es nekādi nesaprotu,
+kā mūsu klātbūtne var palīdzēt.
+
+650
+00:38:19,166 --> 00:38:21,291
+Romānos vienmēr ir testaments.
+
+651
+00:38:21,416 --> 00:38:25,250
+Testamentā minētos cilvēkus
+vienmēr tur aizdomās.
+
+652
+00:38:27,208 --> 00:38:29,541
+- Man ir jāredz sejas.
+- Kāpēc?
+
+653
+00:38:29,666 --> 00:38:33,416
+Cilvēki bieži melo, bet acis viņus nodod.
+
+654
+00:38:33,541 --> 00:38:34,500
+Tieši tā.
+
+655
+00:38:36,166 --> 00:38:39,833
+Mapl, mēs strādāsim te,
+bet tu pameklē kādu labāku logu.
+
+656
+00:38:39,958 --> 00:38:41,041
+Sapratu.
+
+657
+00:38:41,708 --> 00:38:43,041
+Sāksim?
+
+658
+00:38:45,500 --> 00:38:47,541
+Ko jūs zināt par savu īsto māti?
+
+659
+00:38:47,666 --> 00:38:51,250
+Viņš rakstīja,
+ka viņa mirusi, dzemdējot mani.
+
+660
+00:38:51,375 --> 00:38:54,833
+Viņš bijis ļoti jauns, nobijies un nabags.
+
+661
+00:38:55,833 --> 00:38:57,708
+Viņš mani atdeva adopcijai.
+
+662
+00:38:58,416 --> 00:38:59,791
+Ar baznīcas palīdzību.
+
+663
+00:39:02,291 --> 00:39:04,291
+Arī man ir jautājums.
+
+664
+00:39:04,416 --> 00:39:05,791
+Piedodiet.
+
+665
+00:39:07,041 --> 00:39:10,125
+Labdien vēlreiz. Es esmu izskaitļojis…
+
+666
+00:39:10,250 --> 00:39:12,166
+Nu, tā parēķināju.
+
+667
+00:39:12,291 --> 00:39:16,166
+Jūs nekādi nevarējāt
+šodien ierasties no Amerikas, jā?
+
+668
+00:39:16,291 --> 00:39:19,541
+Tātad jau vakar bijāt šajā valstī,
+
+669
+00:39:19,666 --> 00:39:22,708
+kad Džordžu nogalināja.
+
+670
+00:39:23,375 --> 00:39:26,625
+Es jūs neapsūdzu.
+Tomēr sakiet, vai man ir taisnība?
+
+671
+00:39:26,833 --> 00:39:28,750
+Jūs esat ļoti gudrs, detektīv.
+
+672
+00:39:28,875 --> 00:39:31,916
+Nē, es vēl neesmu detektīvs.
+
+673
+00:39:32,041 --> 00:39:33,375
+Tikai konstebls.
+
+674
+00:39:33,500 --> 00:39:36,750
+Taču ar detektīva nojautu.
+
+675
+00:39:36,875 --> 00:39:40,291
+Nu, es… Es…
+
+676
+00:39:40,416 --> 00:39:44,000
+atrados šajā valstī,
+bet Denbrukā šodien esmu pirmo reizi.
+
+677
+00:39:45,375 --> 00:39:46,500
+Precizējošs jautājums.
+
+678
+00:39:46,625 --> 00:39:49,541
+Vai jums ir draugs, kāds puisis?
+
+679
+00:39:50,833 --> 00:39:54,083
+- Cik nožēlojami!
+- Kāpēc? Standarta jautājums.
+
+680
+00:39:54,208 --> 00:39:57,791
+To šajā situācijā
+jautātu ikviens izmeklētājs.
+
+681
+00:39:57,916 --> 00:40:01,000
+Interesanti, ka pajautājāt.
+Es nupat esmu pašķīrusies.
+
+682
+00:40:01,500 --> 00:40:03,041
+O, ak tā?
+
+683
+00:40:04,125 --> 00:40:06,833
+- Vai tu redzi to pašu, ko es?
+- Meita…
+
+684
+00:40:06,958 --> 00:40:09,083
+Viņas seju rotā smaids.
+
+685
+00:40:09,208 --> 00:40:12,000
+Taču acīs ir bailes.
+
+686
+00:40:12,125 --> 00:40:15,125
+Pulksten cikos jūs vakar ielidojāt?
+
+687
+00:40:15,250 --> 00:40:17,500
+Ap septiņiem vakarā un…
+
+688
+00:40:19,666 --> 00:40:20,666
+Piedodiet.
+
+689
+00:40:22,041 --> 00:40:24,333
+- Tikai mieru.
+- Šodien vajadzēja tikties.
+
+690
+00:40:24,458 --> 00:40:26,291
+Es esmu satriekta.
+
+691
+00:40:28,125 --> 00:40:32,416
+- Ņemiet vēl.
+- Paldies.
+
+692
+00:40:32,541 --> 00:40:34,125
+Nu jau gana, paldies.
+
+693
+00:40:34,666 --> 00:40:38,208
+Logs, logs…
+Ja es būtu logs, kur es slēptos?
+
+694
+00:40:40,208 --> 00:40:41,250
+Dārzeņi.
+
+695
+00:40:41,375 --> 00:40:45,500
+Sveiki. Burvīgs burkāns! Ņam, ņam!
+
+696
+00:40:49,750 --> 00:40:53,750
+Vēl viņš rakstīja, ka man ir dvīņubrālis,
+
+697
+00:40:53,875 --> 00:40:56,041
+aizsūtīts uz Dienvidāfriku.
+
+698
+00:40:56,166 --> 00:40:59,458
+Nošķirts afrikāņu dvīnis. Ģeniāli.
+
+699
+00:40:59,583 --> 00:41:01,416
+Kas jūs būtu?
+
+700
+00:41:02,166 --> 00:41:04,833
+Eliots Metjūss. Gatavoju rakstu…
+
+701
+00:41:04,958 --> 00:41:06,708
+Nav svarīgi. Ārā!
+
+702
+00:41:07,958 --> 00:41:09,375
+Man kā žurnālistam…
+
+703
+00:41:09,500 --> 00:41:13,666
+Nav nekādu tiesību, jaunekli.
+Tur ir durvis.
+
+704
+00:41:13,791 --> 00:41:16,208
+- Labi.
+- Un nenoklausieties.
+
+705
+00:41:16,333 --> 00:41:18,291
+Es būšu prezidenta apartamentos.
+
+706
+00:41:18,416 --> 00:41:20,875
+Baudīšu greznību un komfortu.
+
+707
+00:41:21,000 --> 00:41:22,458
+Lilij!
+
+708
+00:41:22,958 --> 00:41:26,083
+Lilij! Sebastjan! Palīgā!
+
+709
+00:41:28,416 --> 00:41:32,583
+Van Vīrena kungs, te Lidija Hārbotla.
+Vai jūs mani dzirdat?
+
+710
+00:41:32,708 --> 00:41:34,333
+<i>Jā, sakari teicami. Paldies.</i>
+
+711
+00:41:34,458 --> 00:41:37,416
+Van Vīrena kungs ir Hārdija kunga dēls.
+
+712
+00:41:37,541 --> 00:41:41,958
+Dzīvo Dienvidāfrikā,
+tāpēc ir pievienojies telefonsarunā.
+
+713
+00:41:42,083 --> 00:41:47,291
+Tātad Hārdija kungs testamenta kopiju
+man atsūtīja pirms diviem mēnešiem.
+
+714
+00:41:49,125 --> 00:41:52,416
+Taču nav tas testaments,
+kuru es nolasīšu šodien.
+
+715
+00:41:52,541 --> 00:41:54,208
+Viņš bija sastādījis jaunu.
+
+716
+00:41:54,333 --> 00:41:55,958
+- Es to atradu.
+- Kuš!
+
+717
+00:41:56,083 --> 00:41:58,041
+Parakstīts trīs dienas pirms nāves.
+
+718
+00:41:58,166 --> 00:42:02,250
+Kā tad, vienmēr ir jauns testaments.
+
+719
+00:42:02,916 --> 00:42:07,000
+"Džordža Hārdija pēdējā griba un rīkojums.
+
+720
+00:42:07,791 --> 00:42:10,000
+Esmu jūs, septiņus, sapulcinājis,
+
+721
+00:42:10,125 --> 00:42:13,958
+jo ar katru no jums
+man ir vēl nenokārtoti rēķini.
+
+722
+00:42:14,083 --> 00:42:17,416
+Pret kādu no jums esmu bijis netaisns,
+
+723
+00:42:17,541 --> 00:42:20,791
+bet kāds no jums bijis netaisns pret mani.
+
+724
+00:42:20,916 --> 00:42:24,000
+Patlaban jūsu vidū šajā istabā
+
+725
+00:42:24,125 --> 00:42:27,708
+atrodas muļķis, sliktais gans,
+
+726
+00:42:27,833 --> 00:42:31,625
+pavasara jērs, ziemas jērs,
+
+727
+00:42:31,750 --> 00:42:33,208
+upuris…
+
+728
+00:42:34,333 --> 00:42:35,583
+un divi slepkavas."
+
+729
+00:42:35,708 --> 00:42:36,916
+Divi slepkavas?
+
+730
+00:42:37,041 --> 00:42:38,375
+Es tas sliktais gans.
+
+731
+00:42:38,500 --> 00:42:41,208
+- Kā lai to atšķetinu?
+- Zinām, kurš ir muļķis.
+
+732
+00:42:41,333 --> 00:42:44,125
+Man ir izcilas sugas franču aitas.
+
+733
+00:42:44,250 --> 00:42:47,000
+- Kas sacīts par upuri?
+- Viens no mums būs nākamais.
+
+734
+00:42:47,125 --> 00:42:48,916
+- Tim!
+- Mūsu vidū ir slepkava.
+
+735
+00:42:49,041 --> 00:42:52,625
+- Izmeklēsiet? Jūs pārstāvat likumu.
+- Mums jātiek skaidrībā.
+
+736
+00:42:53,458 --> 00:42:54,666
+Divi slepkavas?
+
+737
+00:42:54,791 --> 00:42:56,666
+Ziemas jērs.
+
+738
+00:42:59,708 --> 00:43:02,666
+- "Lūk, ko es jums novēlu."
+- Pag, pag!
+
+739
+00:43:05,083 --> 00:43:07,500
+"Lūk, ko es jums novēlu.
+
+740
+00:43:08,500 --> 00:43:12,291
+Sapratni, ka biju saskatījis
+jūsu patieso būtību.
+
+741
+00:43:13,000 --> 00:43:15,666
+Un vairums no jums to vien arī saņems."
+
+742
+00:43:15,791 --> 00:43:20,333
+Kā "to vien"?
+Nez ko tad es esmu te aizmirsis?
+
+743
+00:43:20,458 --> 00:43:22,333
+"Apsēdies un aizveries, Hem!"
+
+744
+00:43:22,458 --> 00:43:23,541
+Kas vēl nebūs!
+
+745
+00:43:23,666 --> 00:43:27,125
+Nē, tā rakstīts testamentā.
+"Apsēdies un aizveries, Hem!"
+
+746
+00:43:28,375 --> 00:43:31,958
+Šķiet, Džordžs arī tagad redz jums cauri.
+
+747
+00:43:32,083 --> 00:43:33,291
+Esi pieklājīgs.
+
+748
+00:43:33,416 --> 00:43:34,833
+- Atšujies.
+- Pats atšujies.
+
+749
+00:43:34,958 --> 00:43:37,583
+"Manam dēlam Pīteram van Vīrenam -
+
+750
+00:43:37,708 --> 00:43:41,916
+300 akru, kas patlaban iznomāti
+Keilebam Merovam."
+
+751
+00:43:42,041 --> 00:43:43,333
+<i>O, dāsni!</i>
+
+752
+00:43:43,458 --> 00:43:45,833
+"Manai meitai Rebekai Hempstedai -
+
+753
+00:43:45,958 --> 00:43:49,708
+piegulošos 300 akrus,
+kur atradās manas mājas.
+
+754
+00:43:49,833 --> 00:43:55,083
+Kā arī furgonu, klēti,
+tur esošo mantu un manas aitas."
+
+755
+00:43:55,208 --> 00:43:59,000
+Pirmajā testamentā Hārdija kungs
+pārējos aktīvus bija novēlējis
+
+756
+00:43:59,166 --> 00:44:02,958
+labdarībai, proti,
+Dzīvnieku aizsardzības biedrībai.
+
+757
+00:44:03,083 --> 00:44:06,458
+Turpretī jaunajā versijā tas skan šādi:
+
+758
+00:44:06,583 --> 00:44:11,666
+"Pārējos aktīvus es novēlu
+savai meitai Rebekai Hempstedai."
+
+759
+00:44:11,791 --> 00:44:14,708
+Nesapriecājieties.
+Viņš bija pliks kā baznīcas žurka.
+
+760
+00:44:14,833 --> 00:44:19,166
+Kā nu to ņem.
+Ir viens salūzis mēslu ārdītājs,
+
+761
+00:44:19,291 --> 00:44:23,958
+trīs iegādāti maisi ar mēslojumu…
+Noderīga manta.
+
+762
+00:44:24,083 --> 00:44:29,625
+Un noguldījums bankā -
+aptuveni 30 miljoni dolāru.
+
+763
+00:44:30,916 --> 00:44:32,250
+30 miljoni?
+
+764
+00:44:32,375 --> 00:44:35,250
+Lūk, arī motīvs.
+
+765
+00:44:35,875 --> 00:44:37,958
+Trīsdesmit miljoni? No kurienes?
+
+766
+00:44:38,083 --> 00:44:41,041
+Pirms diviem gadiem
+Džordžs Hārdijs izgudroja zāles
+
+767
+00:44:41,166 --> 00:44:44,125
+pret sērgu, tā sauktajām aitu bakām.
+
+768
+00:44:44,250 --> 00:44:46,125
+- Bakas?
+- Bakas.
+
+769
+00:44:46,291 --> 00:44:48,875
+Zilais šķidrums,
+ko viņš tur iemaisīja, bija zāles?
+
+770
+00:44:49,000 --> 00:44:53,000
+Viņš patentu pārdeva
+lielai agrofirmai par summu…
+
+771
+00:44:53,125 --> 00:44:54,875
+Trīsdesmit miljoni.
+
+772
+00:44:55,625 --> 00:44:56,708
+Par bakām.
+
+773
+00:45:08,916 --> 00:45:10,458
+- Tur kāds ir.
+- Tim.
+
+774
+00:45:10,583 --> 00:45:12,916
+Noskaidrojiet. Ejiet!
+
+775
+00:45:26,000 --> 00:45:27,875
+Ei, ei!
+
+776
+00:45:38,208 --> 00:45:40,041
+Viss labi, man nekas nekaiš.
+
+777
+00:45:41,041 --> 00:45:42,166
+Atkal viņš!
+
+778
+00:45:57,875 --> 00:45:58,708
+REBEKAI HEMPSTEDAI
+
+779
+00:46:02,125 --> 00:46:04,750
+Dzeniet ārā aunu! Prom!
+
+780
+00:46:09,625 --> 00:46:13,458
+Lilij, es atradu logu.
+
+781
+00:46:13,625 --> 00:46:17,583
+Lūk, tā. Malacis. Lieliski.
+
+782
+00:46:20,875 --> 00:46:24,166
+Bez gana aitas drīz kļūs par mežonēm.
+
+783
+00:46:24,291 --> 00:46:25,958
+Īpaši melnais auns.
+
+784
+00:46:26,875 --> 00:46:30,791
+Džordžs to nopirka gadatirgū.
+Ir tikpat kā savvaļas.
+
+785
+00:46:35,958 --> 00:46:39,458
+Tim, pagaidiet!
+Vai nāksiet klajā ar paziņojumu?
+
+786
+00:46:39,583 --> 00:46:42,333
+Nē, komentāru nav.
+Un uzrunājiet par konsteblu.
+
+787
+00:46:42,458 --> 00:46:44,458
+Kā ar versijām? Vai ir?
+
+788
+00:46:44,625 --> 00:46:48,291
+Jā, papilnam. Es visu kontrolēju.
+
+789
+00:46:49,791 --> 00:46:53,875
+Klau, man vajag materiālu,
+bet jums - arestu.
+
+790
+00:46:54,708 --> 00:46:57,958
+Vai tad negribat, lai jūs sāktu cienīt?
+
+791
+00:46:58,083 --> 00:47:01,041
+Klau, cilvēki mani ciena.
+
+792
+00:47:02,750 --> 00:47:05,625
+Atrisinājis šo lietu, būsiet varonis.
+
+793
+00:47:08,625 --> 00:47:10,750
+Apvienosim spēkus.
+
+794
+00:47:12,375 --> 00:47:16,041
+Es varu palīdzēt.
+Vakar, kad vilka prom manu auto,
+
+795
+00:47:16,166 --> 00:47:19,375
+ap deviņiem pie Džordža lauka
+redzēju spīdam lukturi.
+
+796
+00:47:20,333 --> 00:47:24,208
+Skaidrs. Tas sakrīt.
+
+797
+00:47:24,333 --> 00:47:27,958
+Mediķis teica:
+Džordžs nomiris laikā no 20.00 līdz 23.00.
+
+798
+00:47:30,791 --> 00:47:33,708
+Jūs taču nofotografējāt līķi?
+Es nepaspēju.
+
+799
+00:47:33,833 --> 00:47:38,916
+Es nobildēju visu, ko vien varēju.
+Nosūtīšu jums fotogrāfijas.
+
+800
+00:47:40,041 --> 00:47:43,416
+Nu, ko teiksiet, varoni konstebl?
+
+801
+00:47:48,833 --> 00:47:52,416
+Tad viņa lasa:
+muļķis, upuris, divi slepkavas…
+
+802
+00:47:52,541 --> 00:47:56,083
+- Manuprāt, vainīga kalpone.
+- Nekādas kalpones nav!
+
+803
+00:47:56,208 --> 00:48:00,000
+Bija romānā, bet pat tur bez vainas.
+Pietiek kalpoņu!
+
+804
+00:48:00,125 --> 00:48:01,958
+Īstas aitas.
+
+805
+00:48:02,083 --> 00:48:05,916
+Keilebs taču būs mūsu gans?
+Vai tiesa, Lilij?
+
+806
+00:48:06,041 --> 00:48:10,000
+Protams, tikai jāpagaida,
+kad tiks atrisināta šī lieta.
+
+807
+00:48:10,125 --> 00:48:13,125
+Jautājums: kāpēc vēl neesi atrisinājusi?
+
+808
+00:48:13,250 --> 00:48:15,208
+Romānos saprati vienā rāvienā.
+
+809
+00:48:15,375 --> 00:48:22,208
+Zinu, bet īstenībā
+ir nedaudz sarežģītāk nekā grāmatās.
+
+810
+00:48:22,875 --> 00:48:24,291
+Grāmata.
+
+811
+00:48:24,791 --> 00:48:26,750
+Iespējams, tajā ir atbilde.
+
+812
+00:48:26,875 --> 00:48:29,208
+Tikai jāiekļūst Džordža furgonā un…
+
+813
+00:48:29,333 --> 00:48:30,666
+Skatieties!
+
+814
+00:48:32,666 --> 00:48:34,250
+Vai tā ir Rebeka?
+
+815
+00:48:36,333 --> 00:48:38,000
+Ko viņa meklē?
+
+816
+00:49:04,833 --> 00:49:06,541
+Kā tevi sauc?
+
+817
+00:49:07,250 --> 00:49:09,000
+Vai tā ir Džordža meitiņa?
+
+818
+00:49:09,125 --> 00:49:11,875
+Smaržo kā viņš, bet nav līdzīga.
+
+819
+00:49:12,000 --> 00:49:14,083
+Laikam dzimusi ziemā.
+
+820
+00:49:14,208 --> 00:49:16,208
+Tāpēc Džordžs viņu padzina.
+
+821
+00:49:16,333 --> 00:49:19,791
+Kā tad, ziemas jērs! Viss skaidrs.
+
+822
+00:49:19,916 --> 00:49:21,375
+Vainīga Rebeka!
+
+823
+00:49:21,500 --> 00:49:23,833
+- Slepkava!
+- Mēs to nezinām.
+
+824
+00:49:23,958 --> 00:49:26,208
+- Es zināju!
+- Tas taču skaidri redzams.
+
+825
+00:49:26,333 --> 00:49:28,208
+Uzreiz teicu: Rebeka man nepatīk.
+
+826
+00:49:28,333 --> 00:49:30,166
+Es jau sākumā sapratu.
+
+827
+00:49:30,291 --> 00:49:31,791
+Sebastjan?
+
+828
+00:49:33,333 --> 00:49:38,333
+Lilij, tu pieminēji Džordža furgonu
+un kādu grāmatu.
+
+829
+00:49:39,791 --> 00:49:42,291
+{\an8}Pēdējā Džordža lasītajā romānā
+bija rakstīts,
+
+830
+00:49:42,416 --> 00:49:47,083
+kā sašaurināt aizdomās turēto loku.
+Grāmata jāatrod un jāaiznes policistam.
+
+831
+00:49:47,208 --> 00:49:50,041
+Ja paveiksies,
+viņš izlasīs un kaut ko sapratīs.
+
+832
+00:49:50,583 --> 00:49:52,666
+- Vai drīkstu aiznest?
+- Nē, Zora.
+
+833
+00:49:52,791 --> 00:49:54,666
+Es gribu būt detektīvs! Atļauj!
+
+834
+00:49:54,833 --> 00:49:58,541
+Nu labi, atrodi grāmatu,
+kuru Džordžs bija sācis mums lasīt.
+
+835
+00:49:58,666 --> 00:50:00,916
+Nodaļu par līdzekli, motīvu un izdevību.
+
+836
+00:50:01,041 --> 00:50:02,958
+Jautājums! Kas ir nodaļa?
+
+837
+00:50:03,083 --> 00:50:05,625
+Nav svarīgi. Grāmatai uz vāka ir vilciens.
+
+838
+00:50:05,750 --> 00:50:08,916
+- Jautājums! Kas ir vilciens?
+- Gara vagonu virkne.
+
+839
+00:50:09,041 --> 00:50:11,750
+- Jautājums. Kas ir…
+- Pag, Vilnaci, ko tu dari?
+
+840
+00:50:11,875 --> 00:50:15,875
+Mana izcilā oža
+atradīs grāmatu vienā acumirklī.
+
+841
+00:50:18,083 --> 00:50:20,708
+Atradu tomātus. Cienājieties!
+
+842
+00:50:22,291 --> 00:50:25,416
+- Saņemies, Vilnaci! Uz tevi paļaujas.
+- Ne pārāk.
+
+843
+00:50:25,541 --> 00:50:28,625
+Vai šī ir pēdējā grāmata,
+kurai pieskāries Džordžs?
+
+844
+00:50:28,750 --> 00:50:30,250
+Nē, tas ir burkāns.
+
+845
+00:50:30,375 --> 00:50:32,375
+- Furgons pagalam.
+- Vēlāk būs jāpaņem.
+
+846
+00:50:34,833 --> 00:50:35,791
+Ahā!
+
+847
+00:50:35,916 --> 00:50:37,166
+101 STULBS JOKS PAR AITĀM
+
+848
+00:50:37,291 --> 00:50:39,083
+Vai tev vajag šo grāmatu?
+
+849
+00:50:39,208 --> 00:50:41,250
+- Nē!
+- Skaidrs. Tad šo?
+
+850
+00:50:41,375 --> 00:50:42,708
+SLEPKAVĪBA UZ PĀRBRAUKTUVES
+
+851
+00:50:42,833 --> 00:50:45,791
+Tieši tā! Vilnaci, tu esi to atradis!
+
+852
+00:50:45,916 --> 00:50:48,875
+Saprotams. Lilij, tā esi tu, kas runā?
+
+853
+00:50:49,000 --> 00:50:51,541
+Starp citu, es esmu izcils izmeklētājs.
+
+854
+00:50:55,375 --> 00:50:56,333
+Pierādījumu foto
+
+855
+00:50:56,458 --> 00:50:58,208
+No: Eliots Metjūss
+
+856
+00:50:58,333 --> 00:51:00,125
+Sveiks, Tim
+Foto, ko es sabildēju.
+
+857
+00:51:09,791 --> 00:51:12,708
+POLICIJAS IECIRKNIS
+
+858
+00:51:25,833 --> 00:51:27,250
+SLEPKAVĪBA UZ PĀRBRAUKTUVES
+
+859
+00:51:38,375 --> 00:51:40,416
+Šeit ir skaisti.
+
+860
+00:51:41,125 --> 00:51:42,583
+Taču vientulīgi.
+
+861
+00:51:46,208 --> 00:51:50,416
+Es grāmatu aiznesu policistam,
+lai palīdzētu atklāt noziegumu.
+
+862
+00:51:55,666 --> 00:51:57,291
+Kas ir gadatirgus?
+
+863
+00:51:58,375 --> 00:52:00,958
+Nekas. Ej pie sava ganāmpulka.
+
+864
+00:52:01,625 --> 00:52:03,208
+Pie mūsu ganāmpulka.
+
+865
+00:52:08,541 --> 00:52:10,000
+Mūzika.
+
+866
+00:52:10,750 --> 00:52:13,291
+Gadatirgus ir mūzika.
+
+867
+00:52:14,208 --> 00:52:15,250
+Un karuseļi.
+
+868
+00:52:16,750 --> 00:52:21,708
+Katru dienu nāca bērni,
+viņi mani glaudīja un baroja.
+
+869
+00:52:21,833 --> 00:52:24,041
+Tas bija brīnišķīgi.
+
+870
+00:52:24,166 --> 00:52:26,500
+Taču vēlāk es izaugu liels.
+
+871
+00:52:27,583 --> 00:52:30,333
+Kad iestājās nakts,
+
+872
+00:52:30,458 --> 00:52:34,083
+gadatirgus vīri mani savāca
+un veda uz telti.
+
+873
+00:52:35,750 --> 00:52:39,375
+Un teltī bija suns.
+
+874
+00:52:41,333 --> 00:52:43,500
+Mani piespieda cīnīties.
+
+875
+00:52:46,291 --> 00:52:48,500
+Cīnīties līdz asinīm.
+
+876
+00:52:50,583 --> 00:52:52,666
+Tad kādu reizi…
+
+877
+00:52:53,458 --> 00:52:54,791
+<i>viņš mani ieraudzīja.</i>
+
+878
+00:53:07,833 --> 00:53:09,583
+Viņš tiem samaksāja un…
+
+879
+00:53:10,458 --> 00:53:11,583
+aizveda mani līdzi.
+
+880
+00:53:14,333 --> 00:53:18,333
+Vārdu sakot, lūk, kas ir gadatirgus.
+
+881
+00:53:21,625 --> 00:53:25,000
+Kā gan tu nonāci tik briesmīgā vietā?
+
+882
+00:53:25,125 --> 00:53:26,791
+Kāpēc nedzīvoji ganāmpulkā?
+
+883
+00:53:27,916 --> 00:53:31,750
+Biju domājis, ka dižā detektīve Lilija
+jau būs sapratusi iemeslu.
+
+884
+00:53:34,333 --> 00:53:35,750
+Tu biji ziemas…
+
+885
+00:53:35,875 --> 00:53:40,333
+Agri vai vēlu ziemas jērs grib iet prom.
+
+886
+00:53:57,541 --> 00:53:59,916
+Te nu viņš ir! Jā!
+
+887
+00:54:01,750 --> 00:54:04,916
+Ceru, ka esat izsalcis, Tim? Vai tiesa?
+
+888
+00:54:07,208 --> 00:54:08,625
+Vai viss ir labi?
+
+889
+00:54:08,750 --> 00:54:14,583
+Tiklīdz šajā lietā notiek kas interesants,
+
+890
+00:54:15,208 --> 00:54:17,000
+tās ir klāt, kā likts.
+
+891
+00:54:22,666 --> 00:54:24,750
+Jūs esat pārstrādājies.
+
+892
+00:54:24,875 --> 00:54:27,375
+Tomēr nekur neesat ticis, Tim!
+
+893
+00:54:27,500 --> 00:54:31,416
+Jūsu secinājums ir pārsteidzīgs.
+
+894
+00:54:32,583 --> 00:54:35,708
+"Kas nogalinājis Džordžu?"
+
+895
+00:54:36,250 --> 00:54:38,583
+{\an8}Testamentā minēti pieci aizdomīgie.
+
+896
+00:54:38,708 --> 00:54:41,750
+Slepkavam bija vajadzīgas trīs lietas.
+
+897
+00:54:41,875 --> 00:54:45,625
+Līdzeklis, motīvs, izdevība.
+
+898
+00:54:46,291 --> 00:54:48,375
+Izdevās! Viņš ir izlasījis grāmatu.
+
+899
+00:54:48,500 --> 00:54:51,000
+Izskatīsim pēc kārtas.
+
+900
+00:54:51,125 --> 00:54:54,541
+Līdzeklis. Īves ogās atrodamais taksīns.
+
+901
+00:54:54,666 --> 00:54:57,750
+Īves aug visapkārt baznīcai.
+
+902
+00:54:57,875 --> 00:54:59,625
+Līdzeklis bija visiem.
+
+903
+00:54:59,750 --> 00:55:02,625
+{\an8}Motīvs. Kamdēļ jānogalina Džordžs?
+
+904
+00:55:02,791 --> 00:55:04,458
+Rebekai ir skaidrs motīvs.
+
+905
+00:55:04,583 --> 00:55:07,958
+Iemesls varētu būt arī citiem.
+Ko viņi slēpj?
+
+906
+00:55:08,083 --> 00:55:11,666
+Izdevība. Kuram no viņiem ir alibi?
+
+907
+00:55:11,791 --> 00:55:14,958
+Līdzeklis, motīvs, izdevība.
+
+908
+00:55:15,125 --> 00:55:20,250
+Tas, kuram būs visi trīs,
+tad arī ir Denbrukas indētājs.
+
+909
+00:55:23,000 --> 00:55:25,833
+Tim, tiešām iespaidīgi.
+
+910
+00:55:25,958 --> 00:55:28,916
+Jā, kaut kā…
+
+911
+00:55:30,083 --> 00:55:31,291
+naktī iešāvās prātā.
+
+912
+00:55:32,791 --> 00:55:36,208
+Labs ir, ķeramies klāt.
+
+913
+00:55:36,333 --> 00:55:37,708
+Hems.
+
+914
+00:55:37,875 --> 00:55:40,250
+{\an8}<i>Kas Džordža testamentā esat jūs?</i>
+
+915
+00:55:40,750 --> 00:55:42,458
+Pieņemsim, ka slepkava.
+
+916
+00:55:44,083 --> 00:55:46,708
+Viņš bija veģetārietis.
+
+917
+00:55:46,833 --> 00:55:49,958
+Sievietei piedodams, bet vīrietim…
+
+918
+00:55:50,791 --> 00:55:52,375
+Nemūžam.
+
+919
+00:55:52,500 --> 00:55:53,833
+Beta.
+
+920
+00:55:54,333 --> 00:55:57,708
+Džordža vēstule Rebekai. Kur jūs to ņēmāt?
+
+921
+00:55:57,833 --> 00:56:01,750
+<i>Varbūt pasts pirmo reizi vēsturē
+tika pieļāvis kļūdu.</i>
+
+922
+00:56:01,958 --> 00:56:05,791
+Dienu pirms Džordža slepkavības teicāt,
+
+923
+00:56:05,916 --> 00:56:07,541
+ka būtu gatava viņu nosist.
+
+924
+00:56:07,666 --> 00:56:12,000
+Es neesmu slepkava, esmu upuris.
+Vairs ne vārda! Es zinu savas tiesības.
+
+925
+00:56:12,125 --> 00:56:13,416
+Keilebs.
+
+926
+00:56:13,541 --> 00:56:17,375
+Torīt, kad Džordžu atrada,
+gribējāt kopā ar viņu ko parakstīt.
+
+927
+00:56:17,500 --> 00:56:19,666
+Jā, viņš bija uzteicis nomu.
+
+928
+00:56:19,833 --> 00:56:23,041
+Aizvedu viņam izskatīt jaunu līgumu.
+
+929
+00:56:23,166 --> 00:56:24,208
+Taču nokavēju.
+
+930
+00:56:25,083 --> 00:56:29,208
+{\an8}Pag, Džordžs lauza nomas līgumu.
+Bet kāpēc?
+
+931
+00:56:29,833 --> 00:56:32,916
+{\an8}Testamentu noklausījāties.
+Esmu tas sliktais gans.
+
+932
+00:56:33,041 --> 00:56:34,541
+Hilkots.
+
+933
+00:56:34,666 --> 00:56:36,416
+Džordžs baznīcā nerādījās.
+
+934
+00:56:36,541 --> 00:56:39,750
+Pēkšņi ierodas dienu pirms nāves
+
+935
+00:56:39,875 --> 00:56:41,291
+un ziedo apaļu summiņu.
+
+936
+00:56:43,583 --> 00:56:44,458
+Kamdēļ?
+
+937
+00:56:45,291 --> 00:56:47,625
+- Kāpēc es vienmēr esmu apakšā?
+- Kuš!
+
+938
+00:56:48,500 --> 00:56:50,416
+Reiz Džordžs ienāca pastāstīt,
+
+939
+00:56:50,541 --> 00:56:53,833
+ka baznīca nodarbojusies
+ar viņa bērnu adopciju.
+
+940
+00:56:53,958 --> 00:56:57,708
+<i>Tiklīdz viņš nostājies uz kājām,
+tā sācis viņus meklēt.</i>
+
+941
+00:56:57,833 --> 00:57:00,125
+<i>Baznīca viņu adresi neizpauda.</i>
+
+942
+00:57:00,250 --> 00:57:02,583
+<i>Strikta konfidencialitātes politika.</i>
+
+943
+00:57:02,708 --> 00:57:05,875
+Viņš jautāja, kas vajadzīgs, lai es…
+
+944
+00:57:07,625 --> 00:57:09,416
+šo informāciju sagādātu.
+
+945
+00:57:09,541 --> 00:57:12,958
+Ja bīskaps uzzinātu, mani ekskomunicētu.
+
+946
+00:57:13,125 --> 00:57:15,458
+- Ai!
+- Proti, atlaistu.
+
+947
+00:57:16,583 --> 00:57:20,875
+Taču es naudu neņēmu sev.
+Baznīcai ir nepieciešams remonts.
+
+948
+00:57:22,041 --> 00:57:25,875
+Džordžs atnāca spiedīgā brīdī,
+un es to izmantoju.
+
+949
+00:57:26,708 --> 00:57:28,625
+Ne jau Keilebs ir sliktais gans.
+
+950
+00:57:31,166 --> 00:57:32,291
+Tas esmu es.
+
+951
+00:57:32,416 --> 00:57:34,000
+Un Rebeka.
+
+952
+00:57:34,416 --> 00:57:35,666
+Hempstedas jaunkundz!
+
+953
+00:57:36,958 --> 00:57:39,375
+Vai Denbrukas kultūras festivāls patīk?
+
+954
+00:57:41,333 --> 00:57:43,791
+Jā, pat ļoti.
+
+955
+00:57:44,916 --> 00:57:46,458
+Pāris jautājumu.
+
+956
+00:57:47,250 --> 00:57:51,333
+Kur jūs bijāt laikā no 20.00 līdz 23.00
+slepkavības vakarā?
+
+957
+00:57:52,208 --> 00:57:54,083
+Viesnīcā pie lidostas.
+
+958
+00:57:54,208 --> 00:57:57,000
+Ievācos un skatījos televīziju.
+
+959
+00:57:57,125 --> 00:57:59,041
+Nenāca miegs pārlidojuma dēļ.
+
+960
+00:58:00,333 --> 00:58:02,375
+Ko tad skatījāties?
+
+961
+00:58:03,708 --> 00:58:06,000
+Diennakts ziņu kanālu.
+
+962
+00:58:06,750 --> 00:58:10,875
+- Diennakts ziņu kanālu.
+- Diennakts ziņu kanālu.
+
+963
+00:58:11,291 --> 00:58:13,625
+Ar to pagaidām pietiek.
+
+964
+00:58:13,750 --> 00:58:17,291
+- Jauku dienu, Hempstedas jaunkundz.
+- Jums arī. Atā.
+
+965
+00:58:18,458 --> 00:58:20,000
+Pareizāk sakot, Krampsa?
+
+966
+00:58:26,333 --> 00:58:31,125
+Čestitija Krampsa.
+Jūsu īstais vārds, vai ne?
+
+967
+00:58:31,250 --> 00:58:35,666
+Vai jūs negribētu mainīt vārdu,
+ja jūs sauktu par Čestitiju Krampsu?
+
+968
+00:58:35,791 --> 00:58:38,416
+Var jau būt.
+Taču es ievācu par jums ziņas.
+
+969
+00:58:38,541 --> 00:58:42,833
+Noskaidroju - jums bijušas attiecības
+ar noziedznieku,
+
+970
+00:58:42,958 --> 00:58:44,500
+kas tiesāts par krāpšanu.
+
+971
+00:58:44,625 --> 00:58:46,166
+Bija pat kopīgs bankas konts.
+
+972
+00:58:46,291 --> 00:58:49,125
+Visiem ir bijušas neveiksmīgas attiecības.
+
+973
+00:58:49,250 --> 00:58:51,750
+Es neko nezināju. Pagājuši jau trīs gadi.
+
+974
+00:58:51,875 --> 00:58:54,791
+Skaidrs. Tātad pašķīrāties sen?
+
+975
+00:58:54,916 --> 00:58:56,500
+- Viltus vārds.
+- Likumsakarība.
+
+976
+00:58:56,625 --> 00:58:58,416
+Redzama likumsakarība.
+
+977
+00:58:58,541 --> 00:59:03,166
+Nu tad sakiet,
+vai pie baznīcas gājāt klāt īvēm?
+
+978
+00:59:03,291 --> 00:59:05,125
+Nē, ne reizi.
+
+979
+00:59:05,250 --> 00:59:09,041
+Vēl pajautāšu par Džordža fermu.
+
+980
+00:59:09,166 --> 00:59:10,416
+Vai esat tur bijusi?
+
+981
+00:59:11,708 --> 00:59:12,916
+Nekad.
+
+982
+00:59:14,291 --> 00:59:17,541
+Keilebs nomāja pļavu.
+Savukārt Beta teica…
+
+983
+00:59:17,666 --> 00:59:20,875
+Kāpēc Rebeka melo? Un kas ir veģetārietis?
+
+984
+00:59:21,000 --> 00:59:22,333
+Kā tas ir saistīts?
+
+985
+00:59:22,458 --> 00:59:24,750
+Domā, dumjā aita, domā!
+
+986
+00:59:24,875 --> 00:59:28,208
+Kas tur ko domāt, Lilij? Vainīga ir meita.
+
+987
+00:59:28,333 --> 00:59:30,541
+- Deru, ka Rebeka!
+- Viņai taisnība.
+
+988
+00:59:30,666 --> 00:59:32,750
+- Nē, nav viņa!
+- Palaidiet!
+
+989
+00:59:32,875 --> 00:59:35,208
+Jūs viņu nepazīstat, viņa ir laba.
+
+990
+00:59:35,333 --> 00:59:39,291
+Viņa smaržo tāpat kā Džordžs,
+un Džordžs mani mīlēja.
+
+991
+00:59:39,416 --> 00:59:42,041
+Mīlēja tevi? Ziemas jērus neviens nemīl.
+
+992
+00:59:42,166 --> 00:59:46,250
+Viens ziemas jērs piesedz otru.
+Nav nekāds brīnums.
+
+993
+00:59:46,375 --> 00:59:49,083
+Pag! Ko tu teici?
+
+994
+00:59:49,208 --> 00:59:51,875
+Es teicu, ka Džordžs mani mīlēja.
+
+995
+00:59:52,000 --> 00:59:54,250
+Nē, pirms tam.
+
+996
+00:59:54,375 --> 00:59:57,625
+Teici, ka Rebeka smaržo kā Džordžs.
+
+997
+00:59:57,750 --> 01:00:00,041
+Kāds to jau bija teicis.
+
+998
+01:00:00,166 --> 01:00:01,916
+Tomēr tas bija savādi.
+
+999
+01:00:02,041 --> 01:00:03,208
+Kurš?
+
+1000
+01:00:05,250 --> 01:00:06,291
+Tu.
+
+1001
+01:00:06,416 --> 01:00:09,375
+Ko, es? Acumirkli, kā gan es?
+
+1002
+01:00:09,500 --> 01:00:12,708
+- Vainīga ir Pūka!
+- Slepkava!
+
+1003
+01:00:12,833 --> 01:00:16,000
+Nē. Tomēr viņa kaut ko slēpa.
+
+1004
+01:00:16,166 --> 01:00:18,083
+Vai tiesa, Pūka?
+
+1005
+01:00:18,208 --> 01:00:20,958
+Vakar tu teici,
+ka Rebeka smaržo kā Džordžs.
+
+1006
+01:00:21,083 --> 01:00:25,083
+Taču viņa atradās tik tālu,
+ka tu viņas smaržu nevarēji sajust.
+
+1007
+01:00:25,208 --> 01:00:28,291
+Ja nu vienīgi Rebeka te jau ir bijusi.
+
+1008
+01:00:30,375 --> 01:00:33,166
+Nu bet tā ir tik skaista!
+
+1009
+01:00:33,291 --> 01:00:35,208
+Kas ir skaista?
+
+1010
+01:00:37,500 --> 01:00:39,541
+Tā lietiņa bez gala.
+
+1011
+01:00:43,833 --> 01:00:45,166
+Vai redzat?
+
+1012
+01:00:45,333 --> 01:00:48,958
+Tik skaista. Un tai nekur nav gala.
+
+1013
+01:00:49,125 --> 01:00:53,541
+Es uz to skatījos
+un gāju riņķiem vien, riņķiem vien.
+
+1014
+01:00:53,666 --> 01:00:55,500
+- Riņķiem vien.
+- Pūka!
+
+1015
+01:00:55,625 --> 01:00:57,583
+Kur tu to ņēmi?
+
+1016
+01:01:00,333 --> 01:01:04,458
+Rebeka tovakar bija šeit.
+Tovakar, kad nogalināja Džordžu.
+
+1017
+01:01:07,083 --> 01:01:11,083
+Es pamodos, sagribējās ēst.
+Aizgāju uz pļavu, un tur bija viņa.
+
+1018
+01:01:11,208 --> 01:01:12,750
+<i>Ieraudzīja mani un teica:</i>
+
+1019
+01:01:12,875 --> 01:01:16,416
+"Cik burvīga!"
+Es patiešām esmu visskaistākā.
+
+1020
+01:01:16,541 --> 01:01:18,208
+Viņa mani noglāstīja,
+
+1021
+01:01:18,333 --> 01:01:19,916
+<i>un tā lietiņa nokrita.</i>
+
+1022
+01:01:20,083 --> 01:01:25,541
+Tā nu es nolēmu to paturēt.
+
+1023
+01:01:25,708 --> 01:01:28,333
+Tātad tu piesavinājies lietu.
+
+1024
+01:01:28,458 --> 01:01:30,583
+Aitām lietas nepieder.
+
+1025
+01:01:30,708 --> 01:01:32,333
+Es zinu, bet…
+
+1026
+01:01:32,875 --> 01:01:34,500
+tā ir bezgalīga.
+
+1027
+01:01:35,125 --> 01:01:37,000
+Tātad ir pierādīts.
+
+1028
+01:01:37,125 --> 01:01:39,541
+- Vainīga ir Rebeka.
+- Slepkava!
+
+1029
+01:01:39,666 --> 01:01:42,750
+Šis metāla gabaliņš neko nepierāda.
+
+1030
+01:01:42,875 --> 01:01:45,208
+Pierāda gan. Tā ir liecība.
+
+1031
+01:01:45,333 --> 01:01:48,000
+Liecība? Par ko tad tā liecina?
+
+1032
+01:01:48,125 --> 01:01:51,250
+Viņa policistam teica, ka nav šeit bijusi.
+
+1033
+01:01:51,375 --> 01:01:54,708
+Patiesībā bija šeit vakar
+un Džordža slepkavības vakarā.
+
+1034
+01:01:54,833 --> 01:01:57,458
+Viņa ir mele, krāpniece un ziemas…
+
+1035
+01:01:58,333 --> 01:02:01,375
+Kas īsti viņa ir? Saki.
+
+1036
+01:02:02,291 --> 01:02:04,333
+Jums viņa uzreiz neiepatikās.
+
+1037
+01:02:04,458 --> 01:02:05,708
+Jums visām!
+
+1038
+01:02:05,833 --> 01:02:07,166
+Un kāpēc?
+
+1039
+01:02:07,291 --> 01:02:10,000
+Tāpēc, ka viņai gadījās piedzimt ziemā.
+
+1040
+01:02:11,416 --> 01:02:14,333
+Vissmagākais noziegums.
+
+1041
+01:02:14,458 --> 01:02:17,541
+Vai neesi dzirdējis?
+Tu nevienam neesi vajadzīgs.
+
+1042
+01:02:17,666 --> 01:02:19,750
+Tu neko neesi pelnījis!
+
+1043
+01:02:21,666 --> 01:02:24,708
+Lūk, ko ziemas jērs dzird diendienā
+
+1044
+01:02:24,833 --> 01:02:29,000
+un galu galā sāk tam ticēt arī pats.
+
+1045
+01:02:29,125 --> 01:02:31,208
+- Sebastjan…
+- Viņa nav vainīga.
+
+1046
+01:02:31,333 --> 01:02:35,208
+- Kā gan tu zini?
+- Es to ieraudzīju viņas acīs.
+
+1047
+01:02:35,333 --> 01:02:37,750
+Tas ir acīmredzams.
+
+1048
+01:02:37,875 --> 01:02:39,666
+Tikai jums ne.
+
+1049
+01:02:39,791 --> 01:02:43,791
+Nē. Ne jau kaut kādam aitu baram.
+
+1050
+01:02:45,458 --> 01:02:48,083
+Mēs esam <i>tavs</i> aitu bars.
+
+1051
+01:02:48,875 --> 01:02:52,416
+Es jau tev teicu. Man nav bara.
+
+1052
+01:02:54,125 --> 01:02:55,833
+Nekad nav bijis.
+
+1053
+01:02:58,625 --> 01:02:59,708
+Lilij.
+
+1054
+01:03:00,416 --> 01:03:02,791
+Ko mēs iesāksim ar lietiņu bez gala?
+
+1055
+01:03:06,708 --> 01:03:09,541
+Nu protams! Šoferis!
+
+1056
+01:03:13,416 --> 01:03:14,416
+Kas ir?
+
+1057
+01:03:17,208 --> 01:03:18,458
+Kas ir?
+
+1058
+01:03:20,875 --> 01:03:21,916
+Ei!
+
+1059
+01:03:24,875 --> 01:03:26,333
+Atdod! Ei!
+
+1060
+01:03:30,875 --> 01:03:33,958
+Stāvi! Met nost cepuri!
+
+1061
+01:03:35,041 --> 01:03:36,291
+Stāvi! Es pavēlu!
+
+1062
+01:04:07,791 --> 01:04:09,958
+Paldies. Paldies par to.
+
+1063
+01:04:13,625 --> 01:04:15,000
+Paldies visām.
+
+1064
+01:04:25,875 --> 01:04:27,666
+Šķiet, jums kaut kas pazudis.
+
+1065
+01:04:28,833 --> 01:04:30,625
+Tieši tāda kā jūsu pārējās.
+
+1066
+01:04:32,291 --> 01:04:35,583
+- Būs noslīdējusi. Paldies.
+- Es to atradu Džordža fermā.
+
+1067
+01:04:36,291 --> 01:04:38,500
+Tajā, kur jūs nekad neesat bijusi.
+
+1068
+01:04:40,083 --> 01:04:42,791
+Man ir orderis kratīšanai jūsu numurā.
+
+1069
+01:04:45,000 --> 01:04:48,041
+<i>- Ko jūs meklējat?
+- Es nezinu.</i>
+
+1070
+01:05:00,125 --> 01:05:02,250
+- Neesat gājusi klāt īvēm?
+- Es zināju.
+
+1071
+01:05:02,375 --> 01:05:04,291
+Es… Goda vārds, nē.
+
+1072
+01:05:04,416 --> 01:05:06,875
+Es ne… Tim, lūdzu, ticiet man.
+
+1073
+01:05:07,041 --> 01:05:08,750
+Konstebls Derijs.
+
+1074
+01:05:09,625 --> 01:05:12,541
+Konstebl Derij, es zvēru.
+
+1075
+01:05:12,666 --> 01:05:14,750
+Es neesmu nogalinājusi tēvu.
+
+1076
+01:05:14,875 --> 01:05:19,291
+Rebeka Hempsteda, esat arestēta
+par Džordža Hārdija slepkavību.
+
+1077
+01:05:26,125 --> 01:05:27,541
+<i>Nopratināšana.</i>
+
+1078
+01:05:28,125 --> 01:05:32,000
+Čestitija Krampsa.
+Zināma arī kā Rebeka Hempsteda.
+
+1079
+01:05:33,166 --> 01:05:37,833
+Krampsas jaunkundz,
+vai jūs tiešām atsakāties no advokāta?
+
+1080
+01:05:37,958 --> 01:05:41,166
+Jā, tāds nav vajadzīgs.
+Esmu gatava visu izstāstīt.
+
+1081
+01:05:41,291 --> 01:05:44,166
+Nu tad ķersimies klāt.
+
+1082
+01:05:44,291 --> 01:05:48,208
+Vai jūs bijāt Džordža Hārdija fermā
+viņa slepkavības dienā?
+
+1083
+01:05:49,125 --> 01:05:50,291
+Jā.
+
+1084
+01:05:50,916 --> 01:05:55,500
+Skaidrs. Tātad smaidiņi
+un "jūs esat ļoti gudrs, detektīv"
+
+1085
+01:05:55,625 --> 01:05:57,833
+bija tikai teātris, vai tā?
+
+1086
+01:05:57,958 --> 01:06:00,750
+Jūs pagaidām neesat bildusi
+ne vārda patiesības.
+
+1087
+01:06:01,791 --> 01:06:04,375
+Vēstules. Par tām bija patiesība.
+
+1088
+01:06:05,375 --> 01:06:08,833
+Viņš rakstīja, ka mani meklējis
+vairāk nekā 20 gadu.
+
+1089
+01:06:08,958 --> 01:06:12,958
+Viņa dzīve pamazām sakārtojās.
+Viņš pat atsūtīja testamenta kopiju.
+
+1090
+01:06:13,083 --> 01:06:17,375
+To, kurā jums pienākas 30 miljoni,
+vai to, kurā šķūnis ar aitām?
+
+1091
+01:06:17,500 --> 01:06:19,750
+Nē, to, kurā nebija minēta nauda.
+
+1092
+01:06:21,416 --> 01:06:23,375
+Viņš rakstīja, ka grib mani satikt.
+
+1093
+01:06:23,500 --> 01:06:24,958
+Nu labi.
+
+1094
+01:06:25,625 --> 01:06:26,875
+Jūs ielidojat,
+
+1095
+01:06:27,000 --> 01:06:31,458
+pēc tam braucat uz viņa fermu -
+viņa slepkavības vakarā.
+
+1096
+01:06:32,291 --> 01:06:33,750
+Kas bija pēc tam?
+
+1097
+01:06:35,291 --> 01:06:37,708
+- Mēs runājāmies.
+- Par ko?
+
+1098
+01:06:39,458 --> 01:06:43,000
+Par aitām. Mēs runājām par aitām.
+
+1099
+01:06:43,125 --> 01:06:45,125
+Par to vārdiem.
+
+1100
+01:06:45,250 --> 01:06:48,000
+Viņš teica,
+ka visām aitām ir vajadzīgs vārds.
+
+1101
+01:06:48,125 --> 01:06:52,000
+Vārdus viņš piemeklēja,
+skatīdamies tām acīs.
+
+1102
+01:06:52,625 --> 01:06:55,333
+Un gribēja kādudien atstāt tās man.
+
+1103
+01:06:57,208 --> 01:06:58,416
+Viņš izvēlējās mani.
+
+1104
+01:07:00,041 --> 01:07:03,041
+Paklau, es neesmu muļķe.
+
+1105
+01:07:03,166 --> 01:07:05,833
+Slepkavības vakarā es biju pie viņa.
+
+1106
+01:07:05,958 --> 01:07:10,958
+Jauns testaments,
+vājprāta nauda un mana tumšā pagātne.
+
+1107
+01:07:11,083 --> 01:07:14,458
+Es biju spiesta melot.
+
+1108
+01:07:15,708 --> 01:07:17,291
+Jums ir jānotic.
+
+1109
+01:07:19,083 --> 01:07:21,416
+"Es meloju, tāpēc ticiet man."
+
+1110
+01:07:22,916 --> 01:07:24,250
+Vai tā?
+
+1111
+01:07:27,250 --> 01:07:31,166
+No rīta jūs nogādās apgabaltiesā,
+
+1112
+01:07:31,291 --> 01:07:35,250
+kur oficiāli apsūdzēs
+Džordža Hārdija slepkavībā.
+
+1113
+01:07:49,583 --> 01:07:51,166
+Tātad tomēr viņa.
+
+1114
+01:07:54,375 --> 01:07:58,083
+Nauda atmodina visu zemisko.
+
+1115
+01:07:58,208 --> 01:08:01,750
+Acīmredzot Džordžs Hārdijs
+bija izvēlējies nepareizo jēru.
+
+1116
+01:08:03,750 --> 01:08:08,583
+Starp citu, van Vīrens piekritis
+pārdot zemi un aitas Keilebam Merovam.
+
+1117
+01:08:08,708 --> 01:08:11,916
+Tā ka rīt pēcpusdienā
+noformēsim visus dokumentus.
+
+1118
+01:08:12,833 --> 01:08:13,666
+Labi.
+
+1119
+01:08:14,458 --> 01:08:18,125
+Es nepratu jūs novērtēt, konstebl.
+Tik tiešām.
+
+1120
+01:08:18,250 --> 01:08:21,250
+Jūs nekādā gadījumā neesat muļķis.
+
+1121
+01:08:21,375 --> 01:08:22,625
+Apsveicu.
+
+1122
+01:09:01,541 --> 01:09:02,583
+Lilij?
+
+1123
+01:09:03,708 --> 01:09:06,875
+Ko tu dari laukā? Viss kārtībā?
+
+1124
+01:09:07,000 --> 01:09:10,041
+Jā, viss lieliski. Jūtos laimīga.
+
+1125
+01:09:10,166 --> 01:09:13,541
+Rebeka arestēta.
+Rīt Keilebs kļūs par mūsu ganu.
+
+1126
+01:09:13,666 --> 01:09:15,000
+Burvīgi!
+
+1127
+01:09:15,125 --> 01:09:19,416
+Viņa, protams, neatzīstas,
+bet taisnība ir man, nevis Sebastjanam.
+
+1128
+01:09:20,916 --> 01:09:23,541
+Rebeka taču ir vainīga, vai ne?
+
+1129
+01:09:23,666 --> 01:09:26,166
+- Protams.
+- Paldies.
+
+1130
+01:09:26,291 --> 01:09:28,166
+Tāpēc ka tā teici tu.
+
+1131
+01:09:29,041 --> 01:09:29,916
+Ko?
+
+1132
+01:09:30,041 --> 01:09:32,833
+Tu vienmēr uzmini romāna beigas.
+
+1133
+01:09:33,458 --> 01:09:34,750
+Es tev uzticos.
+
+1134
+01:09:34,875 --> 01:09:36,833
+Tie jau tikai stāsti.
+
+1135
+01:09:36,958 --> 01:09:39,583
+Te ir dzīvs cilvēks. Ja nu…
+
+1136
+01:09:39,708 --> 01:09:40,750
+Lilij, skaties!
+
+1137
+01:09:40,916 --> 01:09:43,833
+Aiz tā žoga sākas Keileba pļava.
+
+1138
+01:09:43,958 --> 01:09:46,416
+Iesim iepazīties ar viņa ganāmpulku?
+
+1139
+01:09:47,125 --> 01:09:49,666
+Mēs nekad neesam gājuši uz Keileba pļavu.
+
+1140
+01:09:49,833 --> 01:09:52,708
+Nu, iepriekš mēs arī ceļus
+nebijām pārgājuši.
+
+1141
+01:09:52,833 --> 01:09:53,875
+Ejam!
+
+1142
+01:10:04,291 --> 01:10:06,291
+Mēs esam tikpat kā mākonī.
+
+1143
+01:10:06,416 --> 01:10:08,416
+Ja nu esam apmaldījušies?
+
+1144
+01:10:08,541 --> 01:10:10,125
+Diez vai.
+
+1145
+01:10:12,625 --> 01:10:13,958
+A-ū!
+
+1146
+01:10:32,833 --> 01:10:34,000
+Sveiki!
+
+1147
+01:10:35,083 --> 01:10:36,833
+Mani sauc Lilija.
+
+1148
+01:10:36,958 --> 01:10:39,458
+Un tas ir Mapls.
+
+1149
+01:10:39,916 --> 01:10:41,750
+Mēs esam no pļavas otras puses.
+
+1150
+01:10:43,125 --> 01:10:45,500
+Keilebs būs arī mūsu gans.
+
+1151
+01:10:49,833 --> 01:10:51,000
+Ko?
+
+1152
+01:10:58,625 --> 01:10:59,708
+Bēdziet.
+
+1153
+01:10:59,833 --> 01:11:01,958
+Ko? Bet es ne…
+
+1154
+01:11:08,083 --> 01:11:12,291
+Var jau būt nevajadzēja nākt šurp.
+
+1155
+01:11:12,416 --> 01:11:15,458
+- Iesim mājās.
+- Aha, labi.
+
+1156
+01:11:15,583 --> 01:11:17,250
+Bet uz kuru pusi ir mājas?
+
+1157
+01:11:17,375 --> 01:11:18,833
+Šķiet, tur.
+
+1158
+01:11:23,541 --> 01:11:25,208
+Skat! Tur deg gaisma.
+
+1159
+01:11:28,541 --> 01:11:30,916
+Droši vien tur ir Keileba klēts.
+
+1160
+01:11:31,916 --> 01:11:33,666
+Te būsim drošībā.
+
+1161
+01:11:38,666 --> 01:11:40,958
+Nemaz neizskatās pēc klēts.
+
+1162
+01:11:42,208 --> 01:11:44,125
+- Varbūt labāk…
+- Pag!
+
+1163
+01:11:45,541 --> 01:11:46,500
+Kas tas?
+
+1164
+01:11:48,416 --> 01:11:51,333
+{\an8}Lilij, nevajag. Iesim prom.
+
+1165
+01:11:52,416 --> 01:11:54,083
+{\an8}DENBRUKAS GAĻA
+
+1166
+01:11:54,208 --> 01:11:56,083
+{\an8}Kāpēc aitas ir sagrieztas?
+
+1167
+01:11:56,208 --> 01:11:58,625
+{\an8}Ko ar tām šeit dara?
+
+1168
+01:12:01,833 --> 01:12:03,333
+Keilebs?
+
+1169
+01:12:04,708 --> 01:12:07,083
+Viņš… viņš…
+
+1170
+01:12:08,666 --> 01:12:10,583
+Ai, sveiki, sunīši!
+
+1171
+01:12:12,750 --> 01:12:14,125
+Kas tiem lēcies?
+
+1172
+01:12:15,833 --> 01:12:17,750
+Mēs nedrīkstējām nākt šurp.
+
+1173
+01:12:19,250 --> 01:12:20,625
+Skrienam!
+
+1174
+01:12:31,875 --> 01:12:35,458
+- Ātrāk, Lilij!
+- Nevaru! Es neaizskriešu!
+
+1175
+01:12:47,500 --> 01:12:48,416
+Sebastjans.
+
+1176
+01:13:03,791 --> 01:13:04,708
+Nē!
+
+1177
+01:13:19,416 --> 01:13:23,416
+Sebastjan, priecājos tevi redzēt.
+Es jau domāju, ka mums…
+
+1178
+01:13:25,750 --> 01:13:27,166
+Sebastjan.
+
+1179
+01:13:28,083 --> 01:13:29,541
+Sebastjan, celies.
+
+1180
+01:13:32,291 --> 01:13:33,583
+Lilij.
+
+1181
+01:13:35,583 --> 01:13:37,833
+Es… es nespēju.
+
+1182
+01:13:38,916 --> 01:13:42,083
+Kāpēc? Es nesaprotu.
+
+1183
+01:13:47,291 --> 01:13:50,625
+Lilij. Viņš mirst.
+
+1184
+01:13:51,125 --> 01:13:52,375
+Ko?
+
+1185
+01:13:52,500 --> 01:13:56,708
+Nē, aitas nemirst.
+Tās pārvēršas par mākoņiem.
+
+1186
+01:13:56,833 --> 01:14:00,666
+Nu saņemies, Sebastjan.
+Pārvērties par mākoni.
+
+1187
+01:14:04,250 --> 01:14:05,958
+Nav manos spēkos.
+
+1188
+01:14:07,041 --> 01:14:09,208
+Tev nevajadzēja atgriezties.
+
+1189
+01:14:09,333 --> 01:14:11,791
+Nu kāpēc tu atgriezies?
+
+1190
+01:14:11,916 --> 01:14:13,208
+Es citādi nevarēju.
+
+1191
+01:14:14,166 --> 01:14:15,958
+Jūs esat mans ganāmpulks.
+
+1192
+01:14:23,166 --> 01:14:24,416
+Es viņu redzu.
+
+1193
+01:14:26,583 --> 01:14:28,708
+Es redzu Džordžu.
+
+1194
+01:14:39,250 --> 01:14:40,166
+Nē.
+
+1195
+01:14:46,375 --> 01:14:48,791
+Tas ir Keilebs. Jāiet prom.
+
+1196
+01:14:48,916 --> 01:14:50,208
+Celies, Lilij!
+
+1197
+01:15:01,750 --> 01:15:04,083
+Mostieties! Tūlīt mostieties!
+
+1198
+01:15:04,208 --> 01:15:06,000
+- Augšā!
+- Augšā!
+
+1199
+01:15:06,125 --> 01:15:07,583
+- Augšā!
+- Augšā!
+
+1200
+01:15:07,708 --> 01:15:09,083
+Sekojiet man!
+
+1201
+01:15:09,208 --> 01:15:11,791
+- Sekojiet viņai!
+- Ātrāk!
+
+1202
+01:15:11,916 --> 01:15:13,416
+Visi sekojiet viņai!
+
+1203
+01:15:20,250 --> 01:15:21,833
+Stāt!
+
+1204
+01:15:21,958 --> 01:15:24,875
+Kā tad tā? Mums tūlīt pat jābēg prom.
+
+1205
+01:15:25,000 --> 01:15:27,458
+Jābēg? Kādā sakarā?
+
+1206
+01:15:28,333 --> 01:15:30,541
+Sebastjans ir miris.
+
+1207
+01:15:30,666 --> 01:15:33,333
+Tu taču teici:
+mēs pārvēršamies par mākoņiem.
+
+1208
+01:15:33,500 --> 01:15:36,458
+Es kļūdījos. Mēs nomirstam.
+
+1209
+01:15:36,583 --> 01:15:38,916
+Es redzēju nomirstam Sebastjanu.
+
+1210
+01:15:39,041 --> 01:15:42,833
+Ja mēs šodien neaizbēgsim,
+mūs visus gaida nāve.
+
+1211
+01:15:43,833 --> 01:15:46,000
+Keilebs aitas pārstrādā pārtikā.
+
+1212
+01:15:46,125 --> 01:15:49,500
+Klusē! Nestāsti tādas šausmas!
+
+1213
+01:15:49,625 --> 01:15:51,625
+Es tūlīt pat visu aizmirsīšu.
+
+1214
+01:15:51,750 --> 01:15:53,750
+- Nē, nedrīkst.
+- Kāpēc?
+
+1215
+01:15:53,875 --> 01:15:56,041
+Kāpēc jāatceras tāds murgs?
+
+1216
+01:15:56,166 --> 01:15:57,583
+Tāpēc, ka tas bija!
+
+1217
+01:15:57,708 --> 01:15:59,791
+Ja es neatceros, tātad nebija.
+
+1218
+01:15:59,916 --> 01:16:01,791
+- Viens. Divi.
+- Paga!
+
+1219
+01:16:01,958 --> 01:16:04,333
+Ronij, Redžij. Lūdzu, esiet drosmīgi.
+
+1220
+01:16:04,458 --> 01:16:05,750
+Trīs!
+
+1221
+01:16:08,750 --> 01:16:10,125
+O, sveika, Lilij!
+
+1222
+01:16:11,083 --> 01:16:12,208
+Jautājums.
+
+1223
+01:16:12,333 --> 01:16:13,833
+Ko mēs te darām?
+
+1224
+01:16:13,958 --> 01:16:16,083
+Muļķīga iedoma. Ejam uz pļavu!
+
+1225
+01:16:16,208 --> 01:16:17,708
+Ejam uz pļavu.
+
+1226
+01:16:17,833 --> 01:16:21,375
+Nē, nevajag! Lūdzu, nē!
+
+1227
+01:16:24,791 --> 01:16:27,416
+Sebastjanam par mums bija taisnība.
+
+1228
+01:16:27,541 --> 01:16:31,166
+Mēs esam tikai dumjas, bailīgas aitas.
+
+1229
+01:16:32,458 --> 01:16:36,500
+Šonakt nebija pirmā reize,
+kad esmu redzējusi aitas nāvi.
+
+1230
+01:16:36,625 --> 01:16:38,916
+- Vai taisnība?
+- Taisnība.
+
+1231
+01:16:39,041 --> 01:16:41,166
+Un cik reižu aizmirsu?
+
+1232
+01:16:42,750 --> 01:16:44,250
+Nevaru saskaitīt.
+
+1233
+01:16:44,958 --> 01:16:49,041
+Tu šo nastu visu laiku nesi viens pats?
+
+1234
+01:16:49,750 --> 01:16:53,875
+Jā. Es atceros visu slikto.
+
+1235
+01:16:54,000 --> 01:16:56,916
+Taču atceros arī visu labo.
+
+1236
+01:16:58,375 --> 01:17:01,166
+Es atceros mammas seju.
+
+1237
+01:17:01,291 --> 01:17:04,375
+Atceros vecos draugus un viņu mīlestību.
+
+1238
+01:17:04,500 --> 01:17:07,041
+Arī tu atcerēsies Sebastjanu.
+
+1239
+01:17:09,416 --> 01:17:13,000
+Tas sāp. Atmiņas sāpina.
+
+1240
+01:17:13,625 --> 01:17:14,833
+Es zinu.
+
+1241
+01:17:14,958 --> 01:17:19,916
+Taču aizmirsusi neizglābsi pārējās,
+un Sebastjana nāve būs bijusi veltīga.
+
+1242
+01:17:20,833 --> 01:17:22,500
+Rīt Keilebs atnāks tev pakaļ
+
+1243
+01:17:22,625 --> 01:17:24,750
+un tu sekosi jaunajam ganam
+
+1244
+01:17:24,875 --> 01:17:28,083
+līdz ar pārējām dumiķēm gļēvajām aitām.
+
+1245
+01:17:28,666 --> 01:17:31,291
+Un mēs visi mirsim.
+
+1246
+01:17:32,958 --> 01:17:35,916
+Žēl, ka tā. Lilij, patiešām.
+
+1247
+01:17:36,041 --> 01:17:39,958
+Tomēr tikai atmiņa
+pasargā mūsu mīļos no nelaimēm.
+
+1248
+01:18:00,583 --> 01:18:02,750
+Piedod, Sebastjan.
+
+1249
+01:18:03,750 --> 01:18:05,875
+Es esmu vājāka nekā tu.
+
+1250
+01:18:08,375 --> 01:18:10,708
+Viens. Divi.
+
+1251
+01:18:10,833 --> 01:18:15,000
+<i>Var jau būt, tu esi visgudrākā aita,
+taču Mapls ir visviedākais.</i>
+
+1252
+01:18:15,125 --> 01:18:17,416
+{\an8}BROKLBENKAS TILTA NOSLĒPUMS
+
+1253
+01:18:18,875 --> 01:18:20,833
+{\an8}Arī es esmu zaudējis savus mīļos.
+
+1254
+01:18:21,791 --> 01:18:23,291
+{\an8}Es pazīstu šīs sāpes.
+
+1255
+01:18:23,458 --> 01:18:27,375
+Tomēr ar laiku atmiņā paliek tikai labais.
+
+1256
+01:18:28,166 --> 01:18:30,708
+Vai tu patiešām esi šeit?
+
+1257
+01:18:31,291 --> 01:18:35,375
+Protams. Tu mani neesi aizmirsusi.
+Vai nu saproti, kā tas notiek?
+
+1258
+01:18:36,041 --> 01:18:39,666
+Nujā, bet tas neko nemaina. Keilebs…
+
+1259
+01:18:39,791 --> 01:18:44,166
+Keilebs manam ganāmpulkam nekaitēs,
+tāpēc ka tu to izglābsi.
+
+1260
+01:18:44,791 --> 01:18:45,916
+Bet kā?
+
+1261
+01:18:46,041 --> 01:18:48,083
+Tu jau zini, kā.
+
+1262
+01:18:48,625 --> 01:18:51,333
+Ja tu noskaidrosi īsto vainīgo,
+
+1263
+01:18:51,458 --> 01:18:54,000
+ganāmpulku dabūs Rebeka,
+jūs būsiet drošībā.
+
+1264
+01:18:54,125 --> 01:18:56,833
+Ja nu es nezinu, kurš ir vainīgs?
+
+1265
+01:18:56,958 --> 01:18:59,500
+Nopietni? Esmu jums lasījis
+desmitiem romānu.
+
+1266
+01:18:59,625 --> 01:19:01,166
+Noteikumi ļoti vienkārši.
+
+1267
+01:19:01,291 --> 01:19:03,291
+Noteikumi nepalīdzēja.
+
+1268
+01:19:03,416 --> 01:19:07,500
+Policija zina - nav iebraucējs.
+Uz nozieguma vietu varēja aiziet ikviens.
+
+1269
+01:19:07,625 --> 01:19:09,958
+Rebeka bija negaidītā persona un…
+
+1270
+01:19:10,083 --> 01:19:11,166
+Un?
+
+1271
+01:19:13,416 --> 01:19:16,416
+Upuris! Lūk, svarīgākais pavediens.
+
+1272
+01:19:18,791 --> 01:19:21,541
+<i>Zaļais traips uz delnas.</i>
+
+1273
+01:19:22,291 --> 01:19:24,875
+<i>Un tik skaisti krāsoti!</i>
+
+1274
+01:19:25,000 --> 01:19:28,541
+<i>- Bija izvēlējies nepareizo jēru.
+- Es redzēju Džordža rēgu.</i>
+
+1275
+01:19:30,250 --> 01:19:31,541
+Tas arī viss.
+
+1276
+01:19:40,083 --> 01:19:42,166
+- Rebeka nav vainīga.
+- Lilij, pagaidi!
+
+1277
+01:19:42,291 --> 01:19:44,791
+- Zinu, kurš. Ja pierādīšu…
+- Ko pierādīsi?
+
+1278
+01:19:44,916 --> 01:19:46,166
+Tas nav zāles traips.
+
+1279
+01:19:46,291 --> 01:19:47,791
+- Kā lai es…
+- Pagaidi!
+
+1280
+01:19:47,916 --> 01:19:49,125
+Ja nu vienīgi…
+
+1281
+01:19:49,250 --> 01:19:51,666
+Taču esmu par lielu, netikšu cauri.
+
+1282
+01:19:51,791 --> 01:19:53,708
+Es visur tieku cauri.
+
+1283
+01:19:55,250 --> 01:19:57,791
+Un es neko neesmu aizmirsis.
+
+1284
+01:19:59,750 --> 01:20:01,708
+Bāz iekšā visu kājiņu.
+
+1285
+01:20:03,916 --> 01:20:06,875
+Otru kājiņu bāz šajā.
+
+1286
+01:20:10,750 --> 01:20:13,291
+Nu viss. Tagad iesim.
+
+1287
+01:20:22,291 --> 01:20:24,625
+Lūk, tā. Lien iekšā.
+
+1288
+01:21:17,958 --> 01:21:20,458
+Ļoti dīvaina pilsēta.
+
+1289
+01:21:21,916 --> 01:21:24,416
+Tavuprāt, izdosies?
+
+1290
+01:21:24,541 --> 01:21:27,625
+Es nezinu. Atliek vien gaidīt.
+
+1291
+01:21:30,000 --> 01:21:34,541
+Ko Džordžs tev teica nāves rītā?
+
+1292
+01:21:34,666 --> 01:21:37,291
+Es redzēju, ka viņš tev čukst ausī.
+
+1293
+01:21:38,291 --> 01:21:42,708
+Viņš teica,
+ka ziemas jērs ir vislabākais jērs.
+
+1294
+01:21:56,541 --> 01:21:58,791
+- Klau, Ronij.
+- Jā?
+
+1295
+01:21:58,916 --> 01:22:02,500
+Vai tev mēdz būt sajūta,
+ka esi kaut ko aizmirsis?
+
+1296
+01:22:02,625 --> 01:22:05,791
+Vai tu runā par to,
+ko Lilija vakar gribēja pateikt,
+
+1297
+01:22:05,916 --> 01:22:09,125
+bet mēs nolēmām aizmirst, jo nobijāmies?
+
+1298
+01:22:09,250 --> 01:22:11,916
+Nu, mēs nenobijāmies.
+
+1299
+01:22:12,041 --> 01:22:13,916
+Taču jā, par to.
+
+1300
+01:22:14,041 --> 01:22:15,333
+Ko lai darām, brāl?
+
+1301
+01:22:15,458 --> 01:22:19,291
+Nav ne jausmas, taču tas ir svarīgi.
+Tāpēc kaut kas ir jādara!
+
+1302
+01:22:20,208 --> 01:22:21,041
+Ģeniāli.
+
+1303
+01:22:21,208 --> 01:22:23,708
+Iet tā lieta! Sit bungas ar nagiem!
+
+1304
+01:22:23,833 --> 01:22:26,458
+Auni bliež ar ragiem!
+
+1305
+01:22:39,166 --> 01:22:40,416
+Kas tad tas?
+
+1306
+01:22:40,958 --> 01:22:43,333
+Naktī pa vēdlodziņu ielēca jēriņš.
+
+1307
+01:22:43,458 --> 01:22:46,458
+Naktī pa vēdlodziņu ielēca jēriņš?
+
+1308
+01:22:46,583 --> 01:22:47,791
+Tālāk vēl trakāk.
+
+1309
+01:22:48,583 --> 01:22:51,083
+Vēl trakāk par jēriņu vēdlodziņā?
+
+1310
+01:22:52,083 --> 01:22:54,000
+Esmu gandrīz pārliecināta,
+
+1311
+01:22:54,625 --> 01:22:58,333
+ka jēriņu ārpusē izrīkoja aita.
+
+1312
+01:23:00,958 --> 01:23:02,041
+Skaidrs.
+
+1313
+01:23:07,041 --> 01:23:08,208
+Ko tas nozīmē?
+
+1314
+01:23:14,083 --> 01:23:16,375
+Tas nozīmē…
+
+1315
+01:23:18,791 --> 01:23:20,291
+Neko nenozīmē.
+
+1316
+01:23:21,291 --> 01:23:24,166
+Neko. Tās taču ir aitas.
+
+1317
+01:23:25,541 --> 01:23:26,916
+Aitas.
+
+1318
+01:24:09,541 --> 01:24:11,875
+Parakstieties par pārvešanu,
+brauksim prom.
+
+1319
+01:24:12,000 --> 01:24:13,166
+Labi.
+
+1320
+01:24:15,208 --> 01:24:18,375
+- Neizdevās.
+- Dod viņam kādu brītiņu.
+
+1321
+01:24:21,125 --> 01:24:22,750
+Konstebl Derij.
+
+1322
+01:24:23,541 --> 01:24:24,500
+Paraksts.
+
+1323
+01:24:28,458 --> 01:24:29,833
+PĀRVEŠANAS VEIDLAPA
+
+1324
+01:24:30,458 --> 01:24:31,833
+Neparaksti.
+
+1325
+01:24:34,000 --> 01:24:35,500
+ATBILDĪGĀ PARAKSTS
+
+1326
+01:24:59,666 --> 01:25:01,833
+Pagaidiet!
+
+1327
+01:25:03,458 --> 01:25:06,125
+Viņa nav vainīga.
+
+1328
+01:25:06,875 --> 01:25:10,166
+Es zinu, kurš ir vainīgs
+un nogalinājis Džordžu Hārdiju.
+
+1329
+01:25:15,666 --> 01:25:16,791
+Hārbotlas jaunkundze.
+
+1330
+01:25:17,958 --> 01:25:19,166
+Nē, nē!
+
+1331
+01:25:19,291 --> 01:25:24,500
+Izrādās, ka muļķis biju es.
+Tomēr nav par vēlu kļūt gudrākam.
+
+1332
+01:25:25,500 --> 01:25:29,875
+Rebeka Hempsteda, ieradusies Denbrukā,
+kļuva par galveno aizdomās turēto.
+
+1333
+01:25:30,041 --> 01:25:33,125
+Bija ticams motīvs, turklāt viņa meloja.
+
+1334
+01:25:33,250 --> 01:25:35,583
+Slepkavības dienā bija Džordža fermā.
+
+1335
+01:25:35,708 --> 01:25:38,125
+Tieši uz to paļāvās slepkava.
+
+1336
+01:25:38,291 --> 01:25:43,208
+Slepkava visu izkārtoja tā,
+lai paliktu ārpus aizdomām.
+
+1337
+01:25:43,333 --> 01:25:48,875
+Vienīgais cilvēks Džordža testamentā,
+kuram bija alibi.
+
+1338
+01:25:49,000 --> 01:25:50,791
+Dzelžains alibi.
+
+1339
+01:25:50,916 --> 01:25:52,708
+Lielisks ārzemju alibi.
+
+1340
+01:25:52,833 --> 01:25:55,625
+- Jūs domājat…
+- Jā, Pīters van Vīrens.
+
+1341
+01:25:55,750 --> 01:25:57,041
+No Dienvidāfrikas.
+
+1342
+01:25:57,166 --> 01:25:59,833
+Rebeka, Džordžs jums nosūtīja
+testamenta kopiju.
+
+1343
+01:25:59,958 --> 01:26:03,250
+Esmu pārliecināts,
+ka nosūtīja arī jūsu brālim.
+
+1344
+01:26:03,375 --> 01:26:07,541
+Viņš visu izošņāja un noskaidroja,
+ka Džordžs ir ļoti bagāts.
+
+1345
+01:26:07,666 --> 01:26:12,541
+Un nolēma dabūt 30 miljonus,
+pat ja nāktos nogalināt.
+
+1346
+01:26:13,958 --> 01:26:16,375
+Tomēr bija pamatīgs kavēklis.
+
+1347
+01:26:16,500 --> 01:26:17,458
+Motīvs!
+
+1348
+01:26:18,208 --> 01:26:21,875
+- Es taisījos to pateikt.
+- Radās iespaids, ka vainojat mani.
+
+1349
+01:26:23,416 --> 01:26:24,791
+Motīvs!
+
+1350
+01:26:25,708 --> 01:26:30,291
+Ja nelaiķis kādam novēlējis bagātību,
+aizdomas krīt galvenokārt uz to cilvēku.
+
+1351
+01:26:30,833 --> 01:26:34,333
+Ja nu viss novēlēts viņa māsai
+un māsu apsūdz slepkavībā…
+
+1352
+01:26:34,458 --> 01:26:37,125
+- Mantojumu saņems tuvākais…
+- Radinieks!
+
+1353
+01:26:37,250 --> 01:26:39,416
+Nu, lūdzu, neslāpējiet manu degsmi.
+
+1354
+01:26:39,541 --> 01:26:40,583
+Piedodiet.
+
+1355
+01:26:41,250 --> 01:26:44,375
+Tuvākais radinieks.
+Ir tikai viens jautājums.
+
+1356
+01:26:45,750 --> 01:26:47,333
+Kur viņš slēpjas?
+
+1357
+01:26:47,458 --> 01:26:49,333
+Kuru tad es meklēju?
+
+1358
+01:26:49,458 --> 01:26:52,666
+To, kurš slēpjas visu acu priekšā.
+
+1359
+01:26:52,791 --> 01:26:54,875
+To, kurš ir mainījis vārdu.
+
+1360
+01:26:55,000 --> 01:26:58,875
+Piemēram, Čestitija Krampsa
+
+1361
+01:26:59,000 --> 01:27:01,083
+kļuva par Rebeku Hempstedu.
+
+1362
+01:27:01,208 --> 01:27:04,666
+- Bet Pīters van Vīrens…
+- Bet Pīters van Vīrens…
+
+1363
+01:27:06,541 --> 01:27:08,375
+par Eliotu Metjūsu.
+
+1364
+01:27:11,208 --> 01:27:13,000
+Džordža rēgs.
+
+1365
+01:27:14,291 --> 01:27:15,958
+Man viss skaidrs.
+
+1366
+01:27:17,291 --> 01:27:19,375
+Tim, kāpēc sevi apkaunojat?
+
+1367
+01:27:19,500 --> 01:27:23,166
+Es neesmu no Dienvidāfrikas.
+Dzīvoju šeit un strādāju avīzē…
+
+1368
+01:27:23,291 --> 01:27:24,291
+Es zinu.
+
+1369
+01:27:24,416 --> 01:27:29,333
+Pieņemu, ka šeit dzīvojat krietni sen
+kā "Eliots Metjūss".
+
+1370
+01:27:29,458 --> 01:27:31,416
+Nav tas labākais vārds.
+
+1371
+01:27:31,541 --> 01:27:35,958
+Džordžs jums pastāstīja,
+ka pie viņa atbrauks Rebeka, vai tā?
+
+1372
+01:27:36,541 --> 01:27:39,500
+Ideāla iespēja viņu iegāzt.
+
+1373
+01:27:40,291 --> 01:27:43,083
+Jums bija vajadzīgs iegansts
+ierasties Denbrukā.
+
+1374
+01:27:44,083 --> 01:27:46,041
+<i>Teiksim, kultūras festivāls.</i>
+
+1375
+01:27:46,166 --> 01:27:49,208
+<i>Jūsu plāns bija vienkāršs - vispirms…</i>
+
+1376
+01:27:49,333 --> 01:27:51,750
+uzkrītoši aizbraukt no Denbrukas.
+
+1377
+01:27:51,875 --> 01:27:55,500
+<i>Tad, pēc nelielas avārijas, atgriezties.</i>
+
+1378
+01:27:58,041 --> 01:28:01,375
+<i>Tajā pašā vakarā,
+kad Rebeka jau bija aizgājusi,</i>
+
+1379
+01:28:01,500 --> 01:28:03,708
+<i>padarīt savu ļauno darbu.</i>
+
+1380
+01:28:07,416 --> 01:28:08,333
+Nāc iekšā.
+
+1381
+01:28:14,750 --> 01:28:15,833
+Pīter.
+
+1382
+01:28:18,583 --> 01:28:19,500
+Priekā!
+
+1383
+01:28:20,250 --> 01:28:21,375
+<i>Jūs noindējāt tēvu.</i>
+
+1384
+01:28:23,166 --> 01:28:25,416
+<i>Un slepus nolikāt jaunu testamentu.</i>
+
+1385
+01:28:28,666 --> 01:28:30,708
+<i>Tēvs izrādījās sīkstāks, nekā domājāt.</i>
+
+1386
+01:28:32,708 --> 01:28:34,125
+Sākās cīniņš.
+
+1387
+01:28:42,625 --> 01:28:45,041
+<i>Galu galā jūs viņu pieveicāt.</i>
+
+1388
+01:28:45,583 --> 01:28:49,166
+Atlika parūpēties, lai apsūdz jūsu māsu.
+
+1389
+01:28:49,958 --> 01:28:52,125
+Visu bijāt izplānojis.
+
+1390
+01:28:52,250 --> 01:28:55,833
+Zinājāt - Hārbotla jums neļaus
+būt klāt testamenta nolasīšanā.
+
+1391
+01:28:57,666 --> 01:29:02,041
+<i>Van Vīrena kungs, te Lidija Hārbotla.
+Vai jūs mani dzirdat?</i>
+
+1392
+01:29:02,166 --> 01:29:04,291
+Jā, sakari teicami. Paldies.
+
+1393
+01:29:04,416 --> 01:29:08,916
+Slepus nolikt īves ogas
+Rebekas numurā bija viegli.
+
+1394
+01:29:09,041 --> 01:29:10,625
+<i>Vecs viesu nams.</i>
+
+1395
+01:29:10,750 --> 01:29:12,083
+<i>Vienkāršas slēdzenes.</i>
+
+1396
+01:29:13,958 --> 01:29:15,250
+Teju ideāli, Eliot!
+
+1397
+01:29:15,375 --> 01:29:18,833
+Tomēr kaut ko palaidāt garām.
+Es to sapratu tikai tagad.
+
+1398
+01:29:18,958 --> 01:29:20,625
+Jūs atstājāt pierādījumu.
+
+1399
+01:29:21,458 --> 01:29:23,125
+Džordža delnas.
+
+1400
+01:29:23,291 --> 01:29:25,166
+Džordža delnas.
+
+1401
+01:29:26,708 --> 01:29:30,000
+Viena bija zila, otra zaļa.
+
+1402
+01:29:30,125 --> 01:29:33,000
+<i>Par zilo skaidrs - viela,
+kas viņu padarīja bagātu.</i>
+
+1403
+01:29:33,125 --> 01:29:35,750
+Bet kā tur gadījās zaļā krāsa?
+
+1404
+01:29:35,875 --> 01:29:38,791
+Un te nu mani draugi…
+
+1405
+01:29:39,583 --> 01:29:41,958
+Starp citu, izcili detektīvi.
+
+1406
+01:29:45,791 --> 01:29:47,333
+Uzvedināja uz kādu domu.
+
+1407
+01:29:48,416 --> 01:29:50,083
+Zila un dzeltena.
+
+1408
+01:29:50,208 --> 01:29:54,041
+Zila un dzeltena,
+sajauktas kopā, rada zaļu krāsu.
+
+1409
+01:29:54,166 --> 01:29:57,291
+Kā zaļo traipu uz Džordža delnas.
+
+1410
+01:29:57,416 --> 01:30:00,500
+Kā zaļo traipu
+uz zilās spilvendrānas viesnīcā.
+
+1411
+01:30:00,625 --> 01:30:04,208
+Uz tās gulējāt naktī,
+kad bijāt noslepkavojis Džordžu.
+
+1412
+01:30:05,666 --> 01:30:09,500
+Tovakar abas Džordža rokas
+zāles bija nokrāsojušas zilas.
+
+1413
+01:30:09,625 --> 01:30:12,916
+Bet pēc tam viņš kādu saķēra aiz matiem.
+
+1414
+01:30:14,000 --> 01:30:17,791
+To, kurš bija izmantojis
+lētu dzeltenu krāsu,
+
+1415
+01:30:17,916 --> 01:30:19,750
+kas lietū notecēja
+
+1416
+01:30:19,875 --> 01:30:22,625
+<i>un nokrāsoja Džordža delnu zaļu.</i>
+
+1417
+01:30:22,750 --> 01:30:26,208
+To, kurš pirms ierašanās Denbrukā
+steigšus kļuva par blondīnu,
+
+1418
+01:30:26,333 --> 01:30:29,166
+jo negribēja, lai kāds pamanītu
+
+1419
+01:30:29,291 --> 01:30:32,041
+līdzību ar viņa māsu un tēvu.
+
+1420
+01:30:32,583 --> 01:30:34,040
+Vai tiesa, Pīter?
+
+1421
+01:30:34,041 --> 01:30:34,875
+Jā!
+
+1422
+01:30:35,000 --> 01:30:36,208
+Nē.
+
+1423
+01:30:36,333 --> 01:30:39,375
+Nē, tās ir nepierādāmas blēņas.
+
+1424
+01:30:39,500 --> 01:30:44,083
+Tad jau jūs neiebildīsiet,
+ja es paņemšu šo te.
+
+1425
+01:30:48,083 --> 01:30:49,000
+Protams, ne.
+
+1426
+01:30:50,625 --> 01:30:53,875
+Nestrīdēšos. Es neesmu dabīgi blonds.
+
+1427
+01:30:54,000 --> 01:30:58,708
+Vēl jāatzīstas, ka balinu zobus
+un skuju krūšu spalvas.
+
+1428
+01:30:58,833 --> 01:31:00,916
+Simt punktu - veģetārietis.
+
+1429
+01:31:01,041 --> 01:31:05,833
+Ja gribat apsūdzēt slepkavībā,
+jo esmu nokrāsojis matus,
+
+1430
+01:31:05,958 --> 01:31:07,333
+līdz tiesai nenonāks.
+
+1431
+01:31:07,458 --> 01:31:09,500
+Gluži otrādi, es iesūdzēšu jūs.
+
+1432
+01:31:13,791 --> 01:31:15,416
+Jūs nesapratāt.
+
+1433
+01:31:15,541 --> 01:31:17,958
+Man nevajag jūsu matu krāsu.
+
+1434
+01:31:18,125 --> 01:31:19,791
+Vajag jūsu DNS.
+
+1435
+01:31:21,375 --> 01:31:24,250
+Ja jūs esat Džordža Hārdija dēls,
+
+1436
+01:31:24,375 --> 01:31:26,666
+tad esat Pīters van Vīrens
+
+1437
+01:31:26,791 --> 01:31:30,250
+un tādējādi - īstais slepkava.
+
+1438
+01:31:31,291 --> 01:31:32,291
+Iekrita.
+
+1439
+01:31:33,375 --> 01:31:35,083
+Iekritāt.
+
+1440
+01:31:40,916 --> 01:31:42,166
+Bravo, Tim.
+
+1441
+01:31:48,583 --> 01:31:49,583
+Ei!
+
+1442
+01:31:53,250 --> 01:31:55,833
+- Lilij!
+- Ronij! Redžij! Esat atnākuši.
+
+1443
+01:31:56,000 --> 01:31:57,000
+Jā!
+
+1444
+01:31:57,708 --> 01:31:58,541
+Kāpēc?
+
+1445
+01:32:01,000 --> 01:32:02,750
+Ei! Stāvi!
+
+1446
+01:32:02,875 --> 01:32:06,916
+Tāpēc, ka ir dibināts iemesls badīties.
+
+1447
+01:32:07,041 --> 01:32:08,916
+- Paldies.
+- Beidzot!
+
+1448
+01:32:28,750 --> 01:32:30,833
+- Mēs esam auni!
+- Nē.
+
+1449
+01:32:30,958 --> 01:32:32,541
+Sprauni auni.
+
+1450
+01:32:32,666 --> 01:32:34,166
+Jā!
+
+1451
+01:32:37,625 --> 01:32:40,958
+Viņš bija miljonārs! Dzirdat? Miljonārs!
+
+1452
+01:32:41,083 --> 01:32:44,333
+Es esmu viņa dēls.
+Viņa miljoni pienācās man.
+
+1453
+01:32:58,666 --> 01:33:03,583
+Es gribu visas Denbrukas policijas vārdā
+
+1454
+01:33:03,750 --> 01:33:05,583
+jums atvainoties.
+
+1455
+01:33:05,750 --> 01:33:08,583
+Visas? Ir vēl kāds, izņemot jūs?
+
+1456
+01:33:09,416 --> 01:33:10,500
+Nav.
+
+1457
+01:33:11,375 --> 01:33:12,916
+Lūdzu, piedodiet.
+
+1458
+01:33:14,625 --> 01:33:15,625
+Labi.
+
+1459
+01:33:24,958 --> 01:33:26,333
+Paskat.
+
+1460
+01:33:27,458 --> 01:33:29,041
+Vēdlodziņa jēriņš?
+
+1461
+01:33:29,916 --> 01:33:31,500
+Viņš gan.
+
+1462
+01:33:33,208 --> 01:33:35,375
+Vai jūs vēl uzkavēsieties?
+
+1463
+01:33:36,041 --> 01:33:40,791
+Nupat esmu iznākusi no cietuma.
+Varbūt derētu padzīvot laukos.
+
+1464
+01:33:45,500 --> 01:33:46,916
+Būšu ļoti priecīgs.
+
+1465
+01:33:47,958 --> 01:33:49,166
+Redzēsim.
+
+1466
+01:33:54,125 --> 01:33:55,541
+Rebeka.
+
+1467
+01:33:55,666 --> 01:33:58,833
+Rebeka, es no visas sirds atvainojos.
+
+1468
+01:34:26,166 --> 01:34:27,541
+Naudu nevajag.
+
+1469
+01:34:29,166 --> 01:34:30,375
+Paldies.
+
+1470
+01:34:35,083 --> 01:34:36,208
+Pagaidiet!
+
+1471
+01:34:40,708 --> 01:34:42,875
+Piedodiet man.
+
+1472
+01:34:44,916 --> 01:34:48,291
+Es pastnieka somā ieraudzīju aploksni.
+
+1473
+01:34:48,458 --> 01:34:52,291
+Un… Saprotiet, es nezināju,
+ka jūs esat viņa meita.
+
+1474
+01:34:52,416 --> 01:34:54,916
+Papīru ar rožu aromātu viņam nopirku es.
+
+1475
+01:34:55,083 --> 01:34:56,875
+Nu, jūs jau nojaušat.
+
+1476
+01:34:57,041 --> 01:34:59,125
+Jūs viņu mīlējāt?
+
+1477
+01:35:00,500 --> 01:35:01,833
+Nu…
+
+1478
+01:35:01,958 --> 01:35:04,208
+Vai viņš jūs mīlēja?
+
+1479
+01:35:04,791 --> 01:35:06,500
+Viņš centās.
+
+1480
+01:35:06,625 --> 01:35:08,958
+Taču Džordžs mīlēja jūsu mammu.
+
+1481
+01:35:09,083 --> 01:35:12,625
+Viņa sirdī citai nebija vietas.
+
+1482
+01:35:13,333 --> 01:35:15,833
+Visu laiku prātoju, kā viņa izskatījās.
+
+1483
+01:35:16,250 --> 01:35:18,083
+Tagad redzu.
+
+1484
+01:35:19,541 --> 01:35:22,000
+Žēl, es nepaspēju par viņu izvaicāt.
+
+1485
+01:35:23,750 --> 01:35:25,125
+Pat viņas vārdu nezinu.
+
+1486
+01:35:25,666 --> 01:35:28,875
+Lilija. Tā viņu sauca.
+
+1487
+01:35:35,166 --> 01:35:38,208
+<i>Protams, viltotais testaments nav spēkā.</i>
+
+1488
+01:35:38,333 --> 01:35:41,291
+{\an8}Taču jūs mantosiet viņa zemi.
+
+1489
+01:35:41,416 --> 01:35:43,500
+- Hempstedas jaunkundz.
+- Arī labi.
+
+1490
+01:35:43,625 --> 01:35:45,458
+Piedodiet, traucējam.
+
+1491
+01:35:45,583 --> 01:35:49,666
+Mēs ar Hemu iemēģinām jaunu biznesu.
+
+1492
+01:35:49,791 --> 01:35:52,125
+- Mums ir bankas atbalsts.
+- Jā.
+
+1493
+01:35:52,291 --> 01:35:55,916
+Mēs gribētu nopirkt
+jūsu tēva lauku un aitas.
+
+1494
+01:35:57,000 --> 01:35:58,958
+- Divi slepkavas.
+- Ko, lūdzu?
+
+1495
+01:35:59,083 --> 01:36:02,916
+Tēvs uzzināja,
+ka jūs kāvāt aitas uz viņa zemes.
+
+1496
+01:36:03,041 --> 01:36:05,208
+Jūs esat tie divi slepkavas.
+
+1497
+01:36:05,333 --> 01:36:06,875
+Esam divi biznesmeņi.
+
+1498
+01:36:07,000 --> 01:36:09,375
+- Ar labu priekšlikumu.
+- Jā.
+
+1499
+01:36:10,000 --> 01:36:11,583
+Vai maz zināt viņu vārdus?
+
+1500
+01:36:12,375 --> 01:36:14,541
+- Ko?
+- Viņš visām deva vārdus.
+
+1501
+01:36:14,666 --> 01:36:16,708
+Ganāmpulkā ir Lilija.
+
+1502
+01:36:18,708 --> 01:36:20,333
+Un Mapls.
+
+1503
+01:36:20,458 --> 01:36:24,500
+Lielo pūkaino sauc par Pūku.
+Viņa esot dīva.
+
+1504
+01:36:24,625 --> 01:36:27,000
+Auns ar poniju uz pieres ir Vilnacis.
+
+1505
+01:36:27,166 --> 01:36:30,458
+Manuprāt, mazliet par tiešu,
+taču iebildumu nav bijis.
+
+1506
+01:36:30,583 --> 01:36:32,750
+- Hempstedas jaunkundz…
+- Hārdija.
+
+1507
+01:36:33,333 --> 01:36:34,958
+Rebeka Hārdija.
+
+1508
+01:36:35,083 --> 01:36:38,000
+- Lai ir tā.
+- Es ar vārdu maiņu nenodarbojos.
+
+1509
+01:36:38,125 --> 01:36:40,790
+Piedodiet, Hārdijas jaunkundz.
+Vēlu veiksmi.
+
+1510
+01:36:40,791 --> 01:36:41,625
+Atā.
+
+1511
+01:36:43,125 --> 01:36:44,291
+Pagaidiet!
+
+1512
+01:36:44,416 --> 01:36:49,291
+Ja es gribēšu vēl vairāk aitu,
+vai laba banka mani atbalstīs?
+
+1513
+01:36:50,875 --> 01:36:53,666
+Lilij, kā tev izdevās visu saprast?
+
+1514
+01:36:53,791 --> 01:36:55,416
+Vienkārši!
+
+1515
+01:36:55,541 --> 01:36:57,791
+Viņa ir visgudrākā aita pasaulē!
+
+1516
+01:36:57,916 --> 01:37:02,083
+Ak vai, iepriekš arī es tā domāju,
+tomēr tā nav.
+
+1517
+01:37:02,208 --> 01:37:03,958
+Es kļūdījos, neieklausījos,
+
+1518
+01:37:04,083 --> 01:37:07,958
+kad ziemas jērs pateica
+par Džordža rēgu, un pēc tam es…
+
+1519
+01:37:16,375 --> 01:37:18,541
+Iesim, manas labās, iesim.
+
+1520
+01:37:29,250 --> 01:37:31,166
+Kā tevi sauc? Brāļi un māsas ir?
+
+1521
+01:37:31,291 --> 01:37:34,000
+Vai jau sen esat te?
+Man ir tūkstoš jautājumu.
+
+1522
+01:37:34,125 --> 01:37:36,916
+- O! Atvainojiet.
+<i>- Excusez-moi.</i>
+
+1523
+01:37:39,083 --> 01:37:40,333
+Kur ir jūsu sejas?
+
+1524
+01:37:42,250 --> 01:37:45,250
+Šausmas! Tev ir bakas!
+
+1525
+01:37:45,375 --> 01:37:47,375
+Arī man ir bakas!
+
+1526
+01:37:53,500 --> 01:37:54,791
+Lilij.
+
+1527
+01:38:22,375 --> 01:38:27,541
+HĀRDIJA
+AITKOPĪBAS ROKASGRĀMATA
+
+1528
+01:39:08,125 --> 01:39:09,916
+"Pirmā nodaļa.
+
+1529
+01:39:11,958 --> 01:39:13,791
+Plaši izplatīts uzskats,
+
+1530
+01:39:13,916 --> 01:39:17,500
+ka no visiem mājdzīvniekiem
+aitas ir visdumjākās.
+
+1531
+01:39:21,125 --> 01:39:22,833
+Tas ir tālu no patiesības.
+
+1532
+01:39:23,833 --> 01:39:27,541
+{\an8}Aitas ir ne vien saprātīgas,
+bet arī iedvesmo.
+
+1533
+01:39:27,666 --> 01:39:31,083
+Jau sensenā dziesmiņā ir sacīts:
+
+1534
+01:39:31,208 --> 01:39:35,166
+"Mazajai Grietiņai pazuda aitiņas.
+Viņa nezina, kur lai meklē.
+
+1535
+01:39:35,291 --> 01:39:38,291
+Tās pašas ies uz mājām
+Ar naskām kājām,
+
+1536
+01:39:38,416 --> 01:39:40,958
+<i>Ļipas vien tirinās.""</i>
+
+1537
+01:39:47,291 --> 01:39:49,291
+Te ir skaisti.
+
+1538
+01:39:49,916 --> 01:39:51,458
+Taču vientulīgi.
+
+1539
+01:39:54,958 --> 01:39:56,208
+Džordžs.
+
+1540
+01:39:57,625 --> 01:39:59,208
+Tāds būs tavs vārds.
+
+1541
+01:40:00,166 --> 01:40:02,333
+Visām aitām ir vajadzīgs vārds.
+
+1542
+01:40:04,791 --> 01:40:06,166
+Džordžs.
+
+1543
+01:40:16,333 --> 01:40:20,208
+"Mīlīgu, pūkainu, baltu aitu bariņš.
+
+1544
+01:40:20,333 --> 01:40:24,583
+Bieži vien domā,
+ka visas aitas ir vienādas.
+
+1545
+01:40:24,708 --> 01:40:27,583
+Taču aitu barā ir dzīvnieki
+
+1546
+01:40:27,708 --> 01:40:31,791
+ar atšķirīgām īpašībām un raksturu.
+
+1547
+01:40:35,291 --> 01:40:39,125
+Ir sirsnīgas, draudzīgas un atturīgas.
+
+1548
+01:40:39,250 --> 01:40:42,375
+Gudras un dumjas, biklas un izlēcējas."
+
+1549
+01:40:42,500 --> 01:40:45,208
+- Kā tevi sauc?
+- Sveiks! Mani sauc Džordžs.
+
+1550
+01:40:45,333 --> 01:40:46,625
+Sveiks, Džordž!
+
+1551
+01:40:46,750 --> 01:40:50,083
+"Šiem rāmajiem kustoņiem
+ir vieta teju visās kultūrās.
+
+1552
+01:40:50,208 --> 01:40:52,791
+Bieži sastopamas valodā un attēlos
+
+1553
+01:40:52,916 --> 01:40:55,291
+kā mīlestības,
+nevainības un miera simbols.
+
+1554
+01:40:55,416 --> 01:41:00,291
+{\an8}Jo, tāpat kā cilvēki,
+augstāk par visu tās vērtē piederību.
+
+1555
+01:41:01,375 --> 01:41:04,000
+{\an8}Tās atļaujas mums piederēt.
+
+1556
+01:41:04,625 --> 01:41:06,166
+{\an8}Un tieši tāpat…
+
+1557
+01:41:07,416 --> 01:41:09,541
+mēs piederam tām.
+
+1558
+01:43:21,583 --> 01:43:25,916
+AITAS IZMEKLĒTĀJAS
+
+1559
+01:48:45,958 --> 01:48:48,000
+<i>Manuprāt, vainīga kalpone.</i>
+
+1560
+01:48:48,541 --> 01:48:49,541
+Izplatītājs: ACME Film
+

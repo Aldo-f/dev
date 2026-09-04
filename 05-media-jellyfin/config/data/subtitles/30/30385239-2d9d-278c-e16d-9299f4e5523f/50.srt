@@ -1,0 +1,7189 @@
+1
+00:00:42,250 --> 00:00:49,208
+DETEKTIVËT E DELEVE
+
+2
+00:00:49,375 --> 00:00:50,958
+<i>E dashura Rebecca:</i>
+
+3
+00:00:52,250 --> 00:00:54,916
+<i>E di që ke shumë pyetje.</i>
+
+4
+00:00:56,083 --> 00:00:57,291
+<i>Kam edhe unë.</i>
+
+5
+00:00:57,458 --> 00:01:00,583
+<i>Në fund të fundit,
+jeta është një mister.</i>
+
+6
+00:01:01,166 --> 00:01:04,208
+<i>Por nëse ka një përgjigje për të
+gjitha enigmat e mëdha të universit,</i>
+
+7
+00:01:04,375 --> 00:01:06,041
+<i>një sekret për lumturinë,</i>
+
+8
+00:01:06,208 --> 00:01:08,625
+<i>unë propozoj thjesht një gjë:</i>
+
+9
+00:01:10,666 --> 00:01:11,750
+<i>Delet.</i>
+
+10
+00:01:15,083 --> 00:01:16,375
+<i>Jo, e kam seriozisht.</i>
+
+11
+00:01:16,708 --> 00:01:18,208
+<i>Sekreti janë delet.</i>
+
+12
+00:01:20,416 --> 00:01:22,208
+Në rregull, po vij.
+
+13
+00:01:35,250 --> 00:01:38,708
+<i>Në letrën tënde të fundit, më pyete nëse
+ndonjë nga delet e mia ishte e veçantë.</i>
+
+14
+00:01:38,875 --> 00:01:43,416
+<i>Epo, të gjitha janë të veçanta. Kjo është
+arsyeja pse i vura secilës një emër.</i>
+
+15
+00:01:43,583 --> 00:01:44,666
+<i>Për shembull:</i>
+
+16
+00:01:45,625 --> 00:01:49,500
+<i>Janë dy desh binjakë të zhurmshëm
+që i kam quajtur Ronnie dhe Reggie.</i>
+
+17
+00:01:50,000 --> 00:01:53,333
+<i>Dhe Sir Ritchfield
+shumë krenar dhe dinjitoz.</i>
+
+18
+00:01:54,125 --> 00:01:55,875
+<i>Cloud, e buta.</i>
+
+19
+00:01:56,041 --> 00:01:57,833
+<i>Është një diva.</i>
+
+20
+00:01:58,708 --> 00:02:01,000
+<i>Zora, kureshtarja më e madhe.</i>
+
+21
+00:02:01,791 --> 00:02:04,166
+<i>Mopple, më durimtari.</i>
+
+22
+00:02:04,916 --> 00:02:06,458
+<i>Dhe Wool-Eyes…</i>
+
+23
+00:02:07,166 --> 00:02:09,791
+<i>Epo, sepse nuk më shkoi
+në mend një emër më i mirë.</i>
+
+24
+00:02:10,083 --> 00:02:13,041
+{\an8}<i>Dhe, në rregull, e di që thashë
+se të gjiha janë të veçanta,</i>
+
+25
+00:02:13,208 --> 00:02:17,875
+<i>por duhet ta pranoj
+që dy nga delet e mia janë më të veçantat.</i>
+
+26
+00:02:18,583 --> 00:02:19,666
+<i>Sebastian-i.</i>
+
+27
+00:02:19,833 --> 00:02:21,250
+<i>Dashi im më i madh,</i>
+
+28
+00:02:21,416 --> 00:02:23,875
+<i>dhe si unë, paksa i vetmuar.</i>
+
+29
+00:02:24,458 --> 00:02:27,083
+<i>Kohë pas kohe ai largohet.</i>
+
+30
+00:02:27,416 --> 00:02:30,500
+<i>Dhe ai kthehet prapë.</i>
+
+31
+00:02:34,041 --> 00:02:36,708
+<i>Dhe më në fund, Lily.</i>
+
+32
+00:02:37,166 --> 00:02:38,708
+<i>Delja ime më e zgjuar.</i>
+
+33
+00:02:38,875 --> 00:02:42,041
+<i>Ajo që duket se gjithmonë e di
+se çfarë jam duke menduar</i>
+
+34
+00:02:42,208 --> 00:02:44,416
+<i>dhe çfarë ndiej në zemrën time.</i>
+
+35
+00:02:44,583 --> 00:02:49,916
+<i>Mbi të gjitha, ajo më sjell
+atë lloj paqe që vetëm barinjtë e njohin.</i>
+
+36
+00:02:50,083 --> 00:02:51,541
+<i>Një paqe që vjen</i>
+
+37
+00:02:51,708 --> 00:02:56,166
+<i>nga kujdesi për krijesat
+më të dashura në tokë.</i>
+
+38
+00:03:01,458 --> 00:03:03,833
+<i>Çdo ditë fillon
+duke u kujdesur për shëndetin e tyre.</i>
+
+39
+00:03:05,958 --> 00:03:07,708
+<i>I mbaj të ushqyera mirë…</i>
+
+40
+00:03:08,458 --> 00:03:09,583
+<i>të krehura mirë.</i>
+
+41
+00:03:11,583 --> 00:03:14,333
+<i>Bëj çmos t'i mbaj të argëtuara.</i>
+
+42
+00:03:22,041 --> 00:03:26,125
+<i>Sigurohem që të marrin ilaçet e tyre, dhe
+mendoj se do të thoshin se i shijojnë…</i>
+
+43
+00:03:26,291 --> 00:03:27,791
+<i>sikur të mund të flisnin.</i>
+
+44
+00:03:27,958 --> 00:03:30,750
+Koha për ilaçet e tua, mik.
+Ashtu pra.
+
+45
+00:03:31,083 --> 00:03:35,250
+<i>Dhe kur punët e mia mbarojnë
+dhe dielli fillon të perëndojë,</i>
+
+46
+00:03:35,416 --> 00:03:37,583
+<i>zgjedh një libër për t'ua
+lexuar me zë të lartë.</i>
+
+47
+00:03:37,750 --> 00:03:42,041
+<i>Romane me detektivë, mistere.
+Të gjitha të preferuarat e mia.</i>
+
+48
+00:03:42,208 --> 00:03:44,958
+"E di kur është vrarë
+Rodney Hollingshead,
+
+49
+00:03:45,125 --> 00:03:48,416
+dhe e di kush është vrasësi i vërtetë."
+
+50
+00:03:48,666 --> 00:03:51,625
+<i>Më pëlqen të bëj sikur ato
+po ndjekin tregimin bashkë me mua.</i>
+
+51
+00:03:52,291 --> 00:03:56,708
+<i>Por e di në zemrën time se,
+sado të veçanta që janë, ato janë…</i>
+
+52
+00:03:57,208 --> 00:03:58,458
+<i>thjesht dele.</i>
+
+53
+00:03:59,541 --> 00:04:00,833
+Jo, mjaft për sonte.
+
+54
+00:04:01,416 --> 00:04:02,833
+Shkoni tani.
+
+55
+00:04:03,000 --> 00:04:05,125
+Do t'ua lexoj fundin nesër.
+
+56
+00:04:11,833 --> 00:04:13,500
+Pse do të ndalej pikërisht aty?!
+
+57
+00:04:13,666 --> 00:04:15,875
+Ai ishte gati të thoshte
+se kush ishte vrasësi!
+
+58
+00:04:16,041 --> 00:04:18,083
+Kjo është një torturë!
+Ishte shërbëtorja, apo jo?
+
+59
+00:04:18,250 --> 00:04:19,791
+Sigurisht që e bëri shërbëtorja.
+
+60
+00:04:19,958 --> 00:04:22,750
+<i>Jo, jo, jo, e bëri kopshtari.</i>
+
+61
+00:04:22,916 --> 00:04:25,625
+Gjithmonë kosit barin
+por kurrë nuk e ha atë?
+
+62
+00:04:25,791 --> 00:04:27,125
+Po. E dyshimtë.
+
+63
+00:04:27,291 --> 00:04:28,708
+Jeni të çmendura?
+Atë e ka vrarë doktori.
+
+64
+00:04:28,875 --> 00:04:30,666
+Nuk ka mundësi.
+E ka vrarë teto e frikshme.
+
+65
+00:04:30,833 --> 00:04:33,750
+Teto e frikshme ishte
+tre tregime më parë, gjeni!
+
+66
+00:04:33,916 --> 00:04:35,666
+Si mund të kemi të njëjtët prindër?!
+
+67
+00:04:35,833 --> 00:04:37,333
+Oh, ja ku fillon sërish.
+
+68
+00:04:37,500 --> 00:04:38,541
+Mirë.
+
+69
+00:04:39,291 --> 00:04:40,875
+Oh, ata filluan përsëri.
+
+70
+00:04:41,041 --> 00:04:43,625
+E keni të gjitha gabim.
+
+71
+00:04:43,791 --> 00:04:46,375
+E kuptova dy kapituj më parë.
+
+72
+00:04:46,916 --> 00:04:47,958
+Shërbëtorja, apo jo?
+
+73
+00:04:48,125 --> 00:04:49,291
+Jo.
+
+74
+00:04:49,458 --> 00:04:52,500
+Ishte nipi, Bertie Hollingshead.
+
+75
+00:04:52,666 --> 00:04:56,833
+Por, Lily, nuk e vërtetoi detektivi se të
+gjitha provat kundër Bertie Hollingshead
+
+76
+00:04:57,000 --> 00:04:59,291
+ishin falsifikuar nga vrasësi i vërtetë?
+
+77
+00:04:59,458 --> 00:05:00,666
+Pikërisht.
+
+78
+00:05:00,833 --> 00:05:02,250
+Nuk e kuptoni?
+
+79
+00:05:02,416 --> 00:05:06,291
+Për t'i shpëtuar dënimit,
+ai i falsifikoi vetë provat.
+
+80
+00:05:08,833 --> 00:05:11,625
+Bertie Hollingshead <i>ishte</i>
+vrasësi i vërtetë.
+
+81
+00:05:12,916 --> 00:05:14,375
+Pse e bëre atë?
+
+82
+00:05:16,375 --> 00:05:19,791
+George do ta përfundojë tregimin nesër.
+Do ta shihni.
+
+83
+00:05:23,208 --> 00:05:25,000
+Unë vazhdoj të mendoj
+se e bëri shërbëtorja.
+
+84
+00:05:25,333 --> 00:05:27,666
+<i>"Berti dinte gjithçka për ligjin që</i>
+
+85
+00:05:28,041 --> 00:05:32,000
+thoshte se një person nuk mund të ndiqet
+penalisht dy herë për të njëjtin krim.
+
+86
+00:05:32,166 --> 00:05:36,833
+Dhe kështu, për t'i shpëtuar dënimit,
+ai i falsifikoi vetë provat.
+
+87
+00:05:37,458 --> 00:05:41,916
+Bertie Hollingshead <i>ishte</i>
+vrasësi i vërtetë."
+
+88
+00:05:47,375 --> 00:05:50,958
+<i>Tani shumica e deleve të mia duket
+se e kalojnë ditën ose duke ngrënë,</i>
+
+89
+00:05:51,125 --> 00:05:52,958
+<i>ose duke menduar për të ngrënë.</i>
+
+90
+00:05:53,500 --> 00:05:57,375
+<i>Por unë kam tre qengja të rrëmujshëm
+me energji të pakufishme.</i>
+
+91
+00:05:57,916 --> 00:06:02,125
+<i>Krijesa të lumtura dhe të shkujdesura,
+që kanë lindur në pranverë.</i>
+
+92
+00:06:02,500 --> 00:06:06,250
+<i>Në fakt, pothuajse të gjithë
+qengjat lindin në pranverë.</i>
+
+93
+00:06:06,833 --> 00:06:11,041
+<i>Dhe pastaj, kam një qengj
+që ka lindur në dimër.</i>
+
+94
+00:06:12,458 --> 00:06:14,375
+Oh. Përshëndetje.
+
+95
+00:06:16,833 --> 00:06:18,000
+- Jam Daisy.
+- Jam Oliver.
+
+96
+00:06:18,166 --> 00:06:20,125
+- Jam Pickles.
+- Si e ke emrin?
+
+97
+00:06:20,708 --> 00:06:22,375
+Unë nuk kam emër.
+
+98
+00:06:22,541 --> 00:06:24,208
+Dëshiron të luash me ne?
+
+99
+00:06:24,625 --> 00:06:26,291
+Jo! Largohu!
+
+100
+00:06:27,000 --> 00:06:29,791
+Nuk duhet të luani
+me atë qengjin e dimrit.
+
+101
+00:06:29,958 --> 00:06:32,583
+Ai nuk i përket kësaj kopeje.
+
+102
+00:06:33,375 --> 00:06:36,125
+<i>Për arsye
+që kanë kuptim vetëm për një dele,</i>
+
+103
+00:06:36,291 --> 00:06:39,625
+<i>një kope shpesh refuzon
+një qengj të lindur në dimër.</i>
+
+104
+00:06:39,791 --> 00:06:40,625
+S'ka gjë.
+
+105
+00:06:40,791 --> 00:06:44,375
+<i>Vetëm sepse një qengj dimëror
+është më ndryshe.</i>
+
+106
+00:06:44,541 --> 00:06:47,125
+Oh, ashtu pra. Mirë.
+
+107
+00:06:55,791 --> 00:06:57,083
+Kam një pyetje.
+
+108
+00:06:57,250 --> 00:06:59,708
+Pse George gjithmonë sillet
+mirë me atë qengj?
+
+109
+00:06:59,875 --> 00:07:01,583
+George nuk është një dele.
+
+110
+00:07:01,750 --> 00:07:04,708
+Askush nuk i ka treguar atij
+për qengjat e dimrit.
+
+111
+00:07:16,708 --> 00:07:19,208
+<i>Oh, dhe një gjë të fundit,
+nëse pranon ftesën time,</i>
+
+112
+00:07:19,375 --> 00:07:22,291
+<i>duhet ta dish se unë jetoj
+pranë një qyteti të quajtur Denbrook.</i>
+
+113
+00:07:22,625 --> 00:07:24,791
+{\an8}<i>Ka llojet e veta të veçanta të njerëzve.</i>
+
+114
+00:07:24,958 --> 00:07:26,041
+{\an8}<i>Për shembull…</i>
+
+115
+00:07:26,208 --> 00:07:27,208
+Mirëmëngjesi, Caleb.
+
+116
+00:07:27,333 --> 00:07:28,500
+<i>Caleb, gjithashtu një bari.</i>
+
+117
+00:07:28,625 --> 00:07:29,416
+Mirëmëngjesi, zonjusha.
+
+118
+00:07:29,541 --> 00:07:30,375
+<i>Nuk më pëlqen ai.</i>
+
+119
+00:07:30,708 --> 00:07:32,166
+<i>Ham, kasapi.</i>
+
+120
+00:07:32,333 --> 00:07:34,208
+<i>Nuk më pëlqen aspak.</i>
+
+121
+00:07:34,375 --> 00:07:35,791
+<i>Beth, pronarja e bujtinës.</i>
+
+122
+00:07:35,958 --> 00:07:37,083
+<i>Nuk i pëlqej asaj.</i>
+
+123
+00:07:37,250 --> 00:07:38,750
+Mund ta vrasë atë njeri.
+
+124
+00:07:38,916 --> 00:07:40,625
+{\an8}<i>Tim, polici.</i>
+
+125
+00:07:42,000 --> 00:07:43,083
+<i>Një idiot.</i>
+
+126
+00:07:43,250 --> 00:07:47,041
+<i>Dhe Pastori Hillcoate,
+i cili e konsideron veten bari njerëzish.</i>
+
+127
+00:07:47,208 --> 00:07:50,291
+<i>Kemi një marrëdhënie të ndërlikuar.</i>
+
+128
+00:07:50,458 --> 00:07:54,541
+Dhe tani leximi i sotëm:
+Shëmbëlltyra e Deles së Humbur.
+
+129
+00:08:05,250 --> 00:08:06,958
+George,
+ke ardhur të bashkëngjitesh me ne?
+
+130
+00:08:07,750 --> 00:08:10,333
+Të gjithë jemi të mirëpritur
+në shtëpinë e Zotit.
+
+131
+00:08:11,250 --> 00:08:12,541
+Edhe kasapët?
+
+132
+00:08:19,000 --> 00:08:20,916
+Nuk kam ardhur të bashkëngjitem me ju.
+
+133
+00:08:21,916 --> 00:08:23,541
+Jam këtu për të shlyer një borxh.
+
+134
+00:08:30,208 --> 00:08:31,750
+George, i dashur si gjithmonë.
+
+135
+00:08:34,041 --> 00:08:35,416
+George, i dashur si gjithmonë.
+
+136
+00:08:35,750 --> 00:08:37,625
+<i>Por mjaft me njerëzit.</i>
+
+137
+00:08:38,041 --> 00:08:40,208
+<i>Dua që të takosh kopenë time.</i>
+
+138
+00:08:40,375 --> 00:08:42,541
+<i>Ato mezi po presin të të shohin.</i>
+
+139
+00:08:43,583 --> 00:08:45,250
+<i>Dhe unë gjithashtu.</i>
+
+140
+00:08:45,958 --> 00:08:47,625
+<i>Të lutem, eja sa më shpejt.</i>
+
+141
+00:08:50,708 --> 00:08:52,375
+<i>Me dashuri, George.</i>
+
+142
+00:08:59,583 --> 00:09:00,666
+Cloud?
+
+143
+00:09:01,083 --> 00:09:02,291
+Kam një pyetje.
+
+144
+00:09:02,458 --> 00:09:05,125
+Do t'i bëjnë luleradhiqet
+qerpikët e mi të bukur si të tuat?
+
+145
+00:09:05,291 --> 00:09:07,833
+Jo, nuk kanë efekt tek qerpikët.
+
+146
+00:09:08,000 --> 00:09:10,041
+Por bëjnë mrekullira me leshin.
+
+147
+00:09:10,208 --> 00:09:11,500
+Thjesht shiko Wool-Eyes.
+
+148
+00:09:11,666 --> 00:09:13,250
+Ai ha vetëm luleradhiqe.
+
+149
+00:09:13,416 --> 00:09:16,083
+Oh, këto janë luleradhiqe? Në rregull.
+
+150
+00:09:16,250 --> 00:09:20,166
+Ne duhet të ruajmë ca
+për Sebastian-in. Ai ka ikur prej ditësh.
+
+151
+00:09:20,333 --> 00:09:23,958
+Kujt ia ndien? Që kur George
+e solli këtu, kush e di se nga cili vend,
+
+152
+00:09:24,125 --> 00:09:26,125
+ai vazhdon të endet në qytet.
+
+153
+00:09:26,291 --> 00:09:27,541
+Lëreni të vuajë nga uria.
+
+154
+00:09:27,708 --> 00:09:31,541
+Vetëm pse nuk interesohet për ne, nuk do
+thotë që nuk duhet të interesohemi për të.
+
+155
+00:09:31,708 --> 00:09:33,958
+Sebastian-i është pjesë e kopesë sonë.
+
+156
+00:09:34,208 --> 00:09:36,708
+Oh, oh, shikoni! Është Caleb-i!
+
+157
+00:09:39,583 --> 00:09:40,916
+Qentë!
+
+158
+00:09:41,083 --> 00:09:45,041
+Qentë, qentë,
+qentë, qentë, qentë.
+
+159
+00:09:46,791 --> 00:09:48,833
+Caleb! Këtej!
+
+160
+00:09:49,000 --> 00:09:52,041
+Oh, më pëlqen se si ai mban erë.
+
+161
+00:09:52,208 --> 00:09:53,750
+Janë pulovrat e tij prej leshi.
+
+162
+00:09:54,208 --> 00:09:55,875
+Janë të lyera aq bukur.
+
+163
+00:09:57,125 --> 00:09:58,458
+- Mund të hyj?
+- Largohu!
+
+164
+00:09:58,583 --> 00:09:59,750
+Unë po hyj.
+
+165
+00:10:00,250 --> 00:10:04,333
+Është kaq e re, e bukur dhe e shndritshme.
+
+166
+00:10:04,750 --> 00:10:06,833
+Po mendon atë që po mendoj unë?
+
+167
+00:10:07,166 --> 00:10:09,583
+- Dua ta godas!
+- Dua vërtet ta godas!
+
+168
+00:10:10,458 --> 00:10:11,708
+Reggie! Ronnie!
+
+169
+00:10:13,000 --> 00:10:16,708
+Ne e kemi diskutuar tashmë.
+Nuk i godasim gjërat përveç nëse…?
+
+170
+00:10:16,875 --> 00:10:20,000
+Përveç nëse ka një arsye të ligjshme
+për t'i goditur.
+
+171
+00:10:20,166 --> 00:10:21,166
+Ashtu pra.
+
+172
+00:10:21,333 --> 00:10:23,791
+Kjo është vizita e tretë
+e Caleb-it këtë muaj.
+
+173
+00:10:23,958 --> 00:10:26,541
+Ka vetëm një gjë
+për të cilën mund të flasin.
+
+174
+00:10:27,083 --> 00:10:28,250
+Për të bashkuar kopetë.
+
+175
+00:10:28,416 --> 00:10:30,333
+- Për të bashkuar kopetë!
+- Dele të reja.
+
+176
+00:10:30,500 --> 00:10:32,250
+- Fusha të reja?
+- Qentë?
+
+177
+00:10:32,416 --> 00:10:33,750
+Jam duke menduar për këtë!
+
+178
+00:10:33,916 --> 00:10:36,500
+Të dhashë një mundësi
+dhe ti më gënjeve, Caleb!
+
+179
+00:10:36,666 --> 00:10:37,833
+Dhe mos eja më.
+
+180
+00:10:45,500 --> 00:10:48,208
+Duket sikur nuk do t'i
+bashkojmë kopetë.
+
+181
+00:10:49,875 --> 00:10:51,166
+U ndjeva kaq e lumtur.
+
+182
+00:10:51,333 --> 00:10:52,958
+Dhe tani ndihem e trishtuar
+dhe e mërzitur.
+
+183
+00:10:53,125 --> 00:10:54,708
+Dua ta harroj që kjo ndodhi!
+
+184
+00:10:54,875 --> 00:10:56,875
+Ke të drejtë. Është shumë zhgënjyese.
+
+185
+00:10:57,041 --> 00:10:58,291
+Në rregull, të gjithë?
+
+186
+00:10:58,458 --> 00:11:02,375
+Do numërojmë deri në tre dhe do të
+zgjedhim ta harrojmë vizitën e Caleb-it.
+
+187
+00:11:02,541 --> 00:11:04,208
+Një. Dy--
+
+188
+00:11:04,375 --> 00:11:07,333
+Po Mopple?
+Ai nuk mund të harrojë gjërat.
+
+189
+00:11:07,500 --> 00:11:08,333
+Pse jo?
+
+190
+00:11:08,500 --> 00:11:09,958
+I gjori Mopple.
+
+191
+00:11:10,125 --> 00:11:12,166
+Ai ka lindur me një sëmundje të tmerrshme.
+
+192
+00:11:12,458 --> 00:11:15,875
+Për dallim nga ne,
+ai nuk mund të zgjedhë të harrojë gjërat.
+
+193
+00:11:16,041 --> 00:11:17,125
+Oh, po.
+
+194
+00:11:17,291 --> 00:11:21,791
+Mopple, pasi të harrojmë,
+të lutem mos na kujto që kjo ndodhi.
+
+195
+00:11:21,958 --> 00:11:24,416
+Je e sigurt?
+Nuk ishte edhe aq keq.
+
+196
+00:11:24,583 --> 00:11:27,833
+Jo. Por as nuk ishte gjë e mirë.
+Pra pse ta mbajmë mend?
+
+197
+00:11:28,541 --> 00:11:29,541
+Gati?
+
+198
+00:11:29,875 --> 00:11:30,875
+Një.
+
+199
+00:11:31,375 --> 00:11:32,458
+Dy.
+
+200
+00:11:32,791 --> 00:11:33,916
+Tre.
+
+201
+00:11:36,583 --> 00:11:37,625
+Cloud?
+
+202
+00:11:38,250 --> 00:11:39,416
+Kam një pyetje?
+
+203
+00:11:39,583 --> 00:11:42,375
+Do t'i bëjnë luleradhiqet
+qerpikët e mi të bukur si të tuat?
+
+204
+00:11:42,541 --> 00:11:44,875
+Jo, nuk kanë efekt tek qerpikët.
+
+205
+00:11:45,083 --> 00:11:48,250
+- Por bëjnë mrekullira me leshin.
+- Por bëjnë mrekullira me leshin.
+
+206
+00:11:58,291 --> 00:11:59,291
+Jam mirë.
+
+207
+00:12:12,750 --> 00:12:14,708
+Do të jem mirë, të premtoj.
+
+208
+00:12:14,875 --> 00:12:15,916
+Është thjesht…
+
+209
+00:12:17,000 --> 00:12:18,291
+Nuk e di.
+
+210
+00:12:21,875 --> 00:12:25,500
+Epo, sepse shpresoja
+që gjërat të ndryshonin më shpejt.
+
+211
+00:12:26,750 --> 00:12:28,458
+Por nuk keni pse të shqetësoheni.
+
+212
+00:12:29,500 --> 00:12:30,875
+Do të jeni mirë.
+
+213
+00:12:32,166 --> 00:12:34,125
+Dhe unë do të jem mirë gjithashtu.
+
+214
+00:13:05,416 --> 00:13:06,416
+Ç'kemi.
+
+215
+00:13:06,583 --> 00:13:09,458
+Përshëndetje, përshëndetje.
+Ndonjë gjë interesante?
+
+216
+00:13:09,625 --> 00:13:13,250
+{\an8}Është e hënë.
+Vetëm fatura dhe gjëra të panevojshme.
+
+217
+00:13:14,333 --> 00:13:16,250
+George. Kujt po i dërgon letra?
+
+218
+00:13:16,416 --> 00:13:18,750
+Epo, nuk duhet të them asgjë, por…
+
+219
+00:13:19,625 --> 00:13:23,041
+Zonjushës Rebecca Hampstead.
+Në Amerikë.
+
+220
+00:13:23,625 --> 00:13:26,833
+Kushdo që është ajo, ata kanë shkëmbyer
+letra me njëri-tjetrin për muaj me radhë.
+
+221
+00:13:27,208 --> 00:13:28,333
+Dhe…
+
+222
+00:13:28,500 --> 00:13:29,666
+Bëje.
+
+223
+00:13:30,083 --> 00:13:31,166
+Nuhate atë.
+
+224
+00:13:31,708 --> 00:13:33,208
+Letër me aromë trëndafili.
+
+225
+00:13:33,500 --> 00:13:34,625
+Janë letra dashurie.
+
+226
+00:13:34,791 --> 00:13:35,875
+Mund ta besosh?
+
+227
+00:13:36,041 --> 00:13:40,000
+Gërnjari, George Hardy,
+një romantik i zakonshëm.
+
+228
+00:13:40,583 --> 00:13:41,791
+Kush do ta mendonte.
+
+229
+00:13:43,916 --> 00:13:45,500
+George i zakonshëm.
+
+230
+00:13:45,708 --> 00:13:46,708
+Po.
+
+231
+00:13:47,083 --> 00:13:48,458
+- Kujdesu për veten.
+- Po, edhe ti.
+
+232
+00:13:48,583 --> 00:13:49,625
+Pafshim!
+
+233
+00:13:51,333 --> 00:13:52,625
+- Përshëndetje! Ç'kemi!
+- Përshëndetje!
+
+234
+00:13:52,791 --> 00:13:55,750
+Sapo kam ardhur nga qyteti
+për Festivalin Kulturor të Denbrook-ut.
+
+235
+00:13:55,916 --> 00:13:57,500
+Oh, fantastike.
+
+236
+00:13:57,833 --> 00:13:59,250
+Ky është.
+
+237
+00:14:00,083 --> 00:14:01,375
+Më ndiq mua.
+
+238
+00:14:01,833 --> 00:14:03,708
+Ky është çfarë.
+
+239
+00:14:04,125 --> 00:14:07,833
+Mirë se vini
+në Festivalin Kulturor të Denbrook-ut.
+
+240
+00:14:12,041 --> 00:14:13,083
+Po tallesh.
+
+241
+00:14:13,250 --> 00:14:16,000
+Çfarë?
+Kjo është trashëgimia e qytetit tonë.
+
+242
+00:14:18,583 --> 00:14:21,291
+Çfarë është <i>Return to Oz?</i>
+
+243
+00:14:21,625 --> 00:14:23,625
+{\an8}Po, është filmi
+më i mirë i të gjitha kohërave.
+
+244
+00:14:24,041 --> 00:14:26,541
+{\an8}Dhe e xhiruan
+vetëm 65 km poshtë rrugës.
+
+245
+00:14:26,916 --> 00:14:29,708
+Shumica e njerëzve bien dakord
+se është më i mirë se origjinali.
+
+246
+00:14:30,083 --> 00:14:31,083
+Nuk e kam parë kurrë.
+
+247
+00:14:31,250 --> 00:14:33,375
+Kush nuk e ka parë <i>Return to Oz?</i>
+
+248
+00:14:33,541 --> 00:14:37,500
+Më falni. Pse do të bënit
+një banderolë të madhe për këtë?
+
+249
+00:14:37,666 --> 00:14:40,541
+Dua që njerëzit të vijnë. Vështirë
+se mund të ketë festival pa njerëz.
+
+250
+00:14:41,041 --> 00:14:44,208
+Oh jo, ky nuk është një festival.
+
+251
+00:14:44,375 --> 00:14:46,500
+Jo. Janë thjesht disa tavolina.
+
+252
+00:14:47,666 --> 00:14:49,916
+Po më tregon si ta drejtoj biznesin tim?
+
+253
+00:14:50,541 --> 00:14:51,541
+Jo.
+
+254
+00:14:52,541 --> 00:14:54,250
+Ke të drejtë. Më vjen keq.
+
+255
+00:14:55,000 --> 00:14:56,958
+Nuk e filluam mbarë.
+
+256
+00:14:58,458 --> 00:15:01,541
+Emri im është Elliot Matthews.
+Jam reporter për <i>Gazette.</i>
+
+257
+00:15:03,541 --> 00:15:05,083
+Reporter fillestar.
+
+258
+00:15:07,958 --> 00:15:10,125
+Në rregull. Mirë.
+Punoj në redaksinë e nekrologjive.
+
+259
+00:15:10,291 --> 00:15:13,333
+Por kam kohë që kërkoj
+një histori të vërtetë,
+
+260
+00:15:13,500 --> 00:15:17,500
+dhe redaktori im i artikujve më dha këtë:
+
+261
+00:15:18,250 --> 00:15:20,125
+Festivali Kulturor i Denbrook-ut.
+
+262
+00:15:20,291 --> 00:15:23,041
+- Pra? Tingëllon si një ëndërr.
+- Po, është fantastike.
+
+263
+00:15:23,208 --> 00:15:27,541
+Nuk do ngrihem në detyrë
+duke shkruar për këtë, apo jo? Jo.
+
+264
+00:15:27,875 --> 00:15:29,333
+Shumë keq.
+
+265
+00:15:30,291 --> 00:15:31,750
+Dhjetë. Para në dorë.
+
+266
+00:15:32,125 --> 00:15:33,208
+Për çfarë?
+
+267
+00:15:33,375 --> 00:15:35,125
+- Tarifa e hyrjes.
+- Tarifa e hyrjes.
+
+268
+00:15:38,458 --> 00:15:39,541
+Dhjetë.
+
+269
+00:15:39,708 --> 00:15:41,041
+Merri--
+
+270
+00:15:41,708 --> 00:15:42,916
+Merri të gjitha.
+
+271
+00:15:44,041 --> 00:15:45,291
+Thjesht--
+
+272
+00:15:46,416 --> 00:15:47,583
+Njeri i çuditshëm.
+
+273
+00:16:06,666 --> 00:16:09,833
+Ku është George?
+Ku është tregimi ynë i natës?
+
+274
+00:16:10,000 --> 00:16:11,333
+Duhej të kishte dalë deri tani.
+
+275
+00:16:13,916 --> 00:16:17,208
+Ah, ky tingull nuk është aspak i frikshëm.
+
+276
+00:16:17,375 --> 00:16:18,500
+Sir Ritchfield?
+
+277
+00:16:18,666 --> 00:16:21,708
+Po, është koha t'ju thuhet,
+qengja të vegjël,
+
+278
+00:16:22,000 --> 00:16:25,291
+sepse kështu janë gjërat.
+
+279
+00:16:25,458 --> 00:16:30,166
+Të gjitha ato re dikur ishin dele,
+njësoj si unë dhe ju.
+
+280
+00:16:30,333 --> 00:16:33,666
+Dhe kur shohin se toka
+është bërë shumë e thatë,
+
+281
+00:16:33,833 --> 00:16:36,083
+ato fillojnë të kërcejnë.
+
+282
+00:16:36,250 --> 00:16:40,208
+Zhurma të mëdha bubullimash
+ndërsa lëshojnë shiun nga qielli
+
+283
+00:16:40,375 --> 00:16:43,291
+për të bërë që të rriten bari dhe tërfili.
+
+284
+00:16:43,458 --> 00:16:45,500
+Bëhen të gjitha delet re?
+
+285
+00:16:45,666 --> 00:16:48,208
+Po, Pickles. Të gjithë ne.
+
+286
+00:16:48,375 --> 00:16:52,625
+Një ditë do të bëhem re,
+ashtu si prindërit e mi para meje.
+
+287
+00:16:52,958 --> 00:16:54,333
+Edhe pse…
+
+288
+00:16:55,375 --> 00:16:57,916
+për disa arsye,
+nuk mbaj mend si ishte
+
+289
+00:16:58,083 --> 00:17:00,458
+kur prindërit e mi u shndërruan në re.
+
+290
+00:17:01,125 --> 00:17:03,333
+Mopple, ti i mban mend të gjitha.
+
+291
+00:17:03,708 --> 00:17:06,583
+Ajo ditë duhet të ketë
+qenë e mrekullueshme, apo jo?
+
+292
+00:17:12,375 --> 00:17:14,833
+Epo, po. Sigurisht.
+
+293
+00:17:15,000 --> 00:17:18,791
+Ata thanë lamtumirë
+dhe u ngritën me gëzim në qiell,
+
+294
+00:17:18,958 --> 00:17:21,750
+duke u bërë dy re të bukura me gëzof
+
+295
+00:17:21,916 --> 00:17:24,541
+që na shikonin të gjithave
+
+296
+00:17:24,791 --> 00:17:26,041
+me dashuri.
+
+297
+00:17:27,291 --> 00:17:28,375
+Përgjithmonë.
+
+298
+00:17:30,083 --> 00:17:31,250
+Faleminderit.
+
+299
+00:17:35,333 --> 00:17:36,916
+Dhe ja ku është!
+
+300
+00:17:37,291 --> 00:17:39,458
+Ashtu siç duhet të jetë.
+
+301
+00:17:41,291 --> 00:17:42,458
+<i>Po.</i>
+
+302
+00:17:42,791 --> 00:17:45,791
+<i>Gjithçka është ashtu siç duhet të jetë.</i>
+
+303
+00:18:30,625 --> 00:18:35,500
+Shiko anën pozitive, ti zgjodhe
+kohën e përsosur për të ardhur këtu.
+
+304
+00:18:35,916 --> 00:18:38,708
+Është Festivali Kulturor i Denbrook-ut!
+
+305
+00:18:39,125 --> 00:18:40,708
+Ti je me fat!
+
+306
+00:18:42,250 --> 00:18:46,291
+Epo, shkova fundjavën e kaluar me motrën
+time dhe hëngrëm pak djathë vendas.
+
+307
+00:18:46,458 --> 00:18:48,458
+Dhe ishte shumë më i shijshëm
+
+308
+00:18:48,625 --> 00:18:51,583
+se të gjitha djathërat e atyre
+dyqaneve luksoze.
+
+309
+00:18:51,750 --> 00:18:53,000
+Motra ime tha që unë jam--
+
+310
+00:18:53,166 --> 00:18:54,500
+E pe atë?
+
+311
+00:18:55,250 --> 00:18:56,541
+Çfarë?
+
+312
+00:19:34,875 --> 00:19:36,416
+Je zgjuar!
+
+313
+00:19:36,583 --> 00:19:39,291
+Ju kam thënë disa herë
+të mos e bëni këtë.
+
+314
+00:19:39,708 --> 00:19:40,708
+Ne harruam!
+
+315
+00:19:40,875 --> 00:19:42,541
+Ne harruam.
+
+316
+00:19:42,708 --> 00:19:43,750
+Sigurisht që keni harruar.
+
+317
+00:19:43,916 --> 00:19:44,916
+Shikoje atë!
+
+318
+00:19:45,083 --> 00:19:46,791
+- Më prit!
+- Prit, ngadalëso!
+
+319
+00:20:00,875 --> 00:20:02,750
+Lily? Çfarë po--?
+
+320
+00:20:03,291 --> 00:20:05,791
+Mendoj se është një lojë.
+Mos lëviz.
+
+321
+00:20:05,958 --> 00:20:08,708
+I pari që lëviz humbet.
+
+322
+00:20:21,500 --> 00:20:23,458
+Ai nuk po luan një lojë.
+
+323
+00:20:23,625 --> 00:20:26,833
+Epo, atëherë, çfarë po bën?
+
+324
+00:20:29,666 --> 00:20:30,833
+Lily.
+
+325
+00:20:31,166 --> 00:20:32,291
+Ai…
+
+326
+00:20:33,125 --> 00:20:34,583
+Ai ka vdekur.
+
+327
+00:20:35,041 --> 00:20:36,916
+George ka vdekur.
+
+328
+00:20:37,375 --> 00:20:39,833
+Çfa--? Çfarë do të thuash?
+
+329
+00:20:40,875 --> 00:20:42,250
+Nuk është e vërtetë.
+
+330
+00:20:42,416 --> 00:20:44,291
+Kjo ndodh vetëm në libra.
+
+331
+00:20:48,250 --> 00:20:49,708
+Është e vërtetë?
+
+332
+00:20:53,750 --> 00:20:55,625
+Njerëzit vdesin?
+
+333
+00:20:57,833 --> 00:21:00,125
+Do të shndërrohet në një re?
+
+334
+00:21:01,208 --> 00:21:04,458
+Jo. Vetëm delet e bëjnë atë.
+
+335
+00:21:34,041 --> 00:21:35,458
+- "Vdekur?"
+- "Vdekur?"
+
+336
+00:21:35,625 --> 00:21:36,958
+Mund të ndodh vërtetë?
+
+337
+00:21:37,416 --> 00:21:39,000
+Me sa duket.
+
+338
+00:21:39,166 --> 00:21:41,041
+Do të thotë kjo që delet mund të vdesin?
+
+339
+00:21:41,208 --> 00:21:44,125
+Jo, Pickles, ne shndërrohemi në re, por--
+
+340
+00:21:44,291 --> 00:21:45,583
+George nuk mund të ketë vdekur.
+
+341
+00:21:45,750 --> 00:21:48,291
+Kam nevojë për ilaçet e mia.
+Kam orf.
+
+342
+00:21:48,458 --> 00:21:49,458
+Ç'është orf-i?
+
+343
+00:21:49,625 --> 00:21:50,916
+Ja çfarë është orf-i.
+
+344
+00:21:52,666 --> 00:21:53,708
+E shpifur!
+
+345
+00:21:53,875 --> 00:21:56,791
+Nuk mendoj se e kuptoni atë që po them.
+
+346
+00:21:57,375 --> 00:21:59,041
+George ka vdekur.
+
+347
+00:21:59,208 --> 00:22:01,000
+Ai nuk do të kthehet më.
+
+348
+00:22:01,166 --> 00:22:03,875
+Por George ishte bariu ynë.
+Çfarë do të bëjmë?
+
+349
+00:22:04,041 --> 00:22:07,250
+Po, ti je delja më e zgjuar në botë, Lily.
+Na thuaj çfarë të bëjmë?
+
+350
+00:22:07,416 --> 00:22:09,708
+Duhet të bëjmë vetëm një gjë.
+
+351
+00:22:10,833 --> 00:22:12,416
+Duhet të harrojmë George-in.
+
+352
+00:22:12,583 --> 00:22:15,333
+Çfarë? Por, Lily, është George.
+Nuk mund thjesht--
+
+353
+00:22:15,500 --> 00:22:18,833
+Të kujtosh atë dhemb shumë.
+Nuk mund ta bëj.
+
+354
+00:22:19,000 --> 00:22:22,750
+Ajo ka të drejtë. Delet nuk janë
+të destinuara të ndiejnë gjëra të tilla.
+
+355
+00:22:22,916 --> 00:22:25,875
+Duhet të zgjedhim të harrojmë.
+
+356
+00:22:27,875 --> 00:22:29,541
+Numërojmë deri në tre.
+
+357
+00:22:29,708 --> 00:22:30,833
+Por prisni. Mos--
+
+358
+00:22:31,000 --> 00:22:32,000
+Një.
+
+359
+00:22:32,166 --> 00:22:33,541
+Jo, të lutem, mos! Është George!
+
+360
+00:22:33,916 --> 00:22:34,958
+Dy.
+
+361
+00:22:35,125 --> 00:22:37,625
+Nuk do të harroni asgjë.
+
+362
+00:22:38,583 --> 00:22:39,583
+Sebastian.
+
+363
+00:22:39,750 --> 00:22:44,166
+Vërtet mendove se do t'ju lija
+ta harroni kaq lehtë bariun tim?
+
+364
+00:22:44,333 --> 00:22:46,208
+Ai ishte bariu ynë, Sebastian.
+
+365
+00:22:46,375 --> 00:22:47,791
+Ne të gjithë e donim atë.
+
+366
+00:22:48,083 --> 00:22:50,041
+Është shumë e dhimbshme për ta duruar.
+
+367
+00:22:50,583 --> 00:22:52,291
+Dhe ne do ta harrojmë.
+
+368
+00:22:52,458 --> 00:22:54,458
+Jo, nuk do ta bëni.
+
+369
+00:22:54,625 --> 00:22:57,375
+Do ta kujtoni atë sepse është e drejtë.
+
+370
+00:22:57,541 --> 00:22:59,000
+Sepse kështu është e drejtë.
+
+371
+00:22:59,333 --> 00:23:00,500
+E drejtë çfarë?
+
+372
+00:23:00,666 --> 00:23:02,875
+Jo, nuk--
+Dua të them drejtësi.
+
+373
+00:23:03,791 --> 00:23:04,833
+Drejtë çfarë?
+
+374
+00:23:05,000 --> 00:23:07,375
+Drej-tësi. Drejtësi.
+
+375
+00:23:07,541 --> 00:23:09,916
+Do të thotë që të mirët
+nuk duhet të dëmtohen nga të këqijtë.
+
+376
+00:23:10,083 --> 00:23:12,416
+Të dobëtit nuk duhet
+të dëmtohen nga të fortët.
+
+377
+00:23:12,583 --> 00:23:15,458
+Dhe një mik nuk duhet harruar kurrë.
+
+378
+00:23:15,875 --> 00:23:18,833
+George u tregua me mua i drejtë një herë.
+
+379
+00:23:19,166 --> 00:23:21,125
+Ai e meriton këtë në këmbim.
+
+380
+00:23:21,291 --> 00:23:24,541
+Është e vërtetë.
+George ishte gjithmonë i mirë me mua.
+
+381
+00:23:24,708 --> 00:23:25,708
+Me të gjithë ju.
+
+382
+00:23:25,875 --> 00:23:28,375
+Kjo është arsyeja
+pse ju rriti vetëm për leshin tuaj.
+
+383
+00:23:28,541 --> 00:23:30,166
+Për çfarë arsye
+tjetër do të rriste dikush dele?
+
+384
+00:23:30,291 --> 00:23:32,541
+Për asnjë arsye tjetër. Thjesht
+për leshin. Për leshin e bukur.
+
+385
+00:23:32,666 --> 00:23:33,958
+Ooh! Kam një pyetje.
+
+386
+00:23:34,250 --> 00:23:38,041
+Çfarë kuptimi ka jeta e njeriut nëse
+gjithçka mund të përfundojë në një çast?
+
+387
+00:23:38,166 --> 00:23:39,666
+Në fakt, pse njerëzit jetojnë në tokë?
+
+388
+00:23:39,791 --> 00:23:41,083
+Dhe kush i krijoi ata?
+Dhe kush na krijoi ne?
+
+389
+00:23:41,208 --> 00:23:43,291
+Dhe çfarë ka brenda një peme
+dhe ku shkon hëna gjatë ditës?
+
+390
+00:23:43,416 --> 00:23:45,083
+Dhe pse u vra George?
+
+391
+00:23:45,833 --> 00:23:48,291
+"U vra?"
+Çfarë do të thuash me "u vra?"
+
+392
+00:23:48,458 --> 00:23:51,208
+Në tregimet e mbrëmjes,
+të vdekurit vriten gjithmonë.
+
+393
+00:23:51,375 --> 00:23:52,458
+Jo, jo, Zora.
+
+394
+00:23:52,625 --> 00:23:55,000
+Ato janë trillime. Kjo është e vërtetë.
+
+395
+00:23:55,166 --> 00:23:56,250
+Apo jo, Lily?
+
+396
+00:23:56,416 --> 00:23:59,791
+Po, pikërisht. Nuk ka asnjë arsye
+që të mendojmë se George--
+
+397
+00:24:01,458 --> 00:24:02,958
+Kapela e tij.
+
+398
+00:24:20,416 --> 00:24:23,916
+Erdha që ai të nënshkruante
+disa dokumente dhe e gjeta kështu.
+
+399
+00:24:25,208 --> 00:24:26,708
+Do të mbash një fjalim?
+
+400
+00:24:26,875 --> 00:24:27,708
+Jo.
+
+401
+00:24:30,916 --> 00:24:32,041
+Caleb.
+
+402
+00:24:34,125 --> 00:24:36,000
+Çfarë po bën kasapi këtu?
+
+403
+00:24:38,208 --> 00:24:39,416
+Pesë.
+
+404
+00:24:40,333 --> 00:24:41,375
+Gjashtë.
+
+405
+00:24:42,750 --> 00:24:44,125
+Ai do delet.
+
+406
+00:24:45,916 --> 00:24:47,541
+Pesëmbëdhjetë.
+
+407
+00:24:49,083 --> 00:24:50,625
+Gjashtëmbëdhjetë.
+
+408
+00:24:51,125 --> 00:24:52,541
+Lily. Çfarë ke në mëndje?
+
+409
+00:24:52,708 --> 00:24:54,416
+Mund të mos jetë asgjë…
+
+410
+00:24:54,583 --> 00:24:57,583
+por nuk mund të ndaloj së menduari
+për kapelen dhe mushaman e George-it.
+
+411
+00:24:57,750 --> 00:24:58,916
+Çfarë kapele dhe mushama?
+
+412
+00:24:59,083 --> 00:25:02,375
+Pikërisht. Ai doli në mes të një stuhie.
+Pse nuk i veshi ato?
+
+413
+00:25:02,541 --> 00:25:03,833
+Përveç nëse…
+
+414
+00:25:04,541 --> 00:25:05,916
+Më ndihmo të ngrehem.
+
+415
+00:25:09,375 --> 00:25:10,416
+Çfarë?
+
+416
+00:25:10,791 --> 00:25:12,958
+Thashë, do të doja ta harroja këtë.
+
+417
+00:25:16,083 --> 00:25:17,833
+Sheh ndonjë gjë?
+
+418
+00:25:19,750 --> 00:25:22,250
+Unë shoh gjithçka.
+
+419
+00:25:37,458 --> 00:25:38,833
+Më falni?
+
+420
+00:25:39,000 --> 00:25:40,041
+Mirëmëngjesi.
+
+421
+00:25:40,208 --> 00:25:42,416
+Më fal, çfarë po bën akoma këtu?
+
+422
+00:25:42,583 --> 00:25:44,416
+Probleme me makinën.
+Kush është ky?
+
+423
+00:25:44,791 --> 00:25:47,250
+Ai quhet George Hardy.
+Ai është një bari.
+
+424
+00:25:47,583 --> 00:25:48,916
+Çfarë ndodhi?
+
+425
+00:25:49,083 --> 00:25:50,583
+Me gjasë arrest kardiak.
+
+426
+00:25:50,750 --> 00:25:53,083
+Kam frikë,
+nuk ka ndonjë histori për ty këtu.
+
+427
+00:25:53,458 --> 00:25:56,250
+Përveç nëse ka diçka të pazakontë.
+Apo jo?
+
+428
+00:25:56,416 --> 00:25:58,208
+Jo. Kontrollova gjithandej.
+
+429
+00:25:58,375 --> 00:26:00,291
+Përreth rulotes.
+
+430
+00:26:01,333 --> 00:26:02,875
+Poshtë rulotes.
+
+431
+00:26:03,041 --> 00:26:05,000
+Po brenda rulotes?
+
+432
+00:26:10,291 --> 00:26:11,791
+Ia vlen ta provosh.
+
+433
+00:26:12,666 --> 00:26:14,625
+Oh, ndoshta nuk…
+
+434
+00:26:15,916 --> 00:26:16,958
+Çfarë?
+
+435
+00:26:17,125 --> 00:26:18,916
+Ka gjurmë gishtash, apo jo?
+
+436
+00:26:20,000 --> 00:26:22,875
+Po. Mjekësia ligjore.
+
+437
+00:26:23,541 --> 00:26:24,583
+Po.
+
+438
+00:26:33,416 --> 00:26:35,666
+Epo, gjithçka duket në rregull.
+
+439
+00:26:35,833 --> 00:26:37,333
+Prit, një sekondë, një sekondë.
+
+440
+00:26:38,375 --> 00:26:43,166
+Pse një njeri që pëson atak në zemër
+do të ngrihej dhe do të dilte jashtë?
+
+441
+00:26:43,500 --> 00:26:45,208
+Ndoshta kur ndodhi ataku
+ai ndodhej jashtë.
+
+442
+00:26:45,375 --> 00:26:47,208
+Jo, jo. Ka ndodhur këtu.
+
+443
+00:26:47,875 --> 00:26:49,625
+Ai rrëzoi karrigen e tij.
+
+444
+00:26:53,458 --> 00:26:54,958
+Dhe ai nuk ishte vetëm.
+
+445
+00:26:55,250 --> 00:26:56,916
+Dhe ai nuk ishte vetëm.
+
+446
+00:26:59,041 --> 00:27:00,291
+Eja, mik.
+
+447
+00:27:00,875 --> 00:27:02,333
+Ishte një atak në zemër.
+
+448
+00:27:02,500 --> 00:27:04,458
+Më duket
+se po e injoron qëllimisht faktin
+
+449
+00:27:04,583 --> 00:27:06,375
+se ka prova që sugjerojnë të kundërtën.
+
+450
+00:27:06,500 --> 00:27:09,583
+Çfarë po thua?
+Që kam frikë se është vrasje?
+
+451
+00:27:09,958 --> 00:27:10,791
+Ke frikë.
+
+452
+00:27:11,708 --> 00:27:12,708
+Mos u bëj i marrë.
+
+453
+00:27:12,875 --> 00:27:16,500
+Do të doja të kishte vrasje në Denbrook.
+Do të doja të kishte çdo ditë vrasje.
+
+454
+00:27:16,666 --> 00:27:18,250
+Asgjë nuk do të më bënte më të lumtur.
+
+455
+00:27:20,166 --> 00:27:24,333
+{\an8}Dëgjo, e di që të duhet një histori
+për karrierën tënde në gazetari.
+
+456
+00:27:24,500 --> 00:27:25,916
+{\an8}Por më vjen keq…
+
+457
+00:27:29,041 --> 00:27:31,750
+{\an8}George Hardy-n nuk e kanë vrarë.
+
+458
+00:27:32,541 --> 00:27:34,041
+George Hardy-n e kanë vrarë.
+
+459
+00:27:35,375 --> 00:27:37,750
+Polici tha se ishte vrasje?
+
+460
+00:27:37,916 --> 00:27:41,166
+Jo. Polici tha se ishte atak në zemër.
+Por ai gabohet.
+
+461
+00:27:41,333 --> 00:27:44,625
+Oh. Pra, nuk është vërtet një vrasje.
+
+462
+00:27:44,791 --> 00:27:48,666
+Është thjesht një hamendësim i çmendur
+nga një kafshë stalle.
+
+463
+00:27:50,333 --> 00:27:51,375
+Në rregull.
+
+464
+00:27:52,041 --> 00:27:56,125
+George u vizitua nga dikush që e njihte
+mjaftueshëm sa për t'i ofruar një pije.
+
+465
+00:27:56,291 --> 00:27:57,875
+Pastaj ai u sëmur.
+
+466
+00:27:58,041 --> 00:28:02,833
+Meqë mysafiri i tij nuk njoftoi dikë
+sugjeron se ishte përgjegjës,
+
+467
+00:28:03,000 --> 00:28:06,416
+dhe mungesa e plagëve të dukshme
+tregon që ai është helmuar.
+
+468
+00:28:06,750 --> 00:28:10,708
+Njolla jeshile e barit në dorën e tij
+tregon për një përleshje.
+
+469
+00:28:10,916 --> 00:28:12,625
+Vrasësi u arratis.
+
+470
+00:28:12,791 --> 00:28:16,083
+George vdiq nga helmimi.
+
+471
+00:28:18,500 --> 00:28:19,666
+Unë kurrë nuk hamendësoj.
+
+472
+00:28:20,708 --> 00:28:24,666
+Polici është plotësisht i pashpresë, ashtu
+siç janë gjithmonë në tregime.
+
+473
+00:28:24,833 --> 00:28:28,208
+Kjo është arsyeja pse dikush tjetër
+duhet të vijë dhe ta zgjidhë krimin.
+
+474
+00:28:28,375 --> 00:28:29,458
+Kush?
+
+475
+00:28:29,750 --> 00:28:31,250
+Geroge na ushqeu.
+
+476
+00:28:31,416 --> 00:28:33,541
+George u kujdes për ne.
+
+477
+00:28:33,708 --> 00:28:35,583
+George na donte.
+
+478
+00:28:36,041 --> 00:28:37,500
+Ne i detyrohemi gjithçka.
+
+479
+00:28:37,916 --> 00:28:39,541
+Çfarë po thua?
+
+480
+00:28:39,708 --> 00:28:42,250
+Bariu ynë është vrarë.
+
+481
+00:28:42,416 --> 00:28:45,166
+Dhe ne duhet të zgjidhim krimin.
+
+482
+00:28:49,541 --> 00:28:50,541
+Çfarë ka për të qeshur?
+
+483
+00:28:53,708 --> 00:28:55,083
+Para së gjithash…
+
+484
+00:28:55,250 --> 00:28:57,583
+ju jeni dele!
+
+485
+00:28:57,916 --> 00:28:59,041
+Ai e ka fjalën për ty.
+
+486
+00:28:59,208 --> 00:29:03,541
+Ju mendoni se jeni aq të zgjuara
+për të zgjidhur një krim?
+
+487
+00:29:03,708 --> 00:29:08,458
+E dini si i quajnë njerëzit budallenj
+që nuk kanë aftësi të mendojnë?
+
+488
+00:29:08,625 --> 00:29:09,625
+Rosa!
+
+489
+00:29:09,791 --> 00:29:10,541
+Dele!
+
+490
+00:29:10,708 --> 00:29:13,583
+Dhe ti.
+"Delja më e zgjuar në botë."
+
+491
+00:29:13,750 --> 00:29:16,500
+Ku ke qenë "në botë?"
+
+492
+00:29:16,791 --> 00:29:19,583
+Këtu? Dhe atje?
+
+493
+00:29:19,958 --> 00:29:21,000
+Të lutem.
+
+494
+00:29:21,166 --> 00:29:25,250
+Thjesht kthehu te sana
+dhe luleradhiqet dhe gjumi yt
+
+495
+00:29:25,416 --> 00:29:28,166
+dhe ua lër çështjet e vrasjeve njerëzve.
+
+496
+00:29:29,708 --> 00:29:32,166
+Pra. Të fillojmë?
+
+497
+00:29:34,291 --> 00:29:37,958
+Kërkoni për të dhëna.
+Mos prekni asnjë provë.
+
+498
+00:29:40,125 --> 00:29:43,041
+Dhe mos hani vendin e krimit!
+
+499
+00:29:44,291 --> 00:29:45,583
+Hej, çfarë është kjo?
+
+500
+00:29:45,750 --> 00:29:48,833
+Djema! Mund të jem brenda një të dhëne!
+
+501
+00:29:50,333 --> 00:29:52,666
+Oh Zot. Përshëndetje?
+
+502
+00:29:52,791 --> 00:29:54,791
+Në rregull, le t'i lëmë të dhënat.
+
+503
+00:29:54,958 --> 00:29:58,416
+Keni parë ndonjëra
+gjë në natën e vrasjes?
+
+504
+00:29:58,583 --> 00:30:00,041
+Po.
+
+505
+00:30:01,208 --> 00:30:03,250
+Të pashë ty, Sebastian.
+
+506
+00:30:04,291 --> 00:30:05,500
+E bëri Sebastian-i.
+
+507
+00:30:05,666 --> 00:30:07,208
+Vrasës!
+
+508
+00:30:07,750 --> 00:30:09,708
+Po. Unë e bëra.
+
+509
+00:30:09,875 --> 00:30:13,875
+Hyra nga një derë që nuk më zë dot,
+u ula në një karrige që nuk më mban dot,
+
+510
+00:30:14,041 --> 00:30:16,125
+dhe vrava bariun tim pa asnjë arsye
+
+511
+00:30:16,291 --> 00:30:20,208
+duke shtrydhur
+me delikatesë pika helmi në gotën e tij
+
+512
+00:30:20,458 --> 00:30:22,208
+duke përdorur këto.
+
+513
+00:30:22,375 --> 00:30:24,083
+- Ai ka të drejtë.
+- Çfarë po ndodh?
+
+514
+00:30:24,250 --> 00:30:26,583
+Keni parë ndonjë njeri?
+
+515
+00:30:27,333 --> 00:30:29,416
+Unë pashë fantazmën e George.
+
+516
+00:30:30,333 --> 00:30:32,125
+- Jo, nuk e ke parë.
+- Po, e pashë.
+
+517
+00:30:34,208 --> 00:30:36,375
+Fantazma doli nga trupi i tij.
+
+518
+00:30:36,541 --> 00:30:39,916
+Dua të them, nuk mund
+të shihja shumë mirë në errësirë,
+
+519
+00:30:40,083 --> 00:30:42,375
+por mbante erë si të George-it dhe--
+
+520
+00:30:42,541 --> 00:30:45,416
+Të lutem, qengj dimëror,
+nuk është momenti i duhur.
+
+521
+00:30:45,875 --> 00:30:48,541
+Kambana?
+Por kambanat ranë dy ditë më parë.
+
+522
+00:30:48,875 --> 00:30:51,666
+I përdorin kambanat
+për të thirrur tubimet e qytetit.
+
+523
+00:30:51,833 --> 00:30:53,083
+Kjo ka të bëjë me George-in.
+
+524
+00:30:53,250 --> 00:30:54,291
+Sigurisht!
+
+525
+00:30:54,458 --> 00:30:58,958
+Në tregimet e natës, gjithmonë
+ka një tubim për të njoftuar vrasjen.
+
+526
+00:30:59,125 --> 00:31:01,041
+Dhe vrasësi gjendet gjithmonë mes tyre.
+
+527
+00:31:01,208 --> 00:31:02,583
+Duhet të shkojmë atje.
+
+528
+00:31:03,291 --> 00:31:05,500
+Mendon se ke aq guxim
+sa për të dalë nga shtëpia?
+
+529
+00:31:05,666 --> 00:31:07,500
+Asnjëra prej jush nuk është
+larguar kurrë nga ky livadh.
+
+530
+00:31:07,666 --> 00:31:10,125
+Thundrat tuaja nuk kanë prekur
+asgjë tjetër përveç barit.
+
+531
+00:31:10,291 --> 00:31:12,125
+Pse është kaq e vështirë
+për të lënë shtëpinë?
+
+532
+00:31:12,291 --> 00:31:13,666
+Ne nuk kemi frikë.
+
+533
+00:31:19,041 --> 00:31:21,041
+- Mopple, çfarë është ajo?
+- Mendoj se është një rrugë.
+
+534
+00:31:21,166 --> 00:31:23,583
+- Por nga çfarë është bërë?
+- Epo, jo nga bari, këtë e them me siguri.
+
+535
+00:31:23,708 --> 00:31:24,791
+Lily?
+
+536
+00:31:25,333 --> 00:31:26,333
+Po!
+
+537
+00:31:26,500 --> 00:31:27,958
+Po vjen?
+
+538
+00:31:28,125 --> 00:31:29,791
+Unë thjesht…
+
+539
+00:31:30,125 --> 00:31:32,166
+Ti vazhdo përpara.
+
+540
+00:31:32,333 --> 00:31:34,500
+Pse po bërtet?
+
+541
+00:31:34,666 --> 00:31:36,958
+Jam vetëm disa metra larg teje.
+
+542
+00:31:38,708 --> 00:31:40,375
+Por duket shumë larg.
+
+543
+00:31:40,541 --> 00:31:44,041
+Gjithçka që duhet të bësh
+është të kalosh rrugën.
+
+544
+00:31:56,708 --> 00:31:59,208
+Jo. Jo, nuk mundem.
+
+545
+00:31:59,375 --> 00:32:00,666
+Është e pamundur.
+
+546
+00:32:15,458 --> 00:32:17,125
+Nuk është faji yt.
+
+547
+00:32:17,291 --> 00:32:18,791
+Ne jemi ato që jemi.
+
+548
+00:32:21,708 --> 00:32:25,583
+Ndoshta mund ta kalojmë së bashku.
+
+549
+00:32:27,458 --> 00:32:28,750
+Për George-in?
+
+550
+00:32:30,583 --> 00:32:32,166
+Për George-in.
+
+551
+00:32:33,166 --> 00:32:34,500
+Së bashku.
+
+552
+00:32:45,875 --> 00:32:48,250
+- Dua të kthehem.
+- Edhe unë. Vazhdo të ecësh.
+
+553
+00:32:52,375 --> 00:32:54,583
+Ne ia dolëm! U larguam nga shtëpia!
+
+554
+00:32:54,750 --> 00:32:56,916
+E shihni? Delet mund të bëjnë gjëra.
+
+555
+00:32:57,083 --> 00:32:59,625
+Në fakt, mund të bëjmë çdo gjë.
+
+556
+00:33:01,333 --> 00:33:03,500
+Vetëm tre kilometra të tjera kanë mbetur.
+
+557
+00:33:03,666 --> 00:33:05,333
+Nuk ka fare problem.
+
+558
+00:33:05,958 --> 00:33:08,041
+Dhe sa kilometra bëmë?
+
+559
+00:33:08,708 --> 00:33:10,375
+E pranoj, jam i impresionuar.
+
+560
+00:33:10,541 --> 00:33:14,833
+Nuk do ta zgjidhësh misterin,
+por të paktën po sheh pak nga bota.
+
+561
+00:33:15,000 --> 00:33:17,041
+Sigurisht që do ta zgjidh misterin.
+
+562
+00:33:17,208 --> 00:33:19,291
+Do ta zgjidh sonte.
+
+563
+00:33:19,708 --> 00:33:22,333
+George na lexoi dhjetëra
+tregime të tilla.
+
+564
+00:33:22,500 --> 00:33:25,250
+Ato ndjekin rregulla shumë të thjeshta.
+
+565
+00:33:25,416 --> 00:33:26,625
+Mopple?
+
+566
+00:33:27,375 --> 00:33:29,208
+Huh? Oh. Një!
+
+567
+00:33:29,375 --> 00:33:31,541
+Vrasësi gjithmonë
+kthehet në vendin e krimit.
+
+568
+00:33:31,708 --> 00:33:32,375
+Dy!
+
+569
+00:33:32,500 --> 00:33:34,666
+Policia gjithmonë
+mendon se e ka bërë ndonjë endacak.
+
+570
+00:33:34,833 --> 00:33:36,416
+Oh, ato gjithmonë flasin për një indacak.
+
+571
+00:33:36,541 --> 00:33:37,333
+Tre.
+
+572
+00:33:37,458 --> 00:33:40,666
+Një person i papritur vjen
+dhe ndryshon gjithçka.
+
+573
+00:33:40,833 --> 00:33:41,666
+Katër!
+
+574
+00:33:41,833 --> 00:33:44,666
+Viktima është e dhëna më e rëndësishme.
+
+575
+00:33:45,000 --> 00:33:47,291
+Epo, kjo është e thjeshtë.
+
+576
+00:33:47,458 --> 00:33:52,541
+Por do të zbuloni se bota reale
+është pak më e komplikuar se një libër.
+
+577
+00:33:52,708 --> 00:33:53,875
+Meqë ra fjala…
+
+578
+00:33:54,041 --> 00:33:56,166
+Mirë se vini në Denbrook.
+
+579
+00:33:57,000 --> 00:33:58,250
+Çfarë është kjo?
+
+580
+00:33:58,416 --> 00:34:01,333
+Kjo është kisha
+ku dikush me emrin "Zot" jeton.
+
+581
+00:34:01,500 --> 00:34:02,500
+Kush është Zoti?
+
+582
+00:34:02,666 --> 00:34:04,000
+Është paksa konfuze.
+
+583
+00:34:04,166 --> 00:34:05,583
+Zoti është një bari.
+
+584
+00:34:05,750 --> 00:34:07,166
+Pra ai mund të jetë bariu ynë?
+
+585
+00:34:07,333 --> 00:34:09,958
+Jo. Sepse edhe ai është një qengj.
+
+586
+00:34:10,083 --> 00:34:10,833
+Çfarë?
+
+587
+00:34:10,958 --> 00:34:12,708
+Dhe është i padukshëm.
+
+588
+00:34:12,875 --> 00:34:14,125
+Dhe është i bërë nga buka.
+
+589
+00:34:14,291 --> 00:34:15,666
+Dhe ai i mallkon gjërat.
+
+590
+00:34:15,791 --> 00:34:17,750
+Si një kastor?
+
+591
+00:34:17,916 --> 00:34:18,916
+Po.
+
+592
+00:34:19,083 --> 00:34:22,583
+Pra, Zoti është një qengj i madh
+dhe i padukshëm, i bërë nga buka?
+
+593
+00:34:22,750 --> 00:34:24,708
+Po. Dhe e hanë të dielave.
+
+594
+00:34:25,666 --> 00:34:26,958
+I gjori Zot.
+
+595
+00:34:27,291 --> 00:34:28,625
+E di që duhej të kthehesha,
+
+596
+00:34:28,791 --> 00:34:32,416
+por ndoshta kam hasur në misterin tim të
+parë të një vrasje në një qytet të vogël.
+
+597
+00:34:32,583 --> 00:34:34,375
+Duhet të shkoj, duhet të shkoj.
+
+598
+00:34:34,541 --> 00:34:36,375
+Ejani.
+Ata nuk do të na shohin nga këtu.
+
+599
+00:34:36,541 --> 00:34:38,916
+Ata tashmë ju shohin
+dhe askujt nuk i intereson për ju.
+
+600
+00:34:39,083 --> 00:34:41,500
+Për të 100-tën herë,
+ju jeni dele.
+
+601
+00:34:41,958 --> 00:34:43,916
+Qytetarë të Denbrook-it.
+
+602
+00:34:44,333 --> 00:34:48,833
+E di që ka thashetheme
+se vdekja e George Hardy ishte e dyshimtë.
+
+603
+00:34:49,000 --> 00:34:52,625
+Por nuk më lejohet të komentoj
+për helmimin deri në hetimin--
+
+604
+00:34:52,750 --> 00:34:54,666
+Prit! George-in e kanë vrarë?
+
+605
+00:34:55,541 --> 00:34:56,666
+Oh dreqin.
+
+606
+00:34:56,833 --> 00:34:59,083
+Më fal, çfarë helmi?
+
+607
+00:34:59,250 --> 00:35:00,250
+Dëgjoni.
+
+608
+00:35:00,791 --> 00:35:03,291
+George u helmua
+nga diçka që quhet taksinë.
+
+609
+00:35:03,583 --> 00:35:05,208
+Gjendet në manaferrat e pemës
+së bërshenit.
+
+610
+00:35:05,375 --> 00:35:07,708
+Dhe këto pemë,
+rriten këtej rrotull?
+
+611
+00:35:09,416 --> 00:35:10,250
+Rriten atje.
+
+612
+00:35:12,083 --> 00:35:13,666
+Atëherë njëri prej nesh e ka vrarë atë.
+
+613
+00:35:13,833 --> 00:35:15,125
+Jo, jo. Jo. Jo.
+
+614
+00:35:15,291 --> 00:35:18,375
+Të lutem. Me gjasë e ka bërë një endacak.
+
+615
+00:35:22,875 --> 00:35:24,291
+Pse po sillen ashtu?
+
+616
+00:35:45,000 --> 00:35:46,458
+Officer Derry?
+
+617
+00:35:47,333 --> 00:35:48,625
+Officer Derry.
+
+618
+00:35:49,541 --> 00:35:50,625
+Po.
+
+619
+00:35:50,958 --> 00:35:53,541
+Çfa--? Uh, po unë jam ai.
+
+620
+00:35:53,708 --> 00:35:56,416
+Lydia Harbottle?
+Harbottle and Bloom?
+
+621
+00:35:56,666 --> 00:36:00,166
+Ne folëm më herët.
+Jam avokatja e të ndjerit George Hardy.
+
+622
+00:36:00,333 --> 00:36:02,791
+Po. Dhe ti je?
+
+623
+00:36:03,000 --> 00:36:04,958
+Jam Rebecca Hampstead.
+
+624
+00:36:05,125 --> 00:36:06,916
+Vajza e George-it.
+
+625
+00:36:07,500 --> 00:36:10,208
+- Ai kishte një vajzë.
+- George kishte një vajzë?
+
+626
+00:36:10,708 --> 00:36:15,333
+Një person i papritur arrin
+dhe ndryshon gjithçka.
+
+627
+00:36:16,750 --> 00:36:19,583
+Numri juaj i telefonit në fund të faqes.
+
+628
+00:36:19,750 --> 00:36:21,583
+Kështu e dija si të të telefonoja.
+
+629
+00:36:21,750 --> 00:36:23,333
+Unë gjithmonë jam duke hetuar.
+
+630
+00:36:23,500 --> 00:36:25,166
+Por ti nuk je një detektiv, apo jo?
+
+631
+00:36:25,333 --> 00:36:26,333
+E di, por--
+
+632
+00:36:26,458 --> 00:36:30,375
+Ti e gjete këtë dokument mbi një tryezë
+në një rulot të vogël.
+
+633
+00:36:30,500 --> 00:36:31,750
+Ky nuk është "hetim." apo jo?
+
+634
+00:36:31,916 --> 00:36:32,750
+Epo…
+
+635
+00:36:32,875 --> 00:36:37,291
+Pra, e vutë re këtë dokument herën e dytë
+që hytë në ruloten e zr. Hardy?
+
+636
+00:36:37,458 --> 00:36:38,375
+Po.
+
+637
+00:36:38,541 --> 00:36:41,750
+Më duhej të kthehesha atje,
+të kontrolloja mirë vendin e ngjarjes.
+
+638
+00:36:42,166 --> 00:36:45,291
+Vendosa shiritin e policisë.
+Më ngjitës nga ç'prisja.
+
+639
+00:36:45,416 --> 00:36:47,041
+Nuk më intereson mua,
+dhe askujt tjetër.
+
+640
+00:36:47,166 --> 00:36:49,833
+E ke lexuar?
+I ke hedhur një sy të paktën?
+
+641
+00:36:50,000 --> 00:36:52,000
+Jo. Nuk më takon mua.
+
+642
+00:36:52,166 --> 00:36:53,750
+Sigurisht që të takon ty.
+
+643
+00:36:54,250 --> 00:36:56,208
+Do ta lexoj testamentin
+këtë pasdite.
+
+644
+00:36:56,375 --> 00:37:00,166
+Personat e mëposhtëm janë përmendur,
+pra sigurohu që të jenë të pranishëm.
+
+645
+00:37:00,333 --> 00:37:04,333
+Pastori Hillcoate, Caleb Merrow…
+
+646
+00:37:04,500 --> 00:37:05,916
+Shkruaje këtë.
+
+647
+00:37:06,083 --> 00:37:09,833
+Pastori Hillcoate,
+Caleb Merroë, Beth Pennock,
+
+648
+00:37:10,000 --> 00:37:14,458
+Ham Gilyard, ti,
+dhe Rebecca Hampstead.
+
+649
+00:37:14,625 --> 00:37:16,750
+Do të qënroj te bujtina Partridge.
+
+650
+00:37:17,333 --> 00:37:19,916
+Do ta lexojmë testamentin atje
+saktësisht në ora 17:00.
+
+651
+00:37:20,083 --> 00:37:22,166
+Në ora 17:00.
+
+652
+00:37:22,333 --> 00:37:27,666
+Të thashë që Rebecca jeton në Amerikë
+dhe megjithatë ja ku ndodhet në Denbrook
+
+653
+00:37:27,833 --> 00:37:30,875
+pikërisht në ditën që më
+the se i ati kishte vdekur.
+
+654
+00:37:31,041 --> 00:37:33,875
+Domethënë, ajo ishte tashmë
+në këtë vend natën që ai u vra.
+
+655
+00:37:34,041 --> 00:37:35,791
+Por ti nuk e vure re këtë, apo jo?
+
+656
+00:37:37,041 --> 00:37:38,125
+Po.
+
+657
+00:37:38,458 --> 00:37:40,958
+Jo. Po. Sigurist që po.
+
+658
+00:37:41,375 --> 00:37:43,791
+Kjo është vrasja juaj e parë, apo jo?
+
+659
+00:37:43,958 --> 00:37:45,000
+Çfarë?
+
+660
+00:37:46,041 --> 00:37:47,875
+Ti mendon se unë e vrava atë?
+
+661
+00:37:51,375 --> 00:37:53,333
+Oh. Oh.
+
+662
+00:37:54,083 --> 00:37:57,583
+Do të thuash që kjo është
+hera e parë që hetoj një vrasje.
+
+663
+00:37:58,541 --> 00:38:01,875
+Epo, e gjitha barra është mbi supet e tua,
+Oficer Derry.
+
+664
+00:38:02,208 --> 00:38:03,291
+Shihemi në ora 17:00.
+
+665
+00:38:03,458 --> 00:38:05,125
+Shihemi në ora 17:00,
+Zonjusha Harbottle.
+
+666
+00:38:05,291 --> 00:38:06,583
+Zonja Harbottle.
+
+667
+00:38:08,833 --> 00:38:10,958
+Duhet të jemi të pranishëm
+në leximin e testamentit.
+
+668
+00:38:11,541 --> 00:38:13,125
+{\an8}Kjo është bujtina Partridge.
+
+669
+00:38:13,291 --> 00:38:15,333
+Unë ha lule këtu ndonjëherë.
+
+670
+00:38:15,500 --> 00:38:18,791
+Megjithatë,
+nuk e di se si ka rëndësi kjo gjë.
+
+671
+00:38:18,958 --> 00:38:21,333
+Në tregime
+gjithmonë ka një testament,
+
+672
+00:38:21,500 --> 00:38:24,666
+dhe njerëzit në testament
+janë gjithmonë të dyshuarit.
+
+673
+00:38:27,166 --> 00:38:28,500
+Duhet të shoh fytyrat e tyre.
+
+674
+00:38:28,666 --> 00:38:29,416
+Pse?
+
+675
+00:38:29,583 --> 00:38:33,166
+Sepse njerëzit shpesh gënjejnë,
+dhe kjo mund të shihet në sytë e tyre.
+
+676
+00:38:33,333 --> 00:38:34,583
+Pikërisht.
+
+677
+00:38:36,208 --> 00:38:39,583
+Mopple,
+shiko përreth nëse ka ndonjë më të mirë.
+
+678
+00:38:39,750 --> 00:38:40,833
+Në rregull.
+
+679
+00:38:41,500 --> 00:38:42,833
+Vazhdojmë?
+
+680
+00:38:45,208 --> 00:38:47,416
+Çfarë di
+për nënën tëne biologjike?
+
+681
+00:38:47,583 --> 00:38:51,250
+Në letrat e tij ai tha
+se ajo vdiq duke më lindur mua.
+
+682
+00:38:51,416 --> 00:38:54,333
+Dhe se ai ishte shumë i ri,
+shumë i frikësuar dhe shumë i varfër…
+
+683
+00:38:55,791 --> 00:38:57,750
+dhe më dha për birësim.
+
+684
+00:38:58,291 --> 00:38:59,541
+Në fakt, nëpërmjet kishës.
+
+685
+00:39:02,375 --> 00:39:04,291
+Kam edhe unë një pyetje.
+
+686
+00:39:04,458 --> 00:39:05,791
+Më vjen keq, mik.
+
+687
+00:39:06,791 --> 00:39:08,291
+Gëzohem që të shoh.
+
+688
+00:39:08,458 --> 00:39:10,208
+Sapo kuptova,
+
+689
+00:39:10,958 --> 00:39:12,208
+vetë,
+
+690
+00:39:12,375 --> 00:39:16,208
+se nuk mund të kishe ardhur këtu sot
+nga Amerika, apo jo?
+
+691
+00:39:16,375 --> 00:39:19,500
+Kjo do të thotë se ti ishe tashmë
+në këtë vend mbrëmë
+
+692
+00:39:19,666 --> 00:39:22,750
+kur George u… vra.
+
+693
+00:39:23,208 --> 00:39:26,500
+Nuk po të akuzoj,
+por është e vërtetë?
+
+694
+00:39:26,875 --> 00:39:28,791
+Shumë e zgjuar, detektiv.
+
+695
+00:39:28,958 --> 00:39:31,208
+Jo, nuk jam detektiv.
+
+696
+00:39:31,375 --> 00:39:33,125
+Jam thjesht një oficer…
+
+697
+00:39:33,291 --> 00:39:36,125
+i cili gjithmonë është duke hetuar.
+
+698
+00:39:36,625 --> 00:39:39,750
+Epo, unë… unë…
+
+699
+00:39:40,541 --> 00:39:44,083
+Kam qenë në këtë vend, por nuk kam
+qenë kurrë në Denbrook deri më sot.
+
+700
+00:39:44,625 --> 00:39:46,500
+Pyetja e radhës:
+
+701
+00:39:46,666 --> 00:39:48,166
+Ke një
+
+702
+00:39:48,333 --> 00:39:49,583
+të dashur?
+
+703
+00:39:50,583 --> 00:39:51,875
+Kjo është shumë e sikletshme.
+
+704
+00:39:52,041 --> 00:39:53,916
+Çfarë? Kjo është një pyetje standarde
+
+705
+00:39:54,083 --> 00:39:57,833
+që çdo hetues do të bënte në këtë situatë.
+
+706
+00:39:58,000 --> 00:40:01,083
+Sa e çuditshme që më bën këtë pyetje.
+Sapo u ndamë.
+
+707
+00:40:01,583 --> 00:40:02,791
+Oh jo.
+
+708
+00:40:04,166 --> 00:40:05,583
+Sheh atë që shoh unë?
+
+709
+00:40:05,750 --> 00:40:06,791
+Vajza.
+
+710
+00:40:06,958 --> 00:40:09,125
+Fytyra e saj është e lumtur…
+
+711
+00:40:09,291 --> 00:40:12,000
+Por sytë e saj janë të frikësuar.
+
+712
+00:40:12,166 --> 00:40:14,833
+Pra, në çfarë ore mbërritët
+mbrëmë saktësisht?
+
+713
+00:40:15,000 --> 00:40:17,583
+Rreth orës 19:00 dhe…
+
+714
+00:40:19,416 --> 00:40:20,416
+Më falni.
+
+715
+00:40:22,083 --> 00:40:24,750
+- S'ka gjë.
+- Do ta takoja sot.
+
+716
+00:40:24,916 --> 00:40:26,333
+Jam shumë e emocionuar.
+
+717
+00:40:28,375 --> 00:40:30,250
+- Oh, faleminderit.
+- Merre. Merre.
+
+718
+00:40:30,416 --> 00:40:31,875
+Faleminderit.
+
+719
+00:40:32,291 --> 00:40:34,166
+Është në rregull.
+Faleminderit shumë.
+
+720
+00:40:34,625 --> 00:40:38,166
+Dritare, dritare, dritare. Nëse
+do të isha një dritare, ku do të shkoja?
+
+721
+00:40:40,083 --> 00:40:41,250
+Perime.
+
+722
+00:40:41,458 --> 00:40:44,458
+Përshëndetje.
+Do ha vetëm një karrotë të vogël.
+
+723
+00:40:45,541 --> 00:40:49,291
+Oh. Oh jo. Oh-jo-jo-jo.
+
+724
+00:40:49,666 --> 00:40:53,416
+Ai më tha gjithashtu
+se kam një vëlla, në fakt një binjak,
+
+725
+00:40:53,583 --> 00:40:55,500
+i cili mendoj, se është dërguar
+në Afrikën e Jugut?
+
+726
+00:40:55,666 --> 00:40:59,041
+Një binjak nga Afrika e Jugut që kurrë
+nuk e ke takuar. Ky është një thesar.
+
+727
+00:40:59,541 --> 00:41:01,166
+Dhe kush je ti?
+
+728
+00:41:01,916 --> 00:41:04,875
+Jam Elliot Matthews.
+Po raportoj për këtë ngjarje për--
+
+729
+00:41:05,041 --> 00:41:06,458
+Nuk më intereson.
+Dil jashtë.
+
+730
+00:41:07,708 --> 00:41:09,583
+Epo, në fakt, si një gazetar unë kam--
+
+731
+00:41:09,708 --> 00:41:13,166
+Nuk ke asnjë të drejtë.
+Qërohu.
+
+732
+00:41:13,541 --> 00:41:14,333
+Në rregull.
+
+733
+00:41:14,458 --> 00:41:16,208
+Dhe mos përgjo.
+
+734
+00:41:16,375 --> 00:41:20,875
+Do të jem në "Suiten Presidenciale," duke
+shijuar të gjitha komoditetet luksoze.
+
+735
+00:41:21,041 --> 00:41:22,208
+Lily!
+
+736
+00:41:22,708 --> 00:41:24,333
+Lily, Sebastian!
+
+737
+00:41:24,500 --> 00:41:25,833
+Ndihmë!
+
+738
+00:41:28,166 --> 00:41:32,583
+Zr. Van Vuuren, jam Lydia Harbottle.
+Më dëgjon?
+
+739
+00:41:32,750 --> 00:41:34,375
+Po. <i>Dëgjoj shumë mirë. Faleminderit.</i>
+
+740
+00:41:34,541 --> 00:41:37,250
+Zr. Van Vuuren është djali i zr. Hardy,
+
+741
+00:41:37,416 --> 00:41:41,833
+dhe jeton në Afrikën e Jugut,
+prandaj po na bashkohet përmes telefonit.
+
+742
+00:41:42,000 --> 00:41:47,250
+Tani, zr. Hardy më dërgoi një kopje të
+testamentit të tij rreth dy muaj më parë.
+
+743
+00:41:48,916 --> 00:41:52,416
+Por ky nuk është testamenti
+që do të lexoj sot.
+
+744
+00:41:52,583 --> 00:41:53,750
+Ai shkroi një testament të ri.
+
+745
+00:41:54,083 --> 00:41:55,666
+- Unë e gjeta atë.
+- Hesht.
+
+746
+00:41:55,833 --> 00:41:58,083
+Shkruar tre ditë para vdekjes së tij.
+
+747
+00:41:58,250 --> 00:42:02,291
+Sigurisht.
+Ka gjithmonë një testament të ri.
+
+748
+00:42:02,750 --> 00:42:07,041
+"Ky është testamenti i fundit
+i zr. George Hardy.
+
+749
+00:42:07,541 --> 00:42:10,041
+Ju kam mbledhur të shtatëve këtu
+
+750
+00:42:10,208 --> 00:42:14,083
+sepse kam punë të papërfunduara
+me secilin prej jush.
+
+751
+00:42:14,250 --> 00:42:17,125
+U kam bërë padrejtësi disave prej jush,
+
+752
+00:42:17,291 --> 00:42:20,416
+dhe disa prej jush më kanë
+bërë padrejtësi mua.
+
+753
+00:42:20,875 --> 00:42:24,083
+Në mesin tuaj, në këtë dhomë,
+
+754
+00:42:24,250 --> 00:42:27,750
+ndodhet një Budalla, një Bari i Keq,
+
+755
+00:42:27,916 --> 00:42:31,333
+një Qengj Pranvere, një Qengj Dimri,
+
+756
+00:42:31,500 --> 00:42:32,833
+një Viktimë,
+
+757
+00:42:34,291 --> 00:42:35,625
+dhe Dy Vrasës."
+
+758
+00:42:35,791 --> 00:42:37,000
+Dy Vrasës?!
+
+759
+00:42:37,166 --> 00:42:38,375
+Më quan Bari të Keq?
+
+760
+00:42:38,541 --> 00:42:41,250
+- Si duhet ta zgjidh këtë?
+- Të paktën e dimë kush është budallai.
+
+761
+00:42:41,416 --> 00:42:43,541
+Unë rrisë dele franceze.
+Raca më e mirë në botë.
+
+762
+00:42:43,708 --> 00:42:45,250
+Dhe çfarë është
+kjo për një viktimë tjetër?
+
+763
+00:42:45,416 --> 00:42:46,750
+Pra, njëri prej nesh e ka radhën.
+
+764
+00:42:46,916 --> 00:42:48,458
+Njëri prej nesh mund të jetë vrasësi.
+
+765
+00:42:48,583 --> 00:42:52,250
+Pse nuk bën pyetje
+në vend që të flirtosh?
+
+766
+00:42:53,291 --> 00:42:54,666
+Dy Vrasës?
+
+767
+00:42:54,833 --> 00:42:56,708
+Një Qengj Dimri.
+
+768
+00:42:59,791 --> 00:43:01,416
+"Kjo është çfarë po ju lë."
+
+769
+00:43:01,583 --> 00:43:02,708
+Hej! Hej!
+
+770
+00:43:05,208 --> 00:43:07,583
+"Kjo është çfarë po ju lë.
+
+771
+00:43:08,333 --> 00:43:11,583
+Dijeninë se ju pashë
+për atë që ishit në të vërtetë.
+
+772
+00:43:12,458 --> 00:43:15,750
+Dhe për shumicën prej jush,
+kjo është e gjitha që do të merrni."
+
+773
+00:43:16,250 --> 00:43:20,041
+Çfarë do të thotë me kjo është e gjitha që
+do marrim? Atëherë, çfarë po bëj këtu unë?
+
+774
+00:43:20,208 --> 00:43:21,666
+Ulu dhe qepe gojën, Ham.
+
+775
+00:43:22,375 --> 00:43:23,416
+Nuk do ta bëj.
+
+776
+00:43:23,583 --> 00:43:27,166
+Jo, ky është rreshti tjetër në testament.
+"Ulu dhe qepe gojën, Ham."
+
+777
+00:43:28,208 --> 00:43:31,708
+Me sa duket, George të njihte mjaft mirë.
+
+778
+00:43:32,333 --> 00:43:33,416
+Ke pak më shumë edukatë.
+
+779
+00:43:33,583 --> 00:43:34,875
+- Qepe gojen.
+- Qepe ti.
+
+780
+00:43:35,041 --> 00:43:37,333
+"Birit tim, Peter Van Vuuren,
+
+781
+00:43:37,500 --> 00:43:41,750
+300 hektarët që aktualisht i janë
+dhënë me qira Caleb Merrow-it."
+
+782
+00:43:41,916 --> 00:43:43,333
+<i>Oh, sa gjest i këndshëm.</i>
+
+783
+00:43:43,500 --> 00:43:45,541
+"Bijës sime, Rebecca Hampstead,
+
+784
+00:43:45,708 --> 00:43:49,500
+300 hektarët ngjitur,
+që i quaj shtëpi,
+
+785
+00:43:49,666 --> 00:43:54,958
+përfshirë ruloten time, hambarin tim,
+gjithçka që përmbajnë dhe delet e mia."
+
+786
+00:43:55,125 --> 00:43:59,041
+Në testamentin e mëparshëm, zr. Hardy
+ia la pjesën tjetër të pasurisë së tij
+
+787
+00:43:59,208 --> 00:44:02,083
+një organizate bamirësie,
+Shoqatës për Mbrojtjen e Kafshëve.
+
+788
+00:44:02,833 --> 00:44:06,208
+Megjithatë, në testamentin e ri,
+ky paragraf lexon si më poshtë:
+
+789
+00:44:06,375 --> 00:44:11,583
+"Gjithçka tjetër që zotëroj
+ia lë bijës time, Rebecca Hampstead."
+
+790
+00:44:11,750 --> 00:44:14,208
+Mos u gëzo shumë.
+Ai nuk kishte asgjë.
+
+791
+00:44:14,375 --> 00:44:19,166
+Epo, në fakt ka një
+shpërndarës plehrash jo funksional,
+
+792
+00:44:19,333 --> 00:44:22,166
+tre qese me pleh…
+
+793
+00:44:22,333 --> 00:44:23,750
+Mund të jenë të dobishme.
+
+794
+00:44:23,916 --> 00:44:28,291
+…dhe një llogari në tregun monetar
+me shumën prej afërsisht…
+
+795
+00:44:28,458 --> 00:44:29,708
+tridhjetë milionë dollarësh.
+
+796
+00:44:30,666 --> 00:44:32,125
+<i>Mos tha gjë tridhjetë milionë?</i>
+
+797
+00:44:32,291 --> 00:44:35,166
+Pra, gjetëm motivin.
+
+798
+00:44:35,958 --> 00:44:37,666
+Tridhjetë milionë? Si?
+
+799
+00:44:37,833 --> 00:44:40,791
+Dy vjet më parë,
+George Hardy krijoi një ilaç
+
+800
+00:44:40,958 --> 00:44:44,250
+për një sëmundje
+të deleve të njohur si orf.
+
+801
+00:44:44,416 --> 00:44:46,166
+- Orf?
+- Orf.
+
+802
+00:44:46,333 --> 00:44:49,125
+Pra, po më thua se pluhuri blu
+që ai e përziente gjithmonë, ishte ilaç?
+
+803
+00:44:49,250 --> 00:44:53,250
+Ai ia shiti patentën një korporate
+të madhe bujqësore për shumën prej--
+
+804
+00:44:53,375 --> 00:44:54,666
+Tridhjetë milionë.
+
+805
+00:44:55,791 --> 00:44:56,791
+Për orf.
+
+806
+00:45:08,958 --> 00:45:10,583
+- Dikush ndodhet atje jashtë.
+- Tim.
+
+807
+00:45:10,750 --> 00:45:12,958
+Shko kapi. Shko! Shko.
+
+808
+00:45:26,041 --> 00:45:27,958
+Hej-Hej! Hej!
+
+809
+00:45:38,291 --> 00:45:40,083
+Jam mirë. Jam mirë.
+
+810
+00:45:41,083 --> 00:45:41,916
+Oh, ai u kthye!
+
+811
+00:46:02,291 --> 00:46:03,750
+Nxirre jashtë!
+
+812
+00:46:03,916 --> 00:46:05,000
+Jashtë!
+
+813
+00:46:09,458 --> 00:46:13,041
+Lily, gjeta dritaren.
+
+814
+00:46:14,125 --> 00:46:15,916
+Ashtu pra. Çun i mbarë.
+
+815
+00:46:16,083 --> 00:46:17,333
+Ashtu pra.
+
+816
+00:46:20,625 --> 00:46:23,916
+Këto dele do të vazhdojnë të vrapojnë si
+të çmendura nëse nuk kanë një bari, mirë?
+
+817
+00:46:24,166 --> 00:46:25,166
+Sidomos ai dashi i madh.
+
+818
+00:46:26,625 --> 00:46:28,666
+George e mori nga një karnaval.
+
+819
+00:46:29,000 --> 00:46:30,583
+Është praktikisht i egër.
+
+820
+00:46:35,708 --> 00:46:39,250
+Prit, Tim!
+Do të japësh një deklaratë?
+
+821
+00:46:39,416 --> 00:46:42,041
+Jo. Jo. Jo. Asnjë koment.
+Dhe më thirr oficer.
+
+822
+00:46:42,208 --> 00:46:44,166
+Po të dhënat?
+Ke ndonjë të dhënë?
+
+823
+00:46:44,333 --> 00:46:48,333
+Po. Po, kam shumë,
+dhe kam gjithçka nën kontroll.
+
+824
+00:46:49,666 --> 00:46:53,791
+Shiko. Më duhet një ngjarje.
+Duhet të bësh një arrestim.
+
+825
+00:46:54,583 --> 00:46:57,958
+Nuk do të ishte mirë që njerëzit
+të të respektonin një herë të vetme?
+
+826
+00:46:58,125 --> 00:47:00,791
+Hej. Njerëzit më respektojnë.
+
+827
+00:47:02,500 --> 00:47:05,708
+Nëse e zgjidh këtë,
+do të bëheshe një hero.
+
+828
+00:47:09,000 --> 00:47:10,750
+Ne mund të punojmë së bashku.
+
+829
+00:47:12,291 --> 00:47:13,291
+Mund të të ndihmoj.
+
+830
+00:47:13,458 --> 00:47:16,125
+Mbrëmë, kur po më merrnin makinën,
+
+831
+00:47:16,291 --> 00:47:19,250
+pashë një elektrik dore rreth orës 21:00
+pranë fushës së George-it.
+
+832
+00:47:20,208 --> 00:47:22,000
+Në rregull. Në rregull.
+
+833
+00:47:22,541 --> 00:47:23,958
+Kjo përputhet.
+
+834
+00:47:24,250 --> 00:47:27,708
+Mjeku ligjor tha se George
+vdiq mes orës 20:00 dhe 23:00.
+
+835
+00:47:30,541 --> 00:47:33,833
+Ti bëre fotografi të trupit, apo jo? Sepse
+në të vërtetë duhej ta kisha bërë unë.
+
+836
+00:47:34,000 --> 00:47:38,083
+Bëra shumë fotografi.
+Do t'i dërgoj të gjitha.
+
+837
+00:47:39,875 --> 00:47:41,083
+Si thua…
+
+838
+00:47:41,666 --> 00:47:43,333
+Oficer Heroi?
+
+839
+00:47:48,791 --> 00:47:52,416
+Dhe pastaj ajo tha një Budalla,
+një Viktimë, Dy Vrasës--
+
+840
+00:47:52,583 --> 00:47:54,000
+Unë ende mendoj se e bëri shërbëtorja.
+
+841
+00:47:54,166 --> 00:47:55,791
+Nuk ka shërbëtore!
+
+842
+00:47:55,958 --> 00:48:00,083
+Ai ishte vetëm një tregim, dhe as aty nuk
+e bëri shëbëtorja. Mjaft me shërbëtoren!
+
+843
+00:48:00,833 --> 00:48:02,000
+Dele.
+
+844
+00:48:02,166 --> 00:48:05,791
+Caleb do të jetë bariu ynë i ri,
+apo jo, Lily?
+
+845
+00:48:05,958 --> 00:48:09,708
+Sigurisht. Thjesht duhet
+të presim derisa të zgjidhet misteri.
+
+846
+00:48:09,875 --> 00:48:10,875
+Kam një pyetje.
+
+847
+00:48:11,041 --> 00:48:12,833
+Pse nuk e ke
+zgjidhur ende misterin, Lily?
+
+848
+00:48:13,000 --> 00:48:15,375
+Tregimet e natës
+ti i zgjidh menjëherë.
+
+849
+00:48:15,541 --> 00:48:19,250
+E di, por bota reale
+është pak më e komplikuar
+
+850
+00:48:19,416 --> 00:48:21,958
+se një… libër.
+
+851
+00:48:22,625 --> 00:48:24,000
+Një libër.
+
+852
+00:48:24,666 --> 00:48:26,500
+Libri mund të jetë zgjidhja.
+
+853
+00:48:26,666 --> 00:48:29,166
+Thjesht duhet të futem brenda
+rulotes së George-it dhe…
+
+854
+00:48:29,333 --> 00:48:30,416
+Shikoni.
+
+855
+00:48:32,541 --> 00:48:34,291
+Është ajo Rebecca?
+
+856
+00:48:36,083 --> 00:48:38,000
+Çfarë po kërkon?
+
+857
+00:49:04,583 --> 00:49:06,291
+Si e ke emrin?
+
+858
+00:49:06,791 --> 00:49:08,708
+Ajo është vajza e George-it.
+
+859
+00:49:08,875 --> 00:49:11,916
+Ajo mban erën e tij.
+Por ajo nuk ngjan me të.
+
+860
+00:49:12,083 --> 00:49:13,916
+Vë bast se ajo ka lindur në dimër.
+
+861
+00:49:14,083 --> 00:49:16,250
+Prandaj George nuk e donte atë këtej pari.
+
+862
+00:49:16,416 --> 00:49:19,833
+Sigurisht. Një qengj libri.
+Kjo gjë e vërteton.
+
+863
+00:49:20,000 --> 00:49:21,083
+Rebecca e ka bërë!
+
+864
+00:49:21,250 --> 00:49:22,375
+Vrasëse!
+
+865
+00:49:22,541 --> 00:49:23,833
+Ne nuk e dimë atë!
+
+866
+00:49:24,000 --> 00:49:26,041
+- E dija!
+- Këtë doja të thoja dhe unë.
+
+867
+00:49:26,208 --> 00:49:28,250
+Menjëherë, thashë,
+"Rebecca, mendoj se ajo sjell telashe."
+
+868
+00:49:28,416 --> 00:49:30,041
+E thashë që në fillim.
+
+869
+00:49:30,208 --> 00:49:31,541
+Sebastian?
+
+870
+00:49:33,083 --> 00:49:36,541
+Lily? Ti po thoje diçka për
+ruloten e George-it?
+
+871
+00:49:36,708 --> 00:49:38,333
+Dhe një libër?
+
+872
+00:49:40,541 --> 00:49:44,000
+Libri i fundit që na lexoi George kishte
+të bënte si të përcaktonim një të dyshuar.
+
+873
+00:49:44,125 --> 00:49:47,041
+Duhet ta gjej atë libër
+dhe t'ia çoj policit.
+
+874
+00:49:47,208 --> 00:49:49,875
+Nëse kemi fat,
+ai do ta lexojë dhe do të mësojë diçka.
+
+875
+00:49:50,458 --> 00:49:52,583
+- Më lër mua! Më lër mua! Më lër mua!
+- Jo, jo. Zora!
+
+876
+00:49:52,750 --> 00:49:54,708
+Dua të jem detektivja! Më lër mua!
+
+877
+00:49:54,875 --> 00:49:56,625
+Mirë. Thjesht duhet të gjesh librin
+
+878
+00:49:56,750 --> 00:49:58,541
+që George kishte filluar të na lexonte
+
+879
+00:49:58,708 --> 00:50:00,958
+me kapitullin mbi
+mjetet, motivin dhe mundësinë.
+
+880
+00:50:01,125 --> 00:50:02,958
+Kam një pyetje. Çfarë është një kapitull?
+
+881
+00:50:03,125 --> 00:50:05,666
+Nuk ka rëndësi. Thjesht gjej
+librin me trenin në kopertinë.
+
+882
+00:50:05,833 --> 00:50:08,916
+- Kam një pyetje. Çfarë është një tren?
+- Është një rresht i gjatë karvanësh.
+
+883
+00:50:09,083 --> 00:50:09,958
+Kam një pyetje.
+
+884
+00:50:10,083 --> 00:50:11,791
+Prit një minutë. Wool-eyes, ç'po bën?
+
+885
+00:50:11,958 --> 00:50:15,833
+Zmbrapsuni! Do ta gjej këtë
+libër me nuhatjen time të mprehtë.
+
+886
+00:50:17,833 --> 00:50:20,833
+Oh, ka disa domate.
+Mund t'i hani ato.
+
+887
+00:50:22,041 --> 00:50:24,291
+Forca, Wool-Eyes.
+Të gjithë po llogarisin tek ti.
+
+888
+00:50:24,458 --> 00:50:25,708
+Jo, nuk po e bëjmë.
+
+889
+00:50:25,875 --> 00:50:28,541
+Ishte libri i fundit që George e preku,
+apo jo?
+
+890
+00:50:28,708 --> 00:50:29,958
+Është--? Jo, ajo është një karrotë.
+
+891
+00:50:30,125 --> 00:50:32,458
+- Oh, hë pra.
+- Ndoshta do të kthehem më vonë për atë.
+
+892
+00:50:37,041 --> 00:50:39,125
+Është ky libri që po kërkon?
+
+893
+00:50:39,291 --> 00:50:40,291
+Jo!
+
+894
+00:50:40,458 --> 00:50:41,708
+Oh! Po ky?
+
+895
+00:50:43,000 --> 00:50:45,583
+Të lumtë! Wool-Eyes, e gjete!
+
+896
+00:50:45,750 --> 00:50:47,000
+Sigurisht që e gjeta.
+
+897
+00:50:47,166 --> 00:50:48,750
+Po flas me Lily-n, apo jo?
+
+898
+00:50:48,916 --> 00:50:51,500
+Në fund të fundit,
+jam një dele detektive.
+
+899
+00:50:58,041 --> 00:51:00,166
+Ç'kemi, Tim
+Këtu janë fotot që i kam bërë.
+
+900
+00:51:38,125 --> 00:51:40,166
+Është bukur këtu lartë.
+
+901
+00:51:40,750 --> 00:51:42,541
+Por të bën të ndihesh i vetmuar.
+
+902
+00:51:46,041 --> 00:51:50,333
+Oh, i dhashë një libër policit
+për ta ndihmuar të zgjidh çështjen.
+
+903
+00:51:55,583 --> 00:51:57,208
+Çfarë është një karnaval?
+
+904
+00:51:58,125 --> 00:52:00,708
+Nuk ka rëndësi.
+Kthehu tek kopeja jote.
+
+905
+00:52:01,375 --> 00:52:02,958
+Kopeja jonë.
+
+906
+00:52:08,291 --> 00:52:09,750
+Është muzikë.
+
+907
+00:52:10,500 --> 00:52:13,041
+Në karnaval ka muzikë.
+
+908
+00:52:14,041 --> 00:52:15,250
+Dhe parqe.
+
+909
+00:52:16,666 --> 00:52:21,416
+Çdo ditë fëmijët vinin të më
+ledhatonin dhe të më ushqenin.
+
+910
+00:52:21,916 --> 00:52:23,833
+E doja këtë gjë.
+
+911
+00:52:24,083 --> 00:52:26,416
+Derisa u rrita.
+
+912
+00:52:27,541 --> 00:52:30,250
+Dhe pastaj, kur binte nata,
+
+913
+00:52:30,416 --> 00:52:34,125
+burrat nga karnavali
+vinin dhe më çonin në një rreth.
+
+914
+00:52:35,666 --> 00:52:39,416
+Dhe në atë rreth ishte një qen.
+
+915
+00:52:41,541 --> 00:52:43,541
+Dhe më bënin të luftoja.
+
+916
+00:52:46,125 --> 00:52:48,541
+Të luftoja derisa gjakosesha.
+
+917
+00:52:50,541 --> 00:52:52,416
+Dhe një natë…
+
+918
+00:52:53,416 --> 00:52:54,833
+<i>ai më gjeti.</i>
+
+919
+00:53:07,625 --> 00:53:09,458
+Ai i pagoi ata…
+
+920
+00:53:10,291 --> 00:53:11,625
+dhe më mori me vete.
+
+921
+00:53:14,250 --> 00:53:18,083
+Ja çfarë është karnavali.
+
+922
+00:53:21,458 --> 00:53:24,791
+Por si përfundove
+në një vend kaq të tmerrshëm?
+
+923
+00:53:24,958 --> 00:53:26,833
+Pse nuk ishe me kopenë tënde?
+
+924
+00:53:27,625 --> 00:53:31,791
+Mendoja se Lily, detektivja e madhe,
+do ta kishte kuptuar tashmë këtë.
+
+925
+00:53:34,083 --> 00:53:35,666
+Pra ti ishe një qengj--
+
+926
+00:53:35,791 --> 00:53:40,208
+Herët apo vonë,
+një qengj dimri dëshiron të largohet.
+
+927
+00:53:57,291 --> 00:53:59,583
+Ja ku është ai! Po!
+
+928
+00:54:01,500 --> 00:54:03,666
+Oh, shpresoj je i uritur, Tim.
+
+929
+00:54:03,833 --> 00:54:05,125
+Jemi të uritur?
+
+930
+00:54:06,958 --> 00:54:08,125
+Përshëndetje?
+
+931
+00:54:08,875 --> 00:54:14,166
+Sa herë që ndodh diçka interesante
+me këtë çështje,
+
+932
+00:54:15,166 --> 00:54:16,625
+ato shfaqen.
+
+933
+00:54:22,708 --> 00:54:24,250
+E ke humbur mendjen.
+
+934
+00:54:24,750 --> 00:54:27,416
+E ke humbur mendjen,
+dhe nuk ke bërë asgjë! Tim!
+
+935
+00:54:27,583 --> 00:54:31,250
+Jo tamam asgjë.
+
+936
+00:54:32,333 --> 00:54:35,750
+"Kush e vrau George-n?"
+
+937
+00:54:35,916 --> 00:54:37,791
+{\an8}Pesë të dyshuar të emëruar në testament.
+
+938
+00:54:38,041 --> 00:54:41,541
+Kushdo që vrau George-n
+kishte nevojë për tre gjëra:
+
+939
+00:54:41,708 --> 00:54:45,750
+Mjetet, motivin, mundësinë.
+
+940
+00:54:46,000 --> 00:54:48,416
+Funksionoi! Ai e lexoi librin!
+
+941
+00:54:48,583 --> 00:54:51,000
+Le t'i shqyrtojmë një nga një, apo jo?
+
+942
+00:54:51,166 --> 00:54:54,541
+Mjetet:
+Taksina nga manaferrat e një bërsheni.
+
+943
+00:54:54,708 --> 00:54:57,458
+Kemi dru tërsheni
+kudo në territorin e kishës.
+
+944
+00:54:57,625 --> 00:54:59,750
+Të gjithë kishin mjetet.
+
+945
+00:54:59,916 --> 00:55:02,458
+{\an8}Motivi:
+Pse duhet të vrisnin George-n?
+
+946
+00:55:02,625 --> 00:55:04,458
+Rebecca ka motivin më të madh.
+
+947
+00:55:04,625 --> 00:55:07,625
+Por të gjithë mund kenë arsye.
+Çfarë po fshehin?
+
+948
+00:55:08,125 --> 00:55:11,708
+Mundësia:
+Ka ndonjëri nga këta njerëz alibi?
+
+949
+00:55:11,875 --> 00:55:15,041
+Mjetet, motivi, mundësia.
+
+950
+00:55:15,208 --> 00:55:20,000
+Duhet të gjejmë atë që i ka të treja
+dhe do të kapim Helmuesin e Denbrook-ut.
+
+951
+00:55:22,750 --> 00:55:25,833
+Tim. Kjo është me të vërtetë
+punë shumë e mirë.
+
+952
+00:55:26,000 --> 00:55:28,666
+Po, epo, thjesht…
+
+953
+00:55:29,958 --> 00:55:31,375
+më erdhi në mendje gjatë natës.
+
+954
+00:55:32,791 --> 00:55:36,291
+Në rregull. Le të fillojmë.
+
+955
+00:55:36,458 --> 00:55:37,791
+Ham.
+
+956
+00:55:37,958 --> 00:55:40,333
+{\an8}<i>Dhe cili je ti nga
+testamenti i George-it?</i>
+
+957
+00:55:40,833 --> 00:55:42,541
+Me gjasë vrasësi.
+
+958
+00:55:43,625 --> 00:55:46,250
+Ai ishte një vegjetarian.
+
+959
+00:55:46,583 --> 00:55:50,166
+Mund ta kuptojë një grua.
+Por një burrë?
+
+960
+00:55:50,625 --> 00:55:52,416
+Shpifëse.
+
+961
+00:55:52,583 --> 00:55:53,708
+Beth.
+
+962
+00:55:54,083 --> 00:55:57,250
+Letrën e George-it për Rebecca-n.
+Pse e kishe ti?
+
+963
+00:55:57,541 --> 00:56:01,833
+<i>Ndoshta shërbimi postar gaboi
+për herë të parë në histori.</i>
+
+964
+00:56:02,000 --> 00:56:04,791
+Dhe para se George të vdiste,
+
+965
+00:56:04,958 --> 00:56:07,541
+ti më the se mund ta "vrisja atë njeri."
+
+966
+00:56:07,708 --> 00:56:10,583
+Nuk jam vrasësja. Jam viktima.
+Dhe kjo është e tëra që do të them.
+
+967
+00:56:10,750 --> 00:56:12,083
+I di të drejtat e mia!
+
+968
+00:56:12,250 --> 00:56:13,416
+Caleb.
+
+969
+00:56:13,583 --> 00:56:15,208
+Dhe mëngjesin që gjete George-in,
+
+970
+00:56:15,333 --> 00:56:17,541
+më the
+se po i sillje disa dokumente.
+
+971
+00:56:17,708 --> 00:56:19,500
+Po, ai sapo ma anuloi kontratën e qirasë.
+
+972
+00:56:19,666 --> 00:56:22,500
+E di, po i sillja
+një propozim për ta rimenduar.
+
+973
+00:56:22,666 --> 00:56:23,958
+Dhe mundi më shkoi huq.
+
+974
+00:56:25,041 --> 00:56:29,333
+{\an8}Prit. George të anuloi kontratën e qirasë.
+Pse?
+
+975
+00:56:29,708 --> 00:56:32,958
+{\an8}Ti e dëgjove testamentin.
+Me sa duket jam Bari i Keq.
+
+976
+00:56:33,125 --> 00:56:34,541
+Hillcoate.
+
+977
+00:56:34,708 --> 00:56:36,416
+George nuk shkeli kurrë në kishën tënde.
+
+978
+00:56:36,583 --> 00:56:39,791
+Dhe papritmas ai hyn një ditë para
+se të vdiste
+
+979
+00:56:39,958 --> 00:56:41,375
+dhe bën një donacion të madh.
+
+980
+00:56:43,875 --> 00:56:44,708
+Pse?
+
+981
+00:56:44,958 --> 00:56:46,958
+Pse jam gjithmonë në fund?
+
+982
+00:56:48,250 --> 00:56:49,875
+George erdhi tek unë pak kohë më parë
+
+983
+00:56:50,041 --> 00:56:53,541
+dhe më tregoi për kishën që
+i kishte dhënë fëmijët e tij për birësim.
+
+984
+00:56:53,708 --> 00:56:57,416
+<i>Por sapo mori veten,
+ai fillioi t'i kërkonte ata.</i>
+
+985
+00:56:57,583 --> 00:56:59,958
+<i>Kisha nuk pranoi
+t'i tregonte se ku ishin.</i>
+
+986
+00:57:00,125 --> 00:57:02,291
+<i>Politikë e rreptë, me sa duket.</i>
+
+987
+00:57:02,458 --> 00:57:04,666
+Dhe kështu më pyeti çfarë do të duhej
+
+988
+00:57:04,833 --> 00:57:09,458
+që unë t'ia siguroja atë informacion.
+
+989
+00:57:09,625 --> 00:57:13,041
+Dhe nëse kisha do ta zbulonte,
+mund të më kishin çkishëruar.
+
+990
+00:57:13,208 --> 00:57:15,375
+- Oh.
+- Do thotë të më kishin pushuar nga puna.
+
+991
+00:57:16,625 --> 00:57:18,250
+Por paratë nuk ishin për mua.
+
+992
+00:57:18,416 --> 00:57:20,958
+Kjo kishë ka nevojë urgjente për riparim.
+
+993
+00:57:21,833 --> 00:57:25,916
+George erdhi tek unë kur kishte nevojë
+dhe unë përfitova nga kjo.
+
+994
+00:57:26,541 --> 00:57:28,750
+Caleb-i nuk është Bariu i Keq.
+
+995
+00:57:31,125 --> 00:57:32,333
+Jam unë.
+
+996
+00:57:32,500 --> 00:57:33,833
+Dhe Rebecca.
+
+997
+00:57:34,166 --> 00:57:35,000
+Zonjusha Hampstead.
+
+998
+00:57:36,708 --> 00:57:39,375
+Po e shijon
+Festivalin Kulturor të Denbrook-ut?
+
+999
+00:57:41,083 --> 00:57:43,333
+Po. Shumë.
+
+1000
+00:57:44,833 --> 00:57:46,250
+Pyetje. Pyetje të lehta.
+
+1001
+00:57:46,416 --> 00:57:51,458
+Ku ishit mes
+orës 20:00 dhe 23:00 natën e vrasjes?
+
+1002
+00:57:51,625 --> 00:57:53,791
+Në hotelin pranë aeroportit.
+
+1003
+00:57:53,958 --> 00:57:56,791
+Dhe po shikoja televizor.
+
+1004
+00:57:56,958 --> 00:57:59,125
+Nuk mund të flija.
+Ndihesha e lodhur nga fluturimi. E di?
+
+1005
+00:58:00,083 --> 00:58:02,125
+Çfarë po shikoje?
+
+1006
+00:58:03,541 --> 00:58:05,750
+Një kanal lajmesh 24-orësh.
+
+1007
+00:58:06,791 --> 00:58:10,875
+- Një kanal lajmesh 24-orësh.
+- Një kanal lajmesh 24-orësh.
+
+1008
+00:58:11,041 --> 00:58:15,000
+Mirë, atëherë. Këto ishin pyetjet.
+Ditë të mbarë, zonjusha Hampstead.
+
+1009
+00:58:15,166 --> 00:58:17,458
+Dhe ty gjithashtu. Pafshim.
+
+1010
+00:58:18,375 --> 00:58:20,083
+Apo duhet të them zonjusha Crampfs?
+
+1011
+00:58:26,083 --> 00:58:30,583
+Emri juaj i vërtetë
+është Chastity Crampfs, apo jo?
+
+1012
+00:58:30,750 --> 00:58:32,333
+Dhe mund të mendosh për ndonjë arsye
+
+1013
+00:58:32,500 --> 00:58:35,375
+pse dikush do të donte
+ta ndryshonte emrin nga Chastity Crampfs?
+
+1014
+00:58:35,541 --> 00:58:38,500
+E drejtë.
+Por bëra një kontroll të së kaluarës.
+
+1015
+00:58:38,750 --> 00:58:42,916
+Dhe rezulton se një kohë ti
+shoqëroheshe me një kriminel të njohur.
+
+1016
+00:58:43,083 --> 00:58:44,541
+Me disa akuza për falsifikim.
+
+1017
+00:58:44,708 --> 00:58:46,250
+Madje kishe edhe një llogari bankare
+të përbashkët me të.
+
+1018
+00:58:46,416 --> 00:58:49,166
+Në rregull.
+
+1019
+00:58:49,333 --> 00:58:51,791
+Në rregull. Nuk njoh askënd
+që nuk pendohet për një lidhje.
+
+1020
+00:58:51,958 --> 00:58:54,416
+Oh, pra jo
+një ndarje të kohëve të fundit, atëherë.
+
+1021
+00:58:54,666 --> 00:58:56,500
+- Nuk është një emër i vërtetë.
+- Duket si një model.
+
+1022
+00:58:56,666 --> 00:58:58,125
+Po, duket si një model.
+
+1023
+00:58:58,291 --> 00:59:00,000
+Pra, ma thuaj.
+
+1024
+00:59:00,375 --> 00:59:02,791
+Ke qenë ndonjëherë pranë
+pemës së bërshenit në oborrin e kishës?
+
+1025
+00:59:03,041 --> 00:59:04,833
+Jo. Absolutisht jo.
+
+1026
+00:59:05,000 --> 00:59:08,583
+Po tek ferma e George-it?
+
+1027
+00:59:09,041 --> 00:59:10,500
+Ke qenë aty?
+
+1028
+00:59:11,541 --> 00:59:12,666
+Kurrë.
+
+1029
+00:59:13,875 --> 00:59:15,458
+Caleb kishte kontrantën e qirasë…
+
+1030
+00:59:15,625 --> 00:59:17,291
+Oh, por pastaj Beth tha…
+
+1031
+00:59:17,458 --> 00:59:18,875
+Pse po gënjen Rebecca?
+
+1032
+00:59:19,041 --> 00:59:20,416
+Dhe çfarë është një vegjetarian?
+
+1033
+00:59:20,583 --> 00:59:21,875
+Si përputhen të gjitha këto?
+
+1034
+00:59:22,041 --> 00:59:24,750
+Mendo, dele torollake, mendo!
+
+1035
+00:59:24,916 --> 00:59:27,916
+Mos mendo kaq shumë, Lily.
+Vajza e ka bërë, është e qartë.
+
+1036
+00:59:28,083 --> 00:59:30,250
+- Sigurisht që e bëri Rebecca!
+- Ajo ka të drejtë.
+
+1037
+00:59:30,416 --> 00:59:32,041
+Jo, nuk e ka bërë ajo.
+
+1038
+00:59:32,916 --> 00:59:35,208
+Ju nuk e njihni atë.
+Ajo është e mirë.
+
+1039
+00:59:35,375 --> 00:59:39,291
+Ajo mban erë si George,
+dhe George më donte mua.
+
+1040
+00:59:39,458 --> 00:59:42,083
+Të donte?
+Askush nuk e do një qengj dimri.
+
+1041
+00:59:42,250 --> 00:59:46,291
+Një qengj dimri që mbron një tjetër.
+Kështu janë ata.
+
+1042
+00:59:46,458 --> 00:59:47,458
+Prit.
+
+1043
+00:59:47,625 --> 00:59:49,083
+Çfarë the?
+
+1044
+00:59:49,250 --> 00:59:51,875
+Thashë George më donte.
+
+1045
+00:59:52,041 --> 00:59:53,958
+Jo. Para kësaj.
+
+1046
+00:59:54,125 --> 00:59:57,666
+Ti the se Rebecca mban erë si George.
+
+1047
+00:59:57,833 --> 01:00:00,083
+Dikush e tha këtë më herët.
+
+1048
+01:00:00,250 --> 01:00:01,958
+Dikush që nuk duhet ta kishte thënë.
+
+1049
+01:00:02,125 --> 01:00:03,291
+Kush?
+
+1050
+01:00:04,958 --> 01:00:06,291
+Ti.
+
+1051
+01:00:06,458 --> 01:00:09,416
+Çfarë, unë?! Çfarë do të thuash, unë?
+
+1052
+01:00:09,583 --> 01:00:10,625
+Cloud e ka bërë!
+
+1053
+01:00:10,791 --> 01:00:12,708
+Vrasëse!
+
+1054
+01:00:12,875 --> 01:00:16,083
+Jo. Por ajo ka mbajtur një sekret.
+
+1055
+01:00:16,250 --> 01:00:17,625
+Apo jo, Cloud?
+
+1056
+01:00:17,791 --> 01:00:21,000
+Mbrëmë the që
+Rebecca mbante erë tamam si George.
+
+1057
+01:00:21,166 --> 01:00:25,125
+Por ajo ishte kaq larg,
+nuk mund ta dije çfarë ere mbante.
+
+1058
+01:00:25,291 --> 01:00:28,375
+Përveç nëse Rebecca
+kishte qenë këtu më parë.
+
+1059
+01:00:30,458 --> 01:00:33,208
+Por është kaq e bukur!
+
+1060
+01:00:33,375 --> 01:00:35,291
+Çfarë është kaq e bukur?
+
+1061
+01:00:37,625 --> 01:00:39,625
+Gjëja pa fund.
+
+1062
+01:00:43,916 --> 01:00:45,208
+E sheh?
+
+1063
+01:00:45,375 --> 01:00:48,708
+Është kaq e bukur
+dhe thjesht nuk mbaron kurrë.
+
+1064
+01:00:48,875 --> 01:00:53,666
+E kam shikuar për orë të tëra,
+duke u sillur rreth saj.
+
+1065
+01:00:53,916 --> 01:00:55,541
+Cloud. Cloud!
+
+1066
+01:00:55,708 --> 01:00:57,666
+Ku e more këtë?
+
+1067
+01:01:00,208 --> 01:01:02,458
+Rebecca ishte këtu atë natë.
+
+1068
+01:01:02,750 --> 01:01:04,541
+Natën kur u vra George.
+
+1069
+01:01:06,875 --> 01:01:11,125
+U zgjova dhe ndjeva uri, kështu që
+dola në livadh dhe ja ku ishte ajo.
+
+1070
+01:01:11,291 --> 01:01:12,791
+<i>Dhe ajo më pa dhe tha:</i>
+
+1071
+01:01:12,958 --> 01:01:16,291
+"A nuk je e bukur?" Sepse jam.
+Dua të them, unë jam më e bukura.
+
+1072
+01:01:16,458 --> 01:01:18,208
+Dhe ajo më ledhatoi leshin,
+
+1073
+01:01:18,375 --> 01:01:20,041
+<i>dhe Gjëja ra, kështu që unë--</i>
+
+1074
+01:01:21,208 --> 01:01:22,958
+vendosa që…
+
+1075
+01:01:23,541 --> 01:01:25,583
+duhet të jetë e imja.
+
+1076
+01:01:25,750 --> 01:01:28,125
+Pra tani ne kemi gjëra në pronësi.
+
+1077
+01:01:28,291 --> 01:01:30,500
+Delet nuk zotërojnë gjëra!
+
+1078
+01:01:30,666 --> 01:01:32,166
+E di, por…
+
+1079
+01:01:32,625 --> 01:01:34,333
+Nuk ka fund.
+
+1080
+01:01:34,958 --> 01:01:36,791
+Dhe misteri u zgjidh.
+
+1081
+01:01:36,958 --> 01:01:38,166
+E bëri Rebecca.
+
+1082
+01:01:38,333 --> 01:01:39,333
+Vrasëse!
+
+1083
+01:01:39,500 --> 01:01:42,541
+Pak metal i shndritshëm nuk zgjidh asgjë.
+
+1084
+01:01:42,708 --> 01:01:45,166
+Sigurisht që po. Është provë.
+
+1085
+01:01:45,333 --> 01:01:48,000
+Provë? Provë për çfarë?
+
+1086
+01:01:48,166 --> 01:01:50,583
+Ajo i tha policit
+se ajo nuk kishte qenë kurrë këtu,
+
+1087
+01:01:50,750 --> 01:01:54,333
+por ajo ishte këtu dhe pikërisht
+natën kur u vra George,
+
+1088
+01:01:54,666 --> 01:01:57,583
+Ajo është gënjeshtare, mashtruese,
+dhe është një--
+
+1089
+01:01:58,166 --> 01:01:59,916
+Një çfarë?
+
+1090
+01:02:00,375 --> 01:02:01,458
+Thuaje.
+
+1091
+01:02:02,166 --> 01:02:04,125
+E ke urryer që në fillim.
+
+1092
+01:02:04,291 --> 01:02:05,375
+Të gjitha ju.
+
+1093
+01:02:05,666 --> 01:02:06,958
+Dhe pse?
+
+1094
+01:02:07,125 --> 01:02:10,083
+Sepse ajo ka lindur në dimër.
+
+1095
+01:02:11,250 --> 01:02:14,125
+Krimi më i rëndë që mund të imagjinohet.
+
+1096
+01:02:14,291 --> 01:02:15,666
+Nuk ke dëgjuar?
+
+1097
+01:02:15,833 --> 01:02:17,333
+Askush nuk të do ty.
+
+1098
+01:02:17,500 --> 01:02:19,583
+Ti nuk meriton asgjë.
+
+1099
+01:02:21,375 --> 01:02:26,083
+Kjo është ajo që një qengj dimri dëgjon,
+vazhdimisht, derisa një ditë
+
+1100
+01:02:26,458 --> 01:02:29,041
+fillon ta besojë se është e vërtetë.
+
+1101
+01:02:29,208 --> 01:02:29,958
+Sebastian--
+
+1102
+01:02:30,083 --> 01:02:31,208
+Ajo nuk e ka vrarë atë.
+
+1103
+01:02:31,375 --> 01:02:32,541
+Por nga e di?
+
+1104
+01:02:32,708 --> 01:02:35,000
+Sepse shikova në sytë e saj.
+
+1105
+01:02:35,166 --> 01:02:37,291
+Sepse është e dukshme.
+
+1106
+01:02:37,708 --> 01:02:39,375
+Por jo për ju.
+
+1107
+01:02:39,625 --> 01:02:40,833
+Jo.
+
+1108
+01:02:41,000 --> 01:02:43,833
+Jo një kopeje delesh.
+
+1109
+01:02:45,291 --> 01:02:47,625
+Ne jemi kopeja <i>jote.</i>
+
+1110
+01:02:48,791 --> 01:02:50,333
+Ta thashë.
+
+1111
+01:02:50,500 --> 01:02:52,500
+Nuk nuk kam një kope.
+
+1112
+01:02:53,958 --> 01:02:55,666
+Nuk kam pasur kurrë.
+
+1113
+01:02:58,458 --> 01:02:59,541
+Lily.
+
+1114
+01:03:00,250 --> 01:03:03,041
+Çfarë duhet të bëjmë me
+gjënë që nuk ka fund?
+
+1115
+01:03:06,541 --> 01:03:07,875
+Sigurisht!
+
+1116
+01:03:08,041 --> 01:03:09,375
+Shoferi!
+
+1117
+01:03:13,375 --> 01:03:14,500
+Çfarë?
+
+1118
+01:03:17,041 --> 01:03:18,291
+Çfarë?
+
+1119
+01:03:20,708 --> 01:03:21,750
+Hej!
+
+1120
+01:03:24,708 --> 01:03:26,166
+Ma jep. Hej!
+
+1121
+01:03:28,083 --> 01:03:29,125
+Hej!
+
+1122
+01:03:30,791 --> 01:03:32,208
+Kthehu këtu!
+
+1123
+01:03:32,541 --> 01:03:34,041
+Ajo është kapela ime!
+
+1124
+01:03:34,875 --> 01:03:36,375
+Ndaloni! Ndaloni!
+
+1125
+01:04:07,625 --> 01:04:10,000
+Faleminderit.
+Faleminderit për këtë.
+
+1126
+01:04:13,458 --> 01:04:15,000
+Faleminderit të gjithave.
+
+1127
+01:04:25,791 --> 01:04:27,750
+Mendoj se gjeta diçka tëndën.
+
+1128
+01:04:28,666 --> 01:04:30,625
+Përputhet me të tjerat.
+
+1129
+01:04:32,333 --> 01:04:36,000
+- Duhet të të ketë rënë. Faleminderit--
+- E gjeta në livadhin e Georget-it.
+
+1130
+01:04:36,166 --> 01:04:38,541
+E di,
+atje ku nuk ke qenë kurrë?
+
+1131
+01:04:39,958 --> 01:04:42,916
+Kam një urdhër
+për të kontrolluar dhomën tënde.
+
+1132
+01:04:45,208 --> 01:04:46,750
+<i>Çfarë po kërkon?</i>
+
+1133
+01:04:46,916 --> 01:04:48,166
+<i>Nuk e di.</i>
+
+1134
+01:04:59,583 --> 01:05:01,291
+Nuk ke qenë kurrë pranë
+pemës së bërshenit, apo jo?
+
+1135
+01:05:01,458 --> 01:05:02,458
+E dija.
+
+1136
+01:05:02,625 --> 01:05:04,750
+Nuk kam qenë.
+Nuk do ta bëja.
+
+1137
+01:05:04,916 --> 01:05:06,958
+Tim, Tim, duhet të më besosh.
+
+1138
+01:05:07,125 --> 01:05:08,875
+Oficer Derry.
+
+1139
+01:05:09,541 --> 01:05:12,625
+Oficer Derry, të betohem.
+
+1140
+01:05:12,791 --> 01:05:14,708
+Nuk e kam vrarë babain tim.
+
+1141
+01:05:14,875 --> 01:05:19,375
+Rebecca Hampstead, je nën arrest
+për vrasjen e George Hardy-t.
+
+1142
+01:05:26,250 --> 01:05:27,625
+<i>Intervista e të dyshuares,</i>
+
+1143
+01:05:27,791 --> 01:05:32,125
+Chastity Crampfs,
+e njohur si Rebecca Hampstead.
+
+1144
+01:05:32,916 --> 01:05:37,500
+Zonjushë, mund të konfirmoni që po hiqni
+dorë nga e drejta për të pasur një avokat?
+
+1145
+01:05:37,750 --> 01:05:41,208
+Po. Nuk më intereson.
+Jam gati t'ju tregoj gjithçka.
+
+1146
+01:05:41,375 --> 01:05:43,583
+Mirë. Le të fillojmë me këtë.
+
+1147
+01:05:43,958 --> 01:05:48,333
+Ishe në pronën e George Hardy-t
+natën e vrasjes së tij?
+
+1148
+01:05:49,000 --> 01:05:50,291
+Po.
+
+1149
+01:05:50,625 --> 01:05:55,416
+Në rregull, pra të gjitha ato buzëqeshje
+dhe, "Oh, je shumë i zgjuar, detektiv."
+
+1150
+01:05:55,583 --> 01:05:57,750
+Ishin të gjitha një akt.
+Apo jo?
+
+1151
+01:05:57,916 --> 01:06:00,875
+Në fakt, nuk ke thënë asnjë të vërtetë
+që kur je shfaqur.
+
+1152
+01:06:01,750 --> 01:06:04,458
+Letrat. Ajo pjesë është e vërtetë.
+
+1153
+01:06:04,958 --> 01:06:08,750
+Ai shkroi se më kishte kërkuar për më
+shumë se 20 vjet, dhe se po
+
+1154
+01:06:08,916 --> 01:06:13,000
+fillonte t'i vinte gjërat në rregull,
+madje më dërgoi një kopje të testamentit.
+
+1155
+01:06:13,166 --> 01:06:17,375
+Testamentin ku merr 30 milionë
+apo testamentin ku merr një tufë delesh?
+
+1156
+01:06:17,541 --> 01:06:19,916
+Jo, atë pa para.
+
+1157
+01:06:21,375 --> 01:06:23,458
+Ai tha se donte të më takonte.
+
+1158
+01:06:23,666 --> 01:06:24,916
+Pra…
+
+1159
+01:06:25,666 --> 01:06:26,791
+Ti vjen këtu,
+
+1160
+01:06:26,958 --> 01:06:31,416
+dhe pastaj shkon në fermën e tij
+në natën e vrasjes.
+
+1161
+01:06:32,250 --> 01:06:33,791
+Dhe pastaj çfarë ndodhi?
+
+1162
+01:06:35,250 --> 01:06:36,541
+Ne folëm.
+
+1163
+01:06:36,708 --> 01:06:37,750
+Për çfarë?
+
+1164
+01:06:39,416 --> 01:06:40,708
+Për dele.
+
+1165
+01:06:41,125 --> 01:06:42,916
+Ne folëm për dele.
+
+1166
+01:06:43,083 --> 01:06:45,041
+Dhe emrat e tyre.
+
+1167
+01:06:45,208 --> 01:06:48,083
+Ai tha se çdo dele
+duhet të ketë një emër.
+
+1168
+01:06:48,250 --> 01:06:52,125
+Dhe i zgjidhte të gjitha
+duke parë në sytë e tyre.
+
+1169
+01:06:52,541 --> 01:06:55,291
+Dhe donte që unë t'i kisha një ditë.
+
+1170
+01:06:57,166 --> 01:06:58,458
+Ai më zgjodhi mua.
+
+1171
+01:07:00,000 --> 01:07:02,791
+Por, shiko, nuk jam një budallaqe.
+
+1172
+01:07:03,125 --> 01:07:05,958
+Isha vetëm me të natën që u vra.
+
+1173
+01:07:06,125 --> 01:07:10,875
+Dhe testamenti i ri dhe të gjitha ato para
+dhe gjithçka nga e kaluara ime?
+
+1174
+01:07:11,041 --> 01:07:14,416
+E vetmja zgjedhje ime ishte të gënjeja.
+
+1175
+01:07:15,500 --> 01:07:17,333
+Duhet të më besosh.
+
+1176
+01:07:18,833 --> 01:07:21,375
+"Unë gënjeva, pra duhet të më besosh."
+
+1177
+01:07:22,791 --> 01:07:23,666
+Kështu?
+
+1178
+01:07:27,333 --> 01:07:31,166
+Në mëngjes, do të të çojmë
+në gjykatën e qarkut
+
+1179
+01:07:31,333 --> 01:07:35,291
+dhe do të akuzohesh zyrtarisht
+për vrasje me dashje të George Hardy-t.
+
+1180
+01:07:48,958 --> 01:07:51,208
+Pra e bëri ajo.
+
+1181
+01:07:54,333 --> 01:07:55,583
+Paratë.
+
+1182
+01:07:55,916 --> 01:07:57,291
+Çfarë nuk do të bënin njerëzit për para.
+
+1183
+01:07:58,375 --> 01:08:02,250
+Me sa duket, George Hardy
+zgjodhi qengjin e gabuar.
+
+1184
+01:08:03,583 --> 01:08:08,625
+Meqë ra fjala, Van Vuuren ka rënë dakord
+t'i shesë delet dhe tokën Caleb Merrow-it,
+
+1185
+01:08:08,791 --> 01:08:11,875
+kështu që do të përgatisim
+dokumentet për këtë nesër në mesditë.
+
+1186
+01:08:12,791 --> 01:08:13,666
+Mirë.
+
+1187
+01:08:14,416 --> 01:08:16,875
+Të gjykova gabim, oficer.
+
+1188
+01:08:17,041 --> 01:08:18,041
+Po, e bëra.
+
+1189
+01:08:18,208 --> 01:08:21,041
+Me sa duket,
+nuk je ti Budallai në fund të fundit.
+
+1190
+01:08:21,500 --> 01:08:22,583
+Të lumtë.
+
+1191
+01:09:01,500 --> 01:09:02,541
+Lily?
+
+1192
+01:09:03,958 --> 01:09:06,916
+Çfarë po bën këtu?
+Je mirë?
+
+1193
+01:09:07,083 --> 01:09:09,958
+Po. Jam shumë mirë.
+Jam e lumtur.
+
+1194
+01:09:10,125 --> 01:09:13,666
+Ata arrestuan Rebecca-n.
+Nesër, Caleb-i do jetë bariu ynë i ri.
+
+1195
+01:09:13,833 --> 01:09:15,000
+Kjo është e mrekullueshme.
+
+1196
+01:09:15,166 --> 01:09:19,375
+Ajo e mohon, sigurisht, por
+unë kam të drejtë dhe Sebastian-i gabohet.
+
+1197
+01:09:20,666 --> 01:09:23,583
+Rebecca e bëri, apo jo?
+
+1198
+01:09:23,750 --> 01:09:25,000
+Sigurisht që ajo e ka bërë.
+
+1199
+01:09:25,166 --> 01:09:26,250
+Faleminderit.
+
+1200
+01:09:26,416 --> 01:09:28,291
+Sepse ti the që ajo e bëri.
+
+1201
+01:09:29,083 --> 01:09:29,916
+Çfarë?
+
+1202
+01:09:30,083 --> 01:09:33,250
+Epo, ti gjithmonë e kupton se si mbarojnë
+tregimet përpara se ato të mbarojnë.
+
+1203
+01:09:33,416 --> 01:09:34,666
+Unë kam besim tek ty.
+
+1204
+01:09:34,833 --> 01:09:36,750
+Por ato ishin thjesht tregime.
+
+1205
+01:09:36,916 --> 01:09:39,500
+Bëhet fjalë për një njeri.
+Çfarë nëse--?
+
+1206
+01:09:39,666 --> 01:09:40,833
+Lily, dëgjo.
+
+1207
+01:09:41,000 --> 01:09:43,750
+Livadhi i Caleb-it është
+në anën tjetër të atij gardhi.
+
+1208
+01:09:43,916 --> 01:09:46,541
+Pse nuk shkojmë të takojmë
+kopenë tonë të re?
+
+1209
+01:09:47,083 --> 01:09:49,750
+Por ne nuk kemi qenë kurrë më parë
+në livadhin e Caleb-it.
+
+1210
+01:09:49,916 --> 01:09:52,625
+Epo, edhe rrugët nuk i kalonim më parë.
+
+1211
+01:09:52,791 --> 01:09:53,833
+Eja.
+
+1212
+01:10:04,250 --> 01:10:06,208
+Duket sikur jemi brenda një reje.
+
+1213
+01:10:06,375 --> 01:10:08,333
+Mendon se jemi në vendin e gabuar?
+
+1214
+01:10:08,500 --> 01:10:10,083
+Nuk mendoj kështu.
+
+1215
+01:10:12,583 --> 01:10:13,833
+Përshëndetje?
+
+1216
+01:10:32,791 --> 01:10:33,958
+Përshëndetje!
+
+1217
+01:10:34,583 --> 01:10:36,750
+Unë quhem Lily.
+
+1218
+01:10:36,916 --> 01:10:39,416
+Dhe ky është Mopple.
+
+1219
+01:10:39,833 --> 01:10:42,041
+Ne jemi nga ana tjetër e livadhit.
+
+1220
+01:10:43,291 --> 01:10:45,625
+Caleb-i do të jetë edhe bariu ynë.
+
+1221
+01:10:49,916 --> 01:10:50,958
+Çfarë?
+
+1222
+01:10:58,708 --> 01:10:59,750
+Vraponi.
+
+1223
+01:10:59,916 --> 01:11:01,916
+Çfarë? Por unë--
+
+1224
+01:11:08,000 --> 01:11:12,208
+Ndoshta nuk duhej
+të kishim ardhur këtu, në fakt.
+
+1225
+01:11:12,375 --> 01:11:13,583
+Duhet të shkojmë.
+
+1226
+01:11:13,750 --> 01:11:15,375
+Në rregull.
+
+1227
+01:11:15,541 --> 01:11:16,916
+Nga cili drejtim është livadhi ynë?
+
+1228
+01:11:17,083 --> 01:11:18,875
+Mendoj andej?
+
+1229
+01:11:23,333 --> 01:11:25,250
+Shiko! Ka një dritë.
+
+1230
+01:11:28,500 --> 01:11:30,875
+Duhet të jetë hambari i Caleb-it.
+
+1231
+01:11:31,708 --> 01:11:33,625
+Do të jemi të sigurta aty.
+
+1232
+01:11:38,333 --> 01:11:41,000
+Nuk mendoj se është një hambar.
+
+1233
+01:11:42,000 --> 01:11:43,041
+Ndoshta ne duhet…
+
+1234
+01:11:43,208 --> 01:11:44,208
+Prit.
+
+1235
+01:11:45,333 --> 01:11:46,583
+Çfarë është kjo?
+
+1236
+01:11:48,291 --> 01:11:50,458
+Lily, mos. Duhet të shkojmë.
+
+1237
+01:11:54,125 --> 01:11:56,125
+{\an8}Pse është kështu ajo dele?
+
+1238
+01:11:56,291 --> 01:11:58,708
+{\an8}Çfarë po u bëjnë atyre?
+
+1239
+01:12:02,083 --> 01:12:03,291
+Caleb?
+
+1240
+01:12:04,666 --> 01:12:05,666
+Ai…
+
+1241
+01:12:06,208 --> 01:12:07,208
+Ai…
+
+1242
+01:12:08,458 --> 01:12:10,541
+Oh. Përshëndetje, qenushë.
+
+1243
+01:12:12,833 --> 01:12:14,166
+Çfarë nuk shkon me ta?
+
+1244
+01:12:15,875 --> 01:12:17,833
+Nuk duhet të jemi këtu.
+
+1245
+01:12:19,291 --> 01:12:20,625
+Vrapo!
+
+1246
+01:12:31,916 --> 01:12:33,083
+Më shpejt, Lily!
+
+1247
+01:12:33,250 --> 01:12:35,458
+Nuk mundem! Nuk do t'ja dal!
+
+1248
+01:12:47,541 --> 01:12:48,625
+Sebastian.
+
+1249
+01:13:03,833 --> 01:13:04,666
+Jo!
+
+1250
+01:13:19,458 --> 01:13:20,750
+Sebastian.
+
+1251
+01:13:20,916 --> 01:13:23,458
+Oh, faleminderit Zotit që erdhe.
+Mendova se do të--
+
+1252
+01:13:25,791 --> 01:13:27,208
+Sebastian?
+
+1253
+01:13:28,125 --> 01:13:29,666
+Sebastian, ngrihu!
+
+1254
+01:13:32,333 --> 01:13:33,625
+Lily.
+
+1255
+01:13:36,541 --> 01:13:37,875
+Nuk mundem.
+
+1256
+01:13:38,708 --> 01:13:40,166
+Pse?
+
+1257
+01:13:40,333 --> 01:13:42,041
+Nuk kupto--
+
+1258
+01:13:47,333 --> 01:13:48,458
+Lily.
+
+1259
+01:13:49,291 --> 01:13:50,666
+Ai po vdes.
+
+1260
+01:13:51,166 --> 01:13:52,333
+Çfarë?
+
+1261
+01:13:52,500 --> 01:13:54,833
+Jo, delet nuk vdesin.
+
+1262
+01:13:55,000 --> 01:13:56,833
+Ne shndërrohemi në re.
+
+1263
+01:13:57,000 --> 01:14:00,708
+Shndërrohu në re, Sebastian.
+Shndërrohu në re.
+
+1264
+01:14:04,291 --> 01:14:06,000
+Do të doja shumë.
+
+1265
+01:14:07,083 --> 01:14:09,333
+Nuk duhej të ishe kthyer.
+
+1266
+01:14:09,791 --> 01:14:11,750
+Pse u ktheve?
+
+1267
+01:14:11,916 --> 01:14:13,291
+Duhej ta bëja.
+
+1268
+01:14:14,208 --> 01:14:16,000
+Jeni kopeja ime.
+
+1269
+01:14:23,208 --> 01:14:24,708
+E shoh atë.
+
+1270
+01:14:26,625 --> 01:14:28,750
+E shoh George-in.
+
+1271
+01:14:39,125 --> 01:14:40,208
+Jo.
+
+1272
+01:14:46,208 --> 01:14:47,291
+Është Caleb-i.
+
+1273
+01:14:47,541 --> 01:14:48,916
+Duhet të shkojmë.
+
+1274
+01:14:49,083 --> 01:14:50,250
+Tani, Lily!
+
+1275
+01:15:01,708 --> 01:15:04,166
+Zgjohuni! Zgjohuni, të gjitha!
+
+1276
+01:15:04,458 --> 01:15:06,083
+- Zgjohuni!
+- Zgjohuni!
+
+1277
+01:15:06,250 --> 01:15:07,708
+- Zgjohuni!
+- Zgjohuni!
+
+1278
+01:15:07,958 --> 01:15:09,000
+Më ndiqni!
+
+1279
+01:15:09,166 --> 01:15:10,541
+Ndiqeni atë!
+
+1280
+01:15:10,708 --> 01:15:11,708
+Ndiqeni atë!
+
+1281
+01:15:11,875 --> 01:15:13,333
+Ndiqeni atë!
+
+1282
+01:15:20,333 --> 01:15:21,500
+Ndaloni!
+
+1283
+01:15:21,916 --> 01:15:24,791
+Mos ndaloni! Duhet të largohemi! Tani!
+
+1284
+01:15:24,958 --> 01:15:27,541
+Të largohemi? Çfarë po thua?
+
+1285
+01:15:28,291 --> 01:15:30,208
+Sebastian-i ka vdekur.
+
+1286
+01:15:30,708 --> 01:15:33,458
+Por ti the që ne shndërrohemi në re.
+
+1287
+01:15:33,625 --> 01:15:34,875
+E kisha gabim.
+
+1288
+01:15:35,041 --> 01:15:36,375
+Ne vdesim.
+
+1289
+01:15:36,541 --> 01:15:38,666
+E pashë Sebastian-in duke vdekur.
+
+1290
+01:15:38,833 --> 01:15:42,916
+Dhe nëse nuk largohemi sonte,
+do të vdesim edhe ne.
+
+1291
+01:15:43,708 --> 01:15:45,916
+Caleb-i bën delet ushqim dhe--
+
+1292
+01:15:46,083 --> 01:15:49,416
+Mjaft!
+Mjaft më me këto gjëra të tmerrshme!
+
+1293
+01:15:49,583 --> 01:15:51,583
+Do ta harroj që kjo ndodhi. Menjëherë!
+
+1294
+01:15:51,708 --> 01:15:52,875
+Jo, nuk mundesh!
+
+1295
+01:15:53,041 --> 01:15:56,083
+Pse?! Pse do të mbaja mend
+diçka kaq të tmerrshme?
+
+1296
+01:15:56,250 --> 01:15:57,583
+Sepse është e vërtetë!
+
+1297
+01:15:57,750 --> 01:15:59,708
+Nuk është e vërtetë nëse nuk e mbaj mend.
+
+1298
+01:15:59,875 --> 01:16:00,958
+- Një.
+- Prisni.
+
+1299
+01:16:01,125 --> 01:16:01,875
+Dy.
+
+1300
+01:16:02,000 --> 01:16:04,375
+Ronnie, Reggie, ju lutem.
+Bëhuni të guximshëm.
+
+1301
+01:16:04,541 --> 01:16:05,708
+Tre!
+
+1302
+01:16:08,708 --> 01:16:10,250
+Oh, përshëndetje, Lily.
+
+1303
+01:16:10,791 --> 01:16:12,291
+Kam një pyetje.
+
+1304
+01:16:12,500 --> 01:16:13,708
+Çfarë po bëjmë këtu?
+
+1305
+01:16:13,875 --> 01:16:16,000
+Nuk më pëlqen.
+Kthehemi tek livadhi.
+
+1306
+01:16:16,166 --> 01:16:17,291
+Kthehemi tek livadhi.
+
+1307
+01:16:17,708 --> 01:16:21,416
+Jo! Mos! Ju lutem!
+
+1308
+01:16:24,750 --> 01:16:27,333
+Sebastian-i kishte të drejtë për ne.
+
+1309
+01:16:27,500 --> 01:16:31,125
+Ne jemi thjesht
+dele budallaqe dhe të frikësuara.
+
+1310
+01:16:32,416 --> 01:16:37,416
+Sonte nuk është hera e parë
+që pashë një dele të vdesë, apo jo?
+
+1311
+01:16:37,791 --> 01:16:38,833
+Jo.
+
+1312
+01:16:39,000 --> 01:16:41,208
+Sa herë kam harruar?
+
+1313
+01:16:42,541 --> 01:16:44,291
+Më shumë seç mund të numëroj.
+
+1314
+01:16:44,916 --> 01:16:49,000
+E ke mbajtur këtë barrë krejt i vetëm,
+gjithë këtë kohë?
+
+1315
+01:16:49,708 --> 01:16:50,833
+Po.
+
+1316
+01:16:51,250 --> 01:16:53,583
+Mbaj mend çdo gjë të keqe.
+
+1317
+01:16:53,958 --> 01:16:56,875
+Por mbaj mend edhe gjëra të mira.
+
+1318
+01:16:58,333 --> 01:17:01,083
+E mbaj mend fytyrën e nënës sime.
+
+1319
+01:17:01,250 --> 01:17:04,291
+Mbajn mend miqtë e vjetër
+dhe si më donin.
+
+1320
+01:17:04,458 --> 01:17:07,166
+Dhe ti do mbash mend Sebastian-in.
+
+1321
+01:17:09,375 --> 01:17:10,833
+Dhemb.
+
+1322
+01:17:11,000 --> 01:17:13,041
+Të mbash mend dhemb.
+
+1323
+01:17:13,583 --> 01:17:14,750
+E di.
+
+1324
+01:17:14,916 --> 01:17:20,000
+Por nëse harron, nuk mund t'i shpëtosh të
+tjerët dhe Sebastian-i do ketë vdekur kot.
+
+1325
+01:17:20,791 --> 01:17:22,416
+Caleb-i do të vijë për ty nesër,
+dhe ti do ta
+
+1326
+01:17:22,583 --> 01:17:28,125
+ndjekësh bariun tënd të ri njësoj si
+"delet tjera budallaqe dhe të frikësuara."
+
+1327
+01:17:28,625 --> 01:17:31,291
+Dhe… do të gjitha do të vdesim.
+
+1328
+01:17:32,916 --> 01:17:35,833
+Më vjen keq, Lily. Vërtet.
+
+1329
+01:17:36,000 --> 01:17:39,958
+Por është kujtesa jonë
+që i mban gjallë ata që i duam.
+
+1330
+01:18:00,541 --> 01:18:02,708
+Më fal, Sebastian.
+
+1331
+01:18:03,708 --> 01:18:05,833
+Nuk jam aq e fortë sa ti.
+
+1332
+01:18:08,333 --> 01:18:10,625
+Një. Dy.
+
+1333
+01:18:10,791 --> 01:18:15,000
+<i>Ti mund të jesh delja më e zgjuar,
+por Mopple është më i mençuri.</i>
+
+1334
+01:18:18,833 --> 01:18:20,708
+{\an8}Kam humbur dikë njëherë.
+
+1335
+01:18:21,750 --> 01:18:23,416
+{\an8}E di që dhemb.
+
+1336
+01:18:23,833 --> 01:18:27,458
+Por, me kohë, gjithçka që mbetet
+janë vetëm kujtimet e bukura.
+
+1337
+01:18:28,125 --> 01:18:30,791
+Je vërtet…? Je vërtet këtu?
+
+1338
+01:18:31,250 --> 01:18:32,833
+Sigurisht që jam.
+
+1339
+01:18:33,000 --> 01:18:35,416
+Sepse ti nuk më harrove.
+E sheh si funksionon?
+
+1340
+01:18:35,750 --> 01:18:39,791
+Po, epo, por nuk ka më rëndësi.
+Calebi-i do të--
+
+1341
+01:18:39,958 --> 01:18:44,208
+Caleb-i nuk do t'i bëjë asgjë kopesë time
+sepse ti do t'i shpëtosh.
+
+1342
+01:18:44,750 --> 01:18:45,958
+Por si?
+
+1343
+01:18:46,125 --> 01:18:48,041
+Ti e di tashmë se si.
+
+1344
+01:18:48,583 --> 01:18:51,291
+Nëse e kupton se kush e bëri vërtet, Lily,
+
+1345
+01:18:51,458 --> 01:18:54,041
+Rebecca do ta marrë kopenë
+dhe ju të gjitha do të jeni të sigurta.
+
+1346
+01:18:54,208 --> 01:18:56,750
+Po sikur
+të mos e di se kush e bëri vërtet?
+
+1347
+01:18:56,916 --> 01:18:59,416
+Sinqerisht,
+të kam lexuar dhjetëra nga këto tregime.
+
+1348
+01:18:59,583 --> 01:19:01,208
+Ato ndjekin rregulla shumë të thjeshta.
+
+1349
+01:19:01,375 --> 01:19:03,291
+Por rregullat nuk kanë ndihmuar.
+
+1350
+01:19:03,458 --> 01:19:05,375
+Policia e di që nuk ishte një endacak.
+
+1351
+01:19:05,541 --> 01:19:07,416
+Kushdo mund të ishte
+kthyer në vendin e krimit.
+
+1352
+01:19:07,583 --> 01:19:09,875
+Rebecca ishte
+personi i papritur dhe--
+
+1353
+01:19:10,041 --> 01:19:11,166
+Dhe?
+
+1354
+01:19:13,375 --> 01:19:16,416
+Viktima është e dhëna më e rëndësishme.
+
+1355
+01:19:18,750 --> 01:19:21,500
+<i>Njollë jeshile në dorën e tij.</i>
+
+1356
+01:19:22,208 --> 01:19:24,666
+<i>Të lyera shumë bukur.</i>
+
+1357
+01:19:24,958 --> 01:19:26,291
+<i>Zgjodhi qengjin e gabuar.</i>
+
+1358
+01:19:26,458 --> 01:19:28,500
+<i>Pashë fantazmën e George-it.</i>
+
+1359
+01:19:30,541 --> 01:19:31,583
+Të lumtë.
+
+1360
+01:19:40,041 --> 01:19:42,125
+- Rebecca nuk e ka bërë!
+- Lily, ngadalëso.
+
+1361
+01:19:42,250 --> 01:19:44,791
+- E di kush e ka bërë. Dhe nëse mund--
+- Të vërtetosh çfarë?
+
+1362
+01:19:44,916 --> 01:19:46,125
+Nuk ishte njollë e barit.
+
+1363
+01:19:46,250 --> 01:19:47,750
+- Dhe supozohet që unë--?
+- Prit-prit.
+
+1364
+01:19:47,875 --> 01:19:49,083
+Përveç nëse… Po!
+
+1365
+01:19:49,208 --> 01:19:51,666
+Oh, por jam shumë i madh.
+Nuk më zë.
+
+1366
+01:19:51,791 --> 01:19:54,083
+Unë mund të futem kudo.
+
+1367
+01:19:55,208 --> 01:19:57,833
+Dhe nuk kam harruar.
+
+1368
+01:19:59,833 --> 01:20:01,750
+Fute të gjithë këmbën brenda.
+
+1369
+01:20:03,875 --> 01:20:07,166
+Tani fute këmbën tjetër aty.
+
+1370
+01:20:10,791 --> 01:20:13,291
+Në rregull. Shko tani.
+
+1371
+01:20:22,250 --> 01:20:24,583
+Ashtu pra. Futu aty.
+
+1372
+01:21:17,916 --> 01:21:20,250
+Ky është një qytet shumë i çuditshëm.
+
+1373
+01:21:21,875 --> 01:21:24,041
+Mendon se do të funksionojë?
+
+1374
+01:21:24,500 --> 01:21:27,583
+Nuk e di. E tëra çfarë
+mund të bëjmë është të presim.
+
+1375
+01:21:29,958 --> 01:21:34,208
+Çfarë të tha George
+mëngjesin para se të vdiste?
+
+1376
+01:21:34,666 --> 01:21:37,333
+E pashë të pëshpëriste
+diçka në veshin tënd.
+
+1377
+01:21:38,250 --> 01:21:42,666
+Ai tha se një qengj dimri
+është qengji më i mirë.
+
+1378
+01:21:56,500 --> 01:21:58,708
+- Hej, Ronnie.
+- Po?
+
+1379
+01:21:58,875 --> 01:22:02,541
+Ke ndonjëherë ndjesinë
+sikur ke harruar diçka?
+
+1380
+01:22:02,708 --> 01:22:05,708
+E ke fjalën për diçka që Lily
+u përpoq të na e tregonte mbrëmë,
+
+1381
+01:22:05,875 --> 01:22:09,208
+por pastaj ne zgjodhëm ta harronim
+sepse ishim, e di, të frikësuar?
+
+1382
+01:22:09,458 --> 01:22:11,833
+Epo, jo të frikësuar.
+Absolutisht jo të frikësuar.
+
+1383
+01:22:12,000 --> 01:22:13,833
+Por po. Për këtë e kam fjalën.
+
+1384
+01:22:14,000 --> 01:22:15,375
+Çfarë duhet të bëjmë, vëlla?
+
+1385
+01:22:15,541 --> 01:22:19,333
+Nuk kam ide, por s'mund të rrimë duarkryq,
+pra duhettë bëjmë… diçka!
+
+1386
+01:22:20,083 --> 01:22:21,166
+Ide gjeniale.
+
+1387
+01:22:21,333 --> 01:22:23,666
+Po, eja, atëherë!
+Jemi qengja?
+
+1388
+01:22:23,833 --> 01:22:26,625
+Apo jemi desh?
+
+1389
+01:22:39,333 --> 01:22:40,541
+Kush e bëri këtë?
+
+1390
+01:22:40,916 --> 01:22:43,375
+Një qengj hyri nga dritarja.
+
+1391
+01:22:43,541 --> 01:22:46,541
+Një qengj hyri nga dritarja.
+
+1392
+01:22:46,791 --> 01:22:47,916
+Bëhet më keq.
+
+1393
+01:22:48,416 --> 01:22:51,208
+Nuk mund të jetë më keq
+se një qengj në dritare.
+
+1394
+01:22:51,916 --> 01:22:53,958
+Jam e sigurt
+
+1395
+01:22:54,583 --> 01:22:58,541
+që qengji po merrte
+urdhra nga një dele tjetër.
+
+1396
+01:23:01,041 --> 01:23:02,208
+Po.
+
+1397
+01:23:07,000 --> 01:23:08,250
+Çfarë do të thotë?
+
+1398
+01:23:14,583 --> 01:23:16,333
+Do të thotë…
+
+1399
+01:23:19,083 --> 01:23:20,333
+Asgjë.
+
+1400
+01:23:21,250 --> 01:23:22,541
+Asgjë!
+
+1401
+01:23:23,000 --> 01:23:24,333
+Ato janë dele.
+
+1402
+01:23:25,500 --> 01:23:26,875
+Ato janë dele.
+
+1403
+01:24:09,583 --> 01:24:11,791
+Nëse e nënshkruani transferimin,
+do ta marrim me vete.
+
+1404
+01:24:11,958 --> 01:24:13,125
+Në rregull.
+
+1405
+01:24:15,166 --> 01:24:16,500
+Nuk funksionoi.
+
+1406
+01:24:16,666 --> 01:24:18,375
+Jepi një mundësi.
+
+1407
+01:24:21,083 --> 01:24:22,125
+Oficer Derry.
+
+1408
+01:24:23,333 --> 01:24:24,458
+Formulari.
+
+1409
+01:24:30,416 --> 01:24:31,916
+Mos e bëj.
+
+1410
+01:24:59,791 --> 01:25:01,791
+Ndaloni! Ndaloni!
+
+1411
+01:25:03,375 --> 01:25:06,083
+Ajo nuk e bëri. Ajo nuk e bëri.
+
+1412
+01:25:06,791 --> 01:25:08,333
+Por unë e di kush e bëri.
+
+1413
+01:25:08,500 --> 01:25:10,208
+Unë e di kush e vrau George Hardy-n.
+
+1414
+01:25:15,625 --> 01:25:16,916
+Znj. Harbottle.
+
+1415
+01:25:18,083 --> 01:25:19,250
+Jo-Jo-Jo.
+
+1416
+01:25:19,458 --> 01:25:24,250
+Doli që unë isha Budallai,
+por ndoshta nuk jam më.
+
+1417
+01:25:25,583 --> 01:25:30,041
+Që nga momenti që Rebecca Hampstead erdhi
+në Denbrook, ishte e dyshuara kryesore.
+
+1418
+01:25:30,208 --> 01:25:33,166
+Ajo kishte motivin më të fortë.
+Plus, ajo gënjeu.
+
+1419
+01:25:33,333 --> 01:25:35,625
+Ajo ishte në fermën e George-it
+natën e vrasjes.
+
+1420
+01:25:35,791 --> 01:25:38,208
+Pikërisht ajo që vrasësi po priste.
+
+1421
+01:25:38,375 --> 01:25:43,291
+Një vrasës që nuk e konsideruam kurrë,
+sepse as nuk ishte një i dyshuar.
+
+1422
+01:25:43,500 --> 01:25:48,833
+I vetmi person i përmendur në testamentin
+e George-it që kishte një alibi.
+
+1423
+01:25:49,083 --> 01:25:50,833
+Një alibi e përsosur.
+
+1424
+01:25:51,000 --> 01:25:52,750
+Një alibi që thotë se ai
+nuk ndodhet në qytet.
+
+1425
+01:25:52,916 --> 01:25:54,416
+- Nuk e ke fjalën--?
+- Po.
+
+1426
+01:25:54,583 --> 01:25:55,666
+Peter Van Vuuren.
+
+1427
+01:25:55,833 --> 01:25:57,083
+- Nga Afrika e Jugut.
+- Nga Afrika e Jugut.
+
+1428
+01:25:57,250 --> 01:25:59,875
+Rebecca, ti the se George
+të dërgoi një kopje të testamentit.
+
+1429
+01:26:00,041 --> 01:26:03,291
+Por vë bast se i dërgoi
+një edhe vëllait tënd,
+
+1430
+01:26:03,458 --> 01:26:07,583
+i cili bëri disa kërkime dhe zbuloi se sa
+vlente në të vërtetë George dhe vendosi
+
+1431
+01:26:07,750 --> 01:26:12,833
+se do t'i merrte ato tridhjetë milionë
+edhe nëse do t'i duhej të vriste për to.
+
+1432
+01:26:13,791 --> 01:26:16,416
+Por ai kishte një problem të madh.
+
+1433
+01:26:16,583 --> 01:26:17,541
+Motivin!
+
+1434
+01:26:17,958 --> 01:26:19,250
+Doja ta thoja këtë.
+
+1435
+01:26:19,416 --> 01:26:22,000
+Epo, sapo e bëre të dukej
+sikur unë isha vrasësja.
+
+1436
+01:26:23,875 --> 01:26:24,875
+Motivin!
+
+1437
+01:26:25,375 --> 01:26:30,416
+Nëse një i vrarë të lë një pasuri në
+testamentin e tij, je i dyshuari kryesor.
+
+1438
+01:26:30,583 --> 01:26:33,916
+Por nëse ai ia lë atë motrës sate
+dhe ajo dënohet për krimin…
+
+1439
+01:26:34,083 --> 01:26:35,625
+Paratë shkojnë automatikisht te--
+
+1440
+01:26:35,791 --> 01:26:37,083
+- Personi tjetër më i afërt.
+- Personi tjetër më i afërt.
+
+1441
+01:26:37,208 --> 01:26:39,458
+Të lutem?!
+Po kaloj një moment triumfi.
+
+1442
+01:26:39,625 --> 01:26:40,708
+Më vjen shumë keq.
+
+1443
+01:26:41,083 --> 01:26:42,750
+Personi tjetër më i afërt!
+
+1444
+01:26:43,125 --> 01:26:44,458
+E vetmja pyetje që mbetet…
+
+1445
+01:26:45,833 --> 01:26:47,375
+ku është fshehur ai?
+
+1446
+01:26:47,541 --> 01:26:49,333
+Kë po kërkoj?
+
+1447
+01:26:49,500 --> 01:26:52,083
+Dikush që fshihet në sy të publikut.
+
+1448
+01:26:52,250 --> 01:26:54,416
+Dikush që ka ndryshuar emrin.
+
+1449
+01:26:55,041 --> 01:26:58,750
+Për shembull, Chastity Crampfs…
+
+1450
+01:26:58,916 --> 01:27:01,166
+u bë Rebecca Hampstead.
+
+1451
+01:27:01,333 --> 01:27:02,625
+Dhe Peter Van Vuuren…
+
+1452
+01:27:02,791 --> 01:27:04,750
+Dhe Peter Van Vuuren…
+
+1453
+01:27:06,625 --> 01:27:08,416
+u bë Elliot Matthews.
+
+1454
+01:27:08,583 --> 01:27:09,625
+Jo!
+
+1455
+01:27:11,291 --> 01:27:13,083
+Fantazma e George-it.
+
+1456
+01:27:14,375 --> 01:27:16,041
+Unë kurrë nuk hamendësoj.
+
+1457
+01:27:17,125 --> 01:27:19,083
+Tim, po e turpëron veten.
+
+1458
+01:27:19,666 --> 01:27:23,208
+Unë nuk jetoj në Afrikën e Jugut. Jetoj
+në këtë vend dhe punoj për një gazetë--
+
+1459
+01:27:23,375 --> 01:27:24,375
+E di.
+
+1460
+01:27:24,500 --> 01:27:29,416
+Unë supozoj se ke jetuar në këtë vend
+për ca kohë si "Elliot Matthews".
+
+1461
+01:27:29,583 --> 01:27:31,333
+Duke bërë një theks të rremë.
+
+1462
+01:27:31,625 --> 01:27:36,041
+George të tha
+që Rebecca do të vinte për vizitë, apo jo?
+
+1463
+01:27:36,625 --> 01:27:39,583
+Një mundësi e përkryer
+për ta bërë të duket fajtore.
+
+1464
+01:27:39,875 --> 01:27:43,166
+Të duhej vetëm një arsye
+për të ardhur në Denbrook.
+
+1465
+01:27:43,916 --> 01:27:46,166
+<i>Si për një festival kulturor.</i>
+
+1466
+01:27:46,333 --> 01:27:48,375
+<i>Plani yt ishte i thjeshtë.</i>
+
+1467
+01:27:48,541 --> 01:27:49,333
+<i>Së pari…</i>
+
+1468
+01:27:49,625 --> 01:27:51,875
+ta bëje të qartë
+se po largoheshe nga Denbrook.
+
+1469
+01:27:52,208 --> 01:27:55,583
+<i>Pastaj gjoja një problem
+me makinën të solli përsëri këtu.</i>
+
+1470
+01:27:57,791 --> 01:28:01,458
+<i>Më vonë atë natë, pasi Rebecca u largua,</i>
+
+1471
+01:28:01,625 --> 01:28:04,250
+<i>ti bëre atë për të cilën kishe ardhur.</i>
+
+1472
+01:28:07,333 --> 01:28:08,416
+Eja, eja, eja.
+
+1473
+01:28:18,375 --> 01:28:19,500
+Gëzuar.
+
+1474
+01:28:19,791 --> 01:28:21,458
+<i>E helmove babanë tënd…</i>
+
+1475
+01:28:23,333 --> 01:28:25,500
+<i>dhe krijove testamentin e ri.</i>
+
+1476
+01:28:28,416 --> 01:28:30,791
+<i>Por babai yt ishte më i fortë
+nga sa prisje.</i>
+
+1477
+01:28:32,791 --> 01:28:34,166
+Kishte një përleshje.
+
+1478
+01:28:42,541 --> 01:28:45,125
+<i>Por ti fitove në fund.</i>
+
+1479
+01:28:45,666 --> 01:28:49,291
+E vetmja gjë që mbetej për të bërë ishte
+të sigurohesh që motra jote të fajësohej.
+
+1480
+01:28:50,000 --> 01:28:51,958
+Veprove me zgjuarësi.
+
+1481
+01:28:52,333 --> 01:28:55,916
+Ditën që znj. Harbottle lexoi testamentin,
+e dije se do të të nxirrte jashtë.
+
+1482
+01:28:57,750 --> 01:29:02,166
+<i>Z. Van Vuuren, jam Lydia Harbottle.
+Më dëgjoni?</i>
+
+1483
+01:29:02,500 --> 01:29:04,333
+<i>Po.</i> ju dëgjoj shumë mirë. Faleminderit.
+
+1484
+01:29:04,500 --> 01:29:08,666
+Sa për kokrrat e bërshenit vendosja e tyre
+në dhomën e Rebecca-s ishte shumë e lehtë.
+
+1485
+01:29:09,125 --> 01:29:10,666
+<i>Një bujtinë e vogël.</i>
+
+1486
+01:29:10,833 --> 01:29:12,208
+<i>Dry që hapen lehtë.</i>
+
+1487
+01:29:13,291 --> 01:29:15,333
+Ishte pothuajse perfekte, Elliot.
+
+1488
+01:29:15,500 --> 01:29:18,833
+Por ajo që ti nuk e dije
+dhe që unë nuk e kuptova deri tani
+
+1489
+01:29:19,000 --> 01:29:20,708
+është se ti le pas një të dhënë.
+
+1490
+01:29:21,500 --> 01:29:23,083
+Duart e George-it.
+
+1491
+01:29:23,250 --> 01:29:25,208
+Duart e George-it.
+
+1492
+01:29:26,875 --> 01:29:30,000
+Njëra ishte blu, tjetra ishte jeshile.
+
+1493
+01:29:30,166 --> 01:29:33,000
+<i>Ngjyra blu kishte kuptim.
+Ilaçi që e bëri të pasur.</i>
+
+1494
+01:29:33,166 --> 01:29:35,000
+Por ngjyra jeshile?
+Pse jeshile?
+
+1495
+01:29:35,916 --> 01:29:38,875
+Dhe pastaj ca miq…
+
+1496
+01:29:39,291 --> 01:29:42,375
+ca miq
+që janë detektivë shumë të mirë…
+
+1497
+01:29:45,833 --> 01:29:47,375
+më bënë të mendoj.
+
+1498
+01:29:48,208 --> 01:29:50,083
+Blu dhe jeshile.
+
+1499
+01:29:50,250 --> 01:29:54,041
+Bluja dhe e verdha
+të përziera së bashku krijojnë jeshilen.
+
+1500
+01:29:54,208 --> 01:29:57,291
+Si njolla jeshile që pashë
+në dorën e George-it.
+
+1501
+01:29:57,458 --> 01:30:00,625
+Si njolla jeshile që pashë në një
+mbulesë jastëku blu në bujtinën
+
+1502
+01:30:00,916 --> 01:30:04,291
+ku fjete natën që vrave George-in!
+
+1503
+01:30:05,583 --> 01:30:09,500
+Atë natë, të dyja duart e George-it ishin
+bërë blu nga ilaçi.
+
+1504
+01:30:09,666 --> 01:30:12,958
+Por pastaj ai i kapi flokët dikujt.
+
+1505
+01:30:14,083 --> 01:30:17,791
+Dikush që përdori një llojë boje të
+të lirë për flokë, ngjyrë të verdhë
+
+1506
+01:30:17,958 --> 01:30:19,750
+që rrjedh kur bie shi,
+
+1507
+01:30:19,916 --> 01:30:21,625
+<i>duke ia njollosur George-it
+dorën me ngjyrë jeshile.</i>
+
+1508
+01:30:22,625 --> 01:30:26,208
+Dikush që u bë bjond me nxitim
+para se të vinte në Denbrook
+
+1509
+01:30:26,375 --> 01:30:29,166
+sepse nuk donte
+që askush të mendonte
+
+1510
+01:30:29,333 --> 01:30:32,166
+se i ngjante shumë
+motrës ose babait të tij.
+
+1511
+01:30:32,666 --> 01:30:33,958
+Apo jo, Peter?
+
+1512
+01:30:34,083 --> 01:30:34,875
+Po!
+
+1513
+01:30:35,041 --> 01:30:35,958
+Jo!
+
+1514
+01:30:36,375 --> 01:30:39,375
+Jo, është çmenduri
+dhe krejtësisht e pavërtetueshme.
+
+1515
+01:30:39,541 --> 01:30:43,041
+Atëherë nuk e ke bezdi
+nëse e marr këtë.
+
+1516
+01:30:47,833 --> 01:30:49,333
+Aspak.
+
+1517
+01:30:50,375 --> 01:30:53,083
+Duhet ta pranoj që nuk jam biond natyral.
+
+1518
+01:30:53,750 --> 01:30:58,708
+Megjithëse duhet ta pranoj gjithashtu
+që i zbardh dhëmbët dhe e depiloj gjoksin.
+
+1519
+01:30:58,875 --> 01:31:01,000
+Vë bast se është vegjetarian.
+
+1520
+01:31:01,166 --> 01:31:05,416
+Pra, nëse ke guximin të më akuzosh
+për vrasje sepse kam bojë në flokë,
+
+1521
+01:31:05,583 --> 01:31:07,208
+nuk do të më çosh në gjyq.
+
+1522
+01:31:07,375 --> 01:31:09,541
+Do të të çoj unë ty.
+
+1523
+01:31:13,916 --> 01:31:15,458
+Ke keqkuptuar.
+
+1524
+01:31:15,625 --> 01:31:18,041
+Nuk dua bojën e flokëve të tu.
+
+1525
+01:31:18,208 --> 01:31:19,666
+Dua ADN-në.
+
+1526
+01:31:21,333 --> 01:31:23,791
+Nëse je djali i George Hardy-t,
+
+1527
+01:31:23,958 --> 01:31:26,333
+atëherë je Peter Van Vuuren,
+
+1528
+01:31:26,500 --> 01:31:30,291
+dhe ti je vrasësi i vërtetë.
+
+1529
+01:31:31,291 --> 01:31:32,375
+Të kapëm.
+
+1530
+01:31:33,458 --> 01:31:34,625
+Të kapëm.
+
+1531
+01:31:40,666 --> 01:31:42,166
+Bravo, Tim.
+
+1532
+01:31:48,666 --> 01:31:49,666
+Hej!
+
+1533
+01:31:52,958 --> 01:31:53,750
+Lily!
+
+1534
+01:31:53,875 --> 01:31:55,750
+Ronnie! Reggie! Ju erdhët!
+
+1535
+01:31:55,916 --> 01:31:57,208
+Po!
+
+1536
+01:31:57,583 --> 01:31:58,583
+Pse erdhëm?
+
+1537
+01:32:01,041 --> 01:32:02,708
+Hej! Ndalo! Ndalo!
+
+1538
+01:32:02,875 --> 01:32:06,583
+Sepse ka një arsye të ligjshme
+për ta goditur atë.
+
+1539
+01:32:06,750 --> 01:32:08,041
+- Faleminderit.
+- Më në fund!
+
+1540
+01:32:08,208 --> 01:32:09,000
+Po!
+
+1541
+01:32:28,500 --> 01:32:29,666
+Drejtësi?
+
+1542
+01:32:29,833 --> 01:32:32,208
+Jo. Vetëm ne.
+
+1543
+01:32:32,375 --> 01:32:33,541
+Po!
+
+1544
+01:32:37,166 --> 01:32:40,625
+Ai kishte miliona! Dëgjuat?!
+Miliona!
+
+1545
+01:32:40,791 --> 01:32:41,916
+Jam djali i tij.
+
+1546
+01:32:42,083 --> 01:32:44,208
+Ato miliona duhet të kishin qenë të miat.
+
+1547
+01:32:51,958 --> 01:32:54,208
+E di që është amerikane,
+por e dija që nuk e bëri ajo.
+
+1548
+01:32:54,333 --> 01:32:55,500
+Oh, epo, kjo nuk është e vërtetë.
+
+1549
+01:32:58,375 --> 01:32:59,291
+Dëgjo.
+
+1550
+01:32:59,458 --> 01:33:03,333
+Në emër të të gjithë
+Departamentit të Policisë së Denbrook-ut,
+
+1551
+01:33:03,500 --> 01:33:05,666
+ju kërkojmë ndjesë.
+
+1552
+01:33:05,833 --> 01:33:08,666
+Ka ndonjë tjetër përveç teje?
+
+1553
+01:33:09,166 --> 01:33:10,208
+Jo.
+
+1554
+01:33:11,083 --> 01:33:13,000
+Do të doja të kërkoja ndjesë.
+
+1555
+01:33:14,666 --> 01:33:15,666
+Faleminderit.
+
+1556
+01:33:24,750 --> 01:33:26,041
+Dëgjo.
+
+1557
+01:33:27,208 --> 01:33:28,333
+Qengji i dritares?
+
+1558
+01:33:29,708 --> 01:33:31,291
+Qengji i dritares.
+
+1559
+01:33:33,083 --> 01:33:35,500
+Mendon se do të qëndrosh
+edhe për pak kohë?
+
+1560
+01:33:35,750 --> 01:33:40,666
+Unë sapo dola nga burgu, kështu që ndoshta
+më duhet pak kohë për të marrë veten.
+
+1561
+01:33:45,291 --> 01:33:47,250
+Shpresoj ta bësh.
+
+1562
+01:33:47,791 --> 01:33:49,000
+Ndoshta.
+
+1563
+01:33:53,833 --> 01:33:54,916
+Rebecca.
+
+1564
+01:33:55,500 --> 01:33:58,875
+Rebecca. Dua vetëm të them
+se nuk mund të kërkoj falje sa duhet.
+
+1565
+01:34:25,958 --> 01:34:27,500
+Të qerasim ne.
+
+1566
+01:34:29,250 --> 01:34:30,458
+Faleminderit.
+
+1567
+01:34:34,791 --> 01:34:35,916
+Prit.
+
+1568
+01:34:40,500 --> 01:34:42,625
+Më vjen keq.
+
+1569
+01:34:44,916 --> 01:34:46,458
+E pashë këtë.
+
+1570
+01:34:47,083 --> 01:34:51,708
+Ishte në çantën postare dhe, dua të them,
+nuk e dija që ishe vajza e tij.
+
+1571
+01:34:51,875 --> 01:34:55,041
+Dhe i bleva atë letër me aromë trëndafili,
+kështu që…
+
+1572
+01:34:55,458 --> 01:34:57,000
+Mund ta kuptosh.
+
+1573
+01:34:57,208 --> 01:34:58,625
+Ti ishe e dashuruar me të?
+
+1574
+01:35:00,208 --> 01:35:01,291
+Epo…
+
+1575
+01:35:01,666 --> 01:35:04,250
+Dhe ishte ai në dashuri me--?
+
+1576
+01:35:04,500 --> 01:35:05,916
+Ai u përpoq.
+
+1577
+01:35:06,291 --> 01:35:09,041
+Por George donte nënën tënde.
+
+1578
+01:35:09,250 --> 01:35:12,333
+Dhe nuk kishte vend në zemrën e tij
+për askënd tjetër.
+
+1579
+01:35:13,333 --> 01:35:15,708
+Më parë pyesja veten se si dukej ajo.
+
+1580
+01:35:16,083 --> 01:35:17,916
+Por tani nuk kam pse ta bëj.
+
+1581
+01:35:19,416 --> 01:35:21,708
+Do të doja ta kisha pyetur
+më shumë rreth saj.
+
+1582
+01:35:23,666 --> 01:35:25,208
+As emrin nuk ia di.
+
+1583
+01:35:25,500 --> 01:35:26,666
+Lily.
+
+1584
+01:35:27,333 --> 01:35:28,958
+Emri i saj ishte Lily.
+
+1585
+01:35:35,000 --> 01:35:38,208
+<i>Sigurisht që testamenti i falsifikuar
+nuk është i vlefshëm.</i>
+
+1586
+01:35:38,375 --> 01:35:41,333
+{\an8}Por ti prapë do t'i marrësh delet
+dhe të gjithë tokën e tij.
+
+1587
+01:35:41,500 --> 01:35:43,291
+- Zonjusha Hampstead.
+- Pra është gjë e mirë.
+
+1588
+01:35:43,458 --> 01:35:45,166
+Më vjen keq që ju shqetësojmë.
+
+1589
+01:35:45,583 --> 01:35:49,666
+Shiko, unë dhe Ham, jemi përpjekur
+ta nisim një biznes të ri.
+
+1590
+01:35:49,833 --> 01:35:51,583
+Kemi një bankë të mirë që na mbështet.
+
+1591
+01:35:52,250 --> 01:35:56,000
+Dhe në thelb duam të blejmë
+livadhin dhe delet e babait tënd nga ti.
+
+1592
+01:35:56,666 --> 01:35:57,666
+Dy Vrasësit.
+
+1593
+01:35:57,833 --> 01:35:59,000
+Më falni?
+
+1594
+01:35:59,166 --> 01:36:02,208
+Babai im zbuloi
+se ju po therrnit delet në tokën e tij.
+
+1595
+01:36:02,666 --> 01:36:04,625
+Ju jeni Dy Vrasësit.
+
+1596
+01:36:05,000 --> 01:36:06,500
+Epo, dy biznesmenët.
+
+1597
+01:36:06,666 --> 01:36:09,375
+Të cilët ofrojnë një çmim të mirë.
+
+1598
+01:36:09,791 --> 01:36:11,625
+Ua dini emrat atyre?
+
+1599
+01:36:12,583 --> 01:36:14,333
+Ai më tha emrat e tyre.
+
+1600
+01:36:14,500 --> 01:36:16,833
+Ka një Lily.
+
+1601
+01:36:18,791 --> 01:36:20,000
+Dhe Mopple.
+
+1602
+01:36:20,166 --> 01:36:24,166
+Dhe ajo e madhja është Cloud.
+Ai tha se ajo është një divë e vërtetë.
+
+1603
+01:36:24,333 --> 01:36:27,041
+Dhe atë me lesh në sy
+ai e quajti Wool-Eyes,
+
+1604
+01:36:27,208 --> 01:36:30,458
+gjë që mua më dukej pak e dukshme,
+por ai tha, "Ai nuk është ankuar kurrë."
+
+1605
+01:36:30,625 --> 01:36:32,791
+- Po, dëgjo, zonjusha Hampstead--
+- Hardy.
+
+1606
+01:36:33,250 --> 01:36:34,500
+Rebecca Hardy.
+
+1607
+01:36:34,666 --> 01:36:36,000
+Po e ndryshoj emrin.
+
+1608
+01:36:36,166 --> 01:36:38,041
+Unë nuk bëj ndryshime emrash.
+
+1609
+01:36:38,208 --> 01:36:40,541
+Më vjen shumë keq, zonjusha Hardy,
+por të uroj fat.
+
+1610
+01:36:40,750 --> 01:36:41,750
+Pafshim.
+
+1611
+01:36:42,791 --> 01:36:43,791
+Prit.
+
+1612
+01:36:44,250 --> 01:36:46,791
+Po çfarë nëse do të doja më shumë dele?
+
+1613
+01:36:47,208 --> 01:36:49,541
+Mund të gjej një bankë të mirë
+që më mbështet?
+
+1614
+01:36:50,583 --> 01:36:53,708
+Lily, si arrite ta zgjidhësh?
+
+1615
+01:36:53,875 --> 01:36:55,541
+Sigurisht që e zgjidhi.
+
+1616
+01:36:55,708 --> 01:36:57,833
+Ajo është delja më e zgjuar në botë.
+
+1617
+01:36:58,000 --> 01:37:01,833
+Oh, epo. Mendoja se isha,
+por nuk jam.
+
+1618
+01:37:02,000 --> 01:37:03,125
+Kam bërë gabime.
+
+1619
+01:37:03,291 --> 01:37:07,666
+Duhet ta kisha dëgjuar kur qengji i dimrit
+tha se pa fantazmën e George-it, por në--
+
+1620
+01:37:16,375 --> 01:37:18,500
+Ejani. Forca.
+
+1621
+01:37:29,291 --> 01:37:30,833
+Si quhesh?
+Ke ndonjë vëlla apo motër?
+
+1622
+01:37:31,000 --> 01:37:33,916
+Sa kohë ke që je këtu?
+Kam një mijë pyetje.
+
+1623
+01:37:34,083 --> 01:37:36,083
+Oh! Më falni.
+
+1624
+01:37:38,791 --> 01:37:40,416
+Ku e ke fytyrën?
+
+1625
+01:37:43,000 --> 01:37:45,041
+Kam sëmundjen orf.
+
+1626
+01:37:45,208 --> 01:37:47,208
+Edhe unë!
+
+1627
+01:37:53,458 --> 01:37:54,708
+Lily.
+
+1628
+01:39:08,125 --> 01:39:09,708
+"Kapitulli një:
+
+1629
+01:39:11,875 --> 01:39:15,583
+Është një bindje e përhapur
+se nga të gjitha kafshët e fermës,
+
+1630
+01:39:15,750 --> 01:39:17,541
+delet janë padyshim më budallaqet.
+
+1631
+01:39:21,208 --> 01:39:22,875
+Por, në fakt, kjo nuk është e vërtetë.
+
+1632
+01:39:23,750 --> 01:39:27,583
+{\an8}Delet nuk janë vetëm inteligjente,
+por edhe frymëzuese.
+
+1633
+01:39:27,750 --> 01:39:30,750
+Një vjershë për fëmijë
+nga shekuj më parë fillon:
+
+1634
+01:39:30,916 --> 01:39:34,708
+Little Bo Peep i ka humbur delet e saj
+Dhe nuk di ku t'i gjejë
+
+1635
+01:39:34,875 --> 01:39:37,375
+Por lërini rehat ato
+Dhe ato do të kthehen në shtëpi
+
+1636
+01:39:38,125 --> 01:39:40,666
+<i>Duke tundur bishtin pas tyre"</i>
+
+1637
+01:39:47,208 --> 01:39:49,125
+Është bukur këtu lart.
+
+1638
+01:39:49,875 --> 01:39:51,625
+Por të bën të ndihesh i vetmuar.
+
+1639
+01:39:55,125 --> 01:39:56,375
+George.
+
+1640
+01:39:57,708 --> 01:39:59,375
+Ky është emri yt.
+
+1641
+01:40:00,041 --> 01:40:02,458
+Çdo dele duhet të ketë një emër.
+
+1642
+01:40:04,833 --> 01:40:06,291
+George.
+
+1643
+01:40:16,416 --> 01:40:21,750
+"Një grup delesh të ëmbla, të buta,
+të adhurueshme dhe të gjitha të bardha.
+
+1644
+01:40:21,916 --> 01:40:24,625
+Shpesh mendohet
+se të gjitha delet janë njësoj.
+
+1645
+01:40:25,208 --> 01:40:27,833
+Por një kope delesh
+në fakt përmban kafshë
+
+1646
+01:40:28,000 --> 01:40:32,208
+me karakteristika
+dhe personalitete të ndryshme.
+
+1647
+01:40:35,458 --> 01:40:39,625
+Do të ketë të sjellshme,
+të shoqërueshme dhe të rezervuara.
+
+1648
+01:40:39,791 --> 01:40:42,833
+Të zgjuara dhe të marra.
+Të turpshme dhe që duan të duken."
+
+1649
+01:40:43,000 --> 01:40:46,208
+- Ç'kemi, si e ke emrin?
+- Emri im është George.
+
+1650
+01:40:46,375 --> 01:40:50,041
+"Këto kafshë të buta kanë pasur një vend
+në pothuajse çdo kulturë njerëzore,
+
+1651
+01:40:50,208 --> 01:40:52,750
+të përfaqësuara shpesh
+si në gjuhë ashtu edhe në imazhe
+
+1652
+01:40:52,916 --> 01:40:55,375
+si simbole të dashurisë,
+pafajësisë dhe paqes.
+
+1653
+01:40:55,833 --> 01:41:00,458
+{\an8}Sepse, ashtu si njerëzit,
+ato vlerësojnë përkatësinë mbi të gjitha.
+
+1654
+01:41:01,333 --> 01:41:04,166
+{\an8}Ato lejojnë veten të na përkasin neve.
+
+1655
+01:41:04,750 --> 01:41:06,333
+{\an8}Dhe kështu ne zbulojmë…
+
+1656
+01:41:07,291 --> 01:41:09,708
+se u përkasim atyre."
+
+1657
+01:43:21,583 --> 01:43:24,291
+DETEKTIVËT E DELEVE
+
+1658
+01:48:46,125 --> 01:48:47,458
+<i>Unë akoma mendoj se e bëri shërbëtorja.</i>
+
