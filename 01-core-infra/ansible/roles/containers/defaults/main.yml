@@ -40,6 +40,9 @@ container_services:
     runtime_dir: "/home/aldo/dev/05-media-qbittorrent"
   - name: 05-media-nextcloud
     runtime_dir: "/home/aldo/dev/05-media-nextcloud"
+  # 06-apps-urbanfix -> sibling dev repo dir
+  - name: 06-apps-urbanfix
+    runtime_dir: "/home/aldo/dev/01-core-infra/urbanfix"
   # NOTE: 06-apps services (stantonius, clock/clocky, …) keep their
   # docker-compose.yml inside their own repos and are deployed directly
   # with `docker compose up -d --build`; this role manages only their
@@ -124,6 +127,8 @@ traefik_backends:
   cockpit: { url: "https://192.168.0.5:9090", tls_skip_verify: true }
   metrics-hermes: { url: "http://192.168.0.5:9119" }
   urbanfix: { url: "http://urbanfix:3000" }
+  opencode-web: { url: "http://192.168.0.5:4096" }
+  okf-rag: { url: "http://192.168.0.5:8000" }
 
 # One line per exposed hostname.
 traefik_routes:
@@ -146,3 +151,6 @@ traefik_routes:
   - { name: cockpit, host: cockpit.dev.aldof.duckdns.org, service: cockpit, middlewares: [ipAllowList] }
   - { name: metrics-hermes, host: metrics.hermes.dev.aldof.duckdns.org, service: metrics-hermes, middlewares: [ipAllowList] }
   - { name: urbanfix, host: urbanfix.dev.aldof.duckdns.org, service: urbanfix, middlewares: [ipAllowList] }
+  - { name: opencode, host: opencode.dev.aldof.duckdns.org, service: opencode-web, middlewares: [ipAllowList] }
+  # ── Public services ──
+  - { name: rag, host: rag.aldof.duckdns.org, service: okf-rag }

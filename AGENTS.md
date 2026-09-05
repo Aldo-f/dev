@@ -1,218 +1,165 @@
 # AGENTS.md — Operating rules for `~/dev/`
 
-This file is the **single source of truth** for how humans *and* AI coding agents work in
-this monorepo. Sub-project `AGENTS.md` files exist for domain-specific guidance but **always
-yield to the rules below** on conflicts.
+Single source of truth for humans and AI agents in this monorepo. Sub-project `AGENTS.md` files exist for domain-specific guidance but **yield to these rules** on conflicts.
 
-> Looking for an overview / install instructions? See [`README.md`](./README.md).
+> Overview / install: [`README.md`](./README.md)
 
 ---
 
-## 1. Repo shape
+## 1. Repo shape (single git root)
 
 ```
-~/dev/                 ← single git root (.git lives here, nowhere else)
+~/dev/                 ← .git lives HERE, nowhere else
 ├── AGENTS.md          ← this file
-├── README.md          ← entry-point for humans
-├── install.sh         ← wrapper to call 01-core-infra/install.sh
+├── README.md
+├── install.sh         ← THE entrypoint (clones/updates repo, runs ansible)
 ├── 01-core-infra/     ← Ansible playbook + editable infra templates
-├── 02-ai-hermes-tq/ (submodule) ← Hermes TQ kanban service
-├── 02-ai-hermes-webui/ (submodule) ← Python server + vanilla JS UI (port 8787)
+├── 02-ai-hermes-tq/   (submodule) ← Hermes TQ kanban
+├── 02-ai-hermes-webui/ (submodule) ← Python + vanilla JS UI (port 8787)
 ├── 02-ai-llm-infra-sync/ (submodule) ← Credential sync CLI (Bun/TS)
-├── 04-network-traefik/ (submodule) ← Traefik reverse-proxy (managed, not edited)
-├── 05-media-*/        ← runtime media stacks (host state, not project code)
-├── 06-apps-aldo-f-github-io/ (submodule) ← MkDocs hub → aldo-f.github.io
-├── 06-apps-clock/ (submodule) ← Clock app
-├── 06-apps-passive-income/ (submodule) ← PINO orchestrator (spec-driven,
-│                                         runtime-verified 2026-08-22)
-├── 06-apps-thuis-v4/ (submodule) ← Standalone app (thuis v4)
-├── 06-apps-thuis-v5/ (submodule) ← Standalone app (thuis v5)
-├── 06-apps-wordpress-stantonius/ (submodule) ← Bedrock WordPress site
+├── 04-network-traefik/ (submodule) ← Traefik runtime (Ansible-managed, do not edit)
+├── 05-media-*/        ← runtime media stacks (host state, gitignored)
+├── 06-apps-*/         (submodules) ← user-facing apps
 ├── 07-security-vaultwarden/ ← Vaultwarden runtime
 ├── llama.cpp/         ← GGUF inference server
 └── local-mcp/         ← Ollama-backed MCP server (`gemma4:e4b`)
 ```
 
-State dirs that are host-local and **gitignored**: `media/`, `logs/`, `.omo/`,
-`.codegraph/`, `.ansible/`, `passive-income/` (legacy leftovers superseded by
-`06-apps-passive-income`).
+Gitignored host-local state: `media/`, `logs/`, `.omo/`, `.codegraph/`, `.ansible/`, `passive-income/`.
 
 ---
 
-## 2. Quickstart
+## 2. Quickstart (idempotent)
 
 ```bash
-# Bootstrap everything (idempotent — safe to re-run). Single entrypoint at repo root.
+# Bootstrap everything (safe to re-run)
 cd ~/dev && ./install.sh
 
-# Run *only* the containers role — e.g. to refresh Jellyfin.
+# Refresh one service via containers role
 ./install.sh --tags containers --limit-services '["05-media-jellyfin"]'
 
-# Jellyfin + Traefik routes (the common combo after adding a new service):
+# Service + Traefik routes (common combo after adding a service)
 ./install.sh --tags containers \
     --limit-services '["05-media-jellyfin","04-network-traefik"]'
 ```
 
-After bootstrap, services are reachable on TLS at `https://<service>.aldof.duckdns.org`.
+After bootstrap: services at `https://<service>.aldof.duckdns.org` (TLS via Let's Encrypt).
 
 ---
 
-## 3. Agent rules (must follow)
+## 3. Non-negotiable agent rules
 
-1. **No edits to generated runtime directories.** Anything Ansible has copied into a
-   runtime target (e.g. `~/dev/01-core-infra/jellyfin/docker-compose.yml`,
-   `~/dev/04-network-traefik/routes.yml`) is wiped on the next playbook run. Edit
-   `01-core-infra/templates/infra/<service>/` and re-run `./install.sh`.
-2. **One git root only.** Do **not** `git init` inside a project subfolder. If you need a
-   submodule, use `git submodule add …` from `~/dev/`. (The previous nested-`.git` layout
-   was deliberately collapsed — see commit `5b5d2018`.)
-3. **No hard-coded `/home/aldo`.** Use the `__HOME__` macro or env vars. The Ansible
-   playbook already does this; copy the convention in any script you write.
-4. **Tool sentry pattern.** Required CLI tools are declared in
-   `01-core-infra/ansible/roles/tools/defaults/main.yml`. Add a new sentry there
-   instead of running `curl | bash` ad-hoc.
-5. **Pinned Docker images.** Tags only, no `:latest` except for Traefik itself.
-6. **Idempotency.** Re-running the playbook must produce zero changes after a successful
-   run. If you add a task that isn't idempotent, fix it before merging.
-7. **Safety first.** Confirm before any destructive op (`docker compose down`,
-   `docker rm`, `git reset --hard`, `rm -rf`, anything touching
-   `~/dev/07-security-vaultwarden/`).
+| Rule | Why it matters |
+|------|----------------|
+| **Never edit runtime dirs** (`~/dev/<service>/docker-compose.yml`, `04-network-traefik/routes.yml`) | Wiped on next `./install.sh` run. Edit `01-core-infra/templates/infra/<service>/` instead. |
+| **One git root only** — no `git init` in subfolders | Nested `.git` was collapsed (commit `5b5d2018`). Use `git submodule add` from `~/dev/`. |
+| **No hardcoded `/home/aldo`** | Use `__HOME__`, `__USER__`, `__CORE_INFRA__` placeholders (Ansible does this). |
+| **Tool sentries first** | Add CLI tools to `01-core-infra/ansible/roles/tools/defaults/main.yml` (the `tools_sentries` dict), not `curl \| bash`. |
+| **Pinned Docker images** | Tags only. `:latest` forbidden except Traefik. |
+| **Idempotency** | Re-running playbook must produce zero changes after success. |
+| **Safety confirm** | Before destructive ops (`docker compose down`, `docker rm`, `git reset --hard`, `rm -rf`, anything touching `07-security-vaultwarden/`). |
 
 ---
 
-## 4. Architecture overview
+## 4. Architecture at a glance
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                  Raspberry Pi 5 (Ubuntu, systemd)                    │
-│                                                                      │
-│   templates/infra/  ──► ansible-playbook ──► runtime dirs             │
-│   (editable)         (site.yml)           (regenerated each run)      │
-│                                              │                       │
-│                                              ▼                       │
-│   ┌──────────────────────────┐   ┌──────────────────────────────┐   │
-│   │   per-service compose    │   │   04-network-traefik/        │   │
-│   │   (jellyfin, vaultwarden,│   │   *.aldof.duckdns.org        │   │
-│   │    freellmapi, …)        │   │   port 80 + 443, Let's Encrypt│   │
-│   └──────────────────────────┘   └──────────────────────────────┘   │
-│                  ▲                            ▲                       │
-│                  └────── traefik_net ─────────┘                       │
-└─────────────────────────────────────────────────────────────────────┘
+Raspberry Pi 5 (Ubuntu, systemd)
+├── templates/infra/  ──► ansible (site.yml)  ──► runtime dirs (regenerated)
+│   (EDIT HERE)          roles in order:                           │
+│                        base → tools → templates → systemd        │
+│                        → llamacpp → neo-brutalist-home → cron    │
+│                        → hermes-skills → mesh_sync → containers  │
+└── 04-network-traefik/ (reverse proxy, *.aldof.duckdns.org, ports 80/443)
 ```
 
-- **Templates** are the only thing humans / agents edit. The `containers` role syncs
-  them to runtime dirs and runs `docker compose up -d --remove-orphans`.
-- **Traefik** lives in `04-network-traefik/`. The `containers` role also syncs
-  `routes.yml` + `traefik.yml` there and reloads the proxy via handler.
+- **Templates** = only thing you edit. `containers` role syncs them → `docker compose up -d --remove-orphans`.
+- **Traefik** in `04-network-traefik/`. `containers` role also syncs `routes.yml` + `traefik.yml` and reloads via handler.
 
 ---
 
-## 5. Common commands
+## 5. Key commands
 
-| Project | Build / test | Docs |
-|---------|--------------|------|
-| `01-core-infra/` | `./install.sh` (or `./install.sh --tags containers --limit-services '["…"]'`) | `01-core-infra/AGENTS.md` |
-| `02-ai-freellmapi/` | `npm install && npm run dev && npm test` | `02-ai-freellmapi/CONTRIBUTING.md` |
-| `02-ai-hermes-webui/` | `python3 bootstrap.py && ./ctl.sh start` | `02-ai-hermes-webui/ARCHITECTURE.md` |
-| `02-ai-hermes-tq/` | `docker compose -f docker-compose.yml up -d` | `02-ai-hermes-tq/README.md` |
-| `02-ai-llm-infra-sync/` | `bun install && bun run src/index.ts` | `02-ai-llm-infra-sync/README.md` |
-| `04-network-traefik/` | *managed by Ansible, do not edit* | `04-network-traefik/docker-compose.yml` |
-| `06-apps-toerekening/` | `docker compose up -d` | `06-apps-toerekening/docker-compose.yml` |
-| `06-apps-nextcloud/` | `docker compose up -d` | `06-apps-nextcloud/README.md` |
-| `07-security-vaultwarden/` | *managed by Ansible, do not edit* | — |
-
-### Ansible playbook flags
-
-| Flag | Purpose |
+| Task | Command |
 |------|---------|
-| `--tags <name>` | Run only roles with that tag. Default tags: `containers`. |
-| `--limit-services '["<service>"]'` | Restrict the `containers` role to those `templates/infra/<service>/` names. Empty = all. |
-| `-e key=value` | Forward arbitrary extra vars to `ansible-playbook`. |
+| Full deploy | `cd ~/dev && ./install.sh` |
+| One service | `./install.sh --tags containers --limit-services '["<svc>"]'` |
+| Service + Traefik | `./install.sh --tags containers --limit-services '["<svc>","04-network-traefik"]'` |
+| Dry-run / diff | `cd ~/dev/01-core-infra/ansible && ansible-playbook -i inventories/local.yml playbooks/site.yml --tags containers -e 'limit_services=["<svc>"]' --check --diff` |
+| Verify container health | `docker exec <container> curl -fsS http://127.0.0.1:<port>/health` |
+| Tail Traefik logs | `docker logs -f traefik 2>&1 \| tail -100` |
+| Check port conflicts | `lsof -i :8787` (Hermes), `lsof -i :3001` (FreeLLM) |
 
-### Local file-offload tools (MCP: local-mcp)
-
-- `local_edit` / `local_write` / `local_read` / `local_outline` / `local_snippet` offload
-  file work to the local Ollama model `gemma4:e4b` (zero cloud tokens). In Hermes sessions
-  they appear as `mcp_local_mcp_*`, in opencode as `local_*`.
-- Use them when a file's bytes don't need to enter the main model's context:
-  `local_outline` for API shapes (no model call), `local_edit`/`local_write` for
-  implementation, `local_read` for analysis. Deletion/rename stay with built-in tools.
-- Server: `~/dev/local-mcp` (`uv run server.py`); model config in `model-config.json`
-  (copy another `configs/*.json` to switch models, then reconnect the MCP server).
+**Ansible flags** (forwarded by `install.sh`):
+- `--tags <name>` — run only roles with that tag (default: `containers`)
+- `--limit-services '["<svc>"]'` — restrict `containers` role to those template names
+- `-e key=value` — arbitrary extra vars
 
 ---
 
-## 6. Infrastructure verification pattern
+## 6. Infrastructure verification (required before "done")
 
-When you change anything in `templates/infra/`, prove it works against the *real*
-runtime before claiming done. Use all three layers:
+When changing `templates/infra/`, prove it works against **real runtime** (not venv):
 
-1. **Python verification script** (`tests/verify_deployment.py`) — container network and
-   health checks (e.g. `docker exec <c> curl -fsS http://127.0.0.1:<port>/health`).
-2. **Ansible playbook** (`tests/verify.yml`, `connection: local`) — assert infra state
-   is what the playbook claims (network exists, volumes mounted, container healthy).
-3. **Template validation script** — parse `docker-compose.yml` structurally (services,
-   networks, volumes) so typos are caught even when syntax checks pass.
+1. **Python** — `tests/verify_deployment.py` (container network + health checks)
+2. **Ansible** — `tests/verify.yml` (connection: local) — asserts infra state
+3. **Template validation** — structural parse of `docker-compose.yml` (services, networks, volumes)
 
-A change is **not done** until all three pass against real containers, not the venv.
+All three must pass against real containers.
 
 ---
 
-## 7. Pitfalls & quick fixes
+## 7. Secrets & Vault
 
-- **Missing CLI tools** — run `./install.sh`. It installs the sentries declared in
-  `01-core-infra/ansible/roles/tools/defaults/main.yml` (`docker`, `nvm`, `bun`,
-  `ollama`, …).
-- **Port conflicts** — `lsof -i :8787` before starting Hermes WebUI;
-  `lsof -i :3001` before FreeLLMAPI.
-- **Environment variables** — keep a proper `.env` at the repo root; avoid
-  `HERMES_WEBUI_PRESERVE_ENV=1` during local dev.
-- **Docker permissions** — your user must be in the `docker` group, otherwise Ansible
-  leaves behind root-owned files in the runtime dirs.
-- **Ansible sudo** — configure password-less sudo *or* run the playbook as root.
-- **Traefik won't pick up routes** — did you re-run with
-  `--limit-services '["04-network-traefik"]'` or include it explicitly? The handler
-  only runs when `routes.yml` changes.
-- **`install.sh` update safety** — the single installer at `~/dev/install.sh`
-  stash-guards local changes before updating: dirty tracked files are stashed,
-  the branch fast-forwards via `reset --hard`, then the stash is popped back.
-  On pop conflicts your work stays safe in the stash (the script tells you).
-  Set `INSTALL_SKIP_IF_DIRTY=1` to skip the update entirely when dirty.
-  Unpushed commits always skip the update. Commit + push first for changes
-  you want shipped.
+- **Ansible Vault** with password file `vaults/master.key` (declared in `ansible.cfg`).
+- **Never commit `vaults/master.key`** — gitignored; create once: `openssl rand -base64 32` + `chmod 600`.
+- Decrypt/encrypt: `ansible-vault decrypt\|encrypt --vault-password-file vaults/master.key vaults/<file>.yml`.
+- Encrypted vars loaded with `no_log: true` (see `roles/freellmapi/tasks/main.yml`).
 
 ---
 
-## 8. For AI coding agents
+## 8. Common pitfalls & fixes
 
-- **Quick run/test commands (one-liners):**
-  - `cd ~/dev/01-core-infra && ./install.sh` — bootstrap infra + sentries.
-  - `cd ~/dev/02-ai-hermes-webui && python3 bootstrap.py && ./ctl.sh start` — start
-    Hermes WebUI.
-  - `cd ~/dev/02-ai-freellmapi && npm install && npm run dev` — FreeLLM router (dev).
-  - `cd ~/dev/02-ai-llm-infra-sync && bun install && bun run src/index.ts` — infra-sync CLI.
-  - `./install.sh --tags containers --limit-services '["05-media-jellyfin"]'` — refresh
-    a single service via Ansible.
-
-- **Preflight checks:** verify `.env` files exist, check port availability (`8787`,
-  `3001`), confirm Docker group membership, and consult
-  `~/dev/01-core-infra/install.sh` before any system-level change.
-
-- **Agent surfaces & skills:** project-specific guidance lives in each `AGENTS.md`:
-  - `01-core-infra/AGENTS.md` — playbook internals, role contracts, idempotency rules.
-  - `02-ai-hermes-webui/AGENTS.md` and `02-ai-hermes-webui/ARCHITECTURE.md`.
-  - `02-ai-llm-infra-sync/README.md`.
-  - **Load skills first:** `ansible-infrastructure`,
-    `infrastructure-deployment-verification`, `traefik-routes` when relevant.
-
-- **Where to look first:** `ansible/`, `01-core-infra/templates/`,
-  `02-ai-hermes-webui/bootstrap.py`, `02-ai-hermes-webui/ctl.sh`,
-  per-project `package.json` / `pyproject.toml`.
-
-- **Skills load order hint:** for any infra change, load
-  `ansible-infrastructure` + `infrastructure-deployment-verification` *before* opening
-  a single file. Skills encode pitfalls the README can't.
+| Symptom | Fix |
+|---------|-----|
+| Missing CLI tools | Run `./install.sh` (installs sentries from `tools/defaults/main.yml`) |
+| Port conflict | `lsof -i :<port>` before starting service |
+| Env vars missing | Keep proper `.env` at repo root; avoid `HERMES_WEBUI_PRESERVE_ENV=1` locally |
+| Docker permission errors | User must be in `docker` group (else Ansible leaves root-owned files) |
+| Ansible sudo fails | Configure passwordless sudo OR run playbook as root |
+| Traefik ignores new routes | Re-run with `--limit-services '["04-network-traefik"]'` (handler only triggers on `routes.yml` change) |
+| `install.sh` update skipped | Dirty tracked files auto-stashed; `INSTALL_SKIP_IF_DIRTY=1` skips entirely; unpushed commits always skip. Commit + push first. |
 
 ---
 
-For deeper documentation, follow the per-project links in the directory tree above.
+## 9. For AI agents — quick reference
+
+**Run/test one-liners:**
+```bash
+cd ~/dev/01-core-infra && ./install.sh                    # bootstrap infra + sentries
+cd ~/dev/02-ai-hermes-webui && python3 bootstrap.py && ./ctl.sh start
+cd ~/dev/02-ai-freellmapi && npm install && npm run dev
+cd ~/dev/02-ai-llm-infra-sync && bun install && bun run src/index.ts
+./install.sh --tags containers --limit-services '["05-media-jellyfin"]'
+```
+
+**Preflight:** verify `.env` exists, check ports 8787/3001, confirm docker group, read `~/dev/01-core-infra/install.sh` before system changes.
+
+**Load skills first** for infra changes:
+- `ansible-infrastructure`
+- `infrastructure-deployment-verification`
+- `traefik-routes`
+
+**Where to look first:** `ansible/`, `01-core-infra/templates/`, `02-ai-hermes-webui/bootstrap.py`, `02-ai-hermes-webui/ctl.sh`, per-project `package.json` / `pyproject.toml`.
+
+---
+
+## 10. Sub-project AGENTS.md files
+
+| File | Domain |
+|------|--------|
+| `01-core-infra/AGENTS.md` | Ansible playbook internals, role contracts, idempotency, vault, group taxonomy |
+| `02-ai-hermes-webui/AGENTS.md` + `ARCHITECTURE.md` | Hermes WebUI internals |
+| `02-ai-llm-infra-sync/README.md` | Credential sync CLI |
+
+> For deeper docs, follow per-project links in `README.md`.

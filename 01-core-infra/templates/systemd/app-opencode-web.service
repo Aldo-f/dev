@@ -8,9 +8,9 @@ Type=simple
 User=aldo
 Group=aldo
 ExecStart=/usr/local/bin/opencode web --mdns
-Restart=unless-stopped
+Restart=always
 RestartSec=5
-WorkingDirectory=__HOME__
+WorkingDirectory=/home/aldo/dev/01-core-infra
 
 [Install]
 WantedBy=multi-user.target

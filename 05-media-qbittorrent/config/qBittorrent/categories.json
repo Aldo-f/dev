@@ -1,2 +1,42 @@
 {
+    "Apps": {
+        "download_path": null,
+        "inactive_seeding_time_limit": -2,
+        "ratio_limit": -2,
+        "save_path": "/downloads/apps",
+        "seeding_time_limit": -2,
+        "share_limit_action": "Default"
+    },
+    "Apps/Windows": {
+        "download_path": null,
+        "inactive_seeding_time_limit": -2,
+        "ratio_limit": -2,
+        "save_path": "/downloads/apps/windows",
+        "seeding_time_limit": -2,
+        "share_limit_action": "Default"
+    },
+    "Media": {
+        "download_path": null,
+        "inactive_seeding_time_limit": -2,
+        "ratio_limit": -2,
+        "save_path": "/downloads/media",
+        "seeding_time_limit": -2,
+        "share_limit_action": "Default"
+    },
+    "Media/Movies": {
+        "download_path": null,
+        "inactive_seeding_time_limit": -2,
+        "ratio_limit": -2,
+        "save_path": "/downloads/media/movies",
+        "seeding_time_limit": -2,
+        "share_limit_action": "Default"
+    },
+    "Media/TV": {
+        "download_path": null,
+        "inactive_seeding_time_limit": -2,
+        "ratio_limit": -2,
+        "save_path": "/downloads/media/tv",
+        "seeding_time_limit": -2,
+        "share_limit_action": "Default"
+    }
 }

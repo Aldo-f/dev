@@ -1,38 +1,21 @@
-version: '3.8'
-
 services:
   homepage:
-    image: ghcr.io/gethomepage/homepage:v1.13.2
+    image: ghcr.io/gethomepage/homepage:latest
     container_name: homepage
-    environment:
-      HOMEPAGE_ALLOWED_HOSTS: aldof.duckdns.org
-      PUID: 1000
-      # app drops to user `node`; host docker.sock is root:docker(105).
-      # PGID must be 105 so the dropped process keeps socket rw access.
-      PGID: 105
-    ports:
-      - "3000:3000"
-    volumes:
-      - /home/aldo/dev/06-apps-neo-brutalist-home/config:/app/config
-      - /var/run/docker.sock:/var/run/docker.sock:ro
     restart: unless-stopped
     networks:
       - traefik_net
-
-  # Optional: Glances for system metrics (alternative to custom metrics collector)
-  # glances:
-  #   image: nicolargo/glances:latest
-  #   container_name: glances
-  #   pid: host
-  #   volumes:
-  #     - /var/run/docker.sock:/var/run/docker.sock:ro
-  #   environment:
-  #     - GLANCES_OPT=-w
-  #   ports:
-  #     - "61208:61208"
-  #   restart: unless-stopped
-  #   networks:
-  #     - traefik_net
+    volumes:
+      - /home/aldo/dev/06-apps-neo-brutalist-home/config:/app/config
+    environment:
+      - HOMEPAGE_ALLOWED_HOSTS=aldof.duckdns.org
+    labels:
+      - "traefik.enable=false"
+      - "sablier.enable=true"
+      - "sablier.group=homepage"
+      - "sablier.strategy=blocking"
+      - "sablier.session.duration=30m"
+      - "sablier.session.inactivity=5m"
 
 networks:
   traefik_net:

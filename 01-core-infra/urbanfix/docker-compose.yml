@@ -1,0 +1,40 @@
+services:
+  urbanfix:
+    build:
+      context: /home/aldo/dev/06-apps-urbanfix
+      dockerfile: Dockerfile
+    container_name: urbanfix
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - APP_URL=${APP_URL:-https://urbanfix.dev.aldof.duckdns.org}
+    expose:
+      - "3000"
+    volumes:
+      - urbanfix-data:/app/data
+    networks:
+      - traefik_net
+    ports:
+      - "4001:3000"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS -m 10 http://localhost:3000/api/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 15s
+    labels:
+      - "traefik.enable=false"
+      - "sablier.enable=true"
+      - "sablier.group=urbanfix"
+      - "sablier.strategy=blocking"
+      - "sablier.session.duration=30m"
+      - "sablier.session.inactivity=5m"
+
+volumes:
+  urbanfix-data:
+
+networks:
+  traefik_net:
+    external: true

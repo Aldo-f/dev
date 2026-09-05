@@ -135,6 +135,25 @@ http:
       middlewares:
         - ipAllowList
 
+    # ── OpenCode Web UI (opencode.dev.aldof.duckdns.org) ─────────────────────
+    opencode-http:
+      rule: "Host(`opencode.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+        - ipAllowList
+      service: opencode-web
+    opencode:
+      rule: "Host(`opencode.dev.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: opencode-web
+      tls:
+        certResolver: myresolver
+      middlewares:
+        - ipAllowList
+
     # ── Portainer (portainer.dev.aldof.duckdns.org) ────────────────────────
     portainer-http:
       rule: "Host(`portainer.dev.aldof.duckdns.org`)"
@@ -299,6 +318,11 @@ http:
       loadBalancer:
         servers:
           - url: "http://192.168.0.5:9119"
+
+    opencode-web:
+      loadBalancer:
+        servers:
+          - url: "http://192.168.0.5:4096"
 
   middlewares:
     https-redirect:

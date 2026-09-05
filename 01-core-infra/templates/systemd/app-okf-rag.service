@@ -1,0 +1,19 @@
+[Unit]
+Description=OKF RAG API (FastAPI on port 8000, exposed via Traefik at rag.aldof.duckdns.org)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=__USER__
+Group=__USER__
+WorkingDirectory=__HOME__/dev/okf-home-lab
+EnvironmentFile=__HOME__/dev/okf-home-lab/.env
+ExecStart=__HOME__/dev/okf-home-lab/venv_rag/bin/python -m uvicorn rag_api:app --app-dir __HOME__/dev/okf-home-lab/rag --host 0.0.0.0 --port 8000
+Restart=always
+RestartSec=5
+StandardOutput=append:__HOME__/logs/okf-rag.log
+StandardError=append:__HOME__/logs/okf-rag.log
+
+[Install]
+WantedBy=multi-user.target

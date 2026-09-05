@@ -1,31 +1,31 @@
 services:
   freellmapi:
-    image: ghcr.io/tashfeenahmed/freellmapi@sha256:aeb57c7e9599971000787023f1c02fdd7cc87aecdddd4cb07abe4945157afe50
     build:
-      context: .
+      context: /home/aldo/dev/02-ai-freellmapi
       dockerfile: Dockerfile
     env_file:
-      - .env
+      - /home/aldo/dev/02-ai-freellmapi/.env
     environment:
       NODE_ENV: production
       PORT: 3001
       HOST_BIND: 0.0.0.0
-    ports:
-      - "3001:3001"
     volumes:
       - freellmapi-data:/app/server/data
-      - ./.env.template:/app/server/.env:ro
     restart: unless-stopped
+    stop_grace_period: 10s
     healthcheck:
-      test:
-        - CMD
-        - node
-        - -e
-        - "fetch('http://127.0.0.1:3001/api/ping').then((res) => { if (!res.ok) process.exit(1); }).catch(() => process.exit(1));"
-      interval: 30s
+      test: ["CMD-SHELL", "node -e \"fetch('http://127.0.0.1:3001/ready').then((r)=>{ if(!r.ok) process.exit(1); }).catch(()=>process.exit(1));\""]
+      interval: 10s
       timeout: 5s
-      start_period: 30s
-      retries: 3
+      retries: 6
+      start_period: 20s
+    labels:
+      - "traefik.enable=false"
+      - "sablier.enable=true"
+      - "sablier.group=freellmapi"
+      - "sablier.strategy=blocking"
+      - "sablier.session.duration=30m"
+      - "sablier.session.inactivity=5m"
     networks:
       - traefik_net
 

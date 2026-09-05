@@ -1,0 +1,15 @@
+networks:
+  traefik_net:
+    external: true
+services:
+  portainer:
+    environment:
+    - LISTEN="0.0.0.0:9000"
+    - UPSTREAM="portainer:9000"
+    - SABLIER_API="http://sablier:10000"
+    - GROUP="portainer"
+    - SESSION_DURATION="30m"
+    image: ghcr.io/vbrandl/sablier-proxy:latest
+    networks:
+    - traefik_net
+    restart: unless-stopped
