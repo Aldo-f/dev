@@ -36,6 +36,8 @@ container_services:
   # 05-media-* -> sibling dev dirs
   - name: 05-media-jellyfin
     runtime_dir: "/home/aldo/dev/05-media-jellyfin"
+  - name: jellyfin-proxy
+    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/jellyfin-proxy"
   - name: 05-media-qbittorrent
     runtime_dir: "/home/aldo/dev/05-media-qbittorrent"
   - name: 05-media-nextcloud
@@ -43,6 +45,9 @@ container_services:
   # 06-apps-urbanfix -> sibling dev repo dir
   - name: 06-apps-urbanfix
     runtime_dir: "/home/aldo/dev/01-core-infra/urbanfix"
+  # 06-apps-toolbox -> sibling dev repo dir
+  - name: 06-apps-toolbox
+    runtime_dir: "/home/aldo/dev/01-core-infra/toolbox"
   # NOTE: 06-apps services (stantonius, clock/clocky, …) keep their
   # docker-compose.yml inside their own repos and are deployed directly
   # with `docker compose up -d --build`; this role manages only their
@@ -129,6 +134,8 @@ traefik_backends:
   urbanfix: { url: "http://urbanfix:3000" }
   opencode-web: { url: "http://192.168.0.5:4096" }
   okf-rag: { url: "http://192.168.0.5:8000" }
+  toolbox: { url: "http://toolbox:3000" }
+  nocturna: { url: "http://nocturna:3000" }
 
 # One line per exposed hostname.
 traefik_routes:
@@ -154,3 +161,5 @@ traefik_routes:
   - { name: opencode, host: opencode.dev.aldof.duckdns.org, service: opencode-web, middlewares: [ipAllowList] }
   # ── Public services ──
   - { name: rag, host: rag.aldof.duckdns.org, service: okf-rag }
+  - { name: toolbox, host: toolbox.aldof.duckdns.org, service: toolbox, middlewares: [ipAllowList] }
+  - { name: nocturna, host: nocturna.hermes.dev.aldof.duckdns.org, service: nocturna, middlewares: [ipAllowList] }

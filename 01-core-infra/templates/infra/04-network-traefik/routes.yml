@@ -252,6 +252,34 @@ http:
       service: qbittorrent
       tls:
         certResolver: myresolver
+    gateway:
+      rule: "Host(`gateway.hermes.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: gateway
+      tls:
+        certResolver: myresolver
+      middlewares:
+        - ipAllowList
+
+    # OKF RAG API (systemd service on 192.168.0.5:8000, exposed at rag.aldof.duckdns.org)
+    rag-http:
+      rule: "Host(`rag.aldof.duckdns.org`)"
+      entryPoints:
+        - web
+      middlewares:
+        - https-redirect
+        - ipAllowList
+      service: okf-rag
+    rag:
+      rule: "Host(`rag.aldof.duckdns.org`)"
+      entryPoints:
+        - websecure
+      service: okf-rag
+      tls:
+        certResolver: myresolver
+      middlewares:
+        - ipAllowList
 
   services:
     freellmapi:
@@ -323,6 +351,15 @@ http:
       loadBalancer:
         servers:
           - url: "http://192.168.0.5:4096"
+    gateway:
+      loadBalancer:
+        servers:
+          - url: "http://192.168.0.5:8787"
+
+    okf-rag:
+      loadBalancer:
+        servers:
+          - url: "http://192.168.0.5:8000"
 
   middlewares:
     https-redirect:

@@ -1,0 +1,39 @@
+services:
+  nocturna:
+    build:
+      context: /home/aldo/dev/06-apps-nocturna
+      dockerfile: Dockerfile
+    container_name: nocturna
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - HERMES_API_URL=https://gateway.hermes.aldof.duckdns.org
+      - HERMES_WEBUI_GATEWAY_BASE_URL=https://gateway.hermes.aldof.duckdns.org
+      - HERMES_WEBUI_GATEWAY_USE_RUNS_API=true
+      - HERMES_WEBUI_PASSWORD=nultwee99886715!
+    expose:
+      - "3000"
+    networks:
+      - traefik_net
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.nocturna.rule=Host(`nocturna.hermes.dev.aldof.duckdns.org`)"
+      - "traefik.http.routers.nocturna.entrypoints=websecure"
+      - "traefik.http.routers.nocturna.tls.certresolver=myresolver"
+      - "traefik.http.services.nocturna.loadbalancer.server.port=3000"
+      - "sablier.enable=true"
+      - "sablier.group=nocturna"
+      - "sablier.strategy=blocking"
+      - "sablier.session.duration=30m"
+      - "sablier.session.inactivity=5m"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS -m 10 http://localhost:3000/api/status || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 15s
+
+networks:
+  traefik_net:
+    external: true
