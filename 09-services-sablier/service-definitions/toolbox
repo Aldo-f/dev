@@ -1,0 +1,9 @@
+groups:
+  - name: toolbox
+    description: Toolbox service (reverse-chess, etc.)
+    enabled: true
+    members:
+      - toolbox
+    strategy:
+      blocking: true
+      timeout: 1m

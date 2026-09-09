@@ -9,6 +9,8 @@ services:
       NODE_ENV: production
       PORT: 3001
       HOST_BIND: 0.0.0.0
+    ports:
+      - "3001:3001"
     volumes:
       - freellmapi-data:/app/server/data
     restart: unless-stopped

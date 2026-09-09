@@ -1,0 +1,9 @@
+groups:
+  - name: stantonius
+    description: stantonius service
+    enabled: true
+    members:
+      - stantonius
+    strategy:
+      blocking: true
+      timeout: 1m

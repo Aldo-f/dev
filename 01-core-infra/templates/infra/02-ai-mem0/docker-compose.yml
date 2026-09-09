@@ -10,6 +10,13 @@ services:
       - QDRANT__ALLOW_EMPTY_PAGE_SIZE=true
       - MALLOC_CONF=retain:false
     restart: unless-stopped
+    labels:
+      - "traefik.enable=false"
+      - "sablier.enable=true"
+      - "sablier.group=mem0"
+      - "sablier.strategy=blocking"
+      - "sablier.session.duration=30m"
+      - "sablier.session.inactivity=5m"
     networks:
       - traefik_net
 

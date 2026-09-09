@@ -12,11 +12,27 @@
   no_log: true
 
 - name: Ensure traefik_net Docker network exists
-  command: docker network create {{ traefik_network }}
+  command: docker network create {{ item }}
   register: _net_create
   failed_when: "_net_create.rc != 0 and 'already exists' not in _net_create.stderr"
   changed_when: "_net_create.rc == 0"
   become: true
+  loop:
+    - "{{ traefik_network }}"
+    - "docker-stack_core-network"
+
+- name: Validate requested services exist
+  assert:
+    that:
+      - missing | length == 0
+    fail_msg: "Requested services not found: {{ missing | join(', ') }}"
+  vars:
+    all_service_names: "{{ container_services | map(attribute='name') | list }}"
+    # Handle limit_services as either a proper list or a JSON string
+    _parsed_limit: >-
+      {{ limit_services if (limit_services | type_debug) == 'list' else limit_services | from_json }}
+    missing: "{{ _parsed_limit | difference(all_service_names) }}"
+  when: limit_services | length > 0
 
 - name: Compute the list of services to deploy
   set_fact:
@@ -60,6 +76,27 @@
     - nextcloud_runtime_dir is defined
     - limit_services | length == 0 or '05-media-nextcloud' in limit_services
   no_log: true
+
+- name: Generate .env for freellmapi from vault credentials
+  template:
+    src: "freellm.env.j2"
+    dest: "{{ freellm_runtime_dir }}/.env"
+    owner: aldo
+    group: aldo
+    mode: '0600'
+  when:
+    - freellm_runtime_dir is defined
+    - limit_services | length == 0 or '02-ai-freellmapi' in limit_services
+    - vault_freellm_encryption_key is defined
+  no_log: true
+
+- name: Ensure required external Docker volumes exist
+  community.docker.docker_volume:
+    name: "{{ item }}"
+    state: present
+  loop:
+    - 04-network-traefik_letsencrypt
+    - 04-network-traefik_taskqueue-data
 
 - name: Pull images and start services via Docker Compose v2
   command: docker compose up -d --remove-orphans

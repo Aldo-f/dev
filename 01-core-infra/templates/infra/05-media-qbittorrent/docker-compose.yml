@@ -10,11 +10,20 @@ services:
       - PGID=1000
       - TZ=Europe/Amsterdam
       - WEBUI_PORT=8080
+    ports:
+      - "4080:8080"
     volumes:
       - ./config:/config
-      - /mnt/HDD/downloads:/downloads
+      - /mnt/HDD1/nextcloud/data/aldo/files:/downloads
     networks:
       - traefik_net
+    labels:
+      - "traefik.enable=false"
+      - "sablier.enable=true"
+      - "sablier.group=qbittorrent"
+      - "sablier.strategy=blocking"
+      - "sablier.session.duration=30m"
+      - "sablier.session.inactivity=5m"
     healthcheck:
       test: ["CMD-SHELL", "curl -fsS -m 5 http://127.0.0.1:8080/ >/dev/null || exit 1"]
       interval: 30s

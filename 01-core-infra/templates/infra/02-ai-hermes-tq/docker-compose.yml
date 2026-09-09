@@ -28,7 +28,10 @@ services:
       interval: 30s
       timeout: 10s
       retries: 5
-    stop_grace_period: 10s
+      stop_grace_period: 10s
+    # hermes-tq EXCLUDED from sablier (runs when system resource low)
+    # sablier.enable=true removed per project policy
+
 networks:
   traefik_net:
     external: true

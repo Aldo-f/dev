@@ -259,8 +259,6 @@ http:
       service: gateway
       tls:
         certResolver: myresolver
-      middlewares:
-        - ipAllowList
 
     # OKF RAG API (systemd service on 192.168.0.5:8000, exposed at rag.aldof.duckdns.org)
     rag-http:
@@ -281,11 +279,11 @@ http:
       middlewares:
         - ipAllowList
 
-  services:
-    freellmapi:
-      loadBalancer:
-        servers:
-          - url: "http://freellmapi:3001"
+  serversTransports:
+    gateway-transport:
+      forwardingTimeouts:
+        idleTimeout: "300s"
+        responseHeaderTimeout: "300s"
 
     nextcloud:
       loadBalancer:
@@ -355,6 +353,7 @@ http:
       loadBalancer:
         servers:
           - url: "http://192.168.0.5:8787"
+        serversTransport: gateway-transport
 
     okf-rag:
       loadBalancer:

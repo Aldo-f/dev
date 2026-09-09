@@ -1,0 +1,336 @@
+- generic [active] [ref=f17e1]:
+  - link "Skip to content" [ref=f17e2] [cursor=pointer]:
+    - /url: "#aldo-fieuw-documentation-hub"
+  - banner [ref=f17e3]:
+    - navigation "Header" [ref=f17e4]:
+      - generic [ref=f17e5] [cursor=pointer]
+      - generic [ref=f17e9]:
+        - generic [ref=f17e10]: Aldo-f docs
+        - generic: Aldo Fieuw — documentation hub
+      - generic [ref=f17e13]:
+        - button "Select language" [ref=f17e14] [cursor=pointer]
+        - generic:
+          - list:
+            - listitem [ref=f17e17]:
+              - link "English" [ref=f17e18] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f17e19]:
+              - link "Nederlands" [ref=f17e20] [cursor=pointer]:
+                - /url: /nl/
+      - generic [ref=f17e21] [cursor=pointer]
+      - dialog:
+        - search:
+          - generic:
+            - textbox "Search" [ref=f17e24]
+            - generic [ref=f17e25] [cursor=pointer]
+            - navigation "Search":
+              - link "Share":
+                - /url: https://aldo-f.github.io/?q=
+              - button "Clear"
+          - generic: Initializing search
+  - generic [ref=f17e30]:
+    - main [ref=f17e31]:
+      - generic [ref=f17e32]:
+        - navigation "Navigation" [ref=f17e35]:
+          - generic [ref=f17e36] [cursor=pointer]:
+            - link "Aldo-f docs" [ref=f17e37]:
+              - /url: .
+            - text: Aldo-f docs
+          - link "Aldo-f/Aldo-f.github.io" [ref=f17e41] [cursor=pointer]:
+            - /url: https://github.com/Aldo-f/Aldo-f.github.io
+          - list [ref=f17e46]:
+            - listitem [ref=f17e47]:
+              - link "About" [ref=f17e48] [cursor=pointer]:
+                - /url: about/
+            - listitem [ref=f17e50]:
+              - link "Blog" [ref=f17e51] [cursor=pointer]:
+                - /url: blog/
+            - listitem [ref=f17e53]:
+              - link "Projects" [ref=f17e55] [cursor=pointer]:
+                - /url: projects/
+              - navigation [ref=f17e59]:
+                - generic [ref=f17e60] [cursor=pointer]: Projects
+                - list [ref=f17e62]:
+                  - listitem [ref=f17e63]:
+                    - link "Radio Community" [ref=f17e65] [cursor=pointer]:
+                      - /url: radio-community/
+                    - navigation [ref=f17e69]:
+                      - generic [ref=f17e70] [cursor=pointer]: Radio Community
+                      - list [ref=f17e72]:
+                        - listitem [ref=f17e73]:
+                          - link "Getting started" [ref=f17e74] [cursor=pointer]:
+                            - /url: radio-community/getting-started/
+                        - listitem [ref=f17e76]:
+                          - link "Project" [ref=f17e77] [cursor=pointer]:
+                            - /url: radio-community/project/
+                  - listitem [ref=f17e79]:
+                    - link "Clock" [ref=f17e81] [cursor=pointer]:
+                      - /url: clock/docs/
+                    - navigation [ref=f17e85]:
+                      - generic [ref=f17e86] [cursor=pointer]: Clock
+                      - list [ref=f17e88]:
+                        - listitem [ref=f17e89]:
+                          - link "Features" [ref=f17e90] [cursor=pointer]:
+                            - /url: clock/docs/features/
+                        - listitem [ref=f17e92]:
+                          - link "Development" [ref=f17e93] [cursor=pointer]:
+                            - /url: clock/docs/development/
+                  - listitem [ref=f17e95]:
+                    - link "Blanky" [ref=f17e97] [cursor=pointer]:
+                      - /url: blanky/docs/
+                    - navigation [ref=f17e101]:
+                      - generic [ref=f17e102] [cursor=pointer]: Blanky
+                      - list [ref=f17e104]:
+                        - listitem [ref=f17e105]:
+                          - link "Blanky v1" [ref=f17e106] [cursor=pointer]:
+                            - /url: blanky-v1/docs/
+                  - listitem [ref=f17e108]:
+                    - generic [ref=f17e109]: Thuis
+                    - navigation "Thuis" [ref=f17e112]:
+                      - list [ref=f17e115]:
+                        - listitem [ref=f17e116]:
+                          - link "Thuis main" [ref=f17e118] [cursor=pointer]:
+                            - /url: thuis/docs/
+                          - navigation [ref=f17e122]:
+                            - generic [ref=f17e123] [cursor=pointer]: Thuis main
+                            - list [ref=f17e125]:
+                              - listitem [ref=f17e126]:
+                                - link "Installation" [ref=f17e127] [cursor=pointer]:
+                                  - /url: thuis/docs/installation/
+                              - listitem [ref=f17e129]:
+                                - link "Usage" [ref=f17e130] [cursor=pointer]:
+                                  - /url: thuis/docs/usage/
+                              - listitem [ref=f17e132]:
+                                - link "Testing" [ref=f17e133] [cursor=pointer]:
+                                  - /url: thuis/docs/testing/
+                              - listitem [ref=f17e135]:
+                                - link "DRM" [ref=f17e136] [cursor=pointer]:
+                                  - /url: thuis/docs/drm/
+                              - listitem [ref=f17e138]:
+                                - link "Troubleshooting" [ref=f17e139] [cursor=pointer]:
+                                  - /url: thuis/docs/troubleshooting/
+                              - listitem [ref=f17e141]:
+                                - link "Nederlands" [ref=f17e143] [cursor=pointer]:
+                                  - /url: thuis/docs/nl/
+                                - navigation [ref=f17e147]:
+                                  - generic [ref=f17e148] [cursor=pointer]: Nederlands
+                                  - list [ref=f17e150]:
+                                    - listitem [ref=f17e151]:
+                                      - link "Installatie" [ref=f17e152] [cursor=pointer]:
+                                        - /url: thuis/docs/nl/installation/
+                                    - listitem [ref=f17e154]:
+                                      - link "Gebruik" [ref=f17e155] [cursor=pointer]:
+                                        - /url: thuis/docs/nl/usage/
+                                    - listitem [ref=f17e157]:
+                                      - link "Testen" [ref=f17e158] [cursor=pointer]:
+                                        - /url: thuis/docs/nl/testing/
+                                    - listitem [ref=f17e160]:
+                                      - link "DRM" [ref=f17e161] [cursor=pointer]:
+                                        - /url: thuis/docs/nl/drm/
+                                    - listitem [ref=f17e163]:
+                                      - link "Probleemoplossing" [ref=f17e164] [cursor=pointer]:
+                                        - /url: thuis/docs/nl/troubleshooting/
+                        - listitem [ref=f17e166]:
+                          - generic [ref=f17e167]: Thuis v5
+                          - navigation "Thuis v5" [ref=f17e170]:
+                            - list [ref=f17e173]:
+                              - listitem [ref=f17e174]:
+                                - link "Overview" [ref=f17e175] [cursor=pointer]:
+                                  - /url: thuis-v5/website/docs/intro/
+                              - listitem [ref=f17e177]:
+                                - link "Getting started" [ref=f17e178] [cursor=pointer]:
+                                  - /url: thuis-v5/website/docs/getting-started/
+                              - listitem [ref=f17e180]:
+                                - link "Usage" [ref=f17e181] [cursor=pointer]:
+                                  - /url: thuis-v5/website/docs/usage/
+                              - listitem [ref=f17e183]:
+                                - link "Architecture" [ref=f17e184] [cursor=pointer]:
+                                  - /url: thuis-v5/website/docs/architecture/
+                              - listitem [ref=f17e186]:
+                                - link "API reference" [ref=f17e187] [cursor=pointer]:
+                                  - /url: thuis-v5/website/docs/api-reference/
+                              - listitem [ref=f17e189]:
+                                - link "Credential vault" [ref=f17e190] [cursor=pointer]:
+                                  - /url: thuis-v5/website/docs/credential-vault/
+                              - listitem [ref=f17e192]:
+                                - link "Provider adapter" [ref=f17e193] [cursor=pointer]:
+                                  - /url: thuis-v5/website/docs/provider-adapter/
+                              - listitem [ref=f17e195]:
+                                - link "Search service" [ref=f17e196] [cursor=pointer]:
+                                  - /url: thuis-v5/website/docs/search-service/
+                        - listitem [ref=f17e198]:
+                          - generic [ref=f17e199]: Thuis v4
+                          - navigation "Thuis v4" [ref=f17e202]:
+                            - list [ref=f17e205]:
+                              - listitem [ref=f17e206]:
+                                - link "Overview" [ref=f17e207] [cursor=pointer]:
+                                  - /url: thuis-v4/website/docs/intro/
+                              - listitem [ref=f17e209]:
+                                - link "Installation" [ref=f17e210] [cursor=pointer]:
+                                  - /url: thuis-v4/website/docs/installation/
+                              - listitem [ref=f17e212]:
+                                - link "Usage" [ref=f17e213] [cursor=pointer]:
+                                  - /url: thuis-v4/website/docs/usage/
+                              - listitem [ref=f17e215]:
+                                - link "Credentials" [ref=f17e216] [cursor=pointer]:
+                                  - /url: thuis-v4/website/docs/credentials/
+                              - listitem [ref=f17e218]:
+                                - link "Development" [ref=f17e219] [cursor=pointer]:
+                                  - /url: thuis-v4/website/docs/development/
+                        - listitem [ref=f17e221]:
+                          - link "Thuis v3" [ref=f17e223] [cursor=pointer]:
+                            - /url: thuis-v3/docs/
+                          - navigation [ref=f17e227]:
+                            - generic [ref=f17e228] [cursor=pointer]: Thuis v3
+                            - list [ref=f17e230]:
+                              - listitem [ref=f17e231]:
+                                - link "Installation" [ref=f17e232] [cursor=pointer]:
+                                  - /url: thuis-v3/docs/installation/
+                              - listitem [ref=f17e234]:
+                                - link "Usage" [ref=f17e235] [cursor=pointer]:
+                                  - /url: thuis-v3/docs/usage/
+                              - listitem [ref=f17e237]:
+                                - link "Testing" [ref=f17e238] [cursor=pointer]:
+                                  - /url: thuis-v3/docs/testing/
+                              - listitem [ref=f17e240]:
+                                - link "DRM" [ref=f17e241] [cursor=pointer]:
+                                  - /url: thuis-v3/docs/drm/
+                              - listitem [ref=f17e243]:
+                                - link "Troubleshooting" [ref=f17e244] [cursor=pointer]:
+                                  - /url: thuis-v3/docs/troubleshooting/
+                              - listitem [ref=f17e246]:
+                                - link "Nederlands" [ref=f17e248] [cursor=pointer]:
+                                  - /url: thuis-v3/docs/nl/
+                                - navigation [ref=f17e252]:
+                                  - generic [ref=f17e253] [cursor=pointer]: Nederlands
+                                  - list [ref=f17e255]:
+                                    - listitem [ref=f17e256]:
+                                      - link "Installatie" [ref=f17e257] [cursor=pointer]:
+                                        - /url: thuis-v3/docs/nl/installation/
+                                    - listitem [ref=f17e259]:
+                                      - link "Gebruik" [ref=f17e260] [cursor=pointer]:
+                                        - /url: thuis-v3/docs/nl/usage/
+                                    - listitem [ref=f17e262]:
+                                      - link "Testen" [ref=f17e263] [cursor=pointer]:
+                                        - /url: thuis-v3/docs/nl/testing/
+                                    - listitem [ref=f17e265]:
+                                      - link "DRM" [ref=f17e266] [cursor=pointer]:
+                                        - /url: thuis-v3/docs/nl/drm/
+                                    - listitem [ref=f17e268]:
+                                      - link "Probleemoplossing" [ref=f17e269] [cursor=pointer]:
+                                        - /url: thuis-v3/docs/nl/troubleshooting/
+                  - listitem [ref=f17e271]:
+                    - link "OpenCode Fallback Plugin" [ref=f17e273] [cursor=pointer]:
+                      - /url: opencode-multi-model-fallback/docs/
+                    - navigation [ref=f17e277]:
+                      - generic [ref=f17e278] [cursor=pointer]: OpenCode Fallback Plugin
+                      - list [ref=f17e280]:
+                        - listitem [ref=f17e281]:
+                          - link "Overview" [ref=f17e282] [cursor=pointer]:
+                            - /url: https://github.com/Aldo-f/opencode-multi-model-fallback
+                  - listitem [ref=f17e284]:
+                    - link "Home-lab" [ref=f17e285] [cursor=pointer]:
+                      - /url: home-lab-docs/
+        - article [ref=f17e288]:
+          - heading [level=1] [ref=f17e289]:
+            - text: Aldo Fieuw — documentation hub
+            - link "¶" [ref=f17e290] [cursor=pointer]:
+              - /url: "#aldo-fieuw-documentation-hub"
+          - paragraph [ref=f17e291]: "Welcome. This site collects the documentation for the software I build and run on my home lab: self-hosted media services, small web applications, and the automation glue that keeps them running."
+          - paragraph [ref=f17e292]: Everything here is generated straight from the projects' own repositories, so what you read always matches the code.
+          - heading [level=2] [ref=f17e293]:
+            - text: Projects
+            - link "¶" [ref=f17e294] [cursor=pointer]:
+              - /url: "#projects"
+          - table [ref=f17e297]:
+            - rowgroup [ref=f17e298]:
+              - row [ref=f17e299]:
+                - columnheader "Project" [ref=f17e300]
+                - columnheader "What it is" [ref=f17e301]
+                - columnheader "Docs" [ref=f17e302]
+            - rowgroup [ref=f17e303]:
+              - row [ref=f17e304]:
+                - cell [ref=f17e305]:
+                  - strong [ref=f17e306]: Clocky
+                - 'cell "A React clock studio: 13 hand-built clocks plus an AI customizer" [ref=f17e307]'
+                - cell [ref=f17e308]:
+                  - link "Docs" [ref=f17e309] [cursor=pointer]:
+                    - /url: clock/docs/
+                  - text: ·
+                  - link "GitHub" [ref=f17e310] [cursor=pointer]:
+                    - /url: https://github.com/Aldo-f/clock
+              - row [ref=f17e311]:
+                - cell [ref=f17e312]:
+                  - strong [ref=f17e313]: Thuis
+                - cell "VRT MAX video downloader with automatic authentication (v3 → v5)" [ref=f17e314]
+                - cell [ref=f17e315]:
+                  - link "Latest" [ref=f17e316] [cursor=pointer]:
+                    - /url: thuis-v5/website/docs/intro/
+                  - text: ·
+                  - link "All versions" [ref=f17e317] [cursor=pointer]:
+                    - /url: projects/
+              - row [ref=f17e318]:
+                - cell [ref=f17e319]:
+                  - strong [ref=f17e320]: Radio Community
+                - cell "Democratic internet radio with voting-based playlists" [ref=f17e321]
+                - cell [ref=f17e322]:
+                  - link "Docs" [ref=f17e323] [cursor=pointer]:
+                    - /url: radio-community/
+              - row [ref=f17e324]:
+                - cell [ref=f17e325]:
+                  - strong [ref=f17e326]: Neo-Brutalist Home
+                - cell "Dashboard design exploration" [ref=f17e327]
+                - cell [ref=f17e328]:
+                  - link "GitHub" [ref=f17e329] [cursor=pointer]:
+                    - /url: https://github.com/Aldo-f/Aldo-f.github.io
+          - heading [level=2] [ref=f17e330]:
+            - text: Start here
+            - link "¶" [ref=f17e331] [cursor=pointer]:
+              - /url: "#start-here"
+          - list [ref=f17e332]:
+            - listitem [ref=f17e333]:
+              - text: New here? Read
+              - link "what this site is" [ref=f17e334] [cursor=pointer]:
+                - /url: about/
+              - text: .
+            - listitem [ref=f17e335]:
+              - text: "Latest writing:"
+              - link "the blog" [ref=f17e336] [cursor=pointer]:
+                - /url: blog/
+              - text: "— recently: how I made these docs readable by AI agents."
+            - listitem [ref=f17e337]:
+              - text: Running my stack? See
+              - link "Home-lab documentation" [ref=f17e338] [cursor=pointer]:
+                - /url: home-lab-docs/
+              - text: .
+          - paragraph [ref=f17e339]:
+            - emphasis [ref=f17e340]:
+              - text: Deze site bestaat ook in het
+              - link "Nederlands" [ref=f17e341] [cursor=pointer]:
+                - /url: /nl/
+              - text: .
+      - button "Back to top"
+    - contentinfo [ref=f17e342]:
+      - generic [ref=f17e344]:
+        - generic [ref=f17e345]:
+          - text: Made with
+          - generic [ref=f17e346]: ♥
+          - text: and a tiny bit of AI by
+          - link "Usful" [ref=f17e347] [cursor=pointer]:
+            - /url: https://usful.be/
+          - text: — Build 2026-09-06 19:56 19:56:00 CEST
+        - generic [ref=f17e348]:
+          - link "github.com" [ref=f17e349] [cursor=pointer]:
+            - /url: https://github.com/Aldo-f
+          - link "linkedin.com" [ref=f17e352] [cursor=pointer]:
+            - /url: https://linkedin.com/in/aldo-fieuw
+          - link "mastodon.social" [ref=f17e355] [cursor=pointer]:
+            - /url: https://mastodon.social/@AldoF
+  - button [ref=f17e358] [cursor=pointer]
+  - generic:
+    - generic:
+      - heading "Chat with AI" [level=3]
+      - button
+    - generic:
+      - textbox "Ask me anything..."
+      - button

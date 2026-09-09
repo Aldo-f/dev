@@ -1,0 +1,35 @@
+services:
+  toolbox:
+    build:
+      context: /home/aldo/dev/06-apps-toolbox
+      dockerfile: Dockerfile
+    container_name: toolbox
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+    expose:
+      - "3000"
+    networks:
+      - traefik_net
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.toolbox.rule=Host(`toolbox.aldof.duckdns.org`)"
+      - "traefik.http.routers.toolbox.entrypoints=websecure"
+      - "traefik.http.routers.toolbox.tls.certresolver=le"
+      - "traefik.http.services.toolbox.loadbalancer.server.port=3000"
+      - "sablier.enable=true"
+      - "sablier.group=toolbox"
+      - "sablier.strategy=blocking"
+      - "sablier.session.duration=30m"
+      - "sablier.session.inactivity=5m"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS -m 10 http://localhost:3000/api/status || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 15s
+
+networks:
+  traefik_net:
+    external: true

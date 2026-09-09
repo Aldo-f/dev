@@ -1,0 +1,20 @@
+---
+services:
+  rag-search:
+    image: aldo-f/rag-api:latest
+    container_name: rag-search
+    restart: unless-stopped
+    environment:
+      - RAG_API_KEY=${RAG_API_KEY}
+    ports:
+      - "8001:8000"
+    networks:
+      - traefik_net
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.rag-search.rule=Host(`rag-search.aldof.duckdns.org`)"
+      - "traefik.http.routers.rag-search.entrypoints=websecure"
+      - "traefik.http.services.rag-search.loadbalancer.server.port=8000"
+networks:
+  traefik_net:
+    external: true

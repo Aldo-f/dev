@@ -1,0 +1,9 @@
+groups:
+  - name: qbittorrent
+    description: qBittorrent torrent client
+    enabled: true
+    members:
+      - qbittorrent
+    strategy:
+      blocking: true
+      timeout: 1m

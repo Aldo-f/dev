@@ -15,3 +15,6 @@ HOME=__HOME__
 
 # Backup dagelijks om 03:00
 0 3 * * * __USER__ __CORE_INFRA__/backup.sh >> __CORE_INFRA__/logs/backup-cron.log 2>&1
+
+# Vaultwarden daily backup (vault contents only) — 03:30
+30 3 * * * __USER__ /home/aldo/dev/scripts/vaultwarden-backup.sh >> /home/aldo/dev/scripts/vaultwarden-backup.log 2>&1

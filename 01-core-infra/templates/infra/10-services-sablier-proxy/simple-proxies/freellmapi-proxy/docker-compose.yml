@@ -1,0 +1,23 @@
+networks:
+  traefik_net:
+    external: true
+services:
+  freellmapi:
+    image: ghcr.io/vbrandl/sablier-proxy:latest
+    container_name: freellmapi-proxy-freellmapi-1
+    environment:
+      - LISTEN=0.0.0.0:3001
+      - UPSTREAM=freellmapi:3001
+      - SABLIER_API=http://sablier:10000
+      - GROUP=freellmapi
+      - SESSION_DURATION=30m
+    networks:
+      - traefik_net
+    restart: unless-stopped
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.freellmapi.rule=Host(`freellm.aldof.duckdns.org`)
+      - traefik.http.routers.freellmapi.entrypoints=websecure
+      - traefik.http.routers.freellmapi.tls=true
+      - traefik.http.routers.freellmapi.service=freellmapi
+      - traefik.http.services.freellmapi.loadbalancer.server.port=3001

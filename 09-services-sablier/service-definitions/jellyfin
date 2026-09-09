@@ -1,0 +1,9 @@
+groups:
+  - name: jellyfin
+    description: Jellyfin media server
+    enabled: true
+    members:
+      - jellyfin
+    strategy:
+      blocking: true
+      timeout: 1m

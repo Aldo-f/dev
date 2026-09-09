@@ -47,7 +47,9 @@ container_services:
     runtime_dir: "/home/aldo/dev/01-core-infra/urbanfix"
   # 06-apps-toolbox -> sibling dev repo dir
   - name: 06-apps-toolbox
-    runtime_dir: "/home/aldo/dev/01-core-infra/toolbox"
+    runtime_dir: "/home/aldo/dev/06-apps-toolbox"
+  - name: 06-apps-nocturna
+    runtime_dir: "/home/aldo/dev/06-apps-nocturna"
   # NOTE: 06-apps services (stantonius, clock/clocky, …) keep their
   # docker-compose.yml inside their own repos and are deployed directly
   # with `docker compose up -d --build`; this role manages only their
@@ -59,6 +61,8 @@ container_services:
   # All proxies consolidated under 10-services-sablier-proxy/simple-proxies/
   - name: freellmapi
     runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/freellmapi-proxy"
+  - name: toolbox-proxy
+    runtime_dir: "/home/aldo/dev/01-core-infra/templates/infra/toolbox-proxy"
   - name: nextcloud
     runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/nextcloud-proxy"
   - name: stantonius
@@ -73,8 +77,10 @@ container_services:
     runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/jellyfin-proxy"
   - name: vaultwarden
     runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/vaultwarden-proxy"
-  - name: hermes-webui
+  - name: hermes-webui-proxy
     runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/hermes-webui-proxy"
+  - name: hermes-webui
+    runtime_dir: "/home/aldo/dev/02-ai-hermes-webui"
   - name: portainer
     runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/portainer-proxy"
   - name: clocky
@@ -118,7 +124,7 @@ traefik_ip_allowlist:
 traefik_backends:
   freellmapi: { url: "http://freellmapi:3001" }
   nextcloud: { url: "http://nextcloud:80" }
-  hermes-webui: { url: "http://hermes-webui:8787" }
+  hermes-webui: { url: "http://hermes-webui:8085" }
   hermes-tq: { url: "http://hermes-tq:8788" }
   homepage: { url: "http://homepage:3000" }
   clocky: { url: "http://clocky:3000" }
@@ -134,7 +140,7 @@ traefik_backends:
   urbanfix: { url: "http://urbanfix:3000" }
   opencode-web: { url: "http://192.168.0.5:4096" }
   okf-rag: { url: "http://192.168.0.5:8000" }
-  toolbox: { url: "http://toolbox:3000" }
+  toolbox: { url: "http://toolbox-proxy-toolbox-1:4005" }
   nocturna: { url: "http://nocturna:3000" }
 
 # One line per exposed hostname.
@@ -149,6 +155,7 @@ traefik_routes:
   - { name: jellyfin, host: jellyfin.aldof.duckdns.org, service: jellyfin }
   # ── Private (IP allowlisted) ──
   - { name: vault, host: vault.aldof.duckdns.org, service: vaultwarden }
+  - { name: gateway, host: gateway.hermes.aldof.duckdns.org, service: gateway }
   - { name: hermes, host: web.hermes.dev.aldof.duckdns.org, service: hermes-webui, middlewares: [ipAllowList] }
   - { name: hermes-tq, host: tq.hermes.dev.aldof.duckdns.org, service: hermes-tq, middlewares: [ipAllowList] }
   - { name: portainer, host: portainer.dev.aldof.duckdns.org, service: portainer, middlewares: [ipAllowList] }
@@ -161,5 +168,5 @@ traefik_routes:
   - { name: opencode, host: opencode.dev.aldof.duckdns.org, service: opencode-web, middlewares: [ipAllowList] }
   # ── Public services ──
   - { name: rag, host: rag.aldof.duckdns.org, service: okf-rag }
-  - { name: toolbox, host: toolbox.aldof.duckdns.org, service: toolbox, middlewares: [ipAllowList] }
+  - { name: toolbox, host: toolbox.aldof.duckdns.org, service: toolbox }
   - { name: nocturna, host: nocturna.hermes.dev.aldof.duckdns.org, service: nocturna, middlewares: [ipAllowList] }

@@ -90,3 +90,7 @@ backups/nextcloud-db/
 01-core-infra/vaults/*.yml
 !01-core-infra/vaults/README.master-key.md
 01-core-infra/templates/infra/02-ai-llm-infra-sync/infra/credential-pool.json
+.omo/boulder.json
+.omo/run-continuation/
+.omo/boulder.json
+.omo/run-continuation/

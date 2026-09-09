@@ -1,2 +1,3 @@
 ---
-freellmapi_runtime_dir: /home/aldo/dev/02-ai-freellm
+freellmapi_runtime_dir: "/home/aldo/dev/02-ai-freellmapi"
+infra_dir: "{{ home_dir }}/dev/01-core-infra"

@@ -3,7 +3,7 @@
         "download_path": null,
         "inactive_seeding_time_limit": -2,
         "ratio_limit": -2,
-        "save_path": "/downloads/apps",
+        "save_path": "/downloads/Apps",
         "seeding_time_limit": -2,
         "share_limit_action": "Default"
     },
@@ -11,7 +11,7 @@
         "download_path": null,
         "inactive_seeding_time_limit": -2,
         "ratio_limit": -2,
-        "save_path": "/downloads/apps/windows",
+        "save_path": "/downloads/Apps/windows",
         "seeding_time_limit": -2,
         "share_limit_action": "Default"
     },
@@ -19,7 +19,7 @@
         "download_path": null,
         "inactive_seeding_time_limit": -2,
         "ratio_limit": -2,
-        "save_path": "/downloads/media",
+        "save_path": "/downloads/Media",
         "seeding_time_limit": -2,
         "share_limit_action": "Default"
     },
@@ -27,7 +27,7 @@
         "download_path": null,
         "inactive_seeding_time_limit": -2,
         "ratio_limit": -2,
-        "save_path": "/downloads/media/movies",
+        "save_path": "/downloads/Media/movies",
         "seeding_time_limit": -2,
         "share_limit_action": "Default"
     },
@@ -35,7 +35,7 @@
         "download_path": null,
         "inactive_seeding_time_limit": -2,
         "ratio_limit": -2,
-        "save_path": "/downloads/media/tv",
+        "save_path": "/downloads/Media/tv",
         "seeding_time_limit": -2,
         "share_limit_action": "Default"
     }

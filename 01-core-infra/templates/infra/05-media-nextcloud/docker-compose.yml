@@ -58,6 +58,13 @@ services:
       - ./apache/php-tuning.ini:/usr/local/etc/php/conf.d/99-tuning.ini:ro
     networks:
       - traefik_net
+    labels:
+      - "traefik.enable=false"
+      - "sablier.enable=true"
+      - "sablier.group=nextcloud"
+      - "sablier.strategy=blocking"
+      - "sablier.session.duration=30m"
+      - "sablier.session.inactivity=5m"
 
 networks:
   traefik_net:

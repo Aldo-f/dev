@@ -1,0 +1,9 @@
+groups:
+  - name: homepage
+    description: Neo-brutalist homepage dashboard
+    enabled: true
+    members:
+      - homepage
+    strategy:
+      blocking: true
+      timeout: 1m

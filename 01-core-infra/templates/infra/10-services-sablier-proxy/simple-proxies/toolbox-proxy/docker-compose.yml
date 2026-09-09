@@ -1,0 +1,24 @@
+networks:
+  traefik_net:
+    external: true
+services:
+  toolbox:
+    environment:
+    - LISTEN="0.0.0.0:4005"
+    - UPSTREAM="toolbox:3000"
+    - SABLIER_API="http://sablier:10000"
+    - GROUP="toolbox"
+    - SESSION_DURATION="30m"
+    image: ghcr.io/vbrandl/sablier-proxy:latest
+    networks:
+    - traefik_net
+    restart: unless-stopped
+    ports:
+    - "4005:4005"
+    labels:
+    - traefik.enable=true
+    - traefik.http.routers.toolbox.rule=Host(`toolbox.aldof.duckdns.org`)
+    - traefik.http.routers.toolbox.entrypoints=websecure
+    - traefik.http.routers.toolbox.tls=true
+    - traefik.http.routers.toolbox.service=toolbox
+    - traefik.http.services.toolbox.loadbalancer.server.port=4005

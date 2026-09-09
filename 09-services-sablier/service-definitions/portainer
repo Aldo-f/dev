@@ -1,0 +1,9 @@
+groups:
+  - name: portainer
+    description: portainer service
+    enabled: true
+    members:
+      - portainer
+    strategy:
+      blocking: true
+      timeout: 1m

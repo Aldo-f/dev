@@ -70,3 +70,9 @@ tools_sentries:
 
   glab:
     command: "glab --version"
+
+  bitwarden-cli:
+    command: "bw --version"
+
+  rclone:
+    command: "rclone --version"

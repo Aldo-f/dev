@@ -8,10 +8,10 @@ services:
     environment:
       - NODE_ENV=production
       - PORT=3000
-      - HERMES_API_URL=https://gateway.hermes.aldof.duckdns.org
-      - HERMES_WEBUI_GATEWAY_BASE_URL=https://gateway.hermes.aldof.duckdns.org
-      - HERMES_WEBUI_GATEWAY_USE_RUNS_API=true
-      - HERMES_WEBUI_PASSWORD=nultwee99886715!
+      - NOCTURNA_HERMES_BIN=/home/nocturna/.hermes/hermes-agent/hermes
+      - NOCTURNA_ENGINE_HOME=/home/nocturna/.hermes
+    volumes:
+      - /home/aldo/.hermes:/home/nocturna/.hermes:ro
     expose:
       - "3000"
     networks:
@@ -28,7 +28,7 @@ services:
       - "sablier.session.duration=30m"
       - "sablier.session.inactivity=5m"
     healthcheck:
-      test: ["CMD-SHELL", "curl -fsS -m 10 http://localhost:3000/api/status || exit 1"]
+      test: ["CMD-SHELL", "curl -fsS -m 10 http://localhost:3000/api/health || exit 1"]
       interval: 30s
       timeout: 10s
       retries: 5

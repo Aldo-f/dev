@@ -4,8 +4,8 @@ networks:
 services:
   homepage:
     environment:
-    - LISTEN=0.0.0.0:8083
-    - UPSTREAM=homepage:3000
+    - LISTEN=0.0.0.0:4082
+    - UPSTREAM=homepage-homepage-1:4001
     - SABLIER_API=http://sablier:10000
     - GROUP=homepage
     - SESSION_DURATION=30m

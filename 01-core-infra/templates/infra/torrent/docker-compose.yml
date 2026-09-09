@@ -13,3 +13,12 @@ services:
     networks:
     - traefik_net
     restart: unless-stopped
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.torrent.rule=Host(`torrent.aldof.duckdns.org`)
+      - traefik.http.routers.torrent.entrypoints=websecure
+      - traefik.http.routers.torrent.tls=true
+      - traefik.http.routers.torrent.service=torrent
+      - traefik.http.services.torrent.loadbalancer.server.port=8091
+    ports:
+      - "8091:8091"

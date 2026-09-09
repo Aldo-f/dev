@@ -1,0 +1,9 @@
+groups:
+  - name: clocky
+    description: clocky service
+    enabled: true
+    members:
+      - clocky
+    strategy:
+      blocking: true
+      timeout: 1m
