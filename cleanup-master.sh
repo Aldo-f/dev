@@ -84,8 +84,14 @@ PROMPT
   fi
 }
 
-# 6. Process each repository one‑by‑one
+# 3. Process each repository one‑by‑one
 while IFS=$'\t' read -r platform repo_name repo_ssh; do
+  # Skip repositories already marked for archiving
+  if [[ "$repo_name" == *".archive" ]]; then
+    echo "⏭️  Skipping $repo_name (already archived)"
+    continue
+  fi
+
   echo -e "\n=== [$platform] $repo_name ==="
 
   # 6.1 Determine the target directory (preserve org/group hierarchy)
@@ -94,12 +100,19 @@ while IFS=$'\t' read -r platform repo_name repo_ssh; do
 
   # 6.2 If the repo already exists locally, ask what to do
   if [[ -d "$target_dir/.git" ]]; then
-    read -p "Repo already present at $target_dir. [r]e‑clone, [s]kip, [c]ontinue? " choice
+    read -p "Repo already present at $target_dir. [r]e‑clone, [s]kip, [a]rchive, [c]ontinue? " choice
     case "$choice" in
       r|R) rm -rf "$target_dir"
            git clone "$repo_ssh" "$target_dir"
            ;;
       s|S) echo "⏭️  Skipping $repo_name"
+           continue
+           ;;
+      a|A) # Mark for archiving by renaming the target directory
+           archived_dir="${target_dir}.archive"
+           mv "$target_dir" "$archived_dir"
+           echo "📦 Archived $repo_name → $(basename "$archived_dir")"
+           echo "   Future runs will skip this repo automatically"
            continue
            ;;
       *) echo "✅  Using existing clone"
@@ -129,11 +142,27 @@ while IFS=$'\t' read -r platform repo_name repo_ssh; do
   echo "🔍 Detected stack: $stack"
 
   # 6.4 Ask the user whether to clean this repository
-  read -p "Do you want to clean $repo_name? (y/n) " ans
-  if [[ "$ans" != "y" && "$ans" != "Y" ]]; then
-    echo "⏭️  Skipping $repo_name per user request"
+  read -p "Do you want to clean $repo_name? (y/n/a) " ans
+  case "$ans" in
+    n|N) echo "⏭️  Skipping $repo_name per user request"
+         continue
+         ;;
+    a|A) # Archive the repository instead of cleaning
+         archived_name="${repo_name}.archive"
+         # Rename the branch to indicate archival
+         git branch -m "cleanup/$(date +%Y%m%d)-${repo_name}" "archived/${repo_name}"
+         git push origin --delete "cleanup/$(date +%Y%m%d)-${repo_name}" 2>/dev/null || true
+         git push -u origin "archived/${repo_name}"
+         echo "📦 Archived $repo_name (branch renamed to archived/...)"
+         echo "   Consider removing the remote repo or marking as archived in GitHub/GitLab"
+         continue
+         ;;
+    *)   ;;
+  esac
+  [[ "$ans" == "y" || "$ans" == "Y" ]] || {
+    echo "⏭️  Invalid input – skipping $repo_name"
     continue
-  fi
+  }
 
   # ---------- CLEANUP PIPELINE (stack‑agnostic) ----------
   # 6.5.1 Secret scan (optional, runs if trufflehog is installed)
