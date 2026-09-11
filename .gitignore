@@ -94,3 +94,8 @@ backups/nextcloud-db/
 .omo/run-continuation/
 .omo/boulder.json
 .omo/run-continuation/
+.env
+.env.*
+node_modules/
+__pycache__/
+*.log
