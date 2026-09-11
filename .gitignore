@@ -99,3 +99,15 @@ backups/nextcloud-db/
 node_modules/
 __pycache__/
 *.log
+
+# Auto‑generated ignore rules
+.env
+.env.*
+node_modules/
+.venv/
+__pycache__/
+.go/
+target/
+*.log
+*.bak
+*_test.*
