@@ -5,29 +5,30 @@
 set -euo pipefail
 
 # ---------- 0️⃣ LOAD .env -------------------------------------------------
-# Search for .env in (a) same directory as this script, (b) $HOME/.hermes/
-ENV_PATH=""
-if [[ -f "$(dirname "$0")/.env" ]]; then
-  ENV_PATH="$(dirname "$0")/.env"
-elif [[ -f "${HOME}/.hermes/cleanup.env" ]]; then
-  ENV_PATH="${HOME}/.hermes/cleanup.env"
-fi
+# Parse CLI flags
+FORCE_YES="false"
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    -y|--yes) FORCE_YES="true"; shift ;;
+    *) echo "⚠️  Unknown option: $1"; exit 1 ;;
+  esac
+done
 
-if [[ -n "$ENV_PATH" ]]; then
-  # shellcheck source=/dev/null
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+ENV_PATH="${SCRIPT_DIR}/.env"
+
+if [[ -f "$ENV_PATH" ]]; then
   source "$ENV_PATH"
-  echo "🔧 Loaded configuration from $ENV_PATH"
+  echo "Loaded configuration from $ENV_PATH"
 else
-  echo "⚠️  No .env file found – falling back to built‑in defaults"
+  echo "No .env file found — using built-in defaults"
 fi
 
-# ---------- 1️⃣  DEFAULT‑WAARDEN (overridden by .env) ----------
-: "${BASE_DIR:=\${HOME}/dev}"
+# ---------- 1️⃣  DEFAULTS (overridden by .env) ----------
+: "${BASE_DIR:=/mnt/HDD1/repository-cleanup-dir}"
 : "${GITHUB_ORG:=Aldo-f}"
 : "${GITLAB_GROUP:=Aldo-f}"
-: "${AI_MODEL:=gpt-4o-mini}"
-: "${OPENAI_API_KEY:=}"      # empty string = no AI‑hint
-: "${REPO_LIMIT:=500}"
+: "${REPO_LIMIT:=100}"
 # ----------------------------------------------------------------
 
 # 0. Verify required CLI tools are available
@@ -38,9 +39,15 @@ for cmd in "${required_cmds[@]}"; do
     exit 1
   }
 done
-[[ -n "$OPENAI_API_KEY" ]] || {
-  echo "⚠️  No OPENAI_API_KEY – AI hint step will be skipped"
-}
+
+# Check if any AI CLI is available (hermes, opencode, claude)
+ai_cli_available=false
+for ai_cmd in hermes opencode claude; do
+  if command -v "$ai_cmd" >/dev/null 2>&1; then
+    ai_cli_available=true
+    break
+  fi
+done
 
 # 2. Load (or initialise) the AI‑hints JSON file
 AI_HINTS="${BASE_DIR}/ai-hints.json"
@@ -73,9 +80,9 @@ Return ONLY a JSON object with keys "suggestion" and "code_change".
 If no improvement is needed, set "suggestion" to "none" and "code_change" to "".
 PROMPT
 )
+  # Try hermes chat --oneshot first (works via stdin)
   if command -v hermes >/dev/null; then
-    hermes send "$prompt"
-    hermes receive
+    echo "$prompt" | hermes chat -q - --oneshot 2>/dev/null
   elif command -v opencode >/dev/null; then
     opencode send "$prompt"
     opencode receive
@@ -84,8 +91,12 @@ PROMPT
   fi
 }
 
-# 3. Process each repository one‑by‑one
-while IFS=$'\t' read -r platform repo_name repo_ssh; do
+max_repos=${1:-3}
+if [[ "$max_repos" -lt 1 ]]; then
+  max_repos=3
+fi
+
+
   # Skip repositories already marked for archiving
   if [[ "$repo_name" == *".archive" ]]; then
     echo "⏭️  Skipping $repo_name (already archived)"
@@ -94,34 +105,42 @@ while IFS=$'\t' read -r platform repo_name repo_ssh; do
 
   echo -e "\n=== [$platform] $repo_name ==="
 
-  # 6.1 Determine the target directory (preserve org/group hierarchy)
+
+  # Determine the target directory (preserve org/group hierarchy)
   target_dir="${BASE_DIR}/${platform}s/${repo_name}"
   mkdir -p "$(dirname "$target_dir")"
-
-  # 6.2 If the repo already exists locally, ask what to do
   if [[ -d "$target_dir/.git" ]]; then
-    read -p "Repo already present at $target_dir. [r]e‑clone, [s]kip, [a]rchive, [c]ontinue? " choice
-    case "$choice" in
-      r|R) rm -rf "$target_dir"
-           git clone "$repo_ssh" "$target_dir"
-           ;;
-      s|S) echo "⏭️  Skipping $repo_name"
-           continue
-           ;;
-      a|A) # Mark for archiving by renaming the target directory
-           archived_dir="${target_dir}.archive"
-           mv "$target_dir" "$archived_dir"
-           echo "📦 Archived $repo_name → $(basename "$archived_dir")"
-           echo "   Future runs will skip this repo automatically"
-           continue
-           ;;
-      *) echo "✅  Using existing clone"
-           ;;
-    esac
+    if [[ "$FORCE_YES" == "true" ]]; then
+      echo "🔧 -y flag detected: using existing clone (no re‑clone)"
+    else
+      read -p "Repo already present at $target_dir. [r]e‑clone, [s]kip, [a]rchive, [c]ontinue? " choice
+      case "$choice" in
+        r|R) rm -rf "$target_dir" 2>/dev/null || true
+        timeout 600 git clone "$repo_ssh" "$target_dir" 2>/dev/null || timeout 300 git clone "$repo_ssh" "$target_dir" 2>/dev/null || echo "❌ Re-clone failed for $repo_name – logging issue" || true
+               ;;
+        s|S) echo "⏭️  Skipping $repo_name"
+             continue
+             ;;
+        a|A) # Mark for archiving by renaming the target directory
+             archived_dir="${target_dir}.archive"
+             mv "$target_dir" "$archived_dir"
+             echo "📦 Archived $repo_name → $(basename "$archived_dir")"
+             echo "   Future runs will skip this repo automatically"
+             continue
+             ;;
+        *) echo "✅  Using existing clone"
+             ;;
+      esac
+    fi
   else
-    git clone "$repo_ssh" "$target_dir"
+    timeout 600 git clone "$repo_ssh" "$target_dir" 2>/dev/null || timeout 300 git clone "$repo_ssh" "$target_dir" 2>/dev/null || echo "❌ Clone failed for $repo_name (timeout/network) – logging issue" || true
   fi
 
+
+  if [[ ! -d "$target_dir/.git" ]]; then
+    echo "❌ Skipping $repo_name — clone did not complete at $target_dir"
+    continue
+  fi
   cd "$target_dir"
 
   # 6.3 Detect the primary technology stack
@@ -139,10 +158,17 @@ while IFS=$'\t' read -r platform repo_name repo_ssh; do
     stack="java-maven"
     pkg_manager="mvn"
   fi
-  echo "🔍 Detected stack: $stack"
+  # Parse CLI flag to force yes response
+  if [[ "$FORCE_YES" == "true" ]]; then
+    echo "🔧 -y flag detected: auto-confirming cleanup for all repos"
+  fi
 
-  # 6.4 Ask the user whether to clean this repository
-  read -p "Do you want to clean $repo_name? (y/n/a) " ans
+  # 6.4 Ask the user whether to clean this repository (with -y flag support)
+  if [[ "$FORCE_YES" == "true" ]]; then
+    ans="y"
+  else
+    read -p "Do you want to clean $repo_name? (y/n/a) " ans
+  fi
   case "$ans" in
     n|N) echo "⏭️  Skipping $repo_name per user request"
          continue
@@ -174,7 +200,7 @@ while IFS=$'\t' read -r platform repo_name repo_ssh; do
   # 6.5.2 Lint / format according to detected stack
   case "$stack" in
     node)
-      npm ci && npm run lint || true
+      timeout 1800 npm ci && timeout 1200 npx prettier --write . && timeout 1800 npm run lint || true
       npx prettier --write .
       ;;
     python)
@@ -208,33 +234,11 @@ Run the relevant package‑manager audit command (npm audit, pip‑audit,
 go mod tidy, mvn dependency:analyze) and upgrade vulnerable versions.
 EOF
 
-  # 6.5.4 Ensure README.md contains README template content (including Ko-fi)
-  if [[ ! -f README.md ]]; then
-    echo "❌ README.md not found in $repo_name"
-    continue
-  fi
-  
-  # Read the template
-  TEMPLATE_FILE="${HOME}/dev/02-ai-repository-cleanup/README_template.md"
-  if [[ ! -f "$TEMPLATE_FILE" ]]; then
-    echo "⚠️  README template not found - skipping README update"
-  else
-    # Check if template content is already in README.md
-    if grep -q "## Support the Project" "$repo_name/README.md" 2>/dev/null || grep -q "Ko-fi.*aldo-f.github.io" "$repo_name/README.md" 2>/dev/null; then
-      echo "✅ README.md already contains Ko-fi integration"
-    else
-      # Add Ko-fi section to README.md
-      cat >> "$repo_name/README.md" <<'READMEFOOTER'
-
-## Support the Project
-
-If this project has helped you, please consider showing your support! A small donation helps me dedicate more time to projects like this. Thank you!
-
-Patreon | PayPal | Ko-fi Thanks for trying it and let me know how you like it!
-READMEFOOTER
-      echo "📝 Added Ko-fi support section to README.md"
+  # 6.5.4 Ensure README.md exists (skip repos without one)
+    if [[ ! -f README.md ]]; then
+      echo "❌ README.md not found in $repo_name – skipping repository"
+      continue
     fi
-  fi
 
   # 6.5.5 Extend .gitignore with generic ignore rules
   cat >> .gitignore <<'EOF'
@@ -263,16 +267,27 @@ EOF
   log_file="${BASE_DIR}/logs/${repo_name}.txt"
   {
     echo "=== START LOG ${repo_name} ==="
-    echo "Branch: $cleanup_branch"
-    echo "Commit: $(git rev-parse HEAD)"
-    echo "Diff‑stat:"
-    git diff HEAD~1 HEAD --stat
+    echo "Branch: ${cleanup_branch}"
+    echo "Commit: $(git rev-parse HEAD 2>/dev/null || echo 'unknown')"
+    echo "Diff-stat:"
+    git diff HEAD~1 HEAD --stat 2>/dev/null || echo "no diff"
     echo "=== END LOG ${repo_name} ==="
-  } > "$log_file"
-  echo "📝 Log written → ${repo_name}.txt"
+  } > "${log_file}"
+  echo "📝 Log written → ${log_file}"
+
+  # Merge cleanup branch into main/master immediately
+  echo "🔀 Merging ${cleanup_branch} into main/master…"
+  git pull origin main 2>/dev/null || git pull origin master 2>/dev/null || true
+  git checkout main 2>/dev/null || git checkout master 2>/dev/null || true
+  git merge --no-ff "${cleanup_branch}" -m "Merge cleanup branch for ${repo_name}" || true
+  git push origin main 2>/dev/null || git push origin master 2>/dev/null || true
+  echo "🗑️  Deleting remote cleanup branch ${cleanup_branch}…"
+  if ! git push origin --delete "${cleanup_branch}" 2>/dev/null; then
+    echo "⚠️  Failed to delete remote cleanup branch ${cleanup_branch}"
+  fi
 
   # ---------- AI FEEDBACK FOR NEXT REPO ----------
-  if [[ -n "$OPENAI_API_KEY" && -n "$AI_MODEL" ]]; then
+  if [[ "$ai_cli_available" == "true" ]]; then
     echo "🤖 Asking AI for improvement suggestion…"
     ai_response=$(hermes_ask "$repo_name" "$log_file")
     
@@ -292,12 +307,16 @@ EOF
        '.[$repo] = $payload' "$AI_HINTS" > "${AI_HINTS}.tmp" && mv "${AI_HINTS}.tmp" "$AI_HINTS"
     echo "🤖 AI suggestion stored for $repo_name"
   else
-    echo "⚠️  No OpenAI key configured – skipping AI hint step"
+    echo "⚠️  No AI CLI (hermes/opencode/claude) found – skipping AI hint step"
   fi
 
   # Return to the base directory for the next iteration
-  cd "$BASE_DIR"
-done < "${BASE_DIR}/repos.tsv"
+  # Increment processed count and stop after $max_repos repos
+  processed_count=$((processed_count + 1))
+  if [[ $processed_count -ge $max_repos ]]; then
+    echo "🔚 Reached limit of $max_repos repositories – stopping."
+    break
+  fi
 
 # 7. Final summary
 echo -e "\n🎉 Processed $total repositories."

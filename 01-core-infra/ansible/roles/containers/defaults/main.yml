@@ -37,7 +37,7 @@ container_services:
   - name: 05-media-jellyfin
     runtime_dir: "/home/aldo/dev/05-media-jellyfin"
   - name: jellyfin-proxy
-    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/jellyfin-proxy"
+    runtime_dir: "/home/aldo/dev/01-core-infra/templates/infra/10-services-sablier-proxy-jellyfin"
   - name: 05-media-qbittorrent
     runtime_dir: "/home/aldo/dev/05-media-qbittorrent"
   - name: 05-media-nextcloud
@@ -50,6 +50,9 @@ container_services:
     runtime_dir: "/home/aldo/dev/06-apps-toolbox"
   - name: 06-apps-nocturna
     runtime_dir: "/home/aldo/dev/06-apps-nocturna"
+  # 06-apps-wordpress -> WordPress test environment
+  - name: 06-apps-wordpress
+    runtime_dir: "/home/aldo/dev/06-apps-wordpress"
   # NOTE: 06-apps services (stantonius, clock/clocky, …) keep their
   # docker-compose.yml inside their own repos and are deployed directly
   # with `docker compose up -d --build`; this role manages only their
@@ -78,7 +81,7 @@ container_services:
   - name: vaultwarden
     runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/vaultwarden-proxy"
   - name: hermes-webui-proxy
-    runtime_dir: "/home/aldo/dev/10-services-sablier-proxy/simple-proxies/hermes-webui-proxy"
+    runtime_dir: "/home/aldo/dev/01-core-infra/templates/infra/10-services-sablier-proxy-hermes-webui"
   - name: hermes-webui
     runtime_dir: "/home/aldo/dev/02-ai-hermes-webui"
   - name: portainer
@@ -124,7 +127,7 @@ traefik_ip_allowlist:
 traefik_backends:
   freellmapi: { url: "http://freellmapi:3001" }
   nextcloud: { url: "http://nextcloud:80" }
-  hermes-webui: { url: "http://hermes-webui:8085" }
+  hermes-webui: { url: "http://nocturna:3000" }
   hermes-tq: { url: "http://hermes-tq:8788" }
   homepage: { url: "http://homepage:3000" }
   clocky: { url: "http://clocky:3000" }
@@ -140,8 +143,9 @@ traefik_backends:
   urbanfix: { url: "http://urbanfix:3000" }
   opencode-web: { url: "http://192.168.0.5:4096" }
   okf-rag: { url: "http://192.168.0.5:8000" }
-  toolbox: { url: "http://toolbox-proxy-toolbox-1:4005" }
+  toolbox: { url: "http://toolbox:3000" }
   nocturna: { url: "http://nocturna:3000" }
+  wordpress: { url: "http://wordpress:80" }
 
 # One line per exposed hostname.
 traefik_routes:
@@ -170,3 +174,4 @@ traefik_routes:
   - { name: rag, host: rag.aldof.duckdns.org, service: okf-rag }
   - { name: toolbox, host: toolbox.aldof.duckdns.org, service: toolbox }
   - { name: nocturna, host: nocturna.hermes.dev.aldof.duckdns.org, service: nocturna, middlewares: [ipAllowList] }
+  - { name: wordpress, host: wp.aldof.duckdns.org, service: wordpress }

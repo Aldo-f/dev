@@ -1,0 +1,1 @@
+mkdocs_pivot_table

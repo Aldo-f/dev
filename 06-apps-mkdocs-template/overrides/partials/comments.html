@@ -1,0 +1,79 @@
+{% if page.file.src_uri.startswith('blog/posts') %}
+  <h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
+  <div class="giscus-container">
+    <script
+      src="https://giscus.app/client.js"
+      data-repo="Aldo-f/Aldo-f.github.io"
+      data-repo-id="MDEwOlJlcG9zaXRvcnk4MjQ3NjM2NA=="
+      data-category="Announcements"
+      data-category-id="DIC_kwDOBOp9TM4DE7A-"
+      data-mapping="pathname"
+      data-strict="1"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="bottom"
+      data-theme="https://raw.githubusercontent.com/Aldo-f/Aldo-f.github.io/main/assets/css/giscus-no-branding.css"
+      data-lang="{{ lang }}"
+      data-loading="lazy"
+      crossorigin="anonymous"
+      async
+    >
+    </script>
+  </div>
+  <!-- Synchronize Giscus theme with Material palette -->
+  <script>
+    (function() {
+      var giscusScript = document.querySelector("script[src*=giscus]");
+      if (!giscusScript) return;
+
+      function getTheme() {
+        var palette = __md_get("__palette");
+        if (palette && typeof palette.color === "object") {
+          return palette.color.scheme === "slate" ? "transparent_dark" : "light";
+        }
+        return "light";
+      }
+
+      // Set initial theme
+      giscusScript.setAttribute("data-theme", getTheme());
+
+      // Sync on palette change
+      document.addEventListener("DOMContentLoaded", function() {
+        var paletteToggle = document.querySelector("[data-md-component=palette]");
+        if (paletteToggle) {
+          paletteToggle.addEventListener("change", function() {
+            var theme = getTheme();
+            var frame = document.querySelector(".giscus-frame");
+            if (frame) {
+              frame.contentWindow.postMessage(
+                { giscus: { setConfig: { theme: theme } } },
+                "https://giscus.app"
+              );
+            }
+          });
+        }
+      });
+    })();
+  </script>
+  <style>
+    .giscus-container {
+      margin-top: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+    .giscus-container .giscus-frame {
+      border: none;
+      background: transparent;
+    }
+    /* Hide giscus branding */
+    .gsc-left-header > em {
+      display: none !important;
+    }
+    /* Match Material's link color for giscus links */
+    .giscus-container a {
+      color: var(--md-accent-fg-color);
+    }
+    .giscus-container a:hover {
+      color: var(--md-accent-fg-color--transparent);
+    }
+  </style>
+{% endif %}

@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+mkdocs_pivot_table/__init__.py
+mkdocs_pivot_table/plugin.py
+mkdocs_pivot_table.egg-info/PKG-INFO
+mkdocs_pivot_table.egg-info/SOURCES.txt
+mkdocs_pivot_table.egg-info/dependency_links.txt
+mkdocs_pivot_table.egg-info/entry_points.txt
+mkdocs_pivot_table.egg-info/requires.txt
+mkdocs_pivot_table.egg-info/top_level.txt
+mkdocs_pivot_table/assets/pivot.css
+mkdocs_pivot_table/assets/pivot.js
+mkdocs_raw_markdown/mkdocs_raw_markdown/__init__.py
+mkdocs_raw_markdown/mkdocs_raw_markdown/plugin.py
+tests/test_plugin.py

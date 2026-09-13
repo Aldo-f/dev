@@ -17,11 +17,12 @@ templates/
 ├── cron/                  # Cron job definitions
 ├── infra/                 # Service compose templates (25+ services)
 │   ├── 02-ai-freellmapi/ # LLM router (port 3001, traefik at freellm.aldof.duckdns.org)
-│   ├── 02-ai-hermes-tq/  # Hermes TQ kanban
+│   ├── 02-ai-hermes-tq/  # Hermes TQ kanban (port 8788)
 │   ├── 02-ai-hermes-webui/ # Hermes WebUI (port 8787)
 │   ├── 04-network-traefik/ # Reverse proxy (managed, not edited)
 │   ├── 05-media-jellyfin/ # Media server
 │   ├── 05-media-nextcloud/ # Nextcloud
+│   ├── 05-media-qbittorrent/ # Torrent client
 │   └── ... (see 01-core-infra/AGENTS.md for full list)
 ├── systemd/               # systemd unit templates
 └── repos.manifest.jsonc   # Service registry

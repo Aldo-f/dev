@@ -10,7 +10,7 @@ services:
     environment:
       - HOMEPAGE_ALLOWED_HOSTS=aldof.duckdns.org
     ports:
-      - "4001:3000"
+      - "4002:3000"
     labels:
       - "traefik.enable=false"
       - "sablier.enable=true"

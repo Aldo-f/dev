@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+pyproject.toml
+./mkdocs_raw_markdown/__init__.py
+./mkdocs_raw_markdown/plugin.py
+mkdocs_raw_markdown/__init__.py
+mkdocs_raw_markdown/plugin.py
+mkdocs_raw_markdown.egg-info/PKG-INFO
+mkdocs_raw_markdown.egg-info/SOURCES.txt
+mkdocs_raw_markdown.egg-info/dependency_links.txt
+mkdocs_raw_markdown.egg-info/entry_points.txt
+mkdocs_raw_markdown.egg-info/requires.txt
+mkdocs_raw_markdown.egg-info/top_level.txt

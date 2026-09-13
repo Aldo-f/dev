@@ -1,0 +1,37 @@
+site_name: MkDocs All Plugins Template
+repo_url: https://example.com/
+repo_name: example/template
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - search.highlight
+    - search.share
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+markdown_extensions:
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+plugins:
+  - search
+  - blog:
+      blog_dir: blog/posts
+  - mkdocs_pivot_table
+  - mkdocs_raw_markdown:
+      suffix: .md
+extra:
+  mermaid_version: "10.4.0"
+  extra_javascript:
+    - https://unpkg.com/mermaid@10.4.0/dist/mermaid.min.js

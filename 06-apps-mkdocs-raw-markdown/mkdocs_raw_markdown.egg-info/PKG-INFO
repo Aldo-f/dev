@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: mkdocs-raw-markdown
+Version: 0.1.0
+Summary: MkDocs plugin to serve raw markdown files via .md URL suffix
+Author: Aldo
+License-Expression: MIT
+Project-URL: Repository, https://github.com/Aldo-f/mkdocs-raw-markdown
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: mkdocs>=1.5.0
+
+
+# mkdocs-raw-markdown
+
+A tiny MkDocs plugin that makes the original Markdown source available at a URL ending with ``.md``.
+
+## Installation
+```bash
+pip install mkdocs-raw-markdown
+```
+
+## Usage
+Add to your ``mkdocs.yml``:
+```yaml
+plugins:
+  - search
+  - mkdocs-raw-markdown:
+      suffix: .md   # optional, default ".md"
+```
+
+Now ``https://example.com/path/to/page.md`` returns the raw Markdown with ``Content-Type: text/markdown``.

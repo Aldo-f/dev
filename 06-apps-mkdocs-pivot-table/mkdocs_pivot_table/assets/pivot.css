@@ -1,0 +1,244 @@
+/* mkdocs-pivot-table styles */
+.pivot-table-wrap {
+  margin: 1rem 0;
+  position: relative;
+}
+
+/* Gear button */
+.pivot-gear-btn {
+  position: absolute;
+  top: -12px;
+  right: -8px;
+  width: 28px;
+  height: 28px;
+  border: 1px solid var(--md-default-fg-color, #ccc);
+  background: var(--md-default-bg-color, #fff);
+  color: var(--md-default-fg-color, #333);
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  font-size: 14px;
+  opacity: 0;
+  transition: opacity 0.2s ease, background-color 0.2s ease;
+  z-index: 10;
+}
+
+.pivot-table-wrap:hover .pivot-gear-btn,
+.pivot-gear-btn.pivot-gear-active {
+  opacity: 1;
+}
+
+.pivot-gear-btn:hover {
+  background: var(--md-accent-bg-color, #f0f0f0);
+}
+
+/* Settings panel */
+.pivot-settings {
+  position: absolute;
+  top: 20px;
+  right: 0;
+  min-width: 220px;
+  max-width: 320px;
+  background: var(--md-default-bg-color, #fff);
+  border: 1px solid var(--md-default-fg-color, #ccc);
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  z-index: 100;
+  display: none;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.pivot-settings.pivot-open {
+  display: block;
+}
+
+.pivot-settings-close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 20px;
+  height: 20px;
+  border: none;
+  background: transparent;
+  color: var(--md-default-fg-color, #666);
+  cursor: pointer;
+  font-size: 12px;
+  line-height: 1;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pivot-settings-close:hover {
+  color: var(--md-default-fg-color, #000);
+}
+
+.pivot-settings-title {
+  margin: 0 0 0.75rem 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color, #000);
+  border-bottom: 1px solid var(--md-divider-color, #e0e0e0);
+  padding-bottom: 0.5rem;
+}
+
+.pivot-settings-section {
+  margin-bottom: 0.75rem;
+}
+
+.pivot-settings-label {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color, #000);
+  margin-bottom: 0.25rem;
+}
+
+.pivot-settings-select {
+  width: 100%;
+  padding: 0.35rem 0.5rem;
+  border: 1px solid var(--md-default-fg-color, #ccc);
+  border-radius: 4px;
+  font-size: 0.8rem;
+  background: var(--md-default-bg-color, #fff);
+  color: var(--md-default-fg-color, #000);
+  cursor: pointer;
+}
+
+.pivot-settings-btn {
+  width: 100%;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid var(--md-primary-fg-color, #3f51b5);
+  background: var(--md-primary-fg-color, #3f51b5);
+  color: #fff;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-family: inherit;
+  cursor: pointer;
+  transition: opacity 0.15s ease;
+  margin-top: 0.5rem;
+}
+
+.pivot-settings-btn:hover {
+  opacity: 0.9;
+}
+
+.pivot-settings-btn-reset {
+  border-color: var(--md-default-fg-color, #ccc);
+  background: var(--md-default-bg-color, #f5f5f5);
+  color: var(--md-default-fg-color, #000);
+}
+
+.pivot-settings-btn-reset:hover {
+  background: var(--md-accent-bg-color, #e8e8e8);
+}
+
+.pivot-settings-dir {
+  width: 32px;
+  height: 28px;
+  border: 1px solid var(--md-default-fg-color, #ccc);
+  background: var(--md-default-bg-color, #fff);
+  color: var(--md-default-fg-color, #000);
+  border-radius: 4px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  margin-left: 0.5rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pivot-settings-dir:hover {
+  background: var(--md-accent-bg-color, #f0f0f0);
+}
+
+.pivot-settings-toggle {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid var(--md-default-fg-color, #ccc);
+  background: var(--md-default-bg-color, #f5f5f5);
+  color: var(--md-default-fg-color, #000);
+  border-radius: 4px;
+  font-size: 0.75rem;
+  cursor: pointer;
+  margin: 0.1rem 0.25rem 0.1rem 0;
+  transition: opacity 0.15s ease;
+}
+
+.pivot-settings-toggle:hover {
+  background: var(--md-accent-bg-color, #e8e8e8);
+}
+
+.pivot-settings-toggle.pivot-settings-toggle-hidden {
+  opacity: 0.4;
+  text-decoration: line-through;
+}
+
+/* Table styling */
+.pivot-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.pivot-table th,
+.pivot-table td {
+  padding: 0.5rem;
+  text-align: left;
+  border: 1px solid var(--md-default-fg-color, #ccc);
+}
+
+.pivot-table th {
+  font-weight: 600;
+  background: var(--md-default-bg-color, #f5f5f5);
+}
+
+.pivot-table th[data-key] {
+  cursor: pointer;
+  user-select: none;
+}
+
+.pivot-table th[data-key]:hover {
+  background: var(--md-accent-bg-color, #e8e8e8);
+}
+
+.pivot-table th.sorted-asc::after {
+  content: " ↑";
+  font-size: 0.75em;
+}
+
+.pivot-table th.sorted-desc::after {
+  content: " ↓";
+  font-size: 0.75em;
+}
+
+.pivot-table th.drag-over {
+  background: var(--md-accent-bg-color, #e3f2fd);
+}
+
+.pivot-table tr:hover td {
+  background: var(--md-default-bg-color, #fafafa);
+}
+
+@media (max-width: 768px) {
+  .pivot-settings {
+    position: fixed;
+    top: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-width: none;
+    border-radius: 8px 8px 0 0;
+    max-height: 60vh;
+  }
+  
+  .pivot-gear-btn {
+    top: -10px;
+    right: 0;
+  }
+}

@@ -1,0 +1,79 @@
+# mkdocs-autotranslate
+
+A MkDocs plugin + CLI that keeps a multilingual MkDocs site in sync across
+language trees: it detects content that exists in one language but not
+another — blog posts, pages, any path you point it at — and can create the
+missing translations via [DeepL](https://www.deepl.com/).
+
+- **Plugin** (`autotranslate`): at build time, reports untranslated
+  content — optionally fails strict builds. Never touches the network.
+- **CLI** (`autotranslate`): dry-run report by default; `--write`
+  creates missing translated files for human review before commit.
+
+## Install
+
+```bash
+pip install mkdocs-autotranslate
+```
+
+## Plugin usage
+
+Add to `mkdocs.yml`:
+
+```yaml
+plugins:
+  - autotranslate:
+      languages: [en, nl]     # directories under docs/
+      paths: [blog/posts]     # dirs/files/globs under each language dir
+      mode: report            # report | strict (fail build on gaps)
+```
+
+With Material's multi-language recipe you typically run one build per
+language config; add the plugin to each (or the shared base config).
+
+## CLI usage
+
+```bash
+# dry-run: shows what WOULD be created, writes nothing, needs no API key
+autotranslate --docs-dir docs
+
+# apply: creates missing posts via DeepL (review the git diff!)
+autotranslate --docs-dir docs --write
+```
+
+Options:
+
+| Flag | Default | Meaning |
+|---|---|---|
+| `--docs-dir` | (required) | Path to your `docs/` directory |
+| `--languages` | `en nl` | Language subdirectories to compare |
+| `--paths` | `blog/posts` | Dirs/files/globs under each language dir |
+| `--write` | off | Create files instead of reporting only |
+
+## DeepL key
+
+The CLI looks for a DeepL auth key in `$DEEPL_API_KEY` or
+`~/.config/deepl/api_key` (mode 0600). Keys ending in `:fx` automatically
+use the free endpoint (`api-free.deepl.com`); all others use the pro
+endpoint. Free tier is 500,000 characters/month.
+
+## Guarantees
+
+- Never overwrites existing files (idempotent; re-runs are no-ops)
+- Drafts (`draft: true`) are never propagated
+- Front matter preserved structurally: title translated, date/categories verbatim
+- Fenced code blocks pass through untranslated
+- A provenance comment is appended to generated files
+- The plugin itself performs no network calls — translation is always an
+  explicit author-run step so machine output gets reviewed before publishing
+
+## Development
+
+```bash
+pip install -e '.[test]'
+pytest
+```
+
+## License
+
+MIT

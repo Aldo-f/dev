@@ -4,8 +4,16 @@
 # --------------------------------------------------------------
 set -euo pipefail
 
-source ~/.hermes/cleanup.env 2>/dev/null || true
-: "${BASE_DIR:=\${HOME}/dev}"
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+ENV_PATH="${SCRIPT_DIR}/.env"
+
+if [[ -f "$ENV_PATH" ]]; then
+  source "$ENV_PATH"
+else
+  echo "No .env file found — using built-in defaults"
+fi
+
+: "${BASE_DIR:=/mnt/HDD1/repository-cleanup-dir}"
 : "${GITHUB_ORG:=Aldo-f}"
 : "${GITLAB_GROUP:=Aldo-f}"
 : "${REPO_LIMIT:=100}"
@@ -19,8 +27,8 @@ mkdir -p "${BASE_DIR}/logs"
 {
   gh repo list "$GITHUB_ORG" --limit "$REPO_LIMIT" --json name,sshUrl,visibility \
     | jq -r '.[] | ["github", .name, .sshUrl] | @tsv'
-  glab repo list "$GITLAB_GROUP" -P "$REPO_LIMIT" --json name,sshUrl,visibility \
-    | jq -r '.[] | ["gitlab", .name, .sshUrl] | @tsv' 2>/dev/null || true
+  glab repo list -u "$GITLAB_GROUP" -P "$REPO_LIMIT" -F json \
+    | jq -r '.[] | ["gitlab", .name, .ssh_url_to_repo] | @tsv' 2>/dev/null || true
 } > "${BASE_DIR}/repos.tsv"
 
 total=$(wc -l < "${BASE_DIR}/repos.tsv")

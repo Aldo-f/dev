@@ -27,6 +27,28 @@ Single source of truth for humans and AI agents in this monorepo. Sub-project `A
 
 Gitignored host-local state: `media/`, `logs/`, `.omo/`, `.codegraph/`, `.ansible/`, `passive-income/`.
 
+### Submodule map
+
+| Submodule | Repo | Branch |
+|-----------|------|--------|
+| `02-ai-freellmapi` | Aldo-f/freellmapi | upstream |
+| `02-ai-hermes-tq` | Aldo-f/02-ai-hermes-tq | main |
+| `02-ai-hermes-webui` | nesquena/hermes-webui | exp branch |
+| `02-ai-llm-infra-sync` | Aldo-f/02-ai-llm-infra-sync | main |
+| `04-network-traefik` | Aldo-f/network-traefik | main |
+| `06-apps-aldo-f-github-io` | Aldo-f/Aldo-f.github.io | main |
+| `06-apps-clock` | Aldo-f/clock | main |
+| `06-apps-interest-calculator` | Aldo-f/interest-calculator | main |
+| `06-apps-letspeppol` | Aldo-f/letspeppol | fix branch |
+| `06-apps-passive-income` | Aldo-f/06-apps-passive-income | main |
+| `06-apps-radio-community` | Aldo-f/radio-community | main |
+| `06-apps-thuis-v4` | Aldo-f/thuis | v4/main |
+| `06-apps-thuis-v5` | Aldo-f/thuis | v5/main |
+| `06-apps-wordpress-stantonius` | Aldo-f/wordpress-stantonius | main |
+| `blanky` | Aldo-f/blanky | main |
+
+> Non-submodule dirs (local-only): `02-ai-hermes-hub`, `02-ai-okf-home-lab`, `02-ai-opencode`, `02-ai-repository-cleanup`, `02-ai-mem0`, `05-media-*`, `06-apps-*` (various), `07-security-vaultwarden`, `llama.cpp`, `local-mcp`, `scripts`, `skills`, `tests`, `mkdocs-autotranslate`.
+
 ---
 
 ## 2. Quickstart (idempotent)
@@ -159,7 +181,25 @@ cd ~/dev/02-ai-llm-infra-sync && bun install && bun run src/index.ts
 | File | Domain |
 |------|--------|
 | `01-core-infra/AGENTS.md` | Ansible playbook internals, role contracts, idempotency, vault, group taxonomy |
+| `01-core-infra/templates/AGENTS.md` | Editable infra templates (source of truth for all docker-compose services) |
 | `02-ai-hermes-webui/AGENTS.md` + `ARCHITECTURE.md` | Hermes WebUI internals |
-| `02-ai-llm-infra-sync/README.md` | Credential sync CLI |
+| `02-ai-hermes-tq/AGENTS.md` | Hermes TQ kanban automation control center |
+| `02-ai-llm-infra-sync/AGENTS.md` | Credential sync CLI |
+| `02-ai-hermes-hub/AGENTS.md` | Local GGUF chat hub |
+| `02-ai-okf-home-lab/AGENTS.md` | RAG documentation system |
+| `04-network-traefik/AGENTS.md` | Traefik reverse proxy runtime |
+| `06-apps-aldo-f-github-io/AGENTS.md` | MkDocs multirepo documentation hub |
+| `06-apps-clock/AGENTS.md` | React clock studio |
+| `06-apps-interest-calculator/AGENTS.md` | Belgian mortgage interest calculator |
+| `06-apps-nocturna/AGENTS.md` | Hermes kanban control center |
+| `06-apps-passive-income/AGENTS.md` | PINO orchestrator |
+| `06-apps-radio-community/AGENTS.md` | Community radio platform |
+| `06-apps-radio-community/streams/AGENTS.md` | Stream management module |
+| `06-apps-thuis-v4/AGENTS.md` | Thuis v4 (VRT MAX downloader) |
+| `06-apps-thuis-v5/AGENTS.md` | Thuis v5 (next iteration) |
+| `06-apps-toolbox/AGENTS.md` | Node/Express + React tool suite |
+| `06-apps-urbanfix/AGENTS.md` | Road defect reporting app |
+| `06-apps-urbanfix/src/AGENTS.md` | Frontend React module |
+| `blanky/AGENTS.md` | External link opener library |
 
 > For deeper docs, follow per-project links in `README.md`.

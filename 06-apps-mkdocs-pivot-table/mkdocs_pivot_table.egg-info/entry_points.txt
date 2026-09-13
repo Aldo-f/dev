@@ -1,0 +1,2 @@
+[mkdocs.plugins]
+mkdocs_pivot_table = mkdocs_pivot_table.plugin:PivotTablePlugin

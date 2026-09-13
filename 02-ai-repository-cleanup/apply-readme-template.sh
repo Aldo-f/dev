@@ -4,7 +4,7 @@
 # --------------------------------------------------------------
 set -euo pipefail
 
-TEMPLATE="${1:-${HOME}/dev/02-ai-repository-cleanup/README_template.md}"
+TEMPLATE="${1:-${SCRIPT_DIR}/README_template.md}"
 TARGET_DIR="${2:-.}"
 
 if [[ ! -f "$TEMPLATE" ]]; then

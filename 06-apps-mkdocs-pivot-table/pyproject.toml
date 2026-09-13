@@ -1,0 +1,63 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mkdocs-pivot-table"
+version = "0.4.0"
+description = "Interactive sortable/filterable comparison tables for MkDocs"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.9"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Documentation",
+    "Topic :: Text Processing :: Markup :: Markdown",
+]
+dependencies = [
+    "mkdocs>=1.5.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+    "black>=23.0",
+    "ruff>=0.1.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/Aldo-f/mkdocs-pivot-table"
+Repository = "https://github.com/Aldo-f/mkdocs-pivot-table"
+Issues = "https://github.com/Aldo-f/mkdocs-pivot-table/issues"
+Documentation = "https://aldo-f.github.io/blog/2026/09/07/js--python-package-managers-compared-npm-pnpm-bun-pip-uv/#quick-comparison-interactive"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["mkdocs_pivot_table*"]
+
+[tool.setuptools.package-data]
+mkdocs_pivot_table = ["assets/*.css", "assets/*.js"]
+
+[project.entry-points."mkdocs.plugins"]
+mkdocs_pivot_table = "mkdocs_pivot_table.plugin:PivotTablePlugin"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+
+[tool.black]
+line-length = 100
+target-version = ["py39", "py310", "py311", "py312"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+select = ["E", "F", "W", "I", "N", "UP", "B", "C4"]

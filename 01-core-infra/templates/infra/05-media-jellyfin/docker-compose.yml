@@ -11,8 +11,8 @@ services:
     volumes:
       - ./config:/config
       - ./cache:/cache
-      - /mnt/HDD/media/movies:/media/movies
-      - /mnt/HDD/media/tv:/media/tv
+      - /mnt/HDD1/media/movies:/media/movies
+      - /mnt/HDD1/media/tv:/media/tv
     networks:
       - traefik_net
     labels:

@@ -16,11 +16,6 @@ services:
       - traefik_net
     labels:
       - "traefik.enable=false"
-      - "sablier.enable=true"
-      - "sablier.group=vaultwarden"
-      - "sablier.strategy=blocking"
-      - "sablier.session.duration=30m"
-      - "sablier.session.inactivity=5m"
 
 networks:
   traefik_net:

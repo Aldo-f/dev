@@ -1,0 +1,44 @@
+services:
+  db:
+    image: mariadb:10.11
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wp_user
+      MYSQL_PASSWORD: wp_pass
+      MYSQL_ROOT_PASSWORD: root_pass
+    volumes:
+      - db_data:/var/lib/mysql
+
+  wordpress:
+    image: wordpress:6.4-php8.2-apache
+    depends_on:
+      - db
+    restart: unless-stopped
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_USER: wp_user
+      WORDPRESS_DB_PASSWORD: wp_pass
+      WORDPRESS_DB_NAME: wordpress
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.wp.rule=Host(`wp.aldof.duckdns.org`)"
+      - "traefik.http.routers.wp.entrypoints=websecure"
+      - "traefik.http.routers.wp.tls=true"
+    volumes:
+      - wp_data:/var/www/html
+    ports: []
+
+  duckdns:
+    image: linuxserver/duckdns
+    restart: unless-stopped
+    environment:
+      - SUBDOMAINS=wp
+      - TOKEN=${DUCKDNS_TOKEN}
+    volumes:
+      - duckdns_config:/config
+
+volumes:
+  db_data:
+  wp_data:
+  duckdns_config:

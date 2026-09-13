@@ -1,0 +1,48 @@
+INHERIT: mkdocs.base.yml
+
+site_name: MkDocs All Plugins Demo
+site_url: https://example.com/
+site_author: Aldo Fieuw
+docs_dir: docs/en
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects: projects.md
+  - Blog: blog.md
+  - Pivot Demo: pivot-demo.md
+  - Raw Markdown: raw-markdown-demo.md
+
+plugins:
+  - search
+  - blog:
+      blog_dir: blog/posts
+  - mkdocs_pivot_table
+  - mkdocs_raw_markdown:
+      suffix: .md
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tabs.link

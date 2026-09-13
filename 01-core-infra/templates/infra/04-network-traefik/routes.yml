@@ -293,7 +293,7 @@ http:
     hermes-webui:
       loadBalancer:
         servers:
-          - url: "http://hermes-webui:8787"
+          - url: "http://nocturna:3000"
 
     hermes-tq:
       loadBalancer:

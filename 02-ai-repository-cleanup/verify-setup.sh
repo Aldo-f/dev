@@ -4,16 +4,20 @@
 # --------------------------------------------------------------
 set -euo pipefail
 
-echo "🔍 Checking cleanup environment setup…"
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+ENV_PATH="${SCRIPT_DIR}/.env"
+
+echo "Checking cleanup environment setup…"
 
 errors=0
 warnings=0
 
-# 1. Check .env file
-if [[ -f "${HOME}/.hermes/cleanup.env" ]]; then
-  echo "✅ Found ~/.hermes/cleanup.env"
+# 1. Check repository-local .env file
+if [[ -f "$ENV_PATH" ]]; then
+  echo "✅ Found .env at $ENV_PATH"
+  source "$ENV_PATH"
 else
-  echo "❌ Missing ~/.hermes/cleanup.env"
+  echo "❌ Missing repository-local .env file"
   ((errors++))
 fi
 
@@ -22,7 +26,7 @@ for cmd in gh glab jq git curl; do
   if command -v "$cmd" >/dev/null; then
     echo "✅ $cmd installed"
   else
-    echo "❌ Missing $cmd"
+    echo "❌ Missing dependency: $cmd"
     ((errors++))
   fi
 done
@@ -51,7 +55,7 @@ else
 fi
 
 # 5. Check scripts exist and are executable (in 02-ai-repository-cleanup directory)
-SCRIPT_DIR="${HOME}/dev/02-ai-repository-cleanup"
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 for script in cleanup-master.sh generate-final-template.sh; do
   if [[ -x "${SCRIPT_DIR}/${script}" ]]; then
     echo "✅ ${script} executable"
@@ -62,7 +66,7 @@ for script in cleanup-master.sh generate-final-template.sh; do
 done
 
 # 6. Check target directory
-TARGET="/mnt/HDD1/dev"
+TARGET="/mnt/HDD1/repository-cleanup-dir"
 if [[ -d "$TARGET" ]]; then
   echo "✅ Target directory exists: $TARGET"
   if [[ -w "$TARGET" ]]; then
@@ -91,11 +95,15 @@ else
   ((errors++))
 fi
 
-# 8. Quick test: generate repos.tsv without processing
+# 8. Quick test: generate repos list without processing
 echo ""
 echo "🔎 Testing repo discovery (dry-run)…"
-source ~/.hermes/cleanup.env 2>/dev/null || true
-: "${BASE_DIR:=\${HOME}/dev}"
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+ENV_PATH="${SCRIPT_DIR}/.env"
+if [[ -f "$ENV_PATH" ]]; then
+  source "$ENV_PATH"
+fi
+: "${BASE_DIR:=/mnt/HDD1/repository-cleanup-dir}"
 : "${GITHUB_ORG:=Aldo-f}"
 : "${GITLAB_GROUP:=Aldo-f}"
 : "${REPO_LIMIT:=100}"

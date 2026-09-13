@@ -1,6 +1,8 @@
 # README Template with Ko-fi Integration
 # Place this in your repo's README.md
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J2Z126OL9C)
+
 # aldo-f.github.io
 
 Personal documentation hub for Aldo Fieuw's projects and home-lab services.

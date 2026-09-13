@@ -5,7 +5,16 @@
 # --------------------------------------------------------------
 set -euo pipefail
 
-BASE_DIR="${HOME}/dev"
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+ENV_PATH="${SCRIPT_DIR}/.env"
+
+if [[ -f "$ENV_PATH" ]]; then
+  source "$ENV_PATH"
+else
+  echo "No .env file found — using built-in defaults"
+fi
+
+: "${BASE_DIR:=/mnt/HDD1/repository-cleanup-dir}"
 AI_HINTS="${BASE_DIR}/ai-hints.json"
 TEMPLATE="${BASE_DIR}/cleanup-template.sh"
 
@@ -24,7 +33,7 @@ cat > "$TEMPLATE" <<'EOF'
 # --------------------------------------------------------------
 set -euo pipefail
 
-BASE_DIR="/mnt/HDD1/dev"
+BASE_DIR="/mnt/HDD1/repository-cleanup-dir"
 
 EOF
 
