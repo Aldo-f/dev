@@ -1,0 +1,27 @@
+=== T5 — Case 3: k3s-pod testen voor toolbox ===
+Command: kubectl apply -f ~/dev/08-infra-k3s/manifests/toolbox/deployment.yaml
+Output:
+deployment.apps/toolbox configured
+service/toolbox unchanged
+ingressroute.traefik.io/toolbox unchanged
+
+Command: kubectl get pods -l app=toolbox
+Output:
+NAME                       READY   STATUS    RESTARTS   AGE
+toolbox-6d45666b48-h764m   0/1     Pending   0          7h57m
+toolbox-7768c4db6f-22gzp   0/1     Evicted   0          2m34s
+[...] (truncated many evicted pods)
+
+Command: kubectl rollout status deployment/toolbox --timeout=30s
+Output:
+Error: unknown flag: --timeout
+
+=== ANALYSE ===
+- kubectl apply: de Deployment is toegepast.
+- De meeste pods worden uitgewisseld, waarbij de reden "Pod was rejected: The node had condition: [DiskPressure]."
+- Beschikbare ruimte op het host-filesysteem (/) = 6.0 GB (98% gebruikt), diskdruk is een knelpunt.
+- Netwerk connectiviteit vanuit het k3s-pod-perspectief: onbekend (pods werden niet gestart om healthcheck uit te voeren).
+
+=== CONCLUSIE ===
+Case 3 (k3s-pod): POD-gebaseerde implementatie mislukt op dit moment vanwege diskdruk op het node-filesysteem.
+Vereiste stap voor het oplossen van diskdruk: Cleanup Docker-beelden/containerdata die niet nodig zijn voor continue service (bijv. opschonen van oude Docker-images, opschonen van niet-actieve volumes, databaselocks). Pas op dat het pod-netwerk daarna weer in orde komt.
