@@ -1,0 +1,17 @@
+=== T4 — Case 2: docker testen voor toolbox ===
+Command: docker compose -f ~/dev/01-core-infra/templates/infra/06-apps-toolbox/docker-compose.yml up -d
+Output: toolbox running (Up 6 seconds, health: starting)
+
+Command: docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Ports}}" | grep toolbox
+Output: toolbox   Up 6 seconds (health: starting)   3000/tcp
+
+Command: curl -v -H "Host: toolbox.aldof.duckdns.org" http://localhost/ 2>&1 | grep -E 'HTTP/|200|404|502'
+Output: HTTP/1.1 301 Moved Permanently
+
+Command: curl -v http://localhost:3000/status 2>&1 | head -10
+Output: curl: (7) Failed to connect to localhost:3000 - Connection refused
+(Note: container exposes 3000/tcp but does NOT bind to host; traefik-proxy is required for external access.)
+
+=== CONCLUSIE ===
+Docker-container draait (toolbox). Poort 3000 is intern beschikbaar maar niet direct bereikbaar vanaf host zonder traefik.
+Case 2 (docker): container OK, externe toegang faalt (verwacht voor traefik-gebaseerde configuratie).
