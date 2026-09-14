@@ -1,0 +1,2 @@
+# T8 — Batch systemctl-services → k3s manifests (sjabloon, niet geïmplementeerd wegens diskdruk)
+# 12 app-*.service bestanden geïdentificeerd in /etc/systemd/system/; elk krijgt Deployment + Service + IngressRoute

@@ -1,0 +1,5 @@
+=== T7 — freellmapi k3s (reële status) ===
+Deployment: kubectl apply OK
+Pod: freellmapi-7f9f8cf4f8-8m94r → Pending (scheduled op pi5, toleration disk-pressure toegevoegd, image: 02-ai-freellmapi-freellmapi:latest)
+Node diskdruk: /dev/sdb2 235G 220G 98% → k3s-pods krijgen Evicted
+Image niet geïmporteerd in containerd → pod blijft Pending

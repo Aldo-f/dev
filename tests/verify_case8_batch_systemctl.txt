@@ -1,0 +1,4 @@
+=== T8 — Batch systemctl-services ===
+Files geïdentificeerd: 12 (12)
+Sjabloon: 08-infra-k3s/manifests/batch/systemctl-services.yaml (Deployment + Service + IngressRoute)
+Niet geïmplementeerd: k3s-pods krijgen Evicted door diskdruk (98%); Docker-Traefik image layer corrupt na prune
