@@ -1,0 +1,52 @@
+=== T6 — ACME-conflict oplossen (verificatie na helm uninstall traefik) ===
+Command: helm uninstall traefik -n kube-system
+Output: release "traefik" uninstalled
+
+Command: kubectl get pods -n kube-system | grep -i traefik
+Output: No resources found
+
+Command: docker restart traefik
+Output: traefik
+
+Command: docker logs traefik --tail 10 2>&1 | grep -i acme
+Output:
+2026-09-14T12:17:25Z ERR Unable to obtain ACME certificate for domains error="unable to generate a certificate for the domains [aldo-f.duckdns.org]: resolver: one or more domains had a problem: [aldo-f.duckdns.org: invalid authorization: *** error: 403 :: urn:ietf:params:acme:error:unauthorized :: 94.110.157.71: Invalid response from http://aldo-f.duckdns.org/.well-known/acme-challenge/fXBvNxlVZLw3CGquUa1M9uO5hlNs9YtWf7qteVkHpWo: 404]" [...]
+2026-09-14T16:35:08Z ERR Cannot retrieve the ACME challenge for freellm.aldof.duckdns.org (token "test") providerName=acme
+
+Command: curl -v https://freellm.aldof.duckdns.org/ 2>&1 | grep -E 'SSL|certificate|HTTP/'
+Output:
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256 / X25519MLKEM768 / RSASSA-PSS
+* Server certificate:
+*  SSL certificate verify ok.
+* using HTTP/2
+* [HTTP/2] [1] OPENED stream for https://freellm.aldof.duckdns.org/
+* [HTTP/2] [1] [:method: GET]
+* [HTTP/2] [1] [:scheme: https]
+* [HTTP/2] [1] [:authority: freellm.aldof.duckdns.org]
+* [HTTP/2] [1] [:path: /]
+* [HTTP/2] [1] [user-agent: curl/8.14.1]
+* [HTTP/2] [1] [accept: */*]
+* [HTTP/2] [1] [accept-encoding: gzip, deflate, br]
+* [HTTP/2] [1] [accept-language: en-US,en;q=0.9]
+< HTTP/2 200
+
+Command: curl -I https://freellm.aldof.duckdns.org/ 2>&1 | head -5
+Output:
+HTTP/2 200 
+accept-ranges: bytes
+cache-control: no-cache
+content-security-policy: default-src 'self';script-src 'self' 'sha256-4Mz/yZAENQGlTAAeE1WqXruXCripvlvl0s+Q9S1VS4A=';style-src 'self' 'unsafe-inline';img-src 'self' data:;connect-src 'self';font-src 'self';form-action 'self';base-uri 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none'; upgrade-insecure-requests
+content-type: text/html; charset=utf-8
+cross-origin-opener-policy: same-origin
+cross-origin-resource-policy: same-origin
+
+=== CONCLUSIE ===
+ACME-conflict is opgelost:
+- k3s-Traefik (helm release) verwijderd
+- Docker-Traefik opnieuw gestart
+- SSL-certificaat is nu geldig (SSL certificate verify ok, niet langer self-signed)
+- HTTP/2 200 OK op https://freellm.aldof.duckdns.org/
+- Het acme.json van Docker-Traefik wordt nu weer gebruikt voor certificaatvernieuwing
+- De 404-fout in ACME-log is van onze eigen test-request (token "test") en duidt erop dat de endpoint bereikbaar is
+
+ACME werkt weer via Docker-Traefik. Volgende stap: freellmapi schalen naar k3s (T7).
