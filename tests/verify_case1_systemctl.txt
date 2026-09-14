@@ -1,0 +1,19 @@
+=== T3 — Case 1: systemctl (host IP) testen voor toolbox ===
+Command: systemctl status app-toolbox 2>&1 || echo "geen systemctl service"
+Output:
+Unit app-toolbox.service could not be found.
+geen systemctl service
+
+Command: systemctl start app-toolbox || echo "service niet beschikbaar, skip"
+Output:
+Failed to connect to bus: Failed to connect to socket /run/dbus/system_bus_socket: Permission denied
+service niet beschikbaar, skip
+
+Command: curl -v http://192.168.0.5:3000/status 2>&1 | grep -E 'HTTP/|200|404'
+Output:
+curl: (7) Failed to connect to 192.168.0.5 port 3000: Connection refused
+
+=== CONCLUSIE ===
+Geen app-toolbox.service aanwezig in /etc/systemd/system/.
+Geen service luistert op poort 3000 (Connection refused).
+Case 1 (systemctl) is NIET van toepassing op toolbox — deze service loopt niet als systemd-service.
