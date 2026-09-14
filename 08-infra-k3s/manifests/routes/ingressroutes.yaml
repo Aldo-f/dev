@@ -1,0 +1,137 @@
+# K3s IngressRoutes — geconverteerd uit ~/dev/04-network-traefik/routes.yml (TDD: ACME conflict opgelost, k3s-Traefik hersteld)
+---
+# freellmapi
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: freellm
+  namespace: default
+spec:
+  entryPoints:
+    - websecure
+  routes:
+  - match: Host(`freellm.aldof.duckdns.org`)
+    kind: Rule
+    services:
+    - name: freellmapi
+      port: 3001
+  tls:
+    secretName: freellm-tls-secret
+---
+# toolbox
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: toolbox
+  namespace: default
+spec:
+  entryPoints:
+    - websecure
+  routes:
+  - match: Host(`toolbox.aldof.duckdns.org`)
+    kind: Rule
+    services:
+    - name: toolbox
+      port: 3000
+  tls:
+    secretName: toolbox-tls-secret
+---
+# homepage (aldo-f)
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: homepage
+  namespace: default
+spec:
+  entryPoints:
+    - websecure
+  routes:
+  - match: Host(`aldo-f.duckdns.org`)
+    kind: Rule
+    services:
+    - name: homepage
+      port: 4002
+  tls:
+    secretName: homepage-tls-secret
+---
+# jellyfin
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: jellyfin
+  namespace: default
+spec:
+  entryPoints:
+    - websecure
+  routes:
+  - match: Host(`jellyfin.aldof.duckdns.org`)
+    kind: Rule
+    services:
+    - name: jellyfin
+      port: 8096
+  tls:
+    secretName: jellyfin-tls-secret
+---
+# nextcloud
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: nextcloud
+  namespace: default
+spec:
+  entryPoints:
+    - websecure
+  routes:
+  - match: Host(`cloud.aldof.duckdns.org`)
+    kind: Rule
+    services:
+    - name: nextcloud
+      port: 80
+  tls:
+    secretName: nextcloud-tls-secret
+---
+# freellmapi (service endpoint via Docker container op host 3001)
+apiVersion: v1
+kind: Service
+metadata:
+  name: freellmapi
+  namespace: default
+spec:
+  type: ClusterIP
+  ports:
+  - port: 3001
+    targetPort: 3001
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: freellmapi
+  namespace: default
+subsets:
+- addresses:
+  - ip: 192.168.0.5
+  ports:
+  - port: 3001
+---
+# toolbox (service endpoint via Docker container op host 3000)
+apiVersion: v1
+kind: Service
+metadata:
+  name: toolbox
+  namespace: default
+spec:
+  type: ClusterIP
+  ports:
+  - port: 3000
+    targetPort: 3000
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: toolbox
+  namespace: default
+subsets:
+- addresses:
+  - ip: 192.168.0.5
+  ports:
+  - port: 3000

@@ -1,0 +1,28 @@
+# k3s-Traefik values — LoadBalancer with same ACME config
+service:
+  type: LoadBalancer
+  loadBalancerIP: 192.168.0.5
+  annotations:
+    metallb.universe.tf/allow-shared-ip: "traefik"
+
+certificatesResolvers:
+  myresolver:
+    acme:
+      email: "aldo+fieuw+pi5@gmail.com"
+      storage: /letsencrypt/acme.json
+      httpChallenge:
+        entryPoint: web
+
+providers:
+  kubernetesCRD:
+    allowCrossNamespace: true
+  kubernetesIngress:
+    publishedService:
+      enabled: true
+
+deployment:
+  tolerations:
+    - key: node.kubernetes.io/disk-pressure
+      operator: Exists
+      effect: NoSchedule
+  affinity: {}

@@ -1,0 +1,73 @@
+# freellmapi k3s manifest — sjabloon voor T7 (gebaseerd op toolbox manifest)
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: freellmapi
+  namespace: default
+  labels:
+    app: freellmapi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: freellmapi
+  template:
+    metadata:
+      labels:
+        app: freellmapi
+    spec:
+      containers:
+      - name: freellmapi
+        image: 02-ai-freellmapi-freellmapi:latest
+        ports:
+        - containerPort: 3001
+        env:
+        - name: NODE_ENV
+          value: "production"
+        - name: PORT
+          value: "3001"
+        - name: HOST_BIND
+          value: "0.0.0.0"
+        resources:
+          requests:
+            memory: "128Mi"
+            cpu: "100m"
+          limits:
+            memory: "512Mi"
+            cpu: "500m"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: freellmapi
+  namespace: default
+  labels:
+    app: freellmapi
+spec:
+  selector:
+    app: freellmapi
+  ports:
+  - port: 3001
+    targetPort: 3001
+    protocol: TCP
+  type: ClusterIP
+---
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: freellmapi
+  namespace: default
+  labels:
+    app: freellmapi
+spec:
+  entryPoints:
+  - websecure
+  routes:
+  - match: Host(`freellm.aldof.duckdns.org`)
+    kind: Rule
+    services:
+    - name: freellmapi
+      port: 3001
+  tls:
+    secretName: freellm-tls-secret
