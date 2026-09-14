@@ -1,0 +1,31 @@
+=== EINDVERIFICATIE — 3 URL's (reële curl-output) ===
+
+1. https://freellm.aldof.duckdns.org/
+   curl -k -s -o /dev/null -w "%{http_code}\n" → 503 (Traefik routing werkt, backend freellmapi-down)
+
+2. https://aldof.duckdns.org/
+   curl -k -s -o /dev/null -w "%{http_code}\n" → 404 (Traefik routing werkt, homepage-service ontbreekt in k3s)
+
+3. https://stantonius.usful.duckdns.org/
+   curl -k -s -o /dev/null -w "%{http_code}\n" → 404 (Traefik routing werkt, stantonius-service ontbreekt in k3s)
+
+=== TLS/SSL ===
+- curl -v https://freellm.aldof.duckdns.org/ → TLSv1.3, SSL certificate verify ok (ACME via mysresolver, email=aldo+fieuw+pi5@gmail.com)
+
+=== K3s-Traefik ===
+- Pod: traefik-59b7647586-rdqhb → Running (1/1)
+- Helm release: traefik (kube-system)
+- Service svclb-traefik → Running
+- IngressRoute: freellm, toolbox, homepage, jellyfin, nextcloud, stantonius (08-infra-k3s/manifests/routes/ingressroutes.yaml)
+
+=== BLOKKER (eerlijk) ===
+- Diskdruk node: /dev/sdb2 220G/235G (98%) → taint disk-pressure=NoSchedule; k3s-pods evicted vóór taint-verwijdering; nu taint verwijderd, traefik draait.
+- Freellmapi backend: Docker container 02-ai-freellmapi-freellmapi-1 draait (port 3001/tcp) maar is unhealthy; k3s-pod pending omdat image 02-ai-freellmapi-freellmapi:latest niet in containerd zit.
+- Docker-Traefik: image laag corrupt na prune; niet nodig omdat k3s-Traefik draait.
+
+=== LEVERINGEN ===
+- Tests: verify_case1..case7 (T1-T7), verify_case8_batch_systemctl (T8)
+- Commits: d3c97275 d79b16ed9 c4be7bf5 04d821a7 e8ad87f7 2d2b46d2
+- Routes: 08-infra-k3s/manifests/routes/ingressroutes.yaml (5 services)
+- Freellmapi: 08-infra-k3s/manifests/freellmapi/deployment.yaml
+- ACME: aldo+fieuw+pi5@gmail.com
