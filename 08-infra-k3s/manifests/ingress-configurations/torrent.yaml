@@ -1,0 +1,16 @@
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: torrent
+  namespace: default
+spec:
+  entryPoints:
+  - websecure
+  routes:
+  - match: Host(`torrent.aldof.duckdns.org`)
+    kind: Rule
+    services:
+    - name: torrent
+      port: 8091
+  tls:
+    secretName: torrent-tls-secret

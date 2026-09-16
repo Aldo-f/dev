@@ -1,0 +1,16 @@
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: homepage
+  namespace: default
+spec:
+  entryPoints:
+  - websecure
+  routes:
+  - match: Host(`aldo-f.duckdns.org`)
+    kind: Rule
+    services:
+    - name: homepage
+      port: 4002
+  tls:
+    secretName: homepage-tls-secret

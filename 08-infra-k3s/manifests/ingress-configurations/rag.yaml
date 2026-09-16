@@ -1,0 +1,16 @@
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: rag
+  namespace: default
+spec:
+  entryPoints:
+  - websecure
+  routes:
+  - match: Host(`rag.aldof.duckdns.org`)
+    kind: Rule
+    services:
+    - name: rag
+      port: 8000
+  tls:
+    secretName: rag-tls-secret

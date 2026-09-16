@@ -1,0 +1,21 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: opencode-web
+  namespace: default
+spec:
+  type: ClusterIP
+  ports:
+  - port: 4096
+    targetPort: 4096
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: opencode-web
+  namespace: default
+subsets:
+- addresses:
+  - ip: 192.168.0.5
+  ports:
+  - port: 4096

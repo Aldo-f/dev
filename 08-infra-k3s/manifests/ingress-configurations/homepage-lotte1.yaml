@@ -1,0 +1,14 @@
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: homepage-lotte1
+  namespace: default
+spec:
+  entryPoints:
+  - websecure
+  routes:
+  - match: Host(`lotte1.duckdns.org`)
+    kind: Rule
+    services:
+    - name: homepage
+      port: 4002

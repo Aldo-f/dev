@@ -1,0 +1,16 @@
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: opencode
+  namespace: default
+spec:
+  entryPoints:
+  - websecure
+  routes:
+  - match: Host(`opencode.dev.aldof.duckdns.org`)
+    kind: Rule
+    services:
+    - name: opencode-web
+      port: 4096
+  tls:
+    secretName: opencode-tls-secret

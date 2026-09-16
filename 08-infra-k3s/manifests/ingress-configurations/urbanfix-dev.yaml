@@ -1,0 +1,16 @@
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: urbanfix-dev
+  namespace: default
+spec:
+  entryPoints:
+  - websecure
+  routes:
+  - match: Host(`urbanfix.dev.aldof.duckdns.org`)
+    kind: Rule
+    services:
+    - name: urbanfix
+      port: 8080
+  tls:
+    secretName: urbanfix-tls-secret
