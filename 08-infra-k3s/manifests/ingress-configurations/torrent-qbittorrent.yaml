@@ -1,16 +1,16 @@
 apiVersion: traefik.io/v1alpha1
 kind: IngressRoute
 metadata:
-  name: urbanfix-dev
+  name: torrent-qbittorrent
   namespace: default
 spec:
   entryPoints:
   - websecure
   routes:
-  - match: Host(`urbanfix.dev.aldof.duckdns.org`)
+  - match: Host(`torrent.aldof.duckdns.org`) || Host(`qbittorrent.aldof.duckdns.org`)
     kind: Rule
     services:
-    - name: urbanfix
-      port: 3000
+    - name: qbittorrent
+      port: 8080
   tls:
     certResolver: duckdns-resolver

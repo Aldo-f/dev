@@ -13,4 +13,4 @@ spec:
     - name: mijn-headlamp
       port: 80
   tls:
-    secretName: headlamp-tls-secret
+    certResolver: duckdns-resolver
