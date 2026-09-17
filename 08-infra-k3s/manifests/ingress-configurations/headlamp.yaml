@@ -1,0 +1,16 @@
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: headlamp
+  namespace: default
+spec:
+  entryPoints:
+  - websecure
+  routes:
+  - match: Host(`headlamp.dev.aldof.duckdns.org`)
+    kind: Rule
+    services:
+    - name: mijn-headlamp
+      port: 80
+  tls:
+    secretName: headlamp-tls-secret

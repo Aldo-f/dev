@@ -1,0 +1,45 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: urbanfix
+  namespace: default
+  labels:
+    app: urbanfix
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: urbanfix
+  template:
+    metadata:
+      labels:
+        app: urbanfix
+    spec:
+      containers:
+      - name: urbanfix
+        image: urbanfix:local
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 3000
+        env:
+        - name: NODE_ENV
+          value: "production"
+        - name: PORT
+          value: "3000"
+        - name: HOST_BIND
+          value: "0.0.0.0"
+        - name: GEMINI_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: urbanfix-secrets
+              key: GEMINI_API_KEY
+              optional: true
+        - name: APP_URL
+          value: "https://urbanfix.aldof.duckdns.org"
+        resources:
+          requests:
+            memory: "128Mi"
+            cpu: "100m"
+          limits:
+            memory: "512Mi"
+            cpu: "500m"

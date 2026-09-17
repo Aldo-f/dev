@@ -1,0 +1,18 @@
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: freellmapi
+  namespace: default
+  labels:
+    app: freellmapi
+spec:
+  entryPoints:
+  - websecure
+  routes:
+  - match: Host(`freellm.aldof.duckdns.org`)
+    kind: Rule
+    services:
+    - name: freellmapi
+      port: 3001
+  tls:
+    secretName: freellm-tls-secret
